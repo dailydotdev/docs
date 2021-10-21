@@ -55,11 +55,6 @@ const config = {
             docId: 'intro',
             position: 'left',
           },
-          // {
-          //   label: 'Blog', 
-          //   to: '/blog', 
-          //   position: 'left'
-          // },
           {
             label: 'Community', 
             type: 'doc',
@@ -218,6 +213,15 @@ const config = {
         theme: lightCodeTheme,
         darkTheme: darkCodeTheme,
       },
+      algolia: {
+        // If Algolia did not provide you any appId, use 'BH4D9OD16A'
+        appId: 'BDMLM7I64N',
+  
+        // Public API key: it is safe to commit it
+        apiKey: '724aeea3a6bc3a2af4ad7e9789752f2d',
+  
+        indexName: 'dailydev'
+      }
     }),
 };
 

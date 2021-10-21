@@ -4,8 +4,12 @@ sidebar_position: 1
 
 # Progressive Web App
 
-- In any browser (desktop mobile and tablet) as a normal destination site.
+Daily.dev is a also a progressive web app!
 
-- On iOS - an installable web app can be installed using Safari.
+You can use it:
 
-- On Android - installable web app or via Google Play: daily.dev | The Homepage Developers Deserve - Apps on Google Play
+- [In any browser](https://daily.dev) (desktop mobile and tablet) as a normal destination site.
+
+- [On iOS]((https://daily.dev)) - an installable web app can be installed using Safari.
+
+- [On Android](https://play.google.com/store/apps/details?id=dev.daily) - installable web app or via Google Play: daily.dev | The Homepage Developers Deserve - Apps on Google Play
