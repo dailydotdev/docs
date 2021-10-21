@@ -1,4 +1,6 @@
-# Test the documentation
+# Daily.dev Documentation
+
+## Development
 
 ```
 git clone https://github.com/dailydotdev/docs.git
@@ -25,6 +27,30 @@ visit
 ```
 http://localhost:3000
 ```
+
+## Deployment
+
+Build the project
+
+```
+yarn build
+```
+Run the server
+
+```
+yarn serve
+```
+The server is available by default on port 3000
+
+## Deployment with Docker
+
+From the folder where the docker-compose.yml file is located, type:
+
+```
+docker compose up --build
+```
+The server is available by default on port 3000
+
 
 <div align="center">
   <img src="static/img/logo2.png" alt="Daily Logo" width="150">

@@ -220,7 +220,7 @@ const config = {
         // Public API key: it is safe to commit it
         apiKey: '724aeea3a6bc3a2af4ad7e9789752f2d',
   
-        indexName: 'dailydev'
+        indexName: 'docusaurus-2'
       }
     }),
 };
