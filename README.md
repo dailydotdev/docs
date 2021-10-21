@@ -27,7 +27,7 @@ http://localhost:3000
 ```
 
 <div align="center">
-  <img src="assets/logo.png" alt="Daily Logo" width="150">
+  <img src="static/img/logo2.png" alt="Daily Logo" width="150">
   <h1>Welcome to the daily.dev Documentation repository</h1>
   <strong>The latest dev news delivered to your new tab 👩🏽‍💻</strong>
   <h6>Made with ❤️ by developers for developers</h6>
@@ -70,7 +70,7 @@ At daily.dev we care about:
 * 🧵 **Open-source**: daily.dev is completely open-source. We believe in transparency and giving back to the community, so we decided to publish the source code to GitHub. Suggest a feature, report a bug, or even contribute. Everyone is welcome!
 
 <p align="center">
-    <img src="assets/daily-cover-photo.png" alt="daily.dev" width="550">
+    <img src="static/img/daily-cover-photo.png" alt="daily.dev" width="550">
     <br>
     <a href="https://www.youtube.com/watch?v=Oso6dYXw5lc"><strong>📺 Watch Intro Video → </strong></a>
 </p>
@@ -130,7 +130,7 @@ daily.dev might look simple on the surface but actually, it is powered by a comp
 ## 🏛 Architecture
 
 <p align="center">
-    <img src="assets/overview.svg" alt="Daily architecture" width="700">
+    <img src="static/img/overview.svg" alt="Daily architecture" width="700">
 </p>
 
 
