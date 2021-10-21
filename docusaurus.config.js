@@ -24,13 +24,13 @@ const config = {
         docs: {
           sidebarPath: require.resolve('./sidebars.js'),
           // Please change this to your repo.
-          editUrl: 'https://github.com/dailydotdev/docs',
+          editUrl: 'https://github.com/dailydotdev/docs/edit/main',
         },
         blog: {
           showReadingTime: true,
           // Please change this to your repo.
           editUrl:
-            'https://github.com/dailydotdev/docs',
+            'https://github.com/dailydotdev/docs/edit/main',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
@@ -84,9 +84,29 @@ const config = {
                 to: 'https://daily.dev/',
               },
               {
-                label: 'Tutorial',
-                to: '/docs/intro',
+                label: 'Web Version',
+                to: 'https://app.daily.dev/',
               },
+              {
+                label: 'Chrome Extension',
+                to: 'https://chrome.google.com/webstore/detail/dailydev-the-homepage-dev/jlmpjdjjbgclbocgajdjefcidcncaied',
+              },
+              {
+                label: 'Firefox Add-on',
+                to: 'https://addons.mozilla.org/en-US/firefox/addon/daily/',
+              },
+              {
+                label: 'Edge Extension',
+                to: 'https://microsoftedge.microsoft.com/addons/detail/dailydev-news-for-busy/cbdhgldgiancdheindpekpcbkccpjaeb?hl=en-GB',
+              },
+              {
+                label: 'Android app',
+                to: 'https://play.google.com/store/apps/details?id=dev.daily',
+              },
+              {
+                label: 'Changelog',
+                to: 'https://changelog.daily.dev/',
+              }
             ],
           },
           {
@@ -94,27 +114,27 @@ const config = {
             items: [
               {
                 label: 'Events',
-                href: 'https://www.meetup.com/it-IT/the-monthly-dev-world-class-talks-by-expert-developers/',
+                to: 'https://www.meetup.com/it-IT/the-monthly-dev-world-class-talks-by-expert-developers/',
               },
               {
                 label: 'Become a contributor',
-                href: 'https://github.com/dailydotdev/.github/blob/master/CONTRIBUTING.md',
+                to: 'https://github.com/dailydotdev/.github/blob/master/CONTRIBUTING.md',
               },
               {
                 label: 'GitHub Discussions',
-                href: 'https://github.com/dailydotdev/daily/discussions',
+                to: 'https://github.com/dailydotdev/daily/discussions',
               },
               {
                 label: 'Content Guidelines',
-                href: 'https://daily.dev/support/content-guidelines',
+                to: 'https://daily.dev/support/content-guidelines',
               },
               {
                 label: 'Write for us',
-                href: 'https://daily.dev/support/submit-a-story',
+                to: 'https://daily.dev/support/submit-a-story',
               },
               {
                 label: 'SWAG Store',
-                href: 'https://store.daily.dev/',
+                to: 'https://store.daily.dev/',
               },
             ],
           },
@@ -123,27 +143,35 @@ const config = {
             items: [
               {
                 label: 'About',
-                href: 'https://daily.dev/about',
+                to: 'https://daily.dev/about',
               },
               {
                 label: 'Blog',
-                href: 'https://daily.dev/blog',
+                to: 'https://daily.dev/blog',
               },
               {
                 label: 'Advertise',
-                href: 'https://promote.daily.dev/',
+                to: 'https://promote.daily.dev/',
               },
               {
                 label: 'Media Kit',
-                href: 'https://daily.dev/media-kit',
+                to: 'https://daily.dev/media-kit',
               },
               {
                 label: 'FAQ',
-                href: 'https://daily.dev/support',
+                to: 'https://daily.dev/support',
               },
               {
                 label: 'Contact',
-                href: 'https://daily.dev/contact',
+                to: 'https://daily.dev/contact',
+              },
+              {
+                label: 'Privacy',
+                to: 'https://daily.dev/privacy',
+              },
+              {
+                label: 'Terms',
+                to: 'https://daily.dev/tos',
               }
             ],
           },{
@@ -151,32 +179,28 @@ const config = {
             items: [
               {
                 label: 'GitHub',
-                href: 'https://github.com/dailydotdev/daily',
+                to: 'https://github.com/dailydotdev/daily',
               },
               {
                 label: 'Twitter',
-                href: 'https://twitter.com/dailydotdev',
+                to: 'https://twitter.com/dailydotdev',
               },
               {
                 label: 'YouTube',
-                href: 'https://www.youtube.com/channel/UCXUjtTfQWJa0G9K_SqRm3jQ',
+                to: 'https://www.youtube.com/channel/UCXUjtTfQWJa0G9K_SqRm3jQ',
               },
               {
                 label: 'Facebook',
-                href: 'https://www.facebook.com/dailydotdev',
+                to: 'https://www.facebook.com/dailydotdev',
               },
               {
                 label: 'Instagram',
-                href: 'https://www.instagram.com/dailydotdev/',
+                to: 'https://www.instagram.com/dailydotdev/',
               },
               {
                 label: 'Product Hunt',
-                href: 'https://www.producthunt.com/posts/daily-dev',
-              },
-              {
-                label: 'to Markdown',
-                to: '/markdown-page',
-              },
+                to: 'https://www.producthunt.com/posts/daily-dev',
+              }
             ],
           },
         ],
