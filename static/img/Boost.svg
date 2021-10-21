@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="200px" height="200px" viewBox="0 0 200 200" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Boost</title>
+    <defs>
+        <linearGradient x1="0%" y1="50%" x2="100%" y2="50%" id="linearGradient-1">
+            <stop stop-color="#151618" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="100%" x2="50%" y2="-2.48949813e-15%" id="linearGradient-2">
+            <stop stop-color="#FF4746" offset="0%"></stop>
+            <stop stop-color="#FF1F75" offset="100%"></stop>
+        </linearGradient>
+        <path d="M144.093142,47.3793999 L113.056964,77.2438237 C109.104874,81.046705 108.966578,87.2927637 112.748072,91.1947863 C116.530925,95.0982113 122.801214,95.1824295 126.759365,91.3829765 L137.752812,80.8303021 L137.737444,80.8026077 L164.943036,54.6241482 C168.895126,50.821267 169.033422,44.5752082 165.251928,40.6731856 L128.722958,2.9799164 C124.941464,-0.92210626 118.672155,-1.00247624 114.720065,2.80040503 C110.767974,6.60328629 110.629679,12.849345 114.411173,16.7513677 L144.093142,47.3793999 Z" id="path-3"></path>
+        <filter x="-103.4%" y="-63.7%" width="306.9%" height="227.4%" filterUnits="objectBoundingBox" id="filter-4">
+            <feOffset dx="0" dy="0" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="20" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 1   0 0 0 0 0.278431373   0 0 0 0 0.274509804  0 0 0 0.24 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Boost" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group" transform="translate(16.000000, 52.500000)">
+            <path d="M34.0931424,47.3793999 L3.05696406,77.2438237 C-0.895126292,81.046705 -1.033422,87.2927637 2.74807195,91.1947863 C6.53092483,95.0982113 12.8012137,95.1824295 16.7593653,91.3829765 L27.752812,80.8303021 L27.7374438,80.8026077 L54.9430359,54.6241482 C58.8951263,50.821267 59.033422,44.5752082 55.2519281,40.6731856 L18.7229579,2.9799164 C14.9414639,-0.92210626 8.67215517,-1.00247624 4.72006482,2.80040503 C0.767974471,6.60328629 0.629678763,12.849345 4.41117271,16.7513677 L34.0931424,47.3793999 Z" id="Path" fill="url(#linearGradient-1)" opacity="0.4"></path>
+            <path d="M89.0931424,47.3793999 L58.0569641,77.2438237 C54.1048737,81.046705 53.966578,87.2927637 57.7480719,91.1947863 C61.5309248,95.0982113 67.8012137,95.1824295 71.7593653,91.3829765 L82.752812,80.8303021 L82.7374438,80.8026077 L109.943036,54.6241482 C113.895126,50.821267 114.033422,44.5752082 110.251928,40.6731856 L73.7229579,2.9799164 C69.9414639,-0.92210626 63.6721552,-1.00247624 59.7200648,2.80040503 C55.7679745,6.60328629 55.6296788,12.849345 59.4111727,16.7513677 L89.0931424,47.3793999 Z" id="Path" fill="url(#linearGradient-1)" opacity="0.4"></path>
+            <g id="Path">
+                <use fill="black" fill-opacity="1" filter="url(#filter-4)" xlink:href="#path-3"></use>
+                <use fill="url(#linearGradient-2)" fill-rule="evenodd" xlink:href="#path-3"></use>
+            </g>
+        </g>
+    </g>
+</svg>

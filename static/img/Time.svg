@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="200px" height="200px" viewBox="0 0 200 200" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Time</title>
+    <defs>
+        <linearGradient x1="50%" y1="100%" x2="50%" y2="-2.48949813e-15%" id="linearGradient-1">
+            <stop stop-color="#151618" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="100%" x2="50%" y2="-2.48949813e-15%" id="linearGradient-2">
+            <stop stop-color="#FF4746" offset="0%"></stop>
+            <stop stop-color="#FF1F75" offset="100%"></stop>
+        </linearGradient>
+        <path d="M100.951018,63 C106.28595,62.9906445 110.621482,67.268905 110.768126,72.6153268 L110.771943,72.9134287 L110.711984,111.615 L114.906301,115.746466 L130.269041,131.002569 C134.118058,134.838001 134.088792,141.085522 130.203696,144.956821 C126.384404,148.762459 120.260647,148.855041 116.397556,145.213389 L116.19978,145.021698 L94.991078,123.940799 C92.6485815,122.199033 91.1035277,119.429731 91.0049926,116.288091 L91,115.950092 L91.0674495,78.194941 L91.0368521,78.1867578 L91.0825832,72.9482304 C91.0990486,67.4616526 95.5153387,63.0096872 100.951018,63 Z" id="path-3"></path>
+        <filter x="-142.4%" y="-70.7%" width="384.8%" height="241.4%" filterUnits="objectBoundingBox" id="filter-4">
+            <feOffset dx="0" dy="0" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="20" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 1   0 0 0 0 0.278431373   0 0 0 0 0.274509804  0 0 0 0.24 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Time" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M100,50 C134.241654,50 162,77.7583455 162,112 C162,146.241654 134.241654,174 100,174 C65.7583455,174 38,146.241654 38,112 C38,77.7583455 65.7583455,50 100,50 Z M100,66 C74.5949015,66 54,86.5949015 54,112 C54,137.405098 74.5949015,158 100,158 C125.405098,158 146,137.405098 146,112 C146,86.5949015 125.405098,66 100,66 Z M155.87868,34.7720779 L170.727922,49.6213203 C173.656854,52.5502525 173.656854,57.2989899 170.727922,60.2279221 C167.79899,63.1568542 163.050253,63.1568542 160.12132,60.2279221 L145.272078,45.3786797 C142.343146,42.4497475 142.343146,37.7010101 145.272078,34.7720779 C148.20101,31.8431458 152.949747,31.8431458 155.87868,34.7720779 Z M122.5,23 C126.642136,23 130,26.3578644 130,30.5 C130,34.6421356 126.642136,38 122.5,38 L77.5,38 C73.3578644,38 70,34.6421356 70,30.5 C70,26.3578644 73.3578644,23 77.5,23 L122.5,23 Z" id="Combined-Shape" fill="url(#linearGradient-1)" opacity="0.4"></path>
+        <g id="Path">
+            <use fill="black" fill-opacity="1" filter="url(#filter-4)" xlink:href="#path-3"></use>
+            <use fill="url(#linearGradient-2)" fill-rule="evenodd" xlink:href="#path-3"></use>
+        </g>
+    </g>
+</svg>
