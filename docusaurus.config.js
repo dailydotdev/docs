@@ -204,7 +204,7 @@ const config = {
       announcementBar: {
         id: 'support_us',
         content:
-          'Try the extension <a target="_blank" rel="noopener noreferrer" href="https://daily.dev"> now!</a>',
+          'Try daily.dev <a target="_blank" rel="noopener noreferrer" href="https://daily.dev"> now!</a>',
         backgroundColor: '#fafbfc',
         textColor: '#091E42',
         isCloseable: true,
@@ -220,7 +220,7 @@ const config = {
         // Public API key: it is safe to commit it
         apiKey: '724aeea3a6bc3a2af4ad7e9789752f2d',
   
-        indexName: 'docusaurus-2'
+        indexName: 'prod_docs'
       }
     }),
 };
