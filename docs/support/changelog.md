@@ -163,4 +163,4 @@ We have so many good things planned for you! In the coming weeks, we will ship a
 - More ways to earn reputation and badges
 
 ## Need help?
-If you encountered any issue with syncing your settings into your new or existing account, please contact us at [support@daily.dev](support@daily.dev) or open an issue on our [GitHub.](https://github.com/dailydotdev/daily)
+If you encountered any issue with syncing your settings into your new or existing account, please contact us at support@daily.dev or open an issue on our [GitHub.](https://github.com/dailydotdev/daily)

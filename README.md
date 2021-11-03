@@ -51,6 +51,11 @@ docker compose up --build
 ```
 The server is available by default on port 3000
 
+## Test it
+```
+docker run -p 3000:3000 francescoxx/dailydev-docs:0.9.0
+```
+
 
 <div align="center">
   <img src="static/img/logo2.png" alt="Daily Logo" width="150">

@@ -151,3 +151,12 @@ div[class^='announcementBar_'] {
 .red > a {
   color: red;
 }
+
+
+img[src] {
+  box-shadow: 2px 2px 2px gray;
+}
+
+img[src="/img/logo.png"] {
+  box-shadow: none;
+}
