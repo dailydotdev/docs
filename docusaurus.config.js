@@ -56,7 +56,7 @@ const config = {
             position: 'left',
           },
           {
-            label: 'Community', 
+            label: 'Community',
             type: 'doc',
             docId: 'community/support',
             position: 'left'
@@ -169,7 +169,7 @@ const config = {
                 to: 'https://daily.dev/tos',
               }
             ],
-          },{
+          }, {
             title: 'Social Links',
             items: [
               {
@@ -216,10 +216,10 @@ const config = {
       algolia: {
         // If Algolia did not provide you any appId, use 'BH4D9OD16A'
         appId: 'BDMLM7I64N',
-  
+
         // Public API key: it is safe to commit it
         apiKey: '724aeea3a6bc3a2af4ad7e9789752f2d',
-  
+
         indexName: 'prod_docs'
       }
     }),
