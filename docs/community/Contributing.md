@@ -4,7 +4,7 @@ sidebar_position: 2
 # Contributing
 
 How can I get my article to be picked up by daily.dev?
-Arrow
+
 There are three ways for you to get your article picked up by daily.dev:
 
 1. Publish guest articles on well-known publications that are already included in the source list of daily.dev. You can explore the list using the sidebar in the app itself. There are plenty of options out there.

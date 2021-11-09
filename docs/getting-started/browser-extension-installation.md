@@ -12,10 +12,35 @@ The daily.dev extension is avilable for:
 
 ## FAQ
 
-### How to add my bookmarks bar
+### How to show Google Chrome bookmarks toolbar in daily.dev?
 
+It's quite simple. You need to enable the option of Show Bookmarks Bar in your browser.
 
+There are two ways mentioned below to toggle the bookmarks bar in Google Chrome. 
+
+#### Using Shortcut Keys
+
+Below are the shortcut keys that you can use to toggle bookmark toolbar:
+
+For Windows: CTRL+SHIFT+B
+For Mac: CMD⌘+SHIFT⇧+B
+It allows you to toggle the bookmarks bar quickly. This way, you can easily hide it when you are not using daily.dev.
+
+#### Using Settings Menu
+
+Click on the three dots (⠇) on the top right corner of Chrome. Go to Bookmarks > Show Bookmarks Bar. That's all! For more info, make sure you check out [the complete guide.](https://dev.to/dailydotdev/view-google-chrome-s-bookmarks-toolbar-in-daily-27gk)
 
 ### How to add recently visited sites
 
 To add recently visited websites
+
+![](https://daily-now-res.cloudinary.com/image/upload/v1636397166/docs/test16.png)
+
+When you see this popup click on "Next"
+
+![](https://daily-now-res.cloudinary.com/image/upload/v1636397535/docs/test17.jpg)
+
+
+Now the most recent sites will be shown in the top-right bar.
+
+![](https://daily-now-res.cloudinary.com/image/upload/v1636397535/docs/test18.jpg)

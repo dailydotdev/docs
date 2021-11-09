@@ -1,14 +1,12 @@
 ---
-sidebar_position: 3
+sidebar_position: 4
 ---
 
 # Preferences
 
 Here you can set the other preferences for [daily.dev](https://daily.dev)
 
-### Hide Read posts
-
-### Open links in new tab
+You can hide the read post and open links in a new tab.
 
 
 
