@@ -22,9 +22,9 @@ https://changelog.daily.dev/
 
 ## Feedback
 
-Do you haver any feedback? We are all ears
+Do you have any feedback? Question? Feature request? 
 
-https://daily.dev/contact
+[Submit it here](https://it057218.typeform.com/to/S9p9SVNI)
 
 ## Twitter
 
