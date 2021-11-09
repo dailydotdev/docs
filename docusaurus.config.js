@@ -6,7 +6,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'Daily.dev',
+  title: 'daily.dev',
   tagline: 'ALL DEVELOPER NEWS IN ONE PLACE',
   url: 'https://your-docusaurus-test-site.com',
   baseUrl: '/',
@@ -45,7 +45,7 @@ const config = {
       navbar: {
         // title: 'My Site',
         logo: {
-          alt: 'Daily.dev Logo',
+          alt: 'daily.dev Logo',
           src: 'img/logo.png',
         },
         items: [
@@ -54,12 +54,6 @@ const config = {
             type: 'doc',
             docId: 'intro',
             position: 'left',
-          },
-          {
-            label: 'Community',
-            type: 'doc',
-            docId: 'community/support',
-            position: 'left'
           },
           {
             href: 'https://github.com/dailydotdev/docs',
@@ -199,7 +193,7 @@ const config = {
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} Daily.dev  All rights reserved.`,
+        copyright: `Copyright © ${new Date().getFullYear()} daily.dev  All rights reserved.`,
       },
       announcementBar: {
         id: 'support_us',

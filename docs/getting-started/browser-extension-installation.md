@@ -34,13 +34,13 @@ Click on the three dots (⠇) on the top right corner of Chrome. Go to Bookmarks
 
 To add recently visited websites
 
-![](https://daily-now-res.cloudinary.com/image/upload/v1636397166/docs/test16.png)
+![](https://daily-now-res.cloudinary.com/image/upload/v1636448767/docs/mostrecent1.jpg)
 
 When you see this popup click on "Next"
 
-![](https://daily-now-res.cloudinary.com/image/upload/v1636397535/docs/test17.jpg)
+![](https://daily-now-res.cloudinary.com/image/upload/v1636449553/docs/newmostrecent2.jpg)
 
 
 Now the most recent sites will be shown in the top-right bar.
 
-![](https://daily-now-res.cloudinary.com/image/upload/v1636397535/docs/test18.jpg)
+![](https://daily-now-res.cloudinary.com/image/upload/v1636449715/docs/newmostrecent3.jpg)

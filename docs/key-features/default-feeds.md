@@ -4,7 +4,7 @@ sidebar_position: 1
 
 # Default Feeds
 
-[Daily.dev](https://daily.dev) has currently 4 available feeds:
+[daily.dev](https://daily.dev) has currently 4 available feeds:
 - Popular
 - Upvoted
 - Discussed

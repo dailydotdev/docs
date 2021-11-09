@@ -11,7 +11,7 @@ Open source is a way for the developers to build their portfolio, experiment wit
 
 [![](https://daily-now-res.cloudinary.com/image/upload/v1636403158/docs/5ef3ba4a872471e69e2462aa_vtrdzkgm07r4qvbxdu4j.png)](https://daily.dev/blog/start-contributing-to-open-source-with-daily)
 
-## Daily.dev GitHub Repository
+## daily.dev GitHub Repository
 
 Contributing to open source can be a game-changing for a developer career.
 This is our repository on GitHub if you want to take a look and level up your coding skills.
