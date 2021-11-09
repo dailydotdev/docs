@@ -3,14 +3,6 @@ sidebar_position: 16
 ---
 # Community
 
-## Support
-
-We’ve put together everything you need to know about using daily.dev smartly.
-
-Please refer to this link
-
-https://daily.dev/support
-
 ## Contributing
 
 How can I get my article to be picked up by daily.dev?
