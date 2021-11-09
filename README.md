@@ -53,7 +53,7 @@ The server is available by default on port 3000
 
 ## Test it
 ```
-docker run -p 3000:3000 francescoxx/dailydev-docs:0.9.0
+docker run -p 3000:3000 francescoxx/dailydev-docs:0.9.3
 ```
 
 

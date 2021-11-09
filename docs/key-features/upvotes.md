@@ -8,4 +8,4 @@ Upvotes are a great way to support articles, show your appreciation for the work
 
 To do that, just hit the bottom-left button in an article and it will turn green!
 
-![upvotes](https://daily-now-res.cloudinary.com/image/upload/v1636410094/docs/upvotes1.jpg)
+![upvotes](https://daily-now-res.cloudinary.com/image/upload/v1636467563/docs/upvote.svg)
