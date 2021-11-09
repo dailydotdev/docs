@@ -3,47 +3,35 @@ sidebar_position: 8
 ---
 # Community
 
-## Contributing
-
-How can I get my article to be picked up by daily.dev?
-
-There are three ways for you to get your article picked up by daily.dev:
-
-1. Publish guest articles on well-known publications that are already included in the source list of daily.dev. You can explore the list using the sidebar in the app itself. There are plenty of options out there.
-
-2. Publish articles on developer blogging platforms such as https://hashnode.com/, https://dev.to/ or https://hackernoon.com/. If your article will gain enough traction on those platforms, there's a high chance it will be picked up by daily.dev as well.
-
-3. Submit a new and original article to daily.dev/blog. Here's the process of https://daily.dev/support/submit-a-story to our blog. Please read the instructions carefully before submitting a guest post.
-
 ## Changelog
 
-The is the current changelog for daily.dev
-https://changelog.daily.dev/
-
-## Feedback
-
-Do you have any feedback? Question? Feature request? 
-
-[Submit it here](https://it057218.typeform.com/to/S9p9SVNI)
+The is the current changelog for daily.dev: https://changelog.daily.dev/
 
 ## Twitter
 
-We have a powerful AI handling on our Official Twitter Account.
+We have a powerful AI handling on our Official Twitter account.
 
-Show it some love
-
-https://twitter.com/dailydotdev
+Show it some love: https://twitter.com/dailydotdev
 
 ## YouTube
 
-On the official daily.dev YouTube account, there are mainly 2 types of content: Monthly.dev, where incredible people get interviewed, and tutorials about daily.developer
+On the official daily.dev YouTube account, there are mainly two types of content: 
+* Monthly Dev: The Monthly Dev is a series of online events brought to you with love by daily.dev. It's a place for software engineers to gather and hear world-class talks, once a month.
+* Weekly Dev: a series of casual livestreams about daily.dev
 
-Oh and there are some cool Intros too 😎
+Oh and there are some cool intro videos too 😎
 
 https://www.youtube.com/c/dailydev
 
-## Linkedin
+## Meetup
 
-This is the official LinkedIn page for daily.dev
+We meet once a month to hear some inspiring talks from wrold-class developers!
+Join our meetup group to get updates: https://www.meetup.com/the-monthly-dev-world-class-talks-by-expert-developers/
 
-https://www.linkedin.com/company/dailydotdev
+## LinkedIn
+
+This is the official LinkedIn page for daily.dev: https://www.linkedin.com/company/dailydotdev
+
+## Feedback
+
+Do you have any feedback? Question? Feature request? [Submit it here](https://it057218.typeform.com/to/S9p9SVNI)
