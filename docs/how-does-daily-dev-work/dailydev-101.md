@@ -35,7 +35,7 @@ Ranking changes based on the feed that the user is watching. There are four feed
 3. Discussed Feed
 4. Recent Feed
 
-To learn more, please visit our [Default Feeds guide](**add a link to the guide from the docs**).
+To learn more, please visit our [Default Feeds guide](../key-features/default-feeds.md).
 
 ## How does the filtering work?
 
