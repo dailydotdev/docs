@@ -6,7 +6,7 @@ sidebar_position: 2
 
 You can filter your feed by selecting some option from the menu on the sidebar.
 
-You can select: 
+You can select:
 - Newsletters
 - Non-editorial content
 - Product launches

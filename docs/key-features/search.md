@@ -10,4 +10,4 @@ Use this function to find your favorite articles!
 
 Click the 🔎 icon and search for your favorite topic
 
-![](https://daily-now-res.cloudinary.com/image/upload/v1636413054/docs/search1.jpg)
+![](https://daily-now-res.cloudinary.com/image/upload/v1636623456/searchbar1_uosytr.svg)
