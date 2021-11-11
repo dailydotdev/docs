@@ -11,4 +11,17 @@ Show off how many articles you've read, your top read topics and your favorite p
 
 Share your DevCard using the hashtag #DevCard
 
+To Generate your DevaCard, click on the button below.
+
+![](https://daily-now-res.cloudinary.com/image/upload/v1636632360/docs/weeklygoal1.svg)
+
+
 Generate your #DevCard here → https://app.daily.dev/devcard
+
+Sometimes during the year, some Limited Edition Devcard can be available!
+
+![](https://daily-now-res.cloudinary.com/image/upload/v1636632716/docs/devcard20.svg)
+
+You can also add the Devcard to your Github profile or embed it in a website!
+
+https://daily-now-res.cloudinary.com/image/upload/v1636632558/docs/devcard2.svg

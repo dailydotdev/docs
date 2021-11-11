@@ -10,4 +10,4 @@ These are necessary for the generation of the Devcard.
 
 It also displays the current level of devcard with a preview
 
-![](https://daily-now-res.cloudinary.com/image/upload/v1635917457/docs/jgjdjUntitled.png)
+![](https://daily-now-res.cloudinary.com/image/upload/v1636632360/docs/weeklygoal1.svg)
