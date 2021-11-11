@@ -11,16 +11,14 @@ The options currently available are:
 - Roomy
 - Cozy
 
-![](https://daily-now-res.cloudinary.com/image/upload/v1635919502/docs/test7.png)
-
 ### Eco
 
-![](https://daily-now-res.cloudinary.com/image/upload/v1635919502/docs/test8.png)
+![](https://daily-now-res.cloudinary.com/image/upload/v1636617984/docs/density1.svg)
 
 ### Roomy
 
-![](https://daily-now-res.cloudinary.com/image/upload/v1635919502/docs/test9.png)
+![](https://daily-now-res.cloudinary.com/image/upload/v1636617984/docs/density2.svg)
 
 ### Cozy
 
-![](https://daily-now-res.cloudinary.com/image/upload/v1635919502/docs/test10.png)
+![](https://daily-now-res.cloudinary.com/image/upload/v1636617984/docs/density3.svg)
