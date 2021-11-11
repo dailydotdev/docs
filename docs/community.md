@@ -13,7 +13,14 @@ We have a powerful AI handling on our Official Twitter account.
 
 Show it some love: https://twitter.com/dailydotdev
 
+[![](https://daily-now-res.cloudinary.com/image/upload/v1636634599/docs/twitter1.svg)](https://twitter.com/dailydotdev)
+
+
 ## YouTube
+
+Official YouTube Account: https://www.youtube.com/c/dailydev
+
+[![](https://daily-now-res.cloudinary.com/image/upload/v1636634455/docs/youtube1.svg)](https://www.youtube.com/c/dailydev)
 
 On the official daily.dev YouTube account, there are mainly two types of content: 
 * Monthly Dev: The Monthly Dev is a series of online events brought to you with love by daily.dev. It's a place for software engineers to gather and hear world-class talks, once a month.
@@ -31,6 +38,8 @@ Join our meetup group to get updates: https://www.meetup.com/the-monthly-dev-wor
 ## LinkedIn
 
 This is the official LinkedIn page for daily.dev: https://www.linkedin.com/company/dailydotdev
+
+[![](https://daily-now-res.cloudinary.com/image/upload/v1636634819/docs/linkedin.svg)](https://www.linkedin.com/company/dailydotdev)
 
 ## Feedback
 

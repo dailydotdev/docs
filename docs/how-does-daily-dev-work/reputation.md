@@ -3,7 +3,7 @@ sidebar_position: 3
 ---
 # What is reputation? How do I earn it?
 
-![](https://daily-now-res.cloudinary.com/image/upload/v1635256323/docs/5f70907c98d4c757b8d66732_Text_20Edit.jpg)
+<!-- ![](https://daily-now-res.cloudinary.com/image/upload/v1635256323/docs/5f70907c98d4c757b8d66732_Text_20Edit.jpg) -->
 
 ### Reputation is entirely optional
 

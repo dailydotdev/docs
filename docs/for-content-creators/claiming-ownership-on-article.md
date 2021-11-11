@@ -4,9 +4,7 @@ sidebar_position: 3
 
 # Claiming ownership on an article you wrote
 
-![](https://daily-now-res.cloudinary.com/image/upload/v1635256323/docs/5f70907c98d4c757b8d66732_Text_20Edit.jpg)
-
-## Who is this announcement for? 
+## Who is this section for? 
 
 ✏️ Do you write blog posts for developers?
 
