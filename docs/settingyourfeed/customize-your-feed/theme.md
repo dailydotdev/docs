@@ -11,14 +11,14 @@ Here you can set the theme of [daily.dev](https://daily.dev)
 
 Set dark theme for [daily.dev](https://daily.dev)
 
-![](https://daily-now-res.cloudinary.com/image/upload/v1636452777/docs/theme2png.png)
+![](https://daily-now-res.cloudinary.com/image/upload/v1636628930/docs/atheme1.svg)
 
 
 ### Light Theme
 
 Set light theme for [daily.dev](https://daily.dev)
 
-![](https://daily-now-res.cloudinary.com/image/upload/v1636452628/docs/theme2.jpg)
+![](https://daily-now-res.cloudinary.com/image/upload/v1636628930/docs/atheme2.svg)
 
 
 ### Auto Theme
