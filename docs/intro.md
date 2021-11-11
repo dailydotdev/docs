@@ -23,20 +23,20 @@ That's what made us build daily.dev.
 
 ### Step 1: Install 🚀
 
-daily.dev comes both as a browser extension and as a progressive web app. Pick your preferred platform (or just use both) and you're good to go! [Get started here](/docs/getting-started/browser-extension-installation.md). 
+daily.dev comes both as a browser extension and as a progressive web app. Pick your preferred platform (or just use both) and you're good to go! [Get started here](/getting-started/browser-extension-installation.md). 
 
 ### Step 2: Configure your feed 🎯
 
-Once you're in the feed, the ultimate way to stay updated, is to [set up your feed](/docs/settingyourfeed/filtering-content-feed.md) according to your insterests. That way you will get the most relevant content for you. 
+Once you're in the feed, the ultimate way to stay updated, is to [set up your feed](/settingyourfeed/filtering-content-feed.md) according to your insterests. That way you will get the most relevant content for you. 
 
 ### Step 3: Engage with other developers 👏
 
-Learn more about our [key features](/docs/key-features/default-feeds.md) and start engaging with other devs on our platform. 
+Learn more about our [key features](/key-features/default-feeds.md) and start engaging with other devs on our platform. 
 
 ### Step 4: Build your presence 🦸
 
-Sign up is voluntary, but we highly recommend you to [create a profile](/docs/your-profile/registration.md). That way you will be able to build your online presence and show the world what you have achieved. 
+Sign up is voluntary, but we highly recommend you to [create a profile](/your-profile/registration.md). That way you will be able to build your online presence and show the world what you have achieved. 
 
 ### Step 5: Explore behind the scenes 👀
 
-If you want to learn [how does daily.dev work](/docs/how-does-daily-dev-work/dailydev-101.md) we got you covered. 
+If you want to learn [how does daily.dev work](/how-does-daily-dev-work/dailydev-101.md) we got you covered. 
