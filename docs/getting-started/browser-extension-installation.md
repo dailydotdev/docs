@@ -8,9 +8,9 @@ sidebar_position: 0
 
 The daily.dev extension is available for:
 
-- [Chrome](https://chrome.google.com/webstore/detail/dailydev-the-homepage-dev/jlmpjdjjbgclbocgajdjefcidcncaied?hl=en)
-- [Firefox](https://addons.mozilla.org/en-US/firefox/addon/daily/)
-- [Edge](https://microsoftedge.microsoft.com/addons/detail/dailydev-the-homepage-/cbdhgldgiancdheindpekpcbkccpjaeb?hl=en-GB)
+- [Google Chrome](https://chrome.google.com/webstore/detail/dailydev-the-homepage-dev/jlmpjdjjbgclbocgajdjefcidcncaied?hl=en)
+- [Mozilla Firefox](https://addons.mozilla.org/en-US/firefox/addon/daily/)
+- [Microsoft Edge](https://microsoftedge.microsoft.com/addons/detail/dailydev-the-homepage-/cbdhgldgiancdheindpekpcbkccpjaeb?hl=en-GB)
 
 Just install it, open a new tab, and you're all set.
 
@@ -18,7 +18,7 @@ Just install it, open a new tab, and you're all set.
 
 Try out our [progressive web app](/getting-started/pwa.md)! 
 
-## Post-Installation Troubleshooting
+## Troubleshooting
 
 1. My Chrome's bookmarks bar is gone. How can I bring it back?
 2. Showing shortcuts to Chrome's most visited sites
