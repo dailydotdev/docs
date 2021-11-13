@@ -2,24 +2,22 @@
 sidebar_position: 1
 ---
 
-# Progressive Web App
+# Progressive web app
 
-daily.dev is a also a progressive web app!
+daily.dev is a also a progressive web app! 
 
-You can use it:
+It's fully-responsive so you can use it on any device!
 
-- [In any browser](https://app.daily.dev) (desktop mobile and tablet) as a normal destination site.
-
-- [On iOS](https://app.daily.dev) - Web app
-
-- [On Android](https://play.google.com/store/apps/details?id=dev.daily) app.
+All you need to do is to visit this URL: https://app.daily.dev
 
 ## FAQ
 
-### How can I add this to my mobile homescreen on iOS?
+### How can I add daily.dev to my mobile homescreen on Android?
 
-For iOS , here is the official [guide](https://support.apple.com/en-il/guide/iphone/iph42ab2f3a7/ios)
+Android users can shoose between the following options:
+1. Instal daily.dev's Android app directly from [Google Play](https://play.google.com/store/apps/details?id=dev.daily)
+2. Manually add daily.dev to the mobile homepage ([Guide](https://support.google.com/chrome/answer/9658361?hl=en&co=GENIE.Platform%3DAndroid))
 
-### How can I add this to my mobile homescreen on iOS?
+### How can I add daily.dev to my mobile homescreen on iOS?
 
-For Android, here is the official [guide](https://support.google.com/chrome/answer/9658361?hl=en&co=GENIE.Platform%3DAndroid)
+For iOS users, here is the [official guide](https://support.apple.com/en-il/guide/iphone/iph42ab2f3a7/ios) by Apple.
