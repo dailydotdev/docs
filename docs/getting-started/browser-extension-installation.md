@@ -4,43 +4,55 @@ sidebar_position: 0
 
 # Browser extension installation
 
-The daily.dev extension is avilable for:
+## Supported browsers
+
+The daily.dev extension is available for:
 
 - [Chrome](https://chrome.google.com/webstore/detail/dailydev-the-homepage-dev/jlmpjdjjbgclbocgajdjefcidcncaied?hl=en)
 - [Firefox](https://addons.mozilla.org/en-US/firefox/addon/daily/)
 - [Edge](https://microsoftedge.microsoft.com/addons/detail/dailydev-the-homepage-/cbdhgldgiancdheindpekpcbkccpjaeb?hl=en-GB)
 
-## FAQ
+Just install it, open a new tab, and you're all set.
 
-### How to show Google Chrome bookmarks toolbar in daily.dev?
+## Using Safari? Brave? Opera? Vivaldi? Other Browser?
 
-It's quite simple. You need to enable the option of Show Bookmarks Bar in your browser.
+Try out our [progressive web app](/getting-started/pwa.md)! 
 
-There are two ways mentioned below to toggle the bookmarks bar in Google Chrome. 
+## Post-Installation Troubleshooting
 
-#### Using Shortcut Keys
+1. My Chrome's bookmarks bar is gone. How can I bring it back?
+2. Showing shortcuts to Chrome's most visited sites
+
+### My Chrome's bookmarks bar is gone. How can I bring it back?
+
+It's quite simple. All you need is to enable the `Show Bookmarks Bar` option in your browser. There are two ways mentioned below to display the bookmarks bar in Google Chrome:
+
+* Using Keyboard Shortcuts
+* Using Chrome's Settings Menu
+
+#### Using Keyboard Shortcuts
 
 Below are the shortcut keys that you can use to toggle bookmark toolbar:
 
-For Windows: CTRL+SHIFT+B
-For Mac: CMD⌘+SHIFT⇧+B
-It allows you to toggle the bookmarks bar quickly. This way, you can easily hide it when you are not using daily.dev.
+For Windows users: CTRL+SHIFT+B
 
-#### Using Settings Menu
+For Mac users: CMD⌘+SHIFT⇧+B
 
-Click on the three dots (⠇) on the top right corner of Chrome. Go to Bookmarks > Show Bookmarks Bar. That's all! For more info, make sure you check out [the complete guide.](https://dev.to/dailydotdev/view-google-chrome-s-bookmarks-toolbar-in-daily-27gk)
+#### Using Chrome's Settings Menu
 
-### How to add recently visited sites
+Click on the three dots (⠇) on the top right corner of your Google Chrome browser. Go to Bookmarks > Show Bookmarks Bar.
 
-To add recently visited websites
+### Showing shortcuts to Chrome's most visited sites
+
+To add shortcuts of the most visited site to daily.dev, click on the `Show most visited sites` button:
 
 ![](https://daily-now-res.cloudinary.com/image/upload/v1636448767/docs/mostrecent1.jpg)
 
-When you see this popup click on "Next"
+Once you clicked, you should see this popup click on "Next". 
 
 ![](https://daily-now-res.cloudinary.com/image/upload/v1636449553/docs/newmostrecent2.jpg)
 
-
-Now the most recent sites will be shown in the top-right bar.
+Now the most visited sites will be shown in the top-right corner of the feed.
 
 ![](https://daily-now-res.cloudinary.com/image/upload/v1636449715/docs/newmostrecent3.jpg)
+
