@@ -8,7 +8,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'daily.dev',
   tagline: 'ALL DEVELOPER NEWS IN ONE PLACE',
-  url: 'https://your-docusaurus-test-site.com',
+  url: 'https://docs.daily.dev/',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
