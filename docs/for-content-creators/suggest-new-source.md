@@ -30,7 +30,7 @@ We've tried to make this process as simple as possible.
 2. Click on the left sidebar to open it
 3. Choose the "Suggest new source" option 
 4. Insest a URL of your publication's RSS feed (recommended) or a URL to your publication's homepage
-5. Click the cubmit button and you're good to go
+5. Click the Submit button and you're good to go
 
 ### Review process
 
