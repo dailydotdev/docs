@@ -37,6 +37,6 @@ Once your on the Manage tags menu you're going to have the following options:
 
 > Note: Tags might be included in multiple groups. 
 
-### Choose the types of content you want to see
+### What's next?
 
 In the next guide we will show you how to use the [advanced filtering options](/settingyourfeed/advanced-filtering-options.md). This should help you fine-tune the types of content on your feed.
