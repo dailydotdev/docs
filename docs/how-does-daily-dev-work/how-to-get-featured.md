@@ -16,7 +16,7 @@ Practically there are three primary ways you can get featured on daily.dev:
 2. Publish articles on developer blogging platforms
 3. Publish a new and original article on our blog
 
-### Publish guest articles on well-known publications
+### Option 1 - Publish guest articles on well-known publications
 
 Probably the most reliable way to get an article you wrote to be picked by daily.dev is to publish it on a well-known programming publication. Many of those publications are already included in the source list of daily.dev. 
 
@@ -24,7 +24,7 @@ By now, all of the significant developer-related magazines are serving as a cont
 
 Once you find one magazine you like, we suggest checking if they allow guest posting on their publication. Then go through the guest posting process of the publication you chose. Once the article gets published, it will be picked up by daily.dev.
 
-### Publish articles on developer blogging platforms
+### Option 2 - Publish articles on developer blogging platforms
 
 Nowadays, many developers choose to host their blogs on a blogging platform. The main advantage of this method is that you can get people to discover your content. Whereas building a new website will take you much time and effort to build your readership. Each platform has its own merits, and we are not affiliated with any of them.
 
@@ -32,7 +32,7 @@ However, to give you an easy head-start, you may want to check out developer blo
 
 Note: we are not collecting all the articles published on blogging platforms. Our system will only pick an article from blogging platforms once it has gained enough traction/engagement on those platforms. That's our way to ensure that we source qualified content.
 
-### Submit a new and original article to daily.dev/blog
+### Option 3 - Submit a new and original article to daily.dev/blog
 
 One of the sources of daily.dev is our[ own in-house blog](https://daily.dev/blog). Here's the process of [how to submit a story to our blog](https://daily.dev/submit-a-story). Please read the instructions carefully before submitting a guest post.
 
