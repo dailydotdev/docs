@@ -22,21 +22,21 @@ We've tried to make this process as simple as possible.
 2. **Create an account** on daily.dev
 3. Make sure your publication has a **public RSS feed**
 
-> 💡 Pro tip: if you're running a company blog that has both promotional articles and technical articles, we highly recommend to separate the techincal articles to a dedicated RSS feed. 
+> 💡 Pro tip: if you're running a company blog that has both promotional articles and technical articles, we highly recommend to separate the technical articles to a dedicated RSS feed. 
 
 ### Submitting your source
 
 1. Go to your feed, either in the [browser extension](../getting-started/browser-extension-installation.md) or in the [web app](https://app.daily.dev)
 2. Click on the left sidebar to open it
 3. Choose the "Suggest new source" option 
-4. Insest a URL of your publication's RSS feed (recommended) or a URL to your publication's homepage
-5. Click the cubmit button and you're good to go
+4. Insert a URL of your publication's RSS feed (recommended) or a URL to your publication's homepage
+5. Click the submit button and you're good to go
 
 ### Review process
 
 Once you've successfully submitted a source request our team would manually review it. That's our way to ensure that the [content guidelines](/for-content-creators/content-guidelines.md) are met. The review process usually takes between 7-21 days.
 
-You can expect to recieve the following notifications by email:
+You can expect to receive the following notifications by email:
 1. Once the source request was successfully sent
 2. Once your source request got approved or rejected
 3. If our team would have a question, they will reach you out directly via email

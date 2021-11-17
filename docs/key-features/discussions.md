@@ -29,9 +29,9 @@ At the bottom you can see all the comments on the post, and they can be upvoted 
 To spice up the article page  we built into it some other awesome stuff like:
 * All the details about this article, including: title, publish date, reading time, tags, etc.
 * Table of contents
-* Suggsestied similar posts
+* Suggested similar posts
 * Featured discussions
 
 > 💡 *Pro tip 1:* clicking on a certain row in the [table of contents](https://app.daily.dev/posts/dfK6hCNTe) will open up the article on that specific title. 
 
-> 💡 *Pro tip 2:* clicking on the number of upvtaed will display a [list of the users who upvoted the post or comment](https://app.daily.dev/posts/UmneP_B6O).
+> 💡 *Pro tip 2:* clicking on the number of upvoted will display a [list of the users who upvoted the post or comment](https://app.daily.dev/posts/UmneP_B6O).

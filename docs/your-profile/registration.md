@@ -4,7 +4,7 @@ sidebar_position: 1
 
 # Registration
 
-when you visit [app.daily.dev](https://app.daily.dev/) hit the "Login Buttoon"
+when you visit [app.daily.dev](https://app.daily.dev/) hit the "Login Button"
 
 ![](https://daily-now-res.cloudinary.com/image/upload/v1636631202/docs/register1.svg)
 
