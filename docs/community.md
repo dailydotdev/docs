@@ -24,7 +24,7 @@ Official YouTube Account: https://www.youtube.com/c/dailydev
 
 On the official daily.dev YouTube account, there are mainly two types of content: 
 * Monthly Dev: The Monthly Dev is a series of online events brought to you with love by daily.dev. It's a place for software engineers to gather and hear world-class talks, once a month.
-* Weekly Dev: a series of casual livestreams about daily.dev
+* Weekly Dev: a series of casual live streams about daily.dev
 
 Oh and there are some cool intro videos too 😎
 

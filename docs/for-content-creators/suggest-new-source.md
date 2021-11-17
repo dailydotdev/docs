@@ -22,7 +22,7 @@ We've tried to make this process as simple as possible.
 2. **Create an account** on daily.dev
 3. Make sure your publication has a **public RSS feed**
 
-> 💡 Pro tip: if you're running a company blog that has both promotional articles and technical articles, we highly recommend to separate the techincal articles to a dedicated RSS feed. 
+> 💡 Pro tip: if you're running a company blog that has both promotional articles and technical articles, we highly recommend to separate the technical articles to a dedicated RSS feed. 
 
 ### Submitting your source
 
@@ -36,7 +36,7 @@ We've tried to make this process as simple as possible.
 
 Once you've successfully submitted a source request our team would manually review it. That's our way to ensure that the [content guidelines](/for-content-creators/content-guidelines.md) are met. The review process usually takes between 7-21 days.
 
-You can expect to recieve the following notifications by email:
+You can expect to receive the following notifications by email:
 1. Once the source request was successfully sent
 2. Once your source request got approved or rejected
 3. If our team would have a question, they will reach you out directly via email

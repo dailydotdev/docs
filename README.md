@@ -11,7 +11,7 @@ Step into the directory:
 cd docs
 ```
 
-Install the depndencies
+Install the dependencies
 ```
 npm i 
 ```
