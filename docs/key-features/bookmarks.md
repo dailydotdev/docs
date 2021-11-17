@@ -18,6 +18,6 @@ Click the button at the top of the page 🔖
 
 ![](https://daily-now-res.cloudinary.com/image/upload/v1636412599/docs/bookmark2.svg)
 
-Here us an example of how the bookmark pages will look like:
+Here is an example of how the bookmark pages will look like:
 
 ![](https://daily-now-res.cloudinary.com/image/upload/v1636412599/docs/bookmark3.svg)
