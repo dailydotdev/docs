@@ -38,7 +38,7 @@ In the Upvoted Feed, we feature the most upvoted articles currently on the platf
 
 ## Discussed
 
-The artiles with the **best discussions** are listed first.
+The articles with the **best discussions** are listed first.
 
 In the Discussed Feed, we offer the most interesting discussions currently on the platform. The ranking is determined by multiple factors like the reputation levels of the people who commented, the freshness of the comments, the number of upvotes on the comments, and more.
 

@@ -32,7 +32,7 @@ https://www.youtube.com/c/dailydev
 
 ## Meetup
 
-We meet once a month to hear some inspiring talks from wrold-class developers!
+We meet once a month to hear some inspiring talks from world-class developers!
 Join our meetup group to get updates: https://www.meetup.com/the-monthly-dev-world-class-talks-by-expert-developers/
 
 ## LinkedIn

@@ -27,7 +27,7 @@ daily.dev comes both as a browser extension and as a progressive web app. Pick y
 
 ### Step 2: Configure your feed 🎯
 
-Once you're in the feed, the ultimate way to stay updated, is to [set up your feed](/settingyourfeed/filtering-content-feed.md) according to your insterests. That way you will get the most relevant content for you. 
+Once you're in the feed, the ultimate way to stay updated, is to [set up your feed](/settingyourfeed/filtering-content-feed.md) according to your interests. That way you will get the most relevant content for you. 
 
 ### Step 3: Engage with other developers 👏
 
