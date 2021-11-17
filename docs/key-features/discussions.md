@@ -34,4 +34,6 @@ To spice up the article page  we built into it some other awesome stuff like:
 
 > 💡 *Pro tip 1:* clicking on a certain row in the [table of contents](https://app.daily.dev/posts/dfK6hCNTe) will open up the article on that specific title. 
 
+
 > 💡 *Pro tip 2:* clicking on the number of upvoted will display a [list of the users who upvoted the post or comment](https://app.daily.dev/posts/UmneP_B6O).
+
