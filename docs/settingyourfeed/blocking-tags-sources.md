@@ -2,7 +2,7 @@
 sidebar_position: 3
 ---
 
-# Blocking Tags and Sources
+# Blocking tags and sources
 
 Block tags and sources directly from the feed. Whenever you see a post with a tag/source you wish to block, click on the more options button (⋮) 
 

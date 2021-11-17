@@ -2,7 +2,7 @@
 sidebar_position: 2
 ---
 
-# Advanced Filtering Options
+# Advanced filtering options
 
 You can filter your feed by selecting some option from the menu on the sidebar.
 
