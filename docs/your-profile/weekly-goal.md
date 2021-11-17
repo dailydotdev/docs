@@ -2,7 +2,7 @@
 sidebar_position: 4
 ---
 
-# Weekly Goal
+# Weekly goal
 
 By clicking on the icon in the center you can view the objectives achieved. 
 
