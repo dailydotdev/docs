@@ -49,7 +49,7 @@ From the folder where the docker-compose.yml file is located, type:
 ```
 docker compose up --build
 ```
-The server is available by default on port 3000
+The server is available by default on port 3000.
 
 ## Test it
 ```
