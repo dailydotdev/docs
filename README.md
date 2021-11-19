@@ -11,36 +11,36 @@ Step into the directory:
 cd docs
 ```
 
-Install the dependencies
+Install the dependencies:
 ```
 npm i 
 ```
-if you use yarn, you can alternatively just type 'yarn'
+If you use yarn, you can alternatively just type 'yarn'.
 
-Run the local dev environment
+Run the local dev environment:
 ```
 npm run start
 ```
-if you use yarn, you can use 'yarn start'
+If you use yarn, you can use 'yarn start'.
 
-visit
+Visit:
 ```
 http://localhost:3000
 ```
 
 ## Deployment
 
-Build the project
+Build the project:
 
 ```
 yarn build
 ```
-Run the server
+Run the server:
 
 ```
 yarn serve
 ```
-The server is available by default on port 3000
+The server is available by default on port 3000.
 
 ## Deployment with Docker
 
