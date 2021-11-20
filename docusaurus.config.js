@@ -108,7 +108,7 @@ const config = {
             items: [
               {
                 label: 'Events',
-                to: 'https://www.meetup.com/it-IT/the-monthly-dev-world-class-talks-by-expert-developers/',
+                to: 'https://www.meetup.com/the-monthly-dev-world-class-talks-by-expert-developers/',
               },
               {
                 label: 'Become a contributor',
@@ -123,11 +123,7 @@ const config = {
                 to: 'https://daily.dev/support/content-guidelines',
               },
               {
-                label: 'Write for us',
-                to: 'https://daily.dev/support/submit-a-story',
-              },
-              {
-                label: 'SWAG Store',
+                label: 'Swag Store',
                 to: 'https://store.daily.dev/',
               },
             ],
@@ -151,11 +147,7 @@ const config = {
                 label: 'Media Kit',
                 to: 'https://daily.dev/media-kit',
               },
-              {
-                label: 'FAQ',
-                to: 'https://daily.dev/support',
-              },
-              {
+                            {
                 label: 'Contact',
                 to: 'https://daily.dev/contact',
               },
@@ -193,7 +185,7 @@ const config = {
               },
               {
                 label: 'Product Hunt',
-                to: 'https://www.producthunt.com/posts/daily-dev',
+                to: 'https://www.producthunt.com/posts/daily-dev-2',
               }
             ],
           },
