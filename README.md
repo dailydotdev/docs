@@ -1,6 +1,6 @@
-# 📝daily.dev Documentation
+# 📝 daily.dev Documentation
 
-## 💻Development
+## 💻 Development
 
 ```
 git clone https://github.com/dailydotdev/docs.git
