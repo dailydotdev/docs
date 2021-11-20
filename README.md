@@ -1,4 +1,4 @@
-# daily.dev Documentation
+# daily.dev Documentation📄
 
 ## Development
 
