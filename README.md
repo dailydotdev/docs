@@ -1,6 +1,6 @@
-# daily.dev Documentation📝
+# 📝daily.dev Documentation
 
-## Development💻
+## 💻Development
 
 ```
 git clone https://github.com/dailydotdev/docs.git
@@ -28,7 +28,7 @@ Visit:
 http://localhost:3000
 ```
 
-## Deployment🚀
+## 🚀Deployment
 
 Build the project:
 
@@ -42,7 +42,7 @@ yarn serve
 ```
 The server is available by default on port 3000.
 
-## Deployment with Docker🐳
+## 🐳Deployment with Docker
 
 From the folder where the docker-compose.yml file is located, type:
 
@@ -51,7 +51,7 @@ docker compose up --build
 ```
 The server is available by default on port 3000.
 
-## Test it👨‍💻
+## 👨‍Test it💻
 ```
 docker run -p 3000:3000 francescoxx/dailydev-docs:0.9.3
 ```
