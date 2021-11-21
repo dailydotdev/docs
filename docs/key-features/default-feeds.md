@@ -2,7 +2,7 @@
 sidebar_position: 1
 ---
 
-# Default Feeds
+# Feeds
 
 There are four feeds on daily.dev, and each feed has its own ranking logic:
 
