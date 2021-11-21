@@ -26,7 +26,7 @@ One of the things we're proud of the most, is that we do not do any manual ranki
 
 That way, we can increase the probability that interesting and valuable posts will surface up the feed. However, the ranking system isn't perfect, and we constantly fine-tune it to achieve the optimal results for our readers.
 
-> 💡 *Pro tip:* *Check out the latest release note about [Feed v2.0](https://app.daily.dev/posts/Pua7g-36i).*
+> 💡 *Pro tip:* Check out the latest release note about [Feed v2.0](https://app.daily.dev/posts/Pua7g-36i).
 
 ## Upvoted
 
