@@ -10,7 +10,7 @@ sidebar_position: 1
 
 ### Navigate to the Manage tags menu
 
-The first step would be to open the sidebar by clicking on the ⚙️ icon -> Choose "Manage tags." 
+The first step would be to open the sidebar by clicking on the ⚙️ icon -> Choose "Manage tags" 
 
 Once done, you should be able to see the following menu:
 
@@ -37,6 +37,6 @@ Once on the Manage tags menu, you're going to have the following options:
 
 > Note: Tags might be included in multiple groups. 
 
-### What's next?
+## What's next?
 
 The following guide will show you how to use the [advanced filtering options](/settingyourfeed/advanced-filtering-options.md). This should help you fine-tune the types of content on your feed.
