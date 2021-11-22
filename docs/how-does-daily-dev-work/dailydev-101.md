@@ -24,7 +24,7 @@ We collect articles from more than 400 content sources. A content source can be 
 
 At the current scale of our platform, just being picked doesn't necessarily mean you'll be able to get traffic. Once your article is picked up by daily.dev, it means it's on our feed, but it might be in a high or low position. Obviously, the higher an article is ranked, the more exposure it will get. If you're interested in learning how the ranking works, keep reading.
 
-If you're running a publication aiming to distribute content relevant for developers, please read our [content guidelines](https://daily.dev/support/content-guidelines) to learn more about our new source requests review process.
+> If you're running a publication aiming to distribute content relevant for developers, please read our [content guidelines](../for-content-creators/content-guidelines.md) to learn more about our new source requests review process.
 
 ## How are the articles ranked?
 
@@ -35,7 +35,7 @@ Ranking changes based on the feed that the user is watching. There are four feed
 3. Discussed Feed
 4. Recent Feed
 
-To learn more, please visit our [Default Feeds guide](../key-features/default-feeds.md).
+> To learn more, please visit our [Feeds guide](../key-features/default-feeds.md).
 
 ## How does the filtering work?
 
@@ -43,6 +43,6 @@ That's a great question! Once we've collected and ranked articles, the last proc
 
 The easiest way to start is by using the sidebar to choose tags you want to follow, and the feed will automatically curate relevant content accordingly.
 
-To learn more about filtering, read our doc about [Setting up your feed](**add a link to the guide from the docs**).
+> To learn more about filtering, read our doc about [Setting up your feed](../settingyourfeed/filtering-content-feed.md).
 
 

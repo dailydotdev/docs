@@ -30,7 +30,7 @@ Nowadays, many developers choose to host their blogs on a blogging platform. The
 
 However, to give you an easy head-start, you may want to check out developer blogging platforms such as [Hashnode](https://hashnode.com/), [DEV](https://dev.to/), [Medium](https://medium.com/), or [Hacker Noon](https://hackernoon.com/). All of the platforms were qualified as content sources of daily.dev. 
 
-Note: we are not collecting all the articles published on blogging platforms. Our system will only pick an article from blogging platforms once it has gained enough traction/engagement on those platforms. That's our way to ensure that we source qualified content.
+> Note: we are not collecting **all** the articles published on blogging platforms. Our system will only pick an article from a blogging platform once it has gained enough traction/engagement on it. That's our way to ensure that we source qualified content.
 
 ### Option 3 - Submit a new and original article to daily.dev/blog
 
@@ -38,7 +38,7 @@ One of the sources of daily.dev is our[ own in-house blog](https://daily.dev/blo
 
 ## Getting notified when your article is featured
 
-We've built a system that notifies the authors of articles once their posts are picked up by daily.dev. Learn more about the [features we have to offer for content creators](https://daily.dev/blog/claiming-ownership-on-an-article-you-wrote).
+We've built a system that notifies the authors of articles once their posts are picked up by daily.dev. Learn more about the features we have to offer [for content creators](https://daily.dev/blog/claiming-ownership-on-an-article-you-wrote).
 
 ## Wrap up
 
