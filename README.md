@@ -11,19 +11,19 @@ git clone https://github.com/dailydotdev/docs.git
 cd docs
 ```
 
-Install the dependencies:
+* Install the dependencies:
 ```
 npm i 
 ```
 If you use yarn, you can alternatively just type 'yarn'.
 
-Run the local dev environment:
+* Run the local dev environment:
 ```
 npm run start
 ```
 If you use yarn, you can use 'yarn start'.
 
-Visit:
+* Visit:
 ```
 http://localhost:3000
 ```
