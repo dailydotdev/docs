@@ -4,7 +4,6 @@
 
 ```
 git clone https://github.com/dailydotdev/docs.git
-
 ```
 
 Step into the directory:
