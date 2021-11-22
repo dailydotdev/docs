@@ -4,13 +4,14 @@
 
 ```sh
 git clone https://github.com/dailydotdev/docs.git
-# Cloning into 'docs'...
+
+# Cloning into 'docs'...                                    // Expected result
 # remote: Enumerating objects: 795, done.
 # remote: Counting objects: 100% (795/795), done.
 # remote: Compressing objects: 100% (493/493), done.
 # remote: Total 795 (delta 368), reused 589 (delta 199), pack-reused 0
 # Receiving objects: 100% (795/795), 2.51 MiB | 5.25 MiB/s, done.
-# Resolving deltas: 100% (368/368), done.    // Expected result
+# Resolving deltas: 100% (368/368), done.    
 ```
 
 Step into the directory:
