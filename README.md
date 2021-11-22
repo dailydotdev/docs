@@ -2,7 +2,7 @@
 
 ## 💻 Development
 
-```
+```sh
 git clone https://github.com/dailydotdev/docs.git
 # Cloning into 'docs'...
 remote: Enumerating objects: 795, done.
