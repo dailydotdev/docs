@@ -1,6 +1,6 @@
-# daily.dev Documentation
+# 📝 daily.dev Documentation
 
-## Development
+## 💻 Development
 
 ```
 git clone https://github.com/dailydotdev/docs.git
@@ -11,47 +11,47 @@ Step into the directory:
 cd docs
 ```
 
-Install the dependencies
+Install the dependencies:
 ```
 npm i 
 ```
-if you use yarn, you can alternatively just type 'yarn'
+If you use yarn, you can alternatively just type 'yarn'.
 
-Run the local dev environment
+Run the local dev environment:
 ```
 npm run start
 ```
-if you use yarn, you can use 'yarn start'
+If you use yarn, you can use 'yarn start'.
 
-visit
+Visit:
 ```
 http://localhost:3000
 ```
 
-## Deployment
+## 🚀 Deployment
 
-Build the project
+Build the project:
 
 ```
 yarn build
 ```
-Run the server
+Run the server:
 
 ```
 yarn serve
 ```
-The server is available by default on port 3000
+The server is available by default on port 3000.
 
-## Deployment with Docker
+## 🐳 Deployment with Docker
 
 From the folder where the docker-compose.yml file is located, type:
 
 ```
 docker compose up --build
 ```
-The server is available by default on port 3000
+The server is available by default on port 3000.
 
-## Test it
+## 👨‍💻 Test it
 ```
 docker run -p 3000:3000 francescoxx/dailydev-docs:0.9.3
 ```
