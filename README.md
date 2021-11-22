@@ -6,7 +6,7 @@
 git clone https://github.com/dailydotdev/docs.git
 ```
 
-Step into the directory:
+* Step into the directory:
 ```
 cd docs
 ```
