@@ -2,6 +2,7 @@
 
 ## 💻 Development
 
+* Bullet list
 ```
 git clone https://github.com/dailydotdev/docs.git
 ```
