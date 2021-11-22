@@ -30,12 +30,12 @@ http://localhost:3000
 
 ## 🚀 Deployment
 
-Build the project:
+* Build the project:
 
 ```
 yarn build
 ```
-Run the server:
+* Run the server:
 
 ```
 yarn serve
@@ -44,7 +44,7 @@ The server is available by default on port 3000.
 
 ## 🐳 Deployment with Docker
 
-From the folder where the docker-compose.yml file is located, type:
+* From the folder where the docker-compose.yml file is located, type:
 
 ```
 docker compose up --build
