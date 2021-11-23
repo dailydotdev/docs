@@ -25,7 +25,7 @@ That's what made us build daily.dev.
 
 daily.dev comes both as a browser extension and as a progressive web app. Pick your preferred platform (or just use both), and you're good to go! [Get started here](/getting-started/browser-extension-installation.md). 
 
-### Step 2: Configure your feed 🎯
+### Step 2: Set up your feed 🎯
 
 Once you're in the feed, the ultimate way to stay updated is to [set up your feed](/settingyourfeed/filtering-content-feed.md) according to your interests. That way, you will get the most relevant content for you. 
 
@@ -39,7 +39,7 @@ Sign up is voluntary, but we highly recommend you to [create a profile](/your-pr
 
 ### Step 5: Customize the look and feel 🌈
 
-Make daily.dev look precisely how you want it to be! [Customize](/customize-your-feed/theme.md) the theme, layout, density, and a bunch of other cool preferences. 
+Make daily.dev look precisely how you want it to be! [Customize](/customize-your-feed/layout.md) the theme, layout, density, and a bunch of other cool preferences. 
 
 ### Step 6: Explore behind the scenes 👀
 
