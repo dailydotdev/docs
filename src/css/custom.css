@@ -69,9 +69,9 @@ html[data-theme='dark'] .header-github-link:before {
     no-repeat;
 }
 
-.navbar {
+/* .navbar {
   background-color: #242526;
-}
+} */
 
 .footer--dark {
   --ifm-footer-background-color: #17191F;
