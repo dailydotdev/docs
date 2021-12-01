@@ -26,6 +26,23 @@ At the bottom, you can see all the comments on the post, and they can be upvoted
 
 ![](https://daily-now-res.cloudinary.com/image/upload/v1636467897/docs/disc3.svg)
 
+### Writing comments in markdown
+
+![](https://daily-now-res.cloudinary.com/image/upload/v1638377179/docs/daily.dev_-_Markdown.png)
+
+You can [use markdown](https://changelog.daily.dev/markdown-support-215342) when commenting on articles 🎉 
+
+Including: 
+* Headings 
+* Text formatting like **bold** and *Italic*
+* Lists 
+* Links
+* Images (and even animated GIFs!!!)
+* `inline code`
+* Blockquotes   
+* Code snipetts
+* and more
+
 ## Additional features
 
 To spice up the article page, we built into it some other awesome stuff like:

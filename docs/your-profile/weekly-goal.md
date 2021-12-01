@@ -10,4 +10,6 @@ These are necessary for the generation of the DevCard.
 
 It also displays the current level of DevCard with a preview
 
+>💡 Pro tip: to sync your weekly goal with to your current time zone, go to Account details -> Add time zone.
+
 ![](https://daily-now-res.cloudinary.com/image/upload/v1636632360/docs/weeklygoal1.svg)
