@@ -29,8 +29,7 @@ const config = {
         blog: {
           showReadingTime: true,
           // Please change this to your repo.
-          editUrl:
-            'https://github.com/dailydotdev/docs/edit/main',
+          editUrl: 'https://github.com/dailydotdev/docs/edit/main',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
@@ -100,7 +99,7 @@ const config = {
               {
                 label: 'Changelog',
                 to: 'https://changelog.daily.dev/',
-              }
+              },
             ],
           },
           {
@@ -147,7 +146,7 @@ const config = {
                 label: 'Media Kit',
                 to: 'https://daily.dev/media-kit',
               },
-                            {
+              {
                 label: 'Contact',
                 to: 'https://daily.dev/contact',
               },
@@ -158,9 +157,10 @@ const config = {
               {
                 label: 'Terms',
                 to: 'https://daily.dev/tos',
-              }
+              },
             ],
-          }, {
+          },
+          {
             title: 'Social Links',
             items: [
               {
@@ -186,7 +186,7 @@ const config = {
               {
                 label: 'Product Hunt',
                 to: 'https://www.producthunt.com/posts/daily-dev-2',
-              }
+              },
             ],
           },
         ],
@@ -204,15 +204,6 @@ const config = {
         theme: lightCodeTheme,
         darkTheme: darkCodeTheme,
       },
-      algolia: {
-        // If Algolia did not provide you any appId, use 'BH4D9OD16A'
-        appId: 'BDMLM7I64N',
-
-        // Public API key: it is safe to commit it
-        apiKey: '724aeea3a6bc3a2af4ad7e9789752f2d',
-
-        indexName: 'prod_docs'
-      }
     }),
 };
 
