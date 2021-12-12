@@ -2,7 +2,7 @@
 sidebar_position: 2
 ---
 
-# How to get featured on daily.dev?
+# How to get featured?
 
 ## What will be covered here?
 
