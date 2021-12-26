@@ -56,6 +56,7 @@ In case you’ve missed it in our previous announcements, here’s a brief about
 
 We completely redesigned the profile to fit a new special section for your articles. That’s a great way to show your achievements to the world. And the best part? For every upvote your article earns, you will receive a +1 reputation point!
 
+
 ![](https://daily-now-res.cloudinary.com/image/upload/v1635256617/docs/5f8ee3a319135745f302c017_Nu6I3OBdqhgcFHDNc-r569okaI700t5hFOjsTLvUCM4SeY9wzCxWeYinbNVUHK5W0f8rNQi_0zeEsZHUfdNoJqth8S0IST49uJSyV3j1K6QZpXWThFLpgJ7PprQixE5C09hk6Opc.gif)
 
 ## How to claim ownership of articles you write?
@@ -65,7 +66,7 @@ We completely redesigned the profile to fit a new special section for your artic
 * Step 1 - Go to your profile on daily.dev
 * Step 2 - Click “Account details”
 * Step 3 - Add your Twitter handle
-* Step 4 - [Click here](mailto:support@daily.dev?subject=Add%20my%20articles%20retroactively&body=README%3A%20To%20add%20your%20articles%20retroactively%2C%20please%20reply%20with%20your%20username%20or%20a%20link%20to%20your%20profile%20on%20daily.dev.%20Keep%20in%20mind%20that%20we%20can%20only%20add%20articles%20that%20we're%20already%20picked%20up%20by%20daily.dev.%20Not%20sure%20if%20your%20article%20appeared%20in%20our%20feed%3F%20Try%20searching%20its%20headline%20here%3A%20https%3A%2F%2Fapp.daily.dev%2Fsearch) or email us to [support@daily.dev]((mailto:support@daily.dev?subject=Add%20my%20articles%20retroactively&body=README%3A%20To%20add%20your%20articles%20retroactively%2C%20please%20reply%20with%20your%20username%20or%20a%20link%20to%20your%20profile%20on%20daily.dev.%20Keep%20in%20mind%20that%20we%20can%20only%20add%20articles%20that%20we're%20already%20picked%20up%20by%20daily.dev.%20Not%20sure%20if%20your%20article%20appeared%20in%20our%20feed%3F%20Try%20searching%20its%20headline%20here%3A%20https%3A%2F%2Fapp.daily.dev%2Fsearch))
+* Step 4 - [Click here](mailto:support@daily.dev?subject=Add%20my%20articles%20retroactively&body=README%3A%20To%20add%20your%20articles%20retroactively%2C%20please%20reply%20with%20your%20username%20or%20a%20link%20to%20your%20profile%20on%20daily.dev.%20Keep%20in%20mind%20that%20we%20can%20only%20add%20articles%20that%20we're%20already%20picked%20up%20by%20daily.dev.%20Not%20sure%20if%20your%20article%20appeared%20in%20our%20feed%3F%20Try%20searching%20its%20headline%20here%3A%20https%3A%2F%2Fapp.daily.dev%2Fsearch) or email us to [support@daily.dev](mailto:support@daily.dev?subject=Add%20my%20articles%20retroactively&body=README%3A%20To%20add%20your%20articles%20retroactively%2C%20please%20reply%20with%20your%20username%20or%20a%20link%20to%20your%20profile%20on%20daily.dev.%20Keep%20in%20mind%20that%20we%20can%20only%20add%20articles%20that%20we're%20already%20picked%20up%20by%20daily.dev.%20Not%20sure%20if%20your%20article%20appeared%20in%20our%20feed%3F%20Try%20searching%20its%20headline%20here%3A%20https%3A%2F%2Fapp.daily.dev%2Fsearch)
 
 ## How to get your article picked up by daily.dev?
 
