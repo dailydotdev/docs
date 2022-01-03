@@ -47,7 +47,9 @@ Blocking tags and sources can be done directly from the feed. Whenever you see a
 
 Once clicked, the blocked tags and sources will be removed from your feed.
 
-> 💡 *Pro tip:* if you can't find an article from a specific tag or source you wish to block, try using the [search feature](../key-features/search.md). 
+:::tip
+If you can't find an article from a specific tag or source you wish to block, try using the [search feature](../key-features/search.md). 
+:::
 
 ## How to unblock tags and sources
 
