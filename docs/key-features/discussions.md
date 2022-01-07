@@ -40,7 +40,7 @@ Including:
 * Images (and even animated GIFs!!!)
 * `inline code`
 * Blockquotes   
-* Code snipetts
+* Code snippets
 * and more
 
 ## Additional features

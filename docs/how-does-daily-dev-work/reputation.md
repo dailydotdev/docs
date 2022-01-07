@@ -13,7 +13,7 @@ The most important activities on daily.dev is to read the latest dev news, upvot
 
 **Reputation is a rough measurement of how much the community trusts you.** it is earned by getting positive feedback (as upvotes) from other community members on comments you post and articles you write that got picked up by our feed. 
 
-The more reputation you earn, the more privileges you will gain, and the more tools you'll have access to on daily.dev. That is intentional. We don’t run this site; the community does! Although specific privileges are not announced yet, we encourage you to start build your reputation on the platform, as your points are **publicly visible on your profile.** 
+The more reputation you earn, the more privileges you will gain, and the more tools you'll have access to on daily.dev. That is intentional. We don’t run this site; the community does! Although specific privileges are not announced yet, we encourage you to start building your reputation on the platform, as your points are **publicly visible on your profile.** 
 
 ## How do I earn reputation points?
 

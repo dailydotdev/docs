@@ -31,7 +31,7 @@ If you're running a company blog that has both promotional articles and technica
 1. Go to your feed, either in the [browser extension](../getting-started/browser-extension-installation.md) or in the [web app](https://app.daily.dev)
 2. Click on the left sidebar to open it
 3. Choose the "Suggest new source" option 
-4. Insest a URL of your publication's RSS feed (recommended) or a URL to your publication's homepage
+4. Insert a URL of your publication's RSS feed (recommended) or a URL to your publication's homepage
 5. Click the Submit button and you're good to go
 
 ### Review process

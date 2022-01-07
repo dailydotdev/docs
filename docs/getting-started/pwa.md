@@ -4,7 +4,7 @@ sidebar_position: 1
 
 # Progressive web app
 
-daily.dev is a also a progressive web app! 
+daily.dev is also a progressive web app! 
 
 It's fully-responsive so you can use it on any device!
 
