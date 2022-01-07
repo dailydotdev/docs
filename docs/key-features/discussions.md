@@ -63,6 +63,7 @@ Based on the article's data, daily.dev will also recommend further reading recom
 
 Additionally, we feature some of the most interesting discussions currently available on the platform. That way, you can engage with the community on the hottest topics without going back to the feed.
 
-> 💡 *Pro tip 1:* clicking on a particular row in the [table of contents](https://app.daily.dev/posts/dfK6hCNTe) will open up the article on that specific title. 
-
-> 💡 *Pro tip 2:* clicking on the number of upvoted will display a [list of the users who upvoted the post or comment](https://app.daily.dev/posts/UmneP_B6O).
+:::tip
+* Clicking on a particular row in the [table of contents](https://app.daily.dev/posts/dfK6hCNTe) will open up the article on that specific title. 
+* Clicking on the number of upvoted will display a [list of the users who upvoted the post or comment](https://app.daily.dev/posts/UmneP_B6O).
+:::

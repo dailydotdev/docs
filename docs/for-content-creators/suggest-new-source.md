@@ -22,7 +22,9 @@ We've tried to make this process as simple as possible.
 2. **Create an account** on daily.dev
 3. Make sure your publication has a **public RSS feed**
 
-> 💡 Pro tip: if you're running a company blog that has both promotional articles and technical articles, we highly recommend to separate the technical articles to a dedicated RSS feed. 
+:::tip
+If you're running a company blog that has both promotional articles and technical articles, we highly recommend to separate the technical articles to a dedicated RSS feed.
+:::
 
 ### Submitting your source
 

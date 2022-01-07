@@ -10,7 +10,9 @@ Submitting a new source to daily.dev is a great way to contribute to our communi
 
 We welcome your requests and promise to give it the proper attention. 
 
->💡 Pro tip: Learn [how to submit a new source request](/for-content-creators/suggest-new-source.md). 
+:::info
+Learn [how to submit a new source request](/for-content-creators/suggest-new-source.md). 
+:::
 
 ### What we are looking for?
 
@@ -44,7 +46,9 @@ We welcome your requests and promise to give it the proper attention.
 
 ❌ It includes content that is either illegal, pornographic (including mature in content or overtly sexual), racist, sexist (or otherwise offensive), grotesque (or obscene), inflammatory, and other inappropriate content.
 
-> ❗️ Please note that we kindly ask you not to share copyrighted or trademarked sources. If you did not create the source you are submitting for review, make sure it's publicly accessible for sharing. We will give due credit to the owner.
+:::caution
+Please note that we kindly ask you not to share copyrighted or trademarked sources. If you did not create the source you are submitting for review, make sure it's publicly accessible for sharing. We will give due credit to the owner.
+:::
 
 ## Be respectful to the community
 
