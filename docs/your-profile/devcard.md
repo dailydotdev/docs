@@ -6,7 +6,9 @@ sidebar_position: 5
 
 Show off how many articles you've read, your top read topics and your favorite publications!
 
-![](https://daily-now-res.cloudinary.com/image/upload/v1635253800/docs/416-ab443bb23181aac9a2a98ebe623583d3b3e70dcf.jpg)
+Click the image below for a small video about the topic.
+
+[![](https://daily-now-res.cloudinary.com/image/upload/v1635253800/docs/416-ab443bb23181aac9a2a98ebe623583d3b3e70dcf.jpg)](https://youtu.be/LT712TIwgmQ)
 
 
 Share your DevCard using the hashtag #DevCard
