@@ -50,8 +50,15 @@ That way, we can increase the probability that interesting and valuable posts wi
 ### Sort by date (prev. Recent feed)
 
 :::note
-**The Recent feed is no longer available since v3.11.0.** The good news is that we’re going to introduce a new option to sort your feeds by date! We will open up an new setting to add a sorting option through the `Customize` menu on the sidebar. We will start building it soon, so stay tuned on our [changelog](https://changelog.daily.dev) ⚡️
+**The Recent feed is no longer available since v3.11.0.** But guess who's back?! You asked we built! The Recent Feed is back! Well… we did upgrade it a bit. Keep reading.
 :::
+
+How to activate it?
+1. Go the to "Customize" menu on the sidebar
+2. Switch on the toggle, saying, [Show feed sorting menu](../customize-your-feed/preferences.md)
+3. Go back to the popular feed, and you should see a new sorting option on the upper right corner
+
+![](https://daily-now-res.cloudinary.com/image/upload/v1642427116/docs/Screen_Shot_2022-01-17_at_15.43.51.png)
 
 ## Most upvoted feed
 
