@@ -54,7 +54,7 @@ $ npm run serve
 // or with yarn
 $ yarn serve
 ```
-The server is available by default on port 3000.
+The server is available by default on port `3000`.
 
 ## 🐳 Deployment with Docker
 
@@ -63,7 +63,7 @@ From the folder where the docker-compose.yml file is located, type:
 ```bash
 $ docker compose up --build
 ```
-The server is available by default on port 3000.
+The server is available by default on port `3000`.
 
 ## 👨‍💻 Test it
 ```bash
