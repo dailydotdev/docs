@@ -54,9 +54,10 @@ That way, we can increase the probability that interesting and valuable posts wi
 :::
 
 How to activate it?
-1. Go the to "Customize" menu on the sidebar
-2. Switch on the toggle, saying, [Show feed sorting menu](../customize-your-feed/preferences.md)
-3. Go back to the popular feed, and you should see a new sorting option on the upper right corner
+1. Make sure you’re using the version 3.13.0 or higher of daily.dev’s browser extension. If you’re using the web app, skip this step
+2. Go the to `Customize` menu on the sidebar
+3. Switch on the toggle, saying, [`Show feed sorting menu`](../customize-your-feed/preferences.md)
+4. Go back to the popular feed, and you should see a new sorting option on the upper right corner 👀
 
 ![](https://daily-now-res.cloudinary.com/image/upload/v1642427116/docs/Screen_Shot_2022-01-17_at_15.43.51.png)
 
