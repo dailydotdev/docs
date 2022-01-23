@@ -23,7 +23,9 @@ Once on the Manage tags menu, you're going to have the following options:
 2. **Follow specific tags** within a group. Our team manually curates each group of tags, but you can always select just the tags you're interested in.
 3. **Search** for a specific tag. Didn't find the tag you were looking for, use the search to find your key term -> Click the `+` button to follow this tag
 
-> Wondering how does daily.dev classify articles? Learn more about how we built our [article tagging system](https://daily.dev/blog/how-we-did-it-upgraded-tags-system-for-daily-dev)
+:::info
+Wondering how does daily.dev classify articles? Learn more about how we built our [article tagging system](https://daily.dev/blog/how-we-did-it-upgraded-tags-system-for-daily-dev)
+:::
 
 ### Available tag groups
 

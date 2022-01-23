@@ -25,5 +25,3 @@ Sometimes during the year, some Limited Edition DevCard can be available!
 ![](https://daily-now-res.cloudinary.com/image/upload/v1636632716/docs/devcard20.svg)
 
 You can also add the DevCard to your Github profile or embed it in a website!
-
-https://daily-now-res.cloudinary.com/image/upload/v1636632558/docs/devcard2.svg

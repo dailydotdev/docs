@@ -8,7 +8,9 @@ sidebar_position: 6
 
 To delete your account click on your Profile -> Click on "Acccount Details" -> Scroll down until your reach the `Danger zone` section -> Click "Delete account" 
 
-> 🔴 Important: deleting your account is **unrecoverable and cannot be undone**. 
+:::danger
+Important: deleting your account is **unrecoverable and cannot be undone**.
+::: 
 
 ## What is being deleted exactly?
 

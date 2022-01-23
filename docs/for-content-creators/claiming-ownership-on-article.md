@@ -61,7 +61,9 @@ We completely redesigned the profile to fit a new special section for your artic
 
 ## How to claim ownership of articles you write?
 
-> Keep in mind that we can only add articles that we're already picked up by daily.dev. Not sure if your article appeared in our feed? Try [searching its headline](https://app.daily.dev/search).
+:::note
+Keep in mind that we can only add articles that we're already picked up by daily.dev. Not sure if your article appeared in our feed? Try [searching its headline](https://app.daily.dev/search).
+:::
 
 * Step 1 - Go to your profile on daily.dev
 * Step 2 - Click “Account details”
