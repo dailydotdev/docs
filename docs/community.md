@@ -43,4 +43,4 @@ This is the official LinkedIn page for daily.dev: https://www.linkedin.com/compa
 
 ## Feedback
 
-Do you have any feedback? Question? Feature request? [Submit it here](https://it057218.typeform.com/to/S9p9SVNI)
+Do you have any feedback? Question? Feature request? [Submit it here](https://daily.dev/feedback)

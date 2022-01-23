@@ -6,7 +6,7 @@ sidebar_position: 1
 
 There are four feeds on daily.dev, and each feed has its own ranking logic:
 
-1. My feed (beta)
+1. My feed
 2. Popular feed 
 3. Most upvoted feed
 4. Best discussions feed
@@ -15,16 +15,10 @@ There are four feeds on daily.dev, and each feed has its own ranking logic:
 
 ## My feed
 
-:::note
-My feed is currently in beta. Once the beta period ends, we will open it up to everyone!
-::: 
+### Creating your personal feed
+If you are new to daily.dev then you might want to know that the first thing we strongly recommend is filtering your feed. That way, you should get relevant content that would help you stay updated. Click on `Create my feed` and then [follow this guide](../settingyourfeed/filtering-content-feed.md).
 
-### 
-
-### Creating my feed for the first time
-If you are new to daily.dev then you might want to know that the first thing we strongly recommend is filtering your feed. That way, you should get relevant content that would help you stay updated. Click on Create my feed and then [follow this guide](../settingyourfeed/filtering-content-feed.md).
-
-### Configuring my feed
+### Configuring your personal feed
 
 :::info
 Wondering where your feed filters are? No worries, we simply relocated them to `My feed` instead of the `Popular feed` where they used to be up until now. Your feed settings and filters remain the same as you had in previous versions. 
