@@ -11,7 +11,7 @@ daily.dev provides all developer news in one place. Get a feed of the hottest de
 [![Daily dev banner](https://daily-now-res.cloudinary.com/image/upload/v1636643041/docs/7cae656b-e2cd-4939-b136-684663c97347.jpg)](https://youtu.be/igZCEr3HwCg)
 
 ### Staying up to date takes a lot of time and effort
-‍
+
 It's essential for every developer, yet it's not a simple thing at all! Why?
 1. There are so many publications
 2. Low-quality content is all around
@@ -23,11 +23,11 @@ That's what made us build daily.dev.
 
 ### Step 1: Install 🚀
 
-daily.dev comes both as a browser extension and as a progressive web app. Pick your preferred platform (or just use both), and you're good to go! [Get started here](/getting-started/browser-extension-installation.md). 
+daily.dev comes both as a [browser extension](/getting-started/browser-extension-installation.md) and as a [progressive web app](/getting-started/pwa.md). Pick your preferred platform (or just use them both), and you're good to go! 
 
-### Step 2: Set up your feed 🎯
+### Step 2: Set up your perosnal feed 🎯
 
-Once you're in the feed, the ultimate way to stay updated is to [set up your feed](/settingyourfeed/filtering-content-feed.md) according to your interests. That way, you will get the most relevant content for you. 
+Once you're in, the ultimate way to stay updated is to [create your personal feed](/settingyourfeed/filtering-content-feed.md). 
 
 ### Step 3: Engage with other developers 👏
 

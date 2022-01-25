@@ -7,7 +7,9 @@ sidebar_position: 3
 
 The most important activities on daily.dev is to read the latest dev news, upvote and comment. None of which require you to have reputation. 
 
-> If you’re new to daily.dev, we recommend to first spend time in [setting up your feed.](../settingyourfeed/filtering-content-feed.md) Once you get comfortable with your feed settings, go ahead, and expand your participation in other areas. 
+:::tip
+If you’re new to daily.dev, we recommend to first spend time in [setting up your feed.](../settingyourfeed/filtering-content-feed.md) Once you get comfortable with your feed settings, go ahead, and expand your participation in other areas. 
+:::
 
 ## What is reputation?
 
