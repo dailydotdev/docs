@@ -25,5 +25,5 @@ Open the web app on your mobile Safari browser, tap the Share button, then tap `
 ### How can I add daily.dev to my mobile home screen on Android?
 
 Android users can choose between the following options:
-1. Instal daily.dev's Android app directly from [Google Play](https://play.google.com/store/apps/details?id=dev.daily)
+1. Install daily.dev's Android app directly from [Google Play](https://play.google.com/store/apps/details?id=dev.daily)
 2. Manually add daily.dev to the mobile homepage ([Guide](https://support.google.com/chrome/answer/9658361?hl=en&co=GENIE.Platform%3DAndroid))
