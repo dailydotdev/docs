@@ -18,13 +18,13 @@ We've tried to make this process as simple as possible.
 
 ### Prerequisites
 
-1. Please read our [content guidelines](/for-content-creators/content-guidelines.md) carefully and make sure your publication meets the criteria. 
+1. Please read our [content guidelines](/for-content-creators/content-guidelines.md) carefully and ensure your publication meets the criteria. 
 2. Register to daily.dev
-3. Create a [perosnal feed](../key-features/default-feeds.md)using the sidebar
+3. Create a [personal feed](../key-features/default-feeds.md) using the sidebar
 4. Make sure your publication has a public RSS feed
 
 :::tip
-If you're running a company blog that has both promotional articles and technical articles, we highly recommend to separate the technical articles to a dedicated RSS feed.
+If you're running a company blog with both promotional and technical articles, we highly recommend separating the technical articles to a dedicated RSS feed.
 :::
 
 ### Submitting your source
@@ -34,7 +34,7 @@ If you're running a company blog that has both promotional articles and technica
 3. Click on the feed filters icon (see screenshot below)
 4. Choose the `Suggest new source` option 
 5. Insert a URL of your publication's RSS feed (recommended) or a URL to your publication's homepage
-6. Click the `Submit` button and you're good to go
+6. Click the `Submit` button, and you're good to go
 
 ![](https://daily-now-res.cloudinary.com/image/upload/v1643181171/docs/Screen_Shot_2022-01-26_at_9.11.21.png)
 
