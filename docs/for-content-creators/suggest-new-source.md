@@ -18,21 +18,25 @@ We've tried to make this process as simple as possible.
 
 ### Prerequisites
 
-1. Please read our [content guidelines](/for-content-creators/content-guidelines.md) carefully and **make sure your publication meets the criteria**. 
-2. **Create an account** on daily.dev
-3. Make sure your publication has a **public RSS feed**
+1. Please read our [content guidelines](/for-content-creators/content-guidelines.md) carefully and ensure your publication meets the criteria. 
+2. Register to daily.dev
+3. Create a [personal feed](../key-features/default-feeds.md) using the sidebar
+4. Make sure your publication has a public RSS feed
 
 :::tip
-If you're running a company blog that has both promotional articles and technical articles, we highly recommend to separate the technical articles to a dedicated RSS feed.
+If you're running a company blog with both promotional and technical articles, we highly recommend separating the technical articles to a dedicated RSS feed.
 :::
 
 ### Submitting your source
 
 1. Go to your feed, either in the [browser extension](../getting-started/browser-extension-installation.md) or in the [web app](https://app.daily.dev)
-2. Click on the left sidebar to open it
-3. Choose the "Suggest new source" option 
-4. Insert a URL of your publication's RSS feed (recommended) or a URL to your publication's homepage
-5. Click the Submit button and you're good to go
+2. [Create a personal feed](../key-features/default-feeds.md). If you already have one, skip this step
+3. Click on the feed filters icon (see screenshot below)
+4. Choose the `Suggest new source` option 
+5. Insert a URL of your publication's RSS feed (recommended) or a URL to your publication's homepage
+6. Click the `Submit` button, and you're good to go
+
+![](https://daily-now-res.cloudinary.com/image/upload/v1643181171/docs/Screen_Shot_2022-01-26_at_9.11.21.png)
 
 ### Review process
 
