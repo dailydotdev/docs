@@ -42,17 +42,14 @@ For Mac users: CMD⌘+SHIFT⇧+B
 
 Click on the three dots (⠇) on the top right corner of your Google Chrome browser. Go to Bookmarks > Show Bookmarks Bar.
 
-### Showing shortcuts to Chrome's most visited sites
+### Enabling Chrome's most visited sites and custom shortcuts
 
-To add shortcuts of the most visited site to daily.dev, click on the `Show most visited sites` button:
+To add shortcuts of the most visited site to daily.dev, click on the `Add shortcuts` button:
 
-![](https://daily-now-res.cloudinary.com/image/upload/v1636448767/docs/mostrecent1.jpg)
+![](https://daily-now-res.cloudinary.com/image/upload/v1643291898/docs/Screen_Shot_2022-01-27_at_15.55.57.png)
 
-Once you clicked, you should see this popup click on "Next". 
+Once you clicked, you will see the following options:
+1. Enable Chrome's most visited sites
+2. Configure custom shortcuts
 
-![](https://daily-now-res.cloudinary.com/image/upload/v1636449553/docs/newmostrecent2.jpg)
-
-Now the most visited sites will be shown in the top-right corner of the feed.
-
-![](https://daily-now-res.cloudinary.com/image/upload/v1636449715/docs/newmostrecent3.jpg)
-
+![](https://daily-now-res.cloudinary.com/image/upload/v1643291897/docs/Screen_Shot_2022-01-27_at_15.54.53.png)
