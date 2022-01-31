@@ -16,6 +16,6 @@ With the new reading history, you'll be able to access all of those articles you
 
 There are two options:
 1. Go to https://app.daily.dev/history
-2. Click on your profile -> Choose "Reading history"
+2. Click 'Reading history' using the sidebar
 
-![](https://daily-now-res.cloudinary.com/image/upload/v1637591226/docs/489-07c6897efac5386079316fdebcc4abc04b04758b.jpg)
+![](https://daily-now-res.cloudinary.com/image/upload/v1643293972/docs/Screen_Shot_2022-01-27_at_16.31.01.png)
