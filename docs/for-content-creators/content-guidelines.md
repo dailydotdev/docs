@@ -20,7 +20,7 @@ Learn [how to submit a new source request](/for-content-creators/suggest-new-sou
 
 ✅ Sources that are generating exciting and professional content.
 
-✅ Sources that publish new content regularly (at least once a week).
+✅ Sources that publish new content regularly.
 
 ✅ Sources that have published a substantial amount of content to date.
 
