@@ -6,11 +6,21 @@ sidebar_position: 1
 
 ## GitHub
 
+A very interesting feature of shareable bookmarks is that of being able to integrate, in real time, the list of bookmarks on your GitHub profile. 
+
+In the image below the final result of how they will be show.
+
+![](https://daily-now-res.cloudinary.com/image/upload/v1644219700/docs/bookmarksGithub12.png)
+
+### GitHub Integration procedure
+
+To integrate your Bookmarks with GitHub, you need to follow the steps below:
+
 - In the bookmarks section, click on "Share Bookmarks"
 
 ![](https://daily-now-res.cloudinary.com/image/upload/v1644219700/docs/bookmarksGithub1.png)
 
-- Set it to public mode, then copy the link below
+- Set it to public mode, then copy the link below by clicking on the "Copy link" icon next to it.
 
 ![](https://daily-now-res.cloudinary.com/image/upload/v1644219700/docs/bookmarksGithub2.png)
 
@@ -78,3 +88,5 @@ jobs:
 The GitHub action is planned to run every work. thisa can be changed by adjusting the cron part in the daily.dev-bookmarks.yml file.
 
 ![](https://daily-now-res.cloudinary.com/image/upload/v1644219700/docs/bookmarksGithub12.png)
+
+Well done! You have successfully integrated your bookmarks with GitHub.
