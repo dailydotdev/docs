@@ -15,7 +15,7 @@ daily.dev provides all developer news in one place. Get a feed of the hottest de
 It's essential for every developer, yet it's not a simple thing at all! Why?
 1. There are so many publications
 2. Low-quality content is all around
-3.  The tech world is rapidly changing
+3. The tech world is rapidly changing
 
 That's what made us build daily.dev.
 
@@ -25,7 +25,7 @@ That's what made us build daily.dev.
 
 daily.dev comes both as a [browser extension](/getting-started/browser-extension-installation.md) and as a [progressive web app](/getting-started/pwa.md). Pick your preferred platform (or just use them both), and you're good to go! 
 
-### Step 2: Set up your perosnal feed 🎯
+### Step 2: Set up your personal feed 🎯
 
 Once you're in, the ultimate way to stay updated is to [create your personal feed](/settingyourfeed/filtering-content-feed.md). 
 
