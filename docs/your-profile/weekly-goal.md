@@ -44,18 +44,22 @@ To sync your Weekly Goal with your current time zone, go to Account details -> A
 
 In your Weekly Reading Goal popup, we also made it easier to understand what type of content you are reading! Since daily.dev is all about staying up to date, we thought it would be nice to show how updated you are based on the tags you read! Check it out here:
 
+![](https://daily-now-res.cloudinary.com/image/upload/v1644761668/docs/Screen_Shot_2022-02-13_at_16.14.20.png)
+
 ## Where do you see the ranks you've earned?
 
 All the ranks you earned will appear **on your profile** (assuming you're a registered member of our community)!
 
 In your profile you'll be able to see:
-1. All the ranks you earned over time
-2. Your reading days by tags you read
-3. A GitHub-style matrix of the articles you read
+1. All the **ranks you earned** over time
+2. Your **top tags** counted by reading days
+3. A GitHub-style matrix of the **articles you read**
 
 :::tip
 Try to use the dropdown menu to change the date range in the `Activity` section of your profile. Using this option, you will see how your performance changed over time.
 :::
+
+![](https://daily-now-res.cloudinary.com/image/upload/v1644761730/docs/Upgraded_personal_stats.png)
 
 ## Opt out from the Weekly Goal
 
