@@ -8,6 +8,8 @@ sidebar_position: 4
 We recently applied a significant change to the Weekly Goal, resulting in a misalignment of goals between the Web App and the Browser Extension. To fix it, make sure you update your browser extension to v3.15.0 or later.
 :::
 
+![](https://daily-now-res.cloudinary.com/image/upload/v1644761151/docs/New_Ranks.png)
+
 ## What is the Weekly Goal?
 
 Staying up to date requires us to **form a habit**. With daily.dev, creating such a habit is easier than ever before since you get all the content you need in one place! We built some extra stuff to help make this habit a bit more fun! That's what we call `Weekly Goals`!
