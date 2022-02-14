@@ -9,8 +9,13 @@ sidebar_position: 3
 Adjusting your feed is designed to be straightforward. But sometimes, there are specific tags or sources that you just don't want to see at all. This is where blocking plays an important role. 
 
 Blocking allows you to:
-1. Remove all articles that contain a **specific tag**
-2. Remove all articles that come from a **specific source**
+1. Remove all articles that contain a **specific tag** 
+2. Remove all articles that come from a **specific source** 
+
+:::info
+Please note that **blocking is only applied on articles that are displayed on My Feed**. Other feeds like, Popular, Most Upvoted and Best Discussions are aimed at helping you to discover new content. Therefore, they might still display articles containting tags and sources you blocked. To take full advantage of the blocking features, please [set up your personal feed](../key-features/default-feeds.md).
+:::
+
 
 ### Blocking tags
 
