@@ -50,7 +50,7 @@ on:
   workflow_dispatch:
 
 jobs:
-  daily.dev-bookmarks:
+  daily-dev-bookmarks:
     name: Update this repo's README with latest bookmarks from daily.dev
     runs-on: ubuntu-latest
     steps:
@@ -78,7 +78,7 @@ jobs:
 - Commit the Readme.md file
 - Check if the README file has been updated
 
-- Run the workflow  `daily.dev-bookmarks`
+- Run the workflow  `daily-dev-bookmarks`
 
 ![](https://daily-now-res.cloudinary.com/image/upload/v1644219700/docs/bookmarksGithub9.png)
 
