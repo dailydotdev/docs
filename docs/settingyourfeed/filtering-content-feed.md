@@ -8,13 +8,17 @@ sidebar_position: 1
 
 **Filtering your feed is probably the most powerful feature of daily.dev**. Since it's all about staying updated with zero effort, making that extra mile to configure your feed would surely pay off. Let's learn how to get it done!
 
-### Navigate to the Manage tags menu
+### Click the button at the top of the page to get started!
 
-The first step would be to open the sidebar by clicking on the ⚙️ icon -> Choose "Manage tags" 
+If this is the first time you use daily.dev, click on the button at the top of the page to get started.
 
-Once done, you should be able to see the following menu:
+:::caution
+The Tags and blocks only affect "MY Feed". They **NOT** affect the other feeds: Popular, Most Upvoted, Best discussions.
+:::
 
-![](https://daily-now-res.cloudinary.com/image/upload/v1636620503/docs/tags1.svg)
+This is how your app should look like:
+
+![](https://daily-now-res.cloudinary.com/image/upload/v1646139190/docs/myfeed1_1.21.1.jpg)
 
 ### Choose tags
 
