@@ -11,9 +11,15 @@ There are four feeds on daily.dev, and each feed has its own ranking logic:
 3. Most upvoted feed
 4. Best discussions feed
 
-![](https://daily-now-res.cloudinary.com/image/upload/v1641896166/docs/87532f59-b548-40b4-9f3d-c93043196a81.png)
+Do you prefer a video version? here is a 6 minutes video that will explain all of them one by one
+
+[![](https://daily-now-res.cloudinary.com/image/upload/v1646307729/docs/image.png)](https://youtu.be/-NIuN8m5Pe8)
+
+
 
 ## My feed
+
+![](https://daily-now-res.cloudinary.com/image/upload/v1641896166/docs/87532f59-b548-40b4-9f3d-c93043196a81.png)
 
 ### Creating your personal feed
 If you are new to daily.dev then you might want to know that the first thing we strongly recommend is filtering your feed. That way, you should get relevant content that would help you stay updated. Click on `Create my feed` and then [follow this guide](../settingyourfeed/filtering-content-feed.md).
