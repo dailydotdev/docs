@@ -6,7 +6,7 @@ sidebar_position: 3
 
 ## What is a discussion?
 
-Discussions are a great way to get engaged with the community around various topics! This feature is here to help add extra context to every post. 
+Discussions are the great way to get engaged with the community around various topics! This feature is here to help by adding extra context to every post. 
 
 We love this feature since it helps us surface insights from people who have already read the article. Such insights vary widely and range from TLDRs, references to follow-up articles, opinions, and more.
 
@@ -45,11 +45,11 @@ Including:
 
 ## Additional features
 
-To spice up the article page, we built into it some other awesome stuff like:
+To spice up the article page, we have also built some other awesome stuff like:
 
 ### Article meta data
 
-All the details about this article, including title, publish date, reading time, tags, etc.
+All the details about this article including title, publish date, reading time, tags, etc.
 
 ### Table of contents
 
@@ -57,7 +57,7 @@ daily.dev uses the headings in each article to build an automatic table of conte
 
 ### Suggested similar posts
 
-Based on the article's data, daily.dev will also recommend further reading recommendations. 
+Based on the article's data, daily.dev also recommends further reading recommendations. 
 
 ### Featured discussions
 
