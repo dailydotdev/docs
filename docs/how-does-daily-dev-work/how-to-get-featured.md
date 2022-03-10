@@ -14,7 +14,6 @@ Practically there are three primary ways you can get featured on daily.dev:
 
 1. Publish guest articles on well-known publications
 2. Publish articles on developer blogging platforms
-3. Publish a new and original article on our blog
 
 ### Option 1 - Publish guest articles on well-known publications
 
@@ -33,10 +32,6 @@ However, to give you an easy head-start, you may want to check out developer blo
 :::note
 We are not collecting **all** the articles published on blogging platforms. Our system will only pick an article from a blogging platform once it has gained enough traction/engagement on it. That's our way to ensure that we source qualified content.
 :::
-
-### Option 3 - Submit a new and original article to daily.dev/blog
-
-One of the sources of daily.dev is our[ own in-house blog](https://daily.dev/blog). Here's the process of [how to submit a story to our blog](https://daily.dev/submit-a-story). Please read the instructions carefully before submitting a guest post.
 
 ## Getting notified when your article is featured
 
