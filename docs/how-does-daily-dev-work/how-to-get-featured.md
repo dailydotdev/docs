@@ -10,7 +10,7 @@ One of the most common questions we get from our community is "how to get my art
 
 ## How to get your article picked up?
 
-Practically there are three primary ways you can get featured on daily.dev:
+Practically there are two primary ways you can get featured on daily.dev:
 
 1. Publish guest articles on well-known publications
 2. Publish articles on developer blogging platforms
