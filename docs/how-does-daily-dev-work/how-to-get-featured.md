@@ -4,6 +4,11 @@ sidebar_position: 2
 
 # How to get featured?
 
+Do you prefer a video version? here is a 3 minutes video for you
+
+[![](https://daily-now-res.cloudinary.com/image/upload/v1647589793/docs/how-to-get-featured-youtube.png)](https://youtu.be/sRwoLWDIYCI)
+
+
 ## What will be covered here?
 
 One of the most common questions we get from our community is "how to get my article picked up by daily.dev?". In this post, I'll cover a few ways and best practices that you can use to get a chance to be featured on daily.dev.

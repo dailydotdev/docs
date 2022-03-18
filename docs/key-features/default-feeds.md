@@ -13,7 +13,7 @@ There are four feeds on daily.dev, and each feed has its own ranking logic:
 
 Do you prefer a video version? here is a 6 minutes video that will explain all of them one by one
 
-[![](https://daily-now-res.cloudinary.com/image/upload/v1646307729/docs/image.png)](https://youtu.be/-NIuN8m5Pe8)
+[![](https://daily-now-res.cloudinary.com/image/upload/v1647589793/docs/feeds-youtube.png)](https://youtu.be/-NIuN8m5Pe8)
 
 
 
