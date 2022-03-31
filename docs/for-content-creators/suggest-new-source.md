@@ -14,6 +14,10 @@ Learn more about [how does daily.dev work](../how-does-daily-dev-work/dailydev-1
 
 ## How to submit a new source request?
 
+Do you prefer a video version? here is a 3 minutes video for you
+
+[![](https://daily-now-res.cloudinary.com/image/upload/v1648737352/docs/FEEDS_2.png)](https://youtu.be/r1IIWf6ApJc)
+
 We've tried to make this process as simple as possible. 
 
 ### Prerequisites
@@ -51,7 +55,7 @@ You can expect to receive the following notifications by email:
 
 ### What happens after my source was approved?
 
-Once it was approved, every new post that will be published under this source will be collected by the daily.dev feed. It might take a few days until it fully synced, so keep that in mind.
+If it gets approved, every new post that is published by this source will be collected by daily.dev, analysed, and if it is suitable will be added to the feed. It might take a few days until it is fully synced, so please bear that in mind.
 
 ### My source request got rejected, Can I submit it again?
 
