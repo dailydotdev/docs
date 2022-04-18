@@ -13,7 +13,8 @@
    */
   /* --site-primary-hue-saturation: 167, 68%; */
   --site-primary-hue-saturation: 1, 1%;
-  --site-primary-hue-saturation-light: 167, 56%; /* do we really need this extra one? */
+  --site-primary-hue-saturation-light: 167, 56%;
+  /* do we really need this extra one? */
 
   --ifm-color-primary: hsl(var(--site-primary-hue-saturation), 45%);
   --ifm-color-primary-dark: hsl(var(--site-primary-hue-saturation), 41%);
@@ -21,15 +22,11 @@
   --ifm-color-primary-darkest: hsl(var(--site-primary-hue-saturation), 32%);
 
   --ifm-color-primary-light: hsl(var(--site-primary-hue-saturation-light), 54%);
-  --ifm-color-primary-lighter: hsl(
-    var(--site-primary-hue-saturation-light),
-    62%
-  );
-  --ifm-color-primary-lightest: hsl(
-    var(--site-primary-hue-saturation-light),
-    73%
-  );
-  
+  --ifm-color-primary-lighter: hsl(var(--site-primary-hue-saturation-light),
+      62%);
+  --ifm-color-primary-lightest: hsl(var(--site-primary-hue-saturation-light),
+      73%);
+
   --ifm-color-feedback-background: #fff;
 }
 
@@ -60,13 +57,11 @@ html[data-theme='dark'] .docusaurus-highlight-code-line {
   width: 24px;
   height: 24px;
   display: flex;
-  background: url("data:image/svg+xml,%3Csvg viewBox='0 0 24 24' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath d='M12 .297c-6.63 0-12 5.373-12 12 0 5.303 3.438 9.8 8.205 11.385.6.113.82-.258.82-.577 0-.285-.01-1.04-.015-2.04-3.338.724-4.042-1.61-4.042-1.61C4.422 18.07 3.633 17.7 3.633 17.7c-1.087-.744.084-.729.084-.729 1.205.084 1.838 1.236 1.838 1.236 1.07 1.835 2.809 1.305 3.495.998.108-.776.417-1.305.76-1.605-2.665-.3-5.466-1.332-5.466-5.93 0-1.31.465-2.38 1.235-3.22-.135-.303-.54-1.523.105-3.176 0 0 1.005-.322 3.3 1.23.96-.267 1.98-.399 3-.405 1.02.006 2.04.138 3 .405 2.28-1.552 3.285-1.23 3.285-1.23.645 1.653.24 2.873.12 3.176.765.84 1.23 1.91 1.23 3.22 0 4.61-2.805 5.625-5.475 5.92.42.36.81 1.096.81 2.22 0 1.606-.015 2.896-.015 3.286 0 .315.21.69.825.57C20.565 22.092 24 17.592 24 12.297c0-6.627-5.373-12-12-12'/%3E%3C/svg%3E")
-    no-repeat;
+  background: url("data:image/svg+xml,%3Csvg viewBox='0 0 24 24' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath d='M12 .297c-6.63 0-12 5.373-12 12 0 5.303 3.438 9.8 8.205 11.385.6.113.82-.258.82-.577 0-.285-.01-1.04-.015-2.04-3.338.724-4.042-1.61-4.042-1.61C4.422 18.07 3.633 17.7 3.633 17.7c-1.087-.744.084-.729.084-.729 1.205.084 1.838 1.236 1.838 1.236 1.07 1.835 2.809 1.305 3.495.998.108-.776.417-1.305.76-1.605-2.665-.3-5.466-1.332-5.466-5.93 0-1.31.465-2.38 1.235-3.22-.135-.303-.54-1.523.105-3.176 0 0 1.005-.322 3.3 1.23.96-.267 1.98-.399 3-.405 1.02.006 2.04.138 3 .405 2.28-1.552 3.285-1.23 3.285-1.23.645 1.653.24 2.873.12 3.176.765.84 1.23 1.91 1.23 3.22 0 4.61-2.805 5.625-5.475 5.92.42.36.81 1.096.81 2.22 0 1.606-.015 2.896-.015 3.286 0 .315.21.69.825.57C20.565 22.092 24 17.592 24 12.297c0-6.627-5.373-12-12-12'/%3E%3C/svg%3E") no-repeat;
 }
 
 html[data-theme='dark'] .header-github-link:before {
-  background: url("data:image/svg+xml,%3Csvg viewBox='0 0 24 24' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath fill='white' d='M12 .297c-6.63 0-12 5.373-12 12 0 5.303 3.438 9.8 8.205 11.385.6.113.82-.258.82-.577 0-.285-.01-1.04-.015-2.04-3.338.724-4.042-1.61-4.042-1.61C4.422 18.07 3.633 17.7 3.633 17.7c-1.087-.744.084-.729.084-.729 1.205.084 1.838 1.236 1.838 1.236 1.07 1.835 2.809 1.305 3.495.998.108-.776.417-1.305.76-1.605-2.665-.3-5.466-1.332-5.466-5.93 0-1.31.465-2.38 1.235-3.22-.135-.303-.54-1.523.105-3.176 0 0 1.005-.322 3.3 1.23.96-.267 1.98-.399 3-.405 1.02.006 2.04.138 3 .405 2.28-1.552 3.285-1.23 3.285-1.23.645 1.653.24 2.873.12 3.176.765.84 1.23 1.91 1.23 3.22 0 4.61-2.805 5.625-5.475 5.92.42.36.81 1.096.81 2.22 0 1.606-.015 2.896-.015 3.286 0 .315.21.69.825.57C20.565 22.092 24 17.592 24 12.297c0-6.627-5.373-12-12-12'/%3E%3C/svg%3E")
-    no-repeat;
+  background: url("data:image/svg+xml,%3Csvg viewBox='0 0 24 24' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath fill='white' d='M12 .297c-6.63 0-12 5.373-12 12 0 5.303 3.438 9.8 8.205 11.385.6.113.82-.258.82-.577 0-.285-.01-1.04-.015-2.04-3.338.724-4.042-1.61-4.042-1.61C4.422 18.07 3.633 17.7 3.633 17.7c-1.087-.744.084-.729.084-.729 1.205.084 1.838 1.236 1.838 1.236 1.07 1.835 2.809 1.305 3.495.998.108-.776.417-1.305.76-1.605-2.665-.3-5.466-1.332-5.466-5.93 0-1.31.465-2.38 1.235-3.22-.135-.303-.54-1.523.105-3.176 0 0 1.005-.322 3.3 1.23.96-.267 1.98-.399 3-.405 1.02.006 2.04.138 3 .405 2.28-1.552 3.285-1.23 3.285-1.23.645 1.653.24 2.873.12 3.176.765.84 1.23 1.91 1.23 3.22 0 4.61-2.805 5.625-5.475 5.92.42.36.81 1.096.81 2.22 0 1.606-.015 2.896-.015 3.286 0 .315.21.69.825.57C20.565 22.092 24 17.592 24 12.297c0-6.627-5.373-12-12-12'/%3E%3C/svg%3E") no-repeat;
 }
 
 /* .navbar {
@@ -132,33 +127,25 @@ html[data-theme='dark'] .DocSearch {
   --docsearch-hit-background: var(--ifm-color-emphasis-100);
   /* Footer */
   --docsearch-footer-background: var(--ifm-background-surface-color);
-  --docsearch-key-gradient: linear-gradient(
-    -26.5deg,
-    var(--ifm-color-emphasis-200) 0%,
-    var(--ifm-color-emphasis-100) 100%
-  );
+  --docsearch-key-gradient: linear-gradient(-26.5deg,
+      var(--ifm-color-emphasis-200) 0%,
+      var(--ifm-color-emphasis-100) 100%);
 }
 
 div[class^='announcementBar_'] {
-  --site-announcement-bar-stripe-color1: hsl(
-    var(--site-primary-hue-saturation),
-    85%
-  );
-  --site-announcement-bar-stripe-color2: hsl(
-    var(--site-primary-hue-saturation),
-    95%
-  );
-  background: repeating-linear-gradient(
-    35deg,
-    var(--site-announcement-bar-stripe-color1),
-    var(--site-announcement-bar-stripe-color1) 20px,
-    var(--site-announcement-bar-stripe-color2) 10px,
-    var(--site-announcement-bar-stripe-color2) 40px
-  );
+  --site-announcement-bar-stripe-color1: hsl(var(--site-primary-hue-saturation),
+      85%);
+  --site-announcement-bar-stripe-color2: hsl(var(--site-primary-hue-saturation),
+      95%);
+  background: repeating-linear-gradient(35deg,
+      var(--site-announcement-bar-stripe-color1),
+      var(--site-announcement-bar-stripe-color1) 20px,
+      var(--site-announcement-bar-stripe-color2) 10px,
+      var(--site-announcement-bar-stripe-color2) 40px);
   font-weight: bold;
 }
 
-.red > a {
+.red>a {
   color: red;
 }
 
@@ -179,47 +166,348 @@ img[src="/img/logo.png"] {
 
 /* styling to bring inline with daily.dev style guidelines */
 
-:root{
-   --dd-h1-font-size: 1.5rem;
-   --dd-h2-font-size: 1.25rem;
-   --dd-h3-font-size: 1.0625rem;
+:root {
 
-   --dd-mar-mutiplier-top-1: 1.66666;
-   --dd-mar-mutiplier-bot-1: 1.16666;
-
-   --dd-mar-mutiplier-top-2: 1.6;
-   --dd-mar-mutiplier-bot-2: 1.2;
+  /* daily.dev company colours by name */
+  /* for light themes use "60" for backgrounds */
+  /* for dark themes use "40" for backgrounds */
 
 
+  --white: #ffffff;
+  --black: #000000;
+
+
+  /* dark grey - "pepper" */
+  /* color: #ffffff; */
+  --pepper10: #525866;
+  --pepper20: #494E5B;
+  --pepper30: #404551;
+  --pepper40: #383C47;
+  --pepper50: #2D313A;
+  --pepper60: #22262D;
+  --pepper70: #1C1F26;
+  --pepper80: #17191F;
+  --pepper90: #0E1217;
+
+  /* light grey / very light blue - "salt" */
+  /* color: --pepper90 / #0E1217 */
+  --salt10: #F5F8FC;
+  --salt20: #EDF0F7;
+  --salt30: #E4E9F2;
+  --salt40: #DBE1ED;
+  --salt50: #CFD6E6;
+  --salt60: #C2CADE;
+  --salt70: #B9C2D9;
+  --salt80: #B0BBD4;
+  --salt90: #A8B3CF;
+
+  /* blues - "water" */
+  /* color: --pepper90 / #0E1217 */
+  --water10: #68A6FC;
+  --water20: #5C9BFA;
+  --water30: #508CF9;
+  --water40: #427EF7;
+  /* color: #ffffff; */
+  --water50: #3169F5;
+  --water60: #2556ED;
+  --water70: #1D49E6;
+  --water80: #153CE0;
+  --water90: #0D31D9;
+
+  /* dark purples - "onion" */
+  /* color: --pepper90 / #0E1217 */
+  --onion10: #9D70F8;
+  --onion20: #8D62F4;
+  /* color: #ffffff; */
+  --onion30: #8055F0;
+  --onion40: #7147ED;
+  --onion50: #5F37E9;
+  --onion60: #4E2CD7;
+  --onion70: #4325C8;
+  --onion80: #3B1EBA;
+  --onion90: #3319AD;
+
+  /* pinks - "cabbage" */
+  /* color: --pepper90 / #0E1217 */
+  --cabbage10: #E669FB;
+  --cabbage20: #E05CF8;
+  --cabbage30: #D74CF6;
+  --cabbage40: #CE3DF3;
+  --cabbage50: #C029F0;
+  /* color: #ffffff; */
+  --cabbage60: #AC1DE4;
+  --cabbage70: #9E15D9;
+  --cabbage80: #900DCF;
+  --cabbage90: #8505C4;
+
+  /* hot red / pink - "bacon" */
+  /* color: --pepper90 / #0E1217 */
+  --bacon10: #FE7AB6;
+  --bacon20: #FD6EA9;
+  --bacon30: #FD619D;
+  --bacon40: #FC538D;
+  --bacon50: #FC4079;
+  --bacon60: #F33163;
+  --bacon70: #EA2654;
+  /* color: #ffffff; */
+  --bacon80: #E21C48;
+  --bacon90: #D9113A;
+
+  /* dark red - "ketchup" */
+  /* color: --pepper90 / #0E1217 */
+  --ketchup10: #F3796C;
+  --ketchup20: #ED685C;
+  --ketchup30: #E95245;
+  --ketchup40: #E7574B;
+  /* color: #ffffff; */
+  --ketchup50: #D52B20;
+  --ketchup60: #C72017;
+  --ketchup70: #BD1911;
+  --ketchup80: #B3110B;
+  --ketchup90: #A90A05;
+
+  /* orange - "bun" */
+  /* color: --pepper90 / #0E1217 */
+  --bun10: #FFB760;
+  --bun20: #FFAA55;
+  --bun30: #FF9D48;
+  --bun40: #FF8E3B;
+  --bun50: #FF7A2B;
+  --bun60: #FA6620;
+  --bun70: #F55919;
+  --bun80: #F04C11;
+  --bun90: #EB3F0A;
+
+  /* yellow - "cheese" */
+  /* color: --pepper90 / #0E1217 */
+  --cheese10: #FFF76F;
+  --cheese20: #FFF35A;
+  --cheese30: #FFEF40;
+  --cheese40: #FFE923;
+  --cheese50: #FFDF00;
+  --cheese60: #FCD400;
+  --cheese70: #F9CC00;
+  --cheese80: #F6C400;
+  --cheese90: #F3BC00;
+
+  /* lime - "lettuce" */
+  /* color: --pepper90 / #0E1217 */
+  --lettuce10: #DBFE6C;
+  --lettuce20: #CCFB5B;
+  --lettuce30: #CBFF52;
+  --lettuce40: #BDF849;
+  --lettuce50: #92F21D;
+  --lettuce60: #7DE914;
+  --lettuce70: #6FE20F;
+  --lettuce80: #62DB09;
+  --lettuce90: #58D404;
+
+  /* green- "avacado" */
+  /* color: --pepper90 / #0E1217 */
+  --avacado10: #74F3BC;
+  --avacado20: #65F1AE;
+  --avacado30: #51EBA0;
+  --avacado40: #39E58C;
+  --avacado50: #1DDC6F;
+  --avacado60: #15CE5C;
+  --avacado70: #0FC54F;
+  --avacado80: #0ABD42;
+  --avacado90: #04B435;
+
+  /* turquoise - "blue cheese" */
+  /* color: --pepper90 / #0E1217 */
+  --bluecheese10: #6FF1F6;
+  --bluecheese20: #5CECF1;
+  --bluecheese30: #45E5ED;
+  --bluecheese40: #2CDCE6;
+  --bluecheese50: #0DCFDC;
+  --bluecheese60: #08C0CE;
+  --bluecheese70: #05B5C5;
+  --bluecheese80: #02AABD;
+  --bluecheese90: #009FB3;
+
+  /* brown - "burger" */
+  /* color: --pepper90 / #0E1217 */
+  --burger10: #C98464;
+  --burger20: #C07A5B;
+  --burger30: #B67052;
+  --burger40: #AD6648;
+  /* color: #ffffff; */
+  --burger50: #A0583C;
+  --burger60: #914B31;
+  --burger70: #864129;
+  --burger80: #7C3822;
+  --burger90: #722F1B;
+
+
+
+
+
+
+
+  --ifm-line-height-base: 1.333;
+  /* a11y - needs upping to at least 1.5 */
+
+  /* these font and margin calculations are a little over complicated, 
+  but allow for us to change the h6 size and keep the ratios set by the design team,
+  needs replacing once sizes are finalised */
+
+  /* calculate heading relative to the h6 size */
+  --dd-h1-ratio: 1.6;
+  --dd-h2-ratio: 1.333;
+  --dd-h3-ratio: 1.1333;
+  --dd-h4-ratio: 1.1333;
+  --dd-h5-ratio: 1.1333;
+  --dd-h6-size: 1.0625rem;
+  --dd-h6-size: 0.9375rem;
+  /* ally - this needs removing and setting to 1.0625 or higher so headings are at least minimum sizes */
+
+
+  /* font size calculated as ratio relative to h6 */
+  --dd-h1-font-size: calc(var(--dd-h6-size) * var(--dd-h1-ratio));
+  --dd-h2-font-size: calc(var(--dd-h6-size) * var(--dd-h2-ratio));
+  --dd-h3-font-size: calc(var(--dd-h6-size) * var(--dd-h3-ratio));
+  --dd-h4-font-size: calc(var(--dd-h6-size) * var(--dd-h4-ratio));
+  --dd-h5-font-size: calc(var(--dd-h6-size) * var(--dd-h5-ratio));
+  --dd-h6-font-size: var(--dd-h6-size);
+
+  /* margin multipliers used to calculate margins based on font size */
+  --dd-mar-mutiplier-top-1: 1.66666;
+  --dd-mar-mutiplier-bot-1: 1.16666;
+
+  --dd-mar-mutiplier-top-2: 1.6;
+  --dd-mar-mutiplier-bot-2: 1.2;
+
+  --dd-mar-mutiplier-top-3: 1.66666;
+  --dd-mar-mutiplier-bot-3: 1.1666;
+
+  --dd-mar-mutiplier-top-4: 1.4;
+  --dd-mar-mutiplier-bot-4: 0.94;
+
+  --dd-mar-mutiplier-top-5: 1.175;
+  --dd-mar-mutiplier-bot-5: 0.94;
+
+  --dd-mar-mutiplier-top-6: 1.0666;
+  --dd-mar-mutiplier-bot-6: 0.8;
+
+  /* margins top and bottom at each font size, calculated as a ratio with the relevant font size */
   --dd-mar-top-h1: calc(var(--dd-h1-font-size) * var(--dd-mar-mutiplier-top-1));
   --dd-mar-bot-h1: calc(var(--dd-h1-font-size) * var(--dd-mar-mutiplier-bot-1));
 
   --dd-mar-top-h2: calc(var(--dd-h2-font-size) * var(--dd-mar-mutiplier-top-2));
   --dd-mar-bot-h2: calc(var(--dd-h2-font-size) * var(--dd-mar-mutiplier-bot-2));
 
-  --dd-mar-top-h3: calc(var(--dd-h3-font-size) * var(--dd-mar-mutiplier-top-1));
-  --dd-mar-bot-h3: calc(var(--dd-h3-font-size) * var(--dd-mar-mutiplier-bot-1));
+  --dd-mar-top-h3: calc(var(--dd-h3-font-size) * var(--dd-mar-mutiplier-top-3));
+  --dd-mar-bot-h3: calc(var(--dd-h3-font-size) * var(--dd-mar-mutiplier-bot-3));
 
-/* colours */
-  --dd-background: #0E1217;
+  --dd-mar-top-h4: calc(var(--dd-h4-font-size) * var(--dd-mar-mutiplier-top-4));
+  --dd-mar-bot-h4: calc(var(--dd-h4-font-size) * var(--dd-mar-mutiplier-bot-4));
+
+  --dd-mar-top-h5: calc(var(--dd-h5-font-size) * var(--dd-mar-mutiplier-top-5));
+  --dd-mar-bot-h5: calc(var(--dd-h5-font-size) * var(--dd-mar-mutiplier-bot-5));
+
+  --dd-mar-top-h6: calc(var(--dd-h6-font-size) * var(--dd-mar-mutiplier-top-6));
+  --dd-mar-bot-h6: calc(var(--dd-h6-font-size) * var(--dd-mar-mutiplier-bot-6));
+
+  /* colours */
+  --dd-background: var(--pepper90);
+  --ifm-link-color: var(--water80);
+  --ifm-link-hover-color: var(--water40);
+
+  /* menu */
+  --ifm-menu-link-padding-vertical: 0.75rem;
+
+  --ifm-menu-link-sublist-icon: url('data:image/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg" width="16px" height="16px" viewBox="0 0 24 24"><path fill="rgba(0,0,0,1)" d="M7.41 15.41L12 10.83l4.59 4.58L18 14l-6-6-6 6z"></path></svg>');
+
+
+  /* table of contents */
+  --ifm-toc-padding-vertical: 0.75rem;
+
 
 }
-
 
 html[data-theme='dark'] {
+  --ifm-menu-color: var(--white);
+  --ifm-link-color: var(--water20);
+}
+
+html[data-theme='dark'] *:focus-visible {
+  outline: 2px solid var(--bluecheese40) !important;
+}
+
+html *:focus-visible {
+  outline: 2px solid var(--bluecheese60) !important;
+  /* A11y contrast not high enough, suggest Blue Cheese 90 
+  #009FB3 but needs discussion with Tsahi */
+}
+
+article {
+  margin: 0 auto;
+  max-width: 80ch;
+}
+
+/* html[data-theme='dark'] {
   --ifm-background-surface-color: var(--dd-background);
-}
-.navbar{
+} */
+/* .navbar{
   border-bottom: 1px solid var(--ifm-toc-border-color);
+} */
+.footer {
+  /* --ifm-footer-background-color: var(--dd-background);
+  border-top: 1px solid var(--ifm-toc-border-color); */
+  padding-top: 6rem;
 }
-.footer{
-  --ifm-footer-background-color: var(--dd-background);
-  border-top: 1px solid var(--ifm-toc-border-color);
-  }
 
-  
+/* menu */
+.menu__list-item {
+  border-bottom: 1px solid RGBA(168, 179, 207, 0.2);
+}
 
-main{
+.menu__list-item:not(:first-child) {
+  margin: 0;
+}
+
+.menu__link--sublist:after {
+  background: var(--ifm-menu-link-sublist-icon) 50% / 1.75rem 1.75rem;
+}
+
+/* side contents */
+.table-of-contents {
+  font-size: 1rem;
+}
+
+/* footer */
+
+.footer__title {
+  font-size: var(--dd-h2-font-size);
+  text-transform: uppercase;
+}
+
+.footer__col:nth-of-type(1) .footer__title {
+  color: var(--water40);
+}
+
+.footer__col:nth-of-type(2) .footer__title {
+  color: var(--onion40);
+}
+
+.footer__col:nth-of-type(3) .footer__title {
+  color: var(--avacado40);
+}
+
+.footer__col:nth-of-type(4) .footer__title {
+  color: var(--bluecheese40);
+}
+
+.footer__bottom,
+.footer__item {
+  padding: 8px 0;
+  opacity: 0.64;
+}
+
+/* main adjustments */
+
+.main-wrapper {
   padding-bottom: 15%;
   background-image: url("https://assets.website-files.com/5e0a5d9d743608d0f3ea6753/619650c123dedf5abe6feaa5_CTA%20Footer%20Circles.png");
   background-repeat: no-repeat;
@@ -227,32 +515,48 @@ main{
   background-size: contain;
 }
 
-div[class^='announcementBar_']{
+div[class^='announcementBar_'] {
   --docusaurus-announcement-bar-height: 2.5rem;
-  background: #8D62F4!important;
-  color: #fff!important;
+  background: var(--onion40)!important;
+  color: var(--white) !important;
 }
 
 
 /* typography */
 
 .markdown h1,
-.markdown h1:first-child{
+.markdown h1:first-child {
   font-size: var(--dd-h1-font-size);
   margin: var(--dd-mar-top-h1) 0 var(--dd-mar-bot-h1) 0;
 }
-.markdown h2{
+
+.markdown h2 {
   font-size: var(--dd-h2-font-size);
   margin: var(--dd-mar-top-h2) 0 var(--dd-mar-bot-h2) 0;
 }
-.markdown h3{
+
+.markdown h3 {
   font-size: var(--dd-h3-font-size);
+  margin: var(--dd-mar-top-h3) 0 var(--dd-mar-bot-h3) 0;
+}
+
+.markdown h4 {
+  font-size: var(--dd-h4-font-size);
+  margin: var(--dd-mar-top-h4) 0 var(--dd-mar-bot-h4) 0;
+}
+
+.markdown h5 {
+  font-size: var(--dd-h5-font-size);
+  margin: var(--dd-mar-top-h5) 0 var(--dd-mar-bot-h5) 0;
+}
+
+.markdown h6 {
+  font-size: var(--dd-h6-font-size);
+  margin: var(--dd-mar-top-h6) 0 var(--dd-mar-bot-h6) 0;
 }
 
 
 /* images and media */
-img{
+img {
   width: 100%;
 }
-
-
