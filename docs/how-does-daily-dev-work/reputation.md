@@ -13,22 +13,41 @@ If you’re new to daily.dev, we recommend to first spend time in [setting up yo
 
 ## What is reputation?
 
-**Reputation is a rough measurement of how much the community trusts you.** it is earned by getting positive feedback (as upvotes) from other community members on comments you post and articles you write that got picked up by our feed. 
+**Reputation is how we measure much the community trusts you.** It is earned by getting positive feedback (as upvotes) from other community members on comments you post and articles you write that got picked up by our feed. 
 
 The more reputation you earn, the more privileges you will gain, and the more tools you'll have access to on daily.dev. That is intentional. We don’t run this site; the community does! Although specific privileges are not announced yet, we encourage you to start building your reputation on the platform, as your points are **publicly visible on your profile.** 
 
 ## How do I earn reputation points?
+On 24th April 2022 we changed the way we calculated your reputation, the table below explains how we calculate your score currently (and the old scores for reference):
 
-The primary way to earn reputation is by posting useful comments. However, there are some other ways you can earn more reputation:
+| Reputation Area | Old Scoring | **New Scoring** |
+| --- | --- | --- |
+| A post you wrote is upvoted* | 1 | **10** |
+| A post you wrote is banned* | N / A | **-100** |
+| A comment you wrote is upvoted | 1 | **50** |
+| You report a post and it is approved by a moderator and removed | 1 | **100** |
+| You suggest a new source that is approved and added to the daily.dev feed! 🎉 | N / A | **200** |
+| Your Comment gets Featured (deprecated) | 2 | **N / A** |
 
-You earn reputation when:
-* Your comment is voted up: +1
-* Your comment gets featured: +2
-* An article you wrote is voted up: +1
-* Your content report leads to moderator action: +1
+ \* In order to gain or lose reputation from writing a post the post must be attributed to you and show in your posts list on your profile. 
 
-### How to make your comments useful?
+### What counts towards reputation?
+We introduced a system where you only receive reputation from an upvote on your post or comment if the person who **casts that vote** has at least 250 reputation. 
 
+This ensures that people can't just add a new account and upvote their own post, only genuine users votes are counted!
+
+### Starting reputation and minimum reputation
+Finally we changed the starting and minimum reputation.
+
+The starting reputation used to be 1 point, we have changed it to 10 points to keep it inline with out new scoring.
+
+Additionally it is not possible to get a negative reputation anymore. So reputation will never drop below 0!
+
+
+## Useful comments are the best and easiest way to gain points!
+We love comments that help others decide if an article is for them, support the author or offer valuable feedback.
+
+Here are a few tips on how you can make your comments better:
 * Try to help other users extract new insights from the article you’re commenting on
 * Write summaries so that other users can save time reading through the whole article
 * Warn if there’s a professional mistake in an article
