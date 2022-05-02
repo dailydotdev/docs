@@ -344,7 +344,7 @@ img[src="/img/logo.png"] {
 
 
 
-
+  --ifm-container-width-xl: 1600px;
   --ifm-line-height-base: 1.333;
   /* a11y - needs upping to at least 1.5 */
 
@@ -421,7 +421,7 @@ img[src="/img/logo.png"] {
 
 
   /* table of contents */
-  --ifm-toc-padding-vertical: 0.75rem;
+  --ifm-toc-padding-vertical: 1rem;
 
 
 }
@@ -444,6 +444,11 @@ html *:focus-visible {
 article {
   margin: 0 auto;
   max-width: 80ch;
+}
+
+.row .col[class*='col--']{
+  flex: 0 0 30%;
+  max-width: 30%;
 }
 
 /* html[data-theme='dark'] {
@@ -557,6 +562,6 @@ div[class^='announcementBar_'] {
 
 
 /* images and media */
-img {
+.main-wrapper img {
   width: 100%;
 }
