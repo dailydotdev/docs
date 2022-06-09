@@ -85,7 +85,7 @@ jobs:
 ![](https://daily-now-res.cloudinary.com/image/upload/v1644219700/docs/bookmarksGithub11.png)
 
 
-The GitHub action is planned to run every work. thisa can be changed by adjusting the cron part in the daily.dev-bookmarks.yml file.
+The GitHub action is planned to run every work.This can be changed by adjusting the cron part in the daily.dev-bookmarks.yml file.
 
 ![](https://daily-now-res.cloudinary.com/image/upload/v1644219700/docs/bookmarksGithub12.png)
 
