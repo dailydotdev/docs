@@ -21,7 +21,7 @@ Getting started with the comanion widget is easy!
 2. If you don't see the pink button, go to the [extension store](https://api.daily.dev/get?_ga=2.220083545.157894557.1655794404-623033389.1647175282) and download the latest version of the daily.dev extension.
 3. Click on the purple button located at the top right of your screen next to your profile picture to add the companion
 4. You will be asked for additional permissions. These permissions are only required so we can check the page that you are on is in our feed and so we can inject the companion widget into the page. 
-5. Once you accept the permissions you should be redirected to a [page about the companion](daily.dev/blog/companion). 
+5. Once you accept the permissions you should be redirected to a [page about the companion](daily.dev/blog/). 
 
 ## Features
 
