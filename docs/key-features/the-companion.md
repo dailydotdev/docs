@@ -91,11 +91,11 @@ On the left of the companion widget you will see 5 buttons:
 We collect minimal data and no personal data when using the companion. However we do need to send a couple of bits of information to our servers to make the companion work.
 
 - For every page you visit, we dispatch a request that contains the URL you visit. 
-- This URL is not saved anywhere and is only used to check whether the page you are vieing is in the daily.dev database. 
+- This URL is not saved anywhere and is only used to check whether the page you are viewing is in the daily.dev database. 
 - If the URL is not in the daily.dev database, this is where the process stops. 
 - If the URL is in the daily.dev database then the companion is activated. 
 - When the companion is activated we track product usage events such as upvotes, comments and bookmarks along with some usage data that are required to operate the daily.dev site and link the companion to the main feed. We also pass your daily.dev userID to link upvotes to your account.
-- Please note, all requests are only dispatched on page load, so the Companion will not interfere with the performance of any page you visi.
+- Please note, all requests are only dispatched on page load, so the Companion will not interfere with the performance of any page you visit.
 
 ## What do I do if I don't see the Companion Widget?
 There are a couple of possible causes:
