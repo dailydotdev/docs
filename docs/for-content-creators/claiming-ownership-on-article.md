@@ -28,7 +28,7 @@ Let’s get started. 🚀
 
 ## Why should you claim ownership of an article you wrote?
 
-### Get notified when your post got featured by daily.dev
+### Get notified when your post got listed by daily.dev
 
 At the end of the day, we all write for a particular audience. Engaging with your readers in real-time can make the difference between a memorable article and a forgotten one. Even more, getting notified in real-time will enable you to encourage a meaningful discussion about the blog post you wrote. That way, you can increase your readership and create a long-lasting relationship with your audience. 
 
@@ -44,7 +44,7 @@ See it in action:
 
 ![](https://daily-now-res.cloudinary.com/image/upload/v1635256556/docs/5f8ee3a55f89924d52959f10_gqjufILdNpmls81_Me95dj4M8d1QJFyptPBTEjHrkKr1FJUWYZZ9WN7TNB0cF8zYyi1f86Pa-7zR9ouUuxEv_zebisDEbxVQMFAj0DkxpIgGwHYN7toJ73g4G6ajtb6yUALX7at7.gif)
 
-### Get an analytics report for every post that got featured
+### Get an analytics report for every post that got listed
 
 We never met authors who are not curious about their blog post’s stats. Today, we bring a missing piece for any post who got picked up by daily.dev. If your article got picked up by daily.dev, you could now expect to get a complete analytics report within 24 hours or so. 
 
@@ -70,15 +70,6 @@ Keep in mind that we can only add articles that we're already picked up by daily
 * Step 3 - Add your Twitter handle
 * Step 4 - [Click here](mailto:support@daily.dev?subject=Add%20my%20articles%20retroactively&body=README%3A%20To%20add%20your%20articles%20retroactively%2C%20please%20reply%20with%20your%20username%20or%20a%20link%20to%20your%20profile%20on%20daily.dev.%20Keep%20in%20mind%20that%20we%20can%20only%20add%20articles%20that%20we're%20already%20picked%20up%20by%20daily.dev.%20Not%20sure%20if%20your%20article%20appeared%20in%20our%20feed%3F%20Try%20searching%20its%20headline%20here%3A%20https%3A%2F%2Fapp.daily.dev%2Fsearch) or email us to [support@daily.dev](mailto:support@daily.dev?subject=Add%20my%20articles%20retroactively&body=README%3A%20To%20add%20your%20articles%20retroactively%2C%20please%20reply%20with%20your%20username%20or%20a%20link%20to%20your%20profile%20on%20daily.dev.%20Keep%20in%20mind%20that%20we%20can%20only%20add%20articles%20that%20we're%20already%20picked%20up%20by%20daily.dev.%20Not%20sure%20if%20your%20article%20appeared%20in%20our%20feed%3F%20Try%20searching%20its%20headline%20here%3A%20https%3A%2F%2Fapp.daily.dev%2Fsearch)
 
-## How to get your article picked up by daily.dev?
+## How to get your article listed on daily.dev?
 
-Check out this guide about [getting featured on daily.dev](../how-does-daily-dev-work/how-to-get-featured.md).
-
-## Wrap up
-
-1. We have many new features made especially to empower content creators.
-2. Creators get notified when their articles are picked by daily.dev feed.
-3. Creators get an exclusive badge when they comment.
-4. Creators get an analytics report for every post they wrote that got picked up by daily.dev.
-5. Creators can gain reputation points by earning upvotes on their articles.
-6. Claiming ownership on future posts you write is extremely easy. Just add your Twitter handle to your profile, and you’re all set.
+Check out this guide about [getting listed on daily.dev](../how-does-daily-dev-work/how-to-get-featured.md).

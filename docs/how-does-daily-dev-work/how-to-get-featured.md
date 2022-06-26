@@ -2,7 +2,7 @@
 sidebar_position: 2
 ---
 
-# How to get featured?
+# How to get listed?
 
 Do you prefer a video version? here is a 3 minutes video for you
 
@@ -11,11 +11,11 @@ Do you prefer a video version? here is a 3 minutes video for you
 
 ## What will be covered here?
 
-One of the most common questions we get from our community is "how to get my article picked up by daily.dev?". In this post, I'll cover a few ways and best practices that you can use to get a chance to be featured on daily.dev.
+One of the most common questions we get from our community is "how to get my article picked up by daily.dev?". In this post, I'll cover a few ways and best practices that you can use to get a chance to be listed on daily.dev.
 
 ## How to get your article picked up?
 
-Practically there are two primary ways you can get featured on daily.dev:
+Practically there are two primary ways you can get listed on daily.dev:
 
 1. Publish guest articles on well-known publications
 2. Publish articles on developer blogging platforms
@@ -38,7 +38,7 @@ However, to give you an easy head-start, you may want to check out developer blo
 We are not collecting **all** the articles published on blogging platforms. Our system will only pick an article from a blogging platform once it has gained enough traction/engagement on it. That's our way to ensure that we source qualified content.
 :::
 
-## Getting notified when your article is featured
+## Getting notified when your article is listed
 
 We've built a system that notifies the authors of articles once their posts are picked up by daily.dev. Learn more about the features we have to offer [for content creators](https://daily.dev/blog/claiming-ownership-on-an-article-you-wrote).
 
