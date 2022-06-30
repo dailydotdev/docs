@@ -58,7 +58,7 @@ Please note that we kindly ask you not to share copyrighted or trademarked sourc
 
 The daily.dev community is highly sensitive to content quality and the code of conduct of publishers. After a new source is approved and added to the daily.dev feed, we continue to monitor it continuously. Our aim is simple -- to maintain and enforce the content guidelines for the benefit of our community.
 
-‍We kindly ask you to refrain from misusing the opportunity to be featured on the daily.dev feed.
+‍We kindly ask you to refrain from misusing the opportunity to be listed on the daily.dev feed.
 
 ## Some legal stuff...
 
