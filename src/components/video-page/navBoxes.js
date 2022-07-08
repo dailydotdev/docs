@@ -106,7 +106,7 @@ function Feature({title, url, type, duration }) {
 
   return (
     <article className={clsx('col col--4')}>
-      <div className="text--center padding-horiz--md" className={styles.vidcard}>
+      <div className={styles.vidcard}>
         <img src="img/logo.png" className={styles.vidIcon}></img>
         <h2>{title}</h2>
         <div className={styles.iframecontainer}>
@@ -128,7 +128,7 @@ function Feature({title, url, type, duration }) {
 export default function HomepageFeatures() {
   return (
     <section className={styles.features}>
-        <ul className="row" className={styles.grid3col}>
+        <ul className={styles.grid3col}>
           {FeatureList.map((props, idx) => (
             <Feature key={idx} {...props} />
           ))}
