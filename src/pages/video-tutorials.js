@@ -4,7 +4,7 @@ import Layout from '@theme/Layout';
 import Link from '@docusaurus/Link';
 import useDocusaurusContext from '@docusaurus/useDocusaurusContext';
 import styles from './video.module.css';
-import VideoNavBoxes from '../components/homepage/homeNavBoxes';
+import VideoNavBoxes from '../components/video-page/navBoxes';
 import { Redirect } from '@docusaurus/router';
 
 function HomepageHeader() {
@@ -13,7 +13,7 @@ function HomepageHeader() {
     
     <header className={clsx(styles.heroBanner)}>
       <div className="container">
-        <h1 className="hero__title">daily.dev Documentation</h1>
+        <h1 className="hero__title">Video Tips and Tutorials</h1>
       </div>
     </header>
   );
@@ -21,7 +21,6 @@ function HomepageHeader() {
 
 export default function Home() {
   const { siteConfig } = useDocusaurusContext();
-
   // return <Redirect to="/docs/intro" />;
   return (
     <Layout

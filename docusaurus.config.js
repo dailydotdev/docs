@@ -79,6 +79,16 @@ const config = {
             position: 'left',
           },
           {
+            label: 'Video Tutorials',
+            to: 'video-tutorials',
+            position: 'left'
+          },
+          {
+            label: 'Change Log',
+            href: 'https://app.daily.dev/sources/daily_updates',
+            position: 'left',
+          },
+          {
             href: 'https://github.com/dailydotdev/docs',
             label: 'GitHub',
             position: 'right',

@@ -16,6 +16,8 @@
   --site-primary-hue-saturation-light: 167, 56%;
   /* do we really need this extra one? */
 
+  --ifm-font-family-base: "Segoe UI", Tahoma, sans-serif;
+
   --ifm-color-primary: hsl(var(--site-primary-hue-saturation), 45%);
   --ifm-color-primary-dark: hsl(var(--site-primary-hue-saturation), 41%);
   --ifm-color-primary-darker: hsl(var(--site-primary-hue-saturation), 38%);
@@ -63,10 +65,6 @@ html[data-theme='dark'] .docusaurus-highlight-code-line {
 html[data-theme='dark'] .header-github-link:before {
   background: url("data:image/svg+xml,%3Csvg viewBox='0 0 24 24' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath fill='white' d='M12 .297c-6.63 0-12 5.373-12 12 0 5.303 3.438 9.8 8.205 11.385.6.113.82-.258.82-.577 0-.285-.01-1.04-.015-2.04-3.338.724-4.042-1.61-4.042-1.61C4.422 18.07 3.633 17.7 3.633 17.7c-1.087-.744.084-.729.084-.729 1.205.084 1.838 1.236 1.838 1.236 1.07 1.835 2.809 1.305 3.495.998.108-.776.417-1.305.76-1.605-2.665-.3-5.466-1.332-5.466-5.93 0-1.31.465-2.38 1.235-3.22-.135-.303-.54-1.523.105-3.176 0 0 1.005-.322 3.3 1.23.96-.267 1.98-.399 3-.405 1.02.006 2.04.138 3 .405 2.28-1.552 3.285-1.23 3.285-1.23.645 1.653.24 2.873.12 3.176.765.84 1.23 1.91 1.23 3.22 0 4.61-2.805 5.625-5.475 5.92.42.36.81 1.096.81 2.22 0 1.606-.015 2.896-.015 3.286 0 .315.21.69.825.57C20.565 22.092 24 17.592 24 12.297c0-6.627-5.373-12-12-12'/%3E%3C/svg%3E") no-repeat;
 }
-
-/* .navbar {
-  background-color: #242526;
-} */
 
 .footer--dark {
   --ifm-footer-background-color: #17191F;
@@ -130,7 +128,18 @@ html[data-theme='dark'] .DocSearch {
   --docsearch-key-gradient: linear-gradient(-26.5deg,
       var(--ifm-color-emphasis-200) 0%,
       var(--ifm-color-emphasis-100) 100%);
+
+  
 }
+
+.navbar {
+  background-color:  #0e1217;
+}
+
+html[data-theme='light'] .navbar{
+  background-color: #fff;
+}
+
 
 div[class^='announcementBar_'] {
   --site-announcement-bar-stripe-color1: hsl(var(--site-primary-hue-saturation),
@@ -364,12 +373,18 @@ img[src="/img/logo.png"] {
 
 
   /* font size calculated as ratio relative to h6 */
-  --dd-h1-font-size: calc(var(--dd-h6-size) * var(--dd-h1-ratio));
+  --dd-h1-font-size: 4rem;
+  --dd-h2-font-size: 1.5rem;
+  --dd-h3-font-size: 1.25rem;
+  --dd-h4-font-size: calc(var(--dd-h6-size) * var(--dd-h4-ratio));
+  --dd-h5-font-size: calc(var(--dd-h6-size) * var(--dd-h5-ratio));
+  --dd-h6-font-size: var(--dd-h6-size);
+  /* --dd-h1-font-size: calc(var(--dd-h6-size) * var(--dd-h1-ratio));
   --dd-h2-font-size: calc(var(--dd-h6-size) * var(--dd-h2-ratio));
   --dd-h3-font-size: calc(var(--dd-h6-size) * var(--dd-h3-ratio));
   --dd-h4-font-size: calc(var(--dd-h6-size) * var(--dd-h4-ratio));
   --dd-h5-font-size: calc(var(--dd-h6-size) * var(--dd-h5-ratio));
-  --dd-h6-font-size: var(--dd-h6-size);
+  --dd-h6-font-size: var(--dd-h6-size); */
 
   /* margin multipliers used to calculate margins based on font size */
   --dd-mar-mutiplier-top-1: 1.66666;
@@ -391,7 +406,7 @@ img[src="/img/logo.png"] {
   --dd-mar-mutiplier-bot-6: 0.8;
 
   /* margins top and bottom at each font size, calculated as a ratio with the relevant font size */
-  --dd-mar-top-h1: calc(var(--dd-h1-font-size) * var(--dd-mar-mutiplier-top-1));
+  /* --dd-mar-top-h1: calc(var(--dd-h1-font-size) * var(--dd-mar-mutiplier-top-1));
   --dd-mar-bot-h1: calc(var(--dd-h1-font-size) * var(--dd-mar-mutiplier-bot-1));
 
   --dd-mar-top-h2: calc(var(--dd-h2-font-size) * var(--dd-mar-mutiplier-top-2));
@@ -399,6 +414,23 @@ img[src="/img/logo.png"] {
 
   --dd-mar-top-h3: calc(var(--dd-h3-font-size) * var(--dd-mar-mutiplier-top-3));
   --dd-mar-bot-h3: calc(var(--dd-h3-font-size) * var(--dd-mar-mutiplier-bot-3));
+
+  --dd-mar-top-h4: calc(var(--dd-h4-font-size) * var(--dd-mar-mutiplier-top-4));
+  --dd-mar-bot-h4: calc(var(--dd-h4-font-size) * var(--dd-mar-mutiplier-bot-4));
+
+  --dd-mar-top-h5: calc(var(--dd-h5-font-size) * var(--dd-mar-mutiplier-top-5));
+  --dd-mar-bot-h5: calc(var(--dd-h5-font-size) * var(--dd-mar-mutiplier-bot-5));
+
+  --dd-mar-top-h6: calc(var(--dd-h6-font-size) * var(--dd-mar-mutiplier-top-6));
+  --dd-mar-bot-h6: calc(var(--dd-h6-font-size) * var(--dd-mar-mutiplier-bot-6)); */
+  --dd-mar-top-h1: 1.25rem;
+  --dd-mar-bot-h1: 1.25rem;
+
+  --dd-mar-top-h2: 4rem;
+  --dd-mar-bot-h2: 2rem;
+
+  --dd-mar-top-h3: 3rem;
+  --dd-mar-bot-h3: 1rem;
 
   --dd-mar-top-h4: calc(var(--dd-h4-font-size) * var(--dd-mar-mutiplier-top-4));
   --dd-mar-bot-h4: calc(var(--dd-h4-font-size) * var(--dd-mar-mutiplier-bot-4));
@@ -415,9 +447,11 @@ img[src="/img/logo.png"] {
   --ifm-link-hover-color: var(--water40);
 
   /* menu */
-  --ifm-menu-link-padding-vertical: 0.75rem;
+  --ifm-menu-link-padding-vertical: 0.5rem;
 
-  --ifm-menu-link-sublist-icon: url('data:image/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg" width="16px" height="16px" viewBox="0 0 24 24"><path fill="rgba(0,0,0,1)" d="M7.41 15.41L12 10.83l4.59 4.58L18 14l-6-6-6 6z"></path></svg>');
+
+  --ifm-menu-link-sublist-icon: url('data:image/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg" width="16px" height="16px" viewBox="0 0 24 24"><path fill="currentcolor" d="M7.41 15.41L12 10.83l4.59 4.58L18 14l-6-6-6 6z"></path></svg>');
+  --ifm-menu-link-sublist-icon-before: url('../img/test.svg');
 
 
   /* table of contents */
@@ -446,29 +480,112 @@ article {
   max-width: 80ch;
 }
 
-/* html[data-theme='dark'] {
-  --ifm-background-surface-color: var(--dd-background);
-} */
-/* .navbar{
-  border-bottom: 1px solid var(--ifm-toc-border-color);
-} */
+
 .footer {
-  /* --ifm-footer-background-color: var(--dd-background);
-  border-top: 1px solid var(--ifm-toc-border-color); */
   padding-top: 6rem;
 }
 
 /* menu */
-.menu__list-item {
-  border-bottom: 1px solid RGBA(168, 179, 207, 0.2);
-}
 
 .menu__list-item:not(:first-child) {
   margin: 0;
 }
 
+.menu__link--active{
+  color: var(--ifm-font-color-base)!important;
+}
+.menu__link--active:not(.menu__link--sublist){
+  background: #a8b3cf33;
+}
+
+
+
+/************************ICONS ON MENU ITEMS**************************/
+
+html[data-theme='light'] .menu__link{
+   color: #000;
+}
+
+.menu__link{
+  margin-left: 1.55rem;
+  color: var(--salt80);
+  color: rgb(168, 179, 255);
+  font-weight: normal;
+  font-size: 1rem;
+  line-height: 1;
+}
+html[data-theme='light'] .menu__link:before {
+   filter: brightness(0.5);
+}
+.menu__link:before {
+  content: '';
+  position: absolute;
+  background: var(--ifm-menu-link-sublist-icon-before) 50% / 1.25rem 1.25rem;
+  height: 1.25rem;
+  width: 1.25rem;
+  left: 0.25rem;
+}
+.menu__link--sublist:before{
+  left: 0.25rem;
+}
+
+
+.menu__list li:nth-child(1) .menu__link:before{
+  background: none;
+}
+/**getting started**/
+.menu__list li:nth-child(2) .menu__link:before{
+  background:  url('../img/menu/getting-started.svg') 50% / 1.25rem 1rem;
+  filter: none;
+}
+
+.menu__list li:nth-child(3) .menu__link:before{
+  background:  url('../img/menu/setting-up-feed.svg');
+}
+
+.menu__list li:nth-child(4) .menu__link:before{
+  background:  url('../img/menu/key-features.svg');
+}
+
+.menu__list li:nth-child(5) .menu__link:before{
+  background:  url('../img/menu/your-profile.svg');
+}
+
+.menu__list li:nth-child(6) .menu__link:before{
+  background:  url('../img/menu/customization.svg');
+}
+
+.menu__list li:nth-child(7) .menu__link:before{
+  background:  url('../img/menu/useful-guides.svg');
+}
+
+.menu__list li:nth-child(8) .menu__link:before{
+  background:  url('../img/menu/integration.svg');
+}
+
+.menu__list li:nth-child(9) .menu__link:before{
+  background:  url('../img/menu/content-creator.svg');
+}
+
+.menu__list li:nth-child(10) .menu__link:before{
+  background:  url('../img/menu/oss-contributors.svg');
+}
+.menu__list li:nth-child(11) .menu__link:before{
+  background:  url('../img/menu/community.svg');
+  left: 0.75rem;
+}
+
+.theme-doc-sidebar-item-link-level-2>.menu__link{
+  margin-left: 1.25rem;
+}
+
+.theme-doc-sidebar-item-link-level-2>.menu__link:before {
+  background: none!important;
+}
+
 .menu__link--sublist:after {
   background: var(--ifm-menu-link-sublist-icon) 50% / 1.75rem 1.75rem;
+  opacity: 0.5;
 }
 
 /* side contents */
@@ -560,3 +677,4 @@ div[class^='announcementBar_'] {
 img {
   width: 100%;
 }
+

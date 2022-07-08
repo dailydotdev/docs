@@ -9,7 +9,13 @@ sidebar_label: Introduction
 
 daily.dev provides all developer news in one place. Get a feed of the hottest developer news. Read more quality articles. Stay up to date. Save time.
 
-[![Daily dev banner](https://daily-now-res.cloudinary.com/image/upload/v1636643041/docs/7cae656b-e2cd-4939-b136-684663c97347.jpg)](https://youtu.be/igZCEr3HwCg)
+<!--[![Daily dev banner](https://daily-now-res.cloudinary.com/image/upload/v1636643041/docs/7cae656b-e2cd-4939-b136-684663c97347.jpg)](https://youtu.be/igZCEr3HwCg)-->
+
+
+<iframe width="700" height="400" src="https://www.youtube.com/embed/igZCEr3HwCg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+
 
 ### Staying up to date takes a lot of time and effort
 
@@ -44,4 +50,5 @@ Make daily.dev look precisely how you want it to be! [Customize](/customize-your
 
 ### Step 6: Explore behind the scenes 👀
 
-If you want to learn [how does daily.dev work](/how-does-daily-dev-work/dailydev-101.md) we got you covered. 
+If you want to learn [how does daily.dev work](/how-does-daily-dev-work/dailydev-101.md) we got you covered.
+
