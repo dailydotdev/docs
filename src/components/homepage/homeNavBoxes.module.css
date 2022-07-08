@@ -101,11 +101,11 @@ html[data-theme='light'] .homecard a{
   line-height: 2rem;;
 }
 html[data-theme='light'] .homeIcon{
-  filter: brightness(0.5)
+  filter: brightness(0.5);
 }
 .homeIcon{
-  width: 36px;
-  height: 36px;
+  width: 28px;
+  height: 28px;
   border-radius: 0!important;
   margin: 12px 0 4px 16px;
 }

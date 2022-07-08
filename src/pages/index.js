@@ -4,7 +4,7 @@ import Layout from '@theme/Layout';
 import Link from '@docusaurus/Link';
 import useDocusaurusContext from '@docusaurus/useDocusaurusContext';
 import styles from './video.module.css';
-import VideoNavBoxes from '../components/homepage/homeNavBoxes';
+import HomeNavBoxes from '../components/homepage/homeNavBoxes';
 import { Redirect } from '@docusaurus/router';
 
 function HomepageHeader() {
@@ -29,7 +29,7 @@ export default function Home() {
       description="Description will go into a meta tag in <head />">
       <HomepageHeader />
       <main>
-        <VideoNavBoxes />
+        <HomeNavBoxes />
       </main>
     </Layout>
   );

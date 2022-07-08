@@ -102,7 +102,7 @@ function Feature({title, icon, items }) {
 
   return (
     <article className={clsx('col col--4')}>
-      <div className="text--center padding-horiz--md" className={styles.homecard}>
+      <div className={styles.homecard}>
         <img src={icon} className={styles.homeIcon}></img>
         <h2>{title}</h2>
         <div className={styles.listContainer}>
@@ -125,7 +125,7 @@ function Feature({title, icon, items }) {
 export default function HomepageFeatures() {
   return (
     <section className={styles.features}>
-        <ul className="row" className={styles.grid3col}>
+        <ul className={styles.grid3col}>
           {FeatureList.map((props, idx) => (
             <Feature key={idx} {...props} />
           ))}
