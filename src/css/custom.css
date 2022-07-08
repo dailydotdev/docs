@@ -353,7 +353,7 @@ img[src="/img/logo.png"] {
 
 
 
-
+  --ifm-container-width-xl: 1600px;
   --ifm-line-height-base: 1.333;
   /* a11y - needs upping to at least 1.5 */
 
@@ -455,7 +455,7 @@ img[src="/img/logo.png"] {
 
 
   /* table of contents */
-  --ifm-toc-padding-vertical: 0.75rem;
+  --ifm-toc-padding-vertical: 1rem;
 
 
 }
@@ -479,6 +479,8 @@ article {
   margin: 0 auto;
   max-width: 80ch;
 }
+
+
 
 
 .footer {
@@ -674,7 +676,7 @@ div[class^='announcementBar_'] {
 
 
 /* images and media */
-img {
+.main-wrapper img {
   width: 100%;
 }
 

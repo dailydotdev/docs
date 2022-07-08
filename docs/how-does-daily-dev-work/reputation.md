@@ -27,7 +27,7 @@ On 24th April 2022 we changed the way we calculated your reputation, the table b
 | A comment you wrote is upvoted | 1 | **50** |
 | You report a post and it is approved by a moderator and removed | 1 | **100** |
 | You suggest a new source that is approved and added to the daily.dev feed! 🎉 | N / A | **200** |
-| Your Comment gets Featured (deprecated) | 2 | **N / A** |
+| Your Comment gets featured (deprecated) | 2 | **N / A** |
 
  \* In order to gain or lose reputation from writing a post the post must be attributed to you and show in your posts list on your profile. 
 
