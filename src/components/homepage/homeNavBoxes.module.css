@@ -18,6 +18,7 @@
   grid-template-columns: repeat(4,minmax(0,1fr));
   gap:56px;
   margin: 0 auto;
+  padding: 0;
 }
 @media screen and (max-width: 1680px) {
   .grid3col{
@@ -43,10 +44,17 @@
     margin: 0 auto;
   }
 }
+
+
 .listContainer{
   min-height: 16rem;
 }
-
+@media screen and (max-width: 768px) {
+  .listContainer{
+    min-height: 3rem;
+    padding-bottom: 1rem;
+  }
+}
 .listContainer li{
   list-style-type: none;
   position: relative;

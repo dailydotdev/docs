@@ -483,7 +483,7 @@ html[data-theme='light'] .menu__link{
 html[data-theme='light'] .menu__link:before {
    filter: brightness(0.5);
 }
-.menu__link:before {
+.theme-doc-sidebar-menu .menu__link:before {
   content: '';
   position: absolute;
   background: var(--ifm-menu-link-sublist-icon-before) 50% / 1.25rem 1.25rem;
@@ -500,43 +500,43 @@ html[data-theme='light'] .menu__link:before {
   background: none;
 }
 /**getting started**/
-.menu__list li:nth-child(2) .menu__link:before{
+.theme-doc-sidebar-menu li:nth-child(2) .menu__link:before{
   background:  url('../img/menu/getting-started.svg') 50% / 1.25rem 1rem;
   filter: none;
 }
 
-.menu__list li:nth-child(3) .menu__link:before{
+.theme-doc-sidebar-menu li:nth-child(3) .menu__link:before{
   background:  url('../img/menu/setting-up-feed.svg');
 }
 
-.menu__list li:nth-child(4) .menu__link:before{
+.theme-doc-sidebar-menu li:nth-child(4) .menu__link:before{
   background:  url('../img/menu/key-features.svg');
 }
 
-.menu__list li:nth-child(5) .menu__link:before{
+.theme-doc-sidebar-menu li:nth-child(5) .menu__link:before{
   background:  url('../img/menu/your-profile.svg');
 }
 
-.menu__list li:nth-child(6) .menu__link:before{
+.theme-doc-sidebar-menu li:nth-child(6) .menu__link:before{
   background:  url('../img/menu/customization.svg');
 }
 
-.menu__list li:nth-child(7) .menu__link:before{
+.theme-doc-sidebar-menu li:nth-child(7) .menu__link:before{
   background:  url('../img/menu/useful-guides.svg');
 }
 
-.menu__list li:nth-child(8) .menu__link:before{
+.theme-doc-sidebar-menu li:nth-child(8) .menu__link:before{
   background:  url('../img/menu/integration.svg');
 }
 
-.menu__list li:nth-child(9) .menu__link:before{
+.theme-doc-sidebar-menu li:nth-child(9) .menu__link:before{
   background:  url('../img/menu/content-creator.svg');
 }
 
-.menu__list li:nth-child(10) .menu__link:before{
+.theme-doc-sidebar-menu li:nth-child(10) .menu__link:before{
   background:  url('../img/menu/oss-contributors.svg');
 }
-.menu__list li:nth-child(11) .menu__link:before{
+.theme-doc-sidebar-menu li:nth-child(11) .menu__link:before{
   background:  url('../img/menu/community.svg');
   left: 0.75rem;
 }
