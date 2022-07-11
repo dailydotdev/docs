@@ -38,6 +38,7 @@
     grid-template-columns: repeat(1,minmax(0,1fr));
     gap:56px 0px;
     margin: 0 auto;
+    padding: 0;
   }
 }
 .iframecontainer{
