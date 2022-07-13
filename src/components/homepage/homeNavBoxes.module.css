@@ -47,7 +47,7 @@
 
 
 .listContainer{
-  min-height: 16rem;
+  min-height: 17rem;
 }
 @media screen and (max-width: 768px) {
   .listContainer{

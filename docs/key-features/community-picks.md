@@ -7,6 +7,11 @@ Community Picks are articles shared by the community.
 
 Only people with the Scout privilege can submit links and you are limited to 3 submissions per day.
 
+## Quick Overview Video
+
+<iframe width="700" height="400"  src="https://www.youtube-nocookie.com/embed/JlBlTIMfrGM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
 ## Community Picks in the daily.dev feed
 Community Picks are articles that are added to the daily.dev feed by our community members.
 
