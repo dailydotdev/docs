@@ -31,6 +31,7 @@ const FeatureList = [
       {url: "docs/key-features/search", text: "Search"},
       {url: "docs/key-features/do-not-disturb", text: "Do not disturb"},
       {url: "docs/key-features/the-companion", text: "The Companion Widget"},
+      {url: "docs/key-features/community-picks", text: "Community Picks"},
     ]
   },
   {

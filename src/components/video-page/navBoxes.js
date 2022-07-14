@@ -4,6 +4,12 @@ import styles from './navBoxes.module.css';
 
 const FeatureList = [
   {
+    title: 'Community Picks',
+    url: "JlBlTIMfrGM",
+    type: "Quick Tip",
+    duration: "1:53"
+  },
+  {
     title: 'Toast notifications',
     url: "ITU8xxeM3wU",
     type: "Quick Tip",
