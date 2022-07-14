@@ -12,7 +12,7 @@ The daily.dev extension is available for:
 - [Mozilla Firefox](https://addons.mozilla.org/en-US/firefox/addon/daily/)
 - [Microsoft Edge](https://microsoftedge.microsoft.com/addons/detail/dailydev-the-homepage-/cbdhgldgiancdheindpekpcbkccpjaeb?hl=en-GB)
 
-Just install it, open a new tab, and you're all set.
+Just install it, open a new tab, and you're all set!
 
 ## Using Safari? Brave? Opera? Vivaldi? Other Browser?
 
