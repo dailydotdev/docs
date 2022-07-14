@@ -7,7 +7,7 @@ sidebar_label: Introduction
 
 ## We are building the homepage every developer deserves ✌️
 
-daily.dev provides all developer news in one place. Get a feed of the hottest developer news. Read more quality articles. Stay up to date. Save time.
+daily.dev provides all developers news in one place. Get a feed of the hottest developer news. Read more quality articles. Stay up to date. Save time.
 
 <!--[![Daily dev banner](https://daily-now-res.cloudinary.com/image/upload/v1636643041/docs/7cae656b-e2cd-4939-b136-684663c97347.jpg)](https://youtu.be/igZCEr3HwCg)-->
 
