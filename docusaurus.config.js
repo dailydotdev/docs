@@ -214,7 +214,7 @@ const config = {
               },
               {
                 label: 'Product Hunt',
-                to: 'https://www.producthunt.com/posts/daily-dev-2',
+                to: 'https://www.producthunt.com/products/daily-dev',
               },
             ],
           },
