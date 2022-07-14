@@ -98,7 +98,7 @@ There are multiple reasons why a submission to Community Picks could fail.
 ## Gaining Reputation
 Not only do you help the community by sharing useful and interesting articles, you can gain more reputation too!
 
-You gain reputation on any link you submit when it receives an upvote (as long as the person upvoting has at least 50 reputation), as well as the post author if they have a profile on daily.dev.
+You gain reputation on any link you submit when it receives an upvote (as long as the person upvoting has at least 250 reputation), as well as the post author if they have a profile on daily.dev.
 
 We plan on releasing more features that are dependant on reputation in the future, so this is a great way to gain reputation while helping the community.
 
