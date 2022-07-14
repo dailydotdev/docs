@@ -29,8 +29,8 @@ All of the articles submitted by the community are available in the [Community P
 
 ![](https://daily-now-res.cloudinary.com/image/upload/v1657719387/cp-3-community-feed_enjtux.png)
 
-## Submitting a Community Pick
-Submitting a link to the daily.dev feed via Community Picks is straight forward, however you may not have access to Community Picks yet if you do not have enough reputation.
+## Submitting / Scouting a Community Pick
+Submitting a link to the daily.dev feed (AKA Scouting) via Community Picks is straight forward, however you may not have access to Community Picks yet if you do not have enough reputation.
 
 ### Reputation Requirements
 To be able to submit a Community Pick you need to have at least 250 reputation on daily.dev
@@ -42,7 +42,7 @@ If you do not have enough reputation to submit a link you will see a message tel
 ![](https://daily-now-res.cloudinary.com/image/upload/v1657719512/cp-4-not-enough-permissions_zadogk.jpg)
 
 ### How to submit a link
-On the menu on the left you will see a new section "Contribute" containing a button "Submit article".
+On the menu on the left you will see a section "Contribute" containing a button "Submit article".
 
 Clicking on that button will open the "Submit article" modal.
 
@@ -54,6 +54,8 @@ You will then see either a success, already exists or error message.
 
 :::info
 Please note that **we do not accept links with redirects**. So please share the final article URL and not a shortened URL from a provider such as bitly or rebrandly. 
+
+Please also note that **submitting your own articles is not allowed.** Please share amazing articles from other authors that you have enjoyed.
 :::
 
 
@@ -96,7 +98,7 @@ There are multiple reasons why a submission to Community Picks could fail.
 ## Gaining Reputation
 Not only do you help the community by sharing useful and interesting articles, you can gain more reputation too!
 
-You gain reputation on any link you submit when it receives an upvote, as well as the post author if they have a profile on daily.dev.
+You gain reputation on any link you submit when it receives an upvote (as long as the person upvoting has at least 50 reputation), as well as the post author if they have a profile on daily.dev.
 
 We plan on releasing more features that are dependant on reputation in the future, so this is a great way to gain reputation while helping the community.
 
