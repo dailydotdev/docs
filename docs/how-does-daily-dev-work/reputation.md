@@ -22,14 +22,14 @@ On 24th April 2022 we changed the way we calculated your reputation, the table b
 
 | Reputation Area | Old Scoring | **New Scoring** |
 | --- | --- | --- |
-| A post you wrote is upvoted* | 1 | **10** |
-| A post you wrote is banned* | N / A | **-100** |
+| A post you wrote/scouted is upvoted* | 1 | **10** |
+| A post you wrote/scouted is banned* | N / A | **-100** |
 | A comment you wrote is upvoted | 1 | **50** |
 | You report a post and it is approved by a moderator and removed | 1 | **100** |
 | You suggest a new source that is approved and added to the daily.dev feed! 🎉 | N / A | **200** |
 | Your Comment gets featured (deprecated) | 2 | **N / A** |
 
- \* In order to gain or lose reputation from writing a post the post must be attributed to you and show in your posts list on your profile. 
+ \* In order to gain or lose reputation from writing a post the post must be attributed to you and show in your posts list on your profile. Also please note that only upvotes from developers with more than 250 reputation points will count for the purpose of gaining reputation.  
 
 ### What counts towards reputation?
 We introduced a system where you only receive reputation from an upvote on your post or comment if the person who **casts that vote** has at least 250 reputation. 
