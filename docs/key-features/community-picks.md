@@ -24,9 +24,6 @@ On a card in the feed there is always an icon showing the source in the top left
 
 Clicking on this icon will take you to the community picks feed.
 
-
-
-
 ### Community picks feed
 All of the articles submitted by the community are available in the [Community Picks feed.](https://app.daily.dev/sources/community)
 
@@ -52,6 +49,13 @@ Clicking on that button will open the "Submit article" modal.
 Here you can paste in the article URL and then press submit.
 
 You will then see either a success, already exists or error message.
+
+---
+
+:::info
+Please note that **we do not accept links with redirects**. So please share the final article URL and not a shortened URL from a provider such as bitly or rebrandly. 
+:::
+
 
 #### Article already exists
 If the article already exists in the daily.dev feed you will see a message explaining the article already exists and a link to that article.
