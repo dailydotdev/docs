@@ -2,7 +2,7 @@
 sidebar_position: 2
 ---
 
-# How to get listed?
+# How to get featured?
 
 Do you prefer a video version? here is a 3 minutes video for you
 
@@ -15,10 +15,11 @@ One of the most common questions we get from our community is "how to get my art
 
 ## How to get your article picked up?
 
-Practically there are two primary ways you can get listed on daily.dev:
+Practically there are three ways you can get listed on daily.dev:
 
 1. Publish guest articles on well-known publications
 2. Publish articles on developer blogging platforms
+3. Submit an article through the [Community Picks](../key-features/community-picks.md) feature [beta]
 
 ### Option 1 - Publish guest articles on well-known publications
 
@@ -38,10 +39,14 @@ However, to give you an easy head-start, you may want to check out developer blo
 We are not collecting **all** the articles published on blogging platforms. Our system will only pick an article from a blogging platform once it has gained enough traction/engagement on it. That's our way to ensure that we source qualified content.
 :::
 
+### Option 3 - Submit an article through the Community Picks feature (beta)
+
+Learn more about Community Pick in [this guide](../key-features/community-picks.md). 
+
 ## Getting notified when your article is listed
 
 We've built a system that notifies the authors of articles once their posts are picked up by daily.dev. Learn more about the features we have to offer [for content creators](https://daily.dev/blog/claiming-ownership-on-an-article-you-wrote).
 
 ## Wrap up
 
-Getting featured on daily.dev is straightforward if you follow the methods mentioned above. Whether you publish your post in a magazine or on a developer blogging platform shouldn't make a big difference. So go ahead and pick the optimal method that works for your best interest. 
+Getting listed on daily.dev is straightforward if you follow the methods mentioned above. Whether you publish your post in a magazine or on a developer blogging platform shouldn't make a big difference. So go ahead and pick the optimal method that works for your best interest.
