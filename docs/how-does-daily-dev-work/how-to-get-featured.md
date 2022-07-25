@@ -41,7 +41,7 @@ We are not collecting **all** the articles published on blogging platforms. Our 
 
 ### Option 3 - Submit an article through the Community Picks feature (beta)
 
-Learn more about Community Pick in [this guide](../key-features/community-picks.md). 
+Learn more about Community Picks in [this guide](../key-features/community-picks.md). 
 
 ## Getting notified when your article is listed
 
