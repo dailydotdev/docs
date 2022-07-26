@@ -4,6 +4,12 @@ import styles from './navBoxes.module.css';
 
 const FeatureList = [
   {
+    title: 'Docs V2.0',
+    url: "OU2lLXi_qnU",
+    type: "Quick Tip",
+    duration: "1:48"
+  },
+  {
     title: 'Community Picks',
     url: "JlBlTIMfrGM",
     type: "Quick Tip",
