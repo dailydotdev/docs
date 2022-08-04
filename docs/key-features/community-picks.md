@@ -22,13 +22,23 @@ On a card in the feed there is always an icon showing the source in the top left
 
 Clicking on this icon will take you to the community picks feed.
 
-### Community picks feed
+### Community Picks feed
 All of the articles submitted by the community are available in the [Community Picks feed.](https://app.daily.dev/sources/community)
 
 ![](https://daily-now-res.cloudinary.com/image/upload/v1657719387/cp-3-community-feed_enjtux.png)
 
 ## Submitting / Scouting a Community Pick
-Submitting a link to the daily.dev feed (AKA Scouting) via Community Picks is straight forward, however you may not have access to Community Picks yet if you do not have enough reputation.
+We want you to submit articles that made a real difference to your tech journey. Whether they are in-depth tutorials, interesting perspectives on tech problems, or well thought out and high effort entertainment pieces aimed at developers.
+
+Above all, we want articles that you believe need more exposure, from authors you admire, that you believe will benefit the daily.dev developer community.
+
+Low effort, poor quality and (self) promotional content will be removed to ensure a high standard on the platform.
+
+:::info
+Before submitting a Community Pick, you should read the [**Community Picks Guidelines**](https://docs.daily.dev/docs/how-does-daily-dev-work/community-picks-submission-guildines) to ensure your article is suitable for the feed.
+:::
+
+**Also note:** Submitting a link to the daily.dev feed (AKA Scouting) via Community Picks is straight forward, however you may not have access to Community Picks yet if you do not have enough reputation.
 
 ### Reputation Requirements
 To be able to submit a Community Pick you need to have at least 250 reputation on daily.dev. Once you reach this threshold you will earn the Scout privilege.
