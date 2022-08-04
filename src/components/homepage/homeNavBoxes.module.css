@@ -81,7 +81,7 @@
 }
 
 html[data-theme="light"] .homecard {
-  background-color: #fff;
+  background-color: #ffffff96;
   border: 1px solid #a8b3cf;
   color: #000;
 }
@@ -144,4 +144,8 @@ html[data-theme="light"] .homeIcon {
   background: #fff;
   transition-duration: 0.3s;
   opacity: 1;
+}
+
+html[data-theme="light"] .listContainerLink:hover:after {
+  background: #000;
 }
