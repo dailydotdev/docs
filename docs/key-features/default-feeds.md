@@ -36,13 +36,13 @@ To apply and change your feed settings on your feed, click the feed filters butt
 
 ## Popular feed 
 
-**Most popular** articles a listed first.
+**Most popular** articles are listed first.
 
 One of the things we're proud of the most, is that we do not do any manual ranking or curation. Everything is automatic. How come? Once an article is being [picked up by daily.dev](../how-does-daily-dev-work/how-to-get-featured.md), it starts to rank. The ranking is determined by several factors, including:
 
 * The unique number of times this article was read
 * The number of upvotes this post got from our community members
-* The freshness of the article (e.g., when as it published)
+* The freshness of the article (i.e., when it was published)
 * Other parameters related to the content-quality and engagement levels. Those other parameters aren't playing a major role in the ranking.
 
 That way, we can increase the probability that interesting and valuable posts will surface up the feed. However, the ranking system isn't perfect, and we constantly fine-tune it to achieve the optimal results for our readers.
