@@ -48,7 +48,7 @@ To add shortcuts of the most visited site to daily.dev, click on the `Add shortc
 
 ![](https://daily-now-res.cloudinary.com/image/upload/v1643291898/docs/Screen_Shot_2022-01-27_at_15.55.57.png)
 
-Once you clicked, you will see the following options:
+Once you click, you will see the following options:
 1. Enable Chrome's most visited sites
 2. Configure custom shortcuts
 
