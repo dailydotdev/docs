@@ -4,7 +4,7 @@ sidebar_position: 3
 
 # Blocking tags and sources
 
-## How does blocking works?
+## How does blocking work?
 
 Adjusting your feed is designed to be straightforward. But sometimes, there are specific tags or sources that you just don't want to see at all. This is where blocking plays an important role. 
 
