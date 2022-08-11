@@ -4,12 +4,14 @@ sidebar_label: "Community Picks Guidelines"
 ---
 # Community Picks Submission Guidelines
 
-When submitting Community Picks for the daily.dev community, it is important to understand the type of articles and quality of articles we are (and are not) looking for.
+## What are Community Picks?
+Community Picks are articles that are scouted out and submitted by the community, that then appear in the daily.dev feed like any other article.
 
+Nearly any article, from nearly any website can be submitted as long as it is related to tech / development, and subequently enjoyed by the entire daily.dev community.
 
-:::info
-The Community Picks feature is still in Beta, as such this guidelines are provisional and are likely to change to ensure we uphold high standards on the daily.dev feed
-:::
+To get access to this feature you first need to earn the Scout privilege (min. 250 reputation points). Only people with the Scout privilege can submit links and are limited to 3 submissions per day.
+
+**You can read more about how to [submit and use Community Picks here.](https://docs.daily.dev/docs/key-features/community-picks)** 
 
 ## General rule / quick guidance
 We want you to submit articles that made a real difference to your tech journey. Whether they are in-depth tutorials, interesting perspectives on tech problems, or well thought out and high effort entertainment pieces aimed at developers.
@@ -19,6 +21,10 @@ Above all, we want articles that you believe need more exposure, from authors yo
 Low effort, poor quality and (self) promotional content will be removed to ensure a high standard on the platform.
 
 ## Guidelines
+:::info
+The Community Picks feature is still in Beta, as such this guidelines are provisional and are likely to change to ensure we uphold high standards on the daily.dev feed
+:::
+
 We work hard to ensure that we only intervene on low quality, low effort and or repetitive articles that do not benefit the community, and not in any way that introduces bias towards any one point of view.
 
 Hopefully the following guidelines will help you ensure that articles you scout out for the community are well received:
