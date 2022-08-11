@@ -13,7 +13,7 @@ To get access to this feature you first need to earn the Scout privilege (min. 2
 
 **You can read more about how to [submit and use Community Picks here.](https://docs.daily.dev/docs/key-features/community-picks)** 
 
-## General rule / quick guidance
+## General guidlines on submitting Community Picks
 We want you to submit articles that made a real difference to your tech journey. Whether they are in-depth tutorials, interesting perspectives on tech problems, or well thought out and high effort entertainment pieces aimed at developers.
 
 Above all, we want articles that you believe need more exposure, from authors you admire, that you believe will benefit the daily.dev developer community.
