@@ -35,7 +35,7 @@ Above all, we want articles that you believe need more exposure, from authors yo
 Low effort, poor quality and (self) promotional content will be removed to ensure a high standard on the platform.
 
 :::info
-Before submitting a Community Pick, you should read the [**Community Picks Guidelines**](https://docs.daily.dev/docs/how-does-daily-dev-work/community-picks-submission-guildines) to ensure your article is suitable for the feed.
+Before submitting a Community Pick, you should read the [**Community Picks Guidelines**](https://docs.daily.dev/docs/how-does-daily-dev-work/community-picks-submission-guidelines) to ensure your article is suitable for the feed.
 :::
 
 **Also note:** Submitting a link to the daily.dev feed (AKA Scouting) via Community Picks is straight forward, however you may not have access to Community Picks yet if you do not have enough reputation.
