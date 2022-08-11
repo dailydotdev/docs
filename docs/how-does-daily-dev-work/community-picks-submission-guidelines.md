@@ -5,7 +5,7 @@ sidebar_label: "Community Picks Guidelines"
 # Community Picks Submission Guidelines
 
 ## What are Community Picks?
-Community Picks are articles that are scouted out and submitted by the community, that then appear in the daily.dev feed like any other article.
+Community Picks are articles that are scouted out and submitted by the community. These articles then appear in the daily.dev feed like any other article.
 
 Nearly any article, from nearly any website can be submitted as long as it is related to tech / development, and subequently enjoyed by the entire daily.dev community.
 
