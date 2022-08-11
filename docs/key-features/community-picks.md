@@ -12,6 +12,16 @@ To get access to this feature you first need to earn the Scout privilege (min. 2
 <iframe width="700" height="400"  src="https://www.youtube-nocookie.com/embed/JlBlTIMfrGM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
+<details>
+<summary><h2>A test</h2></summary>
+## Community Picks in the daily.dev feed
+Community Picks are articles that are added to the daily.dev feed by our community members. These articles can be from nearly any website / online publication, not just from our 400+ sources.
+
+
+</details>
+
+
+
 ## Community Picks in the daily.dev feed
 Community Picks are articles that are added to the daily.dev feed by our community members. These articles can be from nearly any website / online publication, not just from our 400+ sources.
 
@@ -35,7 +45,7 @@ Above all, we want articles that you believe need more exposure, from authors yo
 Low effort, poor quality and (self) promotional content will be removed to ensure a high standard on the platform.
 
 :::info
-Before submitting a Community Pick, you should read the [**Community Picks Guidelines**](https://docs.daily.dev/docs/how-does-daily-dev-work/community-picks-submission-guildines) to ensure your article is suitable for the feed.
+Before submitting a Community Pick, you should read the [**Community Picks Guidelines**](https://docs.daily.dev/docs/how-does-daily-dev-work/community-picks-submission-guidelines) to ensure your article is suitable for the feed.
 :::
 
 **Also note:** Submitting a link to the daily.dev feed (AKA Scouting) via Community Picks is straight forward, however you may not have access to Community Picks yet if you do not have enough reputation.
