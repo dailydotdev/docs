@@ -7,7 +7,7 @@ sidebar_label: "Community Picks Guidelines"
 ## What are Community Picks?
 Community Picks are articles that are scouted out and submitted by the community. These articles then appear in the daily.dev feed like any other article.
 
-Nearly any article, from nearly any website can be submitted as long as it is related to tech / development, and subequently enjoyed by the entire daily.dev community.
+Nearly any article, from nearly any website can be submitted as long as it is related to tech / development, and subequently can be enjoyed by the entire daily.dev community.
 
 To get access to this feature you first need to earn the Scout privilege (min. 250 reputation points). Only people with the Scout privilege can submit links and are limited to 3 submissions per day.
 
