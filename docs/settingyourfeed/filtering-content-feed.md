@@ -25,10 +25,10 @@ This is how your app should look like:
 Once on the Manage tags menu, you're going to have the following options:
 1. **Follow a group of tags** (e.g., Backend, Webdev, Data Science, etc.). Click on the "Follow all" button to follow a group of tags, and you're good to go. 
 2. **Follow specific tags** within a group. Our team manually curates each group of tags, but you can always select just the tags you're interested in.
-3. **Search** for a specific tag. Didn't find the tag you were looking for, use the search to find your key term -> Click the `+` button to follow this tag
+3. **Search** for a specific tag. Didn't find the tag you were looking for? Use the search to find your key term -> Click the `+` button to follow this tag
 
 :::info
-Wondering how does daily.dev classify articles? Learn more about how we built our [article tagging system](https://daily.dev/blog/how-we-did-it-upgraded-tags-system-for-daily-dev)
+Wondering how daily.dev classifies articles? Learn more about how we built our [article tagging system](https://daily.dev/blog/how-we-did-it-upgraded-tags-system-for-daily-dev)
 :::
 
 ### Available tag groups
