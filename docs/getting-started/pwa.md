@@ -14,9 +14,7 @@ All you need to do is to visit this URL: https://app.daily.dev
 
 ### How can I add daily.dev to my mobile home screen on iOS?
 
-For iOS users, you can **add a website icon to your iPhone Home Screen**!
-
-You can add a website icon to your iPhone Home Screen for quick access to that site.
+For iOS users, you can add a shortcut to your iPhone Home screen for quick access to the daily.dev web app!
 
 Open the web app on your mobile Safari browser, tap the Share button, then tap `Add to Home Screen`.
 
