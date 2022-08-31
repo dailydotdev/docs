@@ -14,7 +14,7 @@ To get access to this feature you first need to earn the Scout privilege (min. 2
 **You can read more about how to [submit and use Community Picks here.](https://docs.daily.dev/docs/key-features/community-picks)** 
 
 ## General guidelines on submitting Community Picks
-We want you to submit articles that made a real difference to your tech journey. Whether they are in-depth tutorials, interesting perspectives on tech problems, or well-thought-out and high-effort entertainment pieces aimed at developers.
+We want you to submit articles that made a real difference to your tech journey. Whether they are in-depth tutorials, interesting perspectives on tech problems, or well thought out and high-effort entertainment pieces aimed at developers.
 
 Above all, we want articles that you believe need more exposure, from authors you admire, that you believe will benefit the daily.dev developer community.
 
@@ -25,7 +25,7 @@ Low effort, poor quality and (self) promotional content will be removed to ensur
 The Community Picks feature is still in Beta, as such these guidelines are provisional and are likely to change to ensure we uphold high standards on the daily.dev feed
 :::
 
-We work hard to ensure that we only intervene on low quality, low effort, and or repetitive articles that do not benefit the community, and not in any way that introduces bias towards any one point of view.
+We work hard to ensure that we only intervene on low quality, low effort and or repetitive articles that do not benefit the community, and not in any way that introduces bias towards any one point of view.
 
 Hopefully, the following guidelines will help you ensure that articles you scout out for the community are well received:
 
@@ -34,7 +34,7 @@ Hopefully, the following guidelines will help you ensure that articles you scout
 - **High Quality** and developer-orientated content. 
 - **In-depth** tutorials, how-to’s, and guides.
 - **Interesting articles** that explore tech-related topics and challenges that may spark positive discussion and debate.
-- **Reviews of new technologies**, tech / dev product releases, and overviews of new technologies to help the community stay up to date on the latest developments in tech.
+- **Reviews of new technologies**, tech / dev product releases and overviews of new technologies to help the community stay up to date on the latest developments in tech.
 - **Fresh perspectives** on existing technologies, technical challenges, and personal development guidance for devs and people in tech.
 - **Safe for work content**, we have people from diverse backgrounds in our community, please keep the Not Safe For Work (NSFW) content on other platforms to help protect people who may be vulnerable / sensitive to such content.
 - **Breaking Tech news** is welcomed if it is valuable to the developer community and may affect their professional career in some way, or provide valuable insights into the future of tech. For example, articles about big public releases that have not been covered by mainstream media, large incident reports for outages or data breaches etc. are highly desired to keep the community informed.
