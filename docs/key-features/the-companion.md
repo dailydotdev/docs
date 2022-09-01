@@ -2,7 +2,7 @@
 sidebar_position: 8
 ---
 
-# The Companion Widget
+# Companion Widget
 
 ![](https://daily-now-res.cloudinary.com/image/upload/v1655796433/companion/chagelog_cover.png)
 
