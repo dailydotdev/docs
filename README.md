@@ -72,6 +72,9 @@ $ docker run -p 3000:3000 francescoxx/dailydev-docs:0.9.3
 
 ## 🙏 Thanks to all Contributors
 Thanks a lot for spending your time in helping daily.dev grow. Thanks a lot! ❤️
+ <a href = "https://github.com/dailydotdev/docs/graphs/contributors">
+   <img src = "https://contrib.rocks/image?repo=dailydotdev/docs"/>
+ </a>
 
 ## 🤝 Support
 This project needs a star ⭐️ from you. Don't forget to leave a star! ⭐️
