@@ -605,6 +605,12 @@ div[class^='announcementBar_'] {
   }
 }
 
+@media screen and (max-width: 1000px) {
+  :root{
+    --ifm-font-size-base: 100%;
+    --dd-h1-font-size: 3rem;
+  }
+}
 
 
 /* typography */
@@ -754,7 +760,7 @@ p:last-child {
   padding: 0;
 }
 
-img {
+.markdown img {
   max-width: min(600px, 100%);
   margin: 0 auto;
   display: block;

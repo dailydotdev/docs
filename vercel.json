@@ -1,5 +1,5 @@
 {
-    "redirects": [
-      { "source": "/do-not-disturb", "destination": "/pause-new-tab" }
-    ]
-  }
+  "redirects": [
+    { "source": "/docs/key-features/do-not-disturb", "destination": "/docs/key-features/pause-new-tab" }
+  ]
+}
