@@ -1,0 +1,5 @@
+{
+    "redirects": [
+      { "source": "/do-not-disturb", "destination": "/pause-new-tab" }
+    ]
+  }

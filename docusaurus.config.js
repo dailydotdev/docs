@@ -89,6 +89,11 @@ const config = {
             position: 'left',
           },
           {
+            label: 'FAQs',
+            to: 'faqs',
+            position: 'left',
+          },
+          {
             href: 'https://github.com/dailydotdev/docs',
             label: 'GitHub',
             position: 'right',
