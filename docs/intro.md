@@ -5,50 +5,52 @@ sidebar_label: Introduction
 
 # Introduction
 
-## We are building the homepage every developer deserves ✌️
+daily.dev provides the latest tech news and articles in one place. 
 
-daily.dev provides all developer news in one place. Get a feed of the hottest developer news. Read more quality articles. Stay up to date. Save time.
+We take over 600 tech news sources, find the best articles on each of them and put those articles into a single feed. You can then tailor this feed to your interests and specialisms using tags!
 
-<!--[![Daily dev banner](https://daily-now-res.cloudinary.com/image/upload/v1636643041/docs/7cae656b-e2cd-4939-b136-684663c97347.jpg)](https://youtu.be/igZCEr3HwCg)-->
-
+Above all, we help you save time finding high quality articles so you can stay up to date (and stay ahead of the curve) as a developer.
 
 <iframe width="700" height="400" src="https://www.youtube.com/embed/igZCEr3HwCg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-
-
-
-### Staying up to date takes a lot of time and effort
-
-It's essential for every developer, yet it's not a simple thing at all! Why?
-1. There are so many publications
-2. Low-quality content is all around
-3. The tech world is rapidly changing
-
-That's what made us build daily.dev.
-
-## How to read the docs?
+## Quick start guide
+We want you to get the most out of daily.dev, so we put this quick start guide together so you can get the most out of our platform and our community.
 
 ### Step 1: Install 🚀
 
-daily.dev comes both as a [browser extension](/getting-started/browser-extension-installation.md) and as a [progressive web app](/getting-started/pwa.md). Pick your preferred platform (or just use them both), and you're good to go! 
+daily.dev comes both as a [browser extension](/getting-started/browser-extension-installation.md) and as a [progressive web app](/getting-started/pwa.md). 
+
+We recommend the extension as it will set your new tab to show daily.dev and help you form a good reading habit. 
+
+Don't worry though, you can always pause the new tab functionality if you need to focus!
 
 ### Step 2: Set up your personal feed 🎯
 
-Once you're in, the ultimate way to stay updated is to [create your personal feed](/settingyourfeed/filtering-content-feed.md). 
+Once you've installed the extension (or you are on the web app), the next step is to [create your personal feed](/settingyourfeed/filtering-content-feed.md). 
+
+This will allow you to tailor daily.dev to your preferences and interests, providing you with the most relevant tech and developer news.
 
 ### Step 3: Engage with other developers 👏
 
-Learn more about our [key features](/key-features/default-feeds.md) and start engaging with other devs on our platform. 
+Check out some of our [key features](/key-features/default-feeds.md) and start engaging with other devs on our platform to help grow your professional network and make new connections. 
 
 ### Step 4: Build your presence 🦸
 
-Sign up is voluntary, but we highly recommend you to [create a profile](/your-profile/registration.md). That way, you will build your online presence and show the world what you have achieved. 
+You do not have to register with daily.dev, but we highly recommend you do so you can [create a profile](/your-profile/registration.md). 
+
+That way you can:
+- comment on articles, 
+- upvote, 
+- bookmark useful articles,
+- showcase your reading with our DevCard, and much more! 
 
 ### Step 5: Customize the look and feel 🌈
 
-Make daily.dev look precisely how you want it to be! [Customize](/customize-your-feed/layout.md) the theme, layout, density, and a bunch of other cool preferences. 
+Make daily.dev look how you want! 
+
+[Customize](/customize-your-feed/layout.md) the theme, layout, card density, and a bunch of other cool preferences. 
 
 ### Step 6: Explore behind the scenes 👀
 
-If you want to learn [how does daily.dev work](/how-does-daily-dev-work/dailydev-101.md) we got you covered.
+If you want to learn [how daily.dev works](/how-does-daily-dev-work/dailydev-101.md) we got you covered.
 
