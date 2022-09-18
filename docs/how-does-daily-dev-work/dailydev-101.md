@@ -38,7 +38,7 @@ Ranking changes based on the feed that the user is watching. There are four feed
 4. Recent Feed
 
 :::tip
-To learn more, please visit our [Feeds guide](../key-features/default-feeds.md).
+To learn more, please visit our [Feeds guide](../key-features/feeds.md).
 :::
 
 ## How does the filtering work?

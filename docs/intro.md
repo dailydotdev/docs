@@ -32,7 +32,7 @@ This will allow you to tailor daily.dev to your preferences and interests, provi
 
 ### Step 3: Engage with other developers 👏
 
-Check out some of our [key features](/key-features/default-feeds.md) and start engaging with other devs on our platform to help grow your professional network and make new connections. 
+Check out some of our [key features](/key-features/feeds.md) and start engaging with other devs on our platform to help grow your professional network and make new connections. 
 
 ### Step 4: Build your presence 🦸
 

@@ -28,7 +28,7 @@ Blocking a tag does not affect the content on the:
 
 These feeds will still show articles with tags that you have blocked. 
 
-To take full advantage of the blocking features, please [set up your personal feed](../key-features/default-feeds.md).
+To take full advantage of the blocking features, please [set up your personal feed](../key-features/feeds.md).
 :::
 
 
