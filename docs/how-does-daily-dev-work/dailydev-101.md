@@ -48,7 +48,7 @@ That's a great question! Once we've collected and ranked articles, the last proc
 The easiest way to start is by using the sidebar to choose tags you want to follow, and the feed will automatically curate relevant content accordingly.
 
 :::tip
-To learn more about filtering, read our doc about [Setting up your feed](/docs/setting-up-your-feed/filtering-content-feed.md).
+To learn more about filtering, read our doc about [Setting up your feed](/docs/setting-up-your-feed/filtering-content-feed).
 :::
 
 
