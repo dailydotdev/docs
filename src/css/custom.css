@@ -391,12 +391,12 @@ img[src='/img/logo.png'] {
   --dd-mar-mutiplier-bot-6: 0.8;
 
   --dd-mar-top-h1: 0.5rem;
-  --dd-mar-bot-h1: 0.25rem;
+  --dd-mar-bot-h1: 1.5rem;
 
-  --dd-mar-top-h2: 4rem;
+  --dd-mar-top-h2: 2.5rem;
   --dd-mar-bot-h2: 1rem;
 
-  --dd-mar-top-h3: 3rem;
+  --dd-mar-top-h3: 2rem;
   --dd-mar-bot-h3: 1rem;
 
   --dd-mar-top-h4: calc(var(--dd-h4-font-size) * var(--dd-mar-mutiplier-top-4));
@@ -603,6 +603,9 @@ div[class^='announcementBar_'] {
   main .col--3{
     display: none;
   }
+  main .row > div{
+    max-width: 100%!important;
+  }
 }
 
 @media screen and (max-width: 1000px) {
@@ -619,6 +622,7 @@ div[class^='announcementBar_'] {
 .markdown h1:first-child {
   font-size: var(--dd-h1-font-size);
   margin: var(--dd-mar-top-h1) 0 var(--dd-mar-bot-h1) 0;
+  line-height: 1.2;
 }
 
 .markdown h2 {
@@ -646,7 +650,7 @@ div[class^='announcementBar_'] {
   margin: var(--dd-mar-top-h6) 0 var(--dd-mar-bot-h6) 0;
 }
 
-/* readability */
+/* readability and layout */
 .markdown *{
   line-height: 1.75em;
 }
@@ -657,19 +661,36 @@ summary a,
   font-weight: bold;;
 }
 
+.markdown p + ul,
+.markdown p + ol{
+  margin-top: -1rem;
+}
+
+
 .markdown li{
   margin-bottom: 8px;
 }
 
+table{
+  display: table;
+  width: 100%;
+}
+
 /* alerts */
 
+div.alert{
+  margin-top: 2rem;
+}
+
 div.alert h5{
-  margin-top: 0px;
+  margin: 0 0 0.25rem 0;
   font-size: 1.3rem;
   line-height: 1em;
 }
 
-
+div.alert ul{
+  margin-top: 0;
+}
 
 
 /* images and media */
@@ -762,8 +783,9 @@ p:last-child {
 
 .markdown img {
   max-width: min(600px, 100%);
-  margin: 0 auto;
+  margin: 0 auto 1.5rem auto;
   display: block;
   border: 2px solid var(--cabbage60);
+
 }
 
