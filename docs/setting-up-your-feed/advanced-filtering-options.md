@@ -8,7 +8,7 @@ In this guide, you will learn how to fine-tune your feed based on **content cate
 
 ## What are the advanced filtering options?
 
- The primary filtering mechanism on daily.dev is [based on tags](/settingyourfeed/filtering-content-feed.md), but sometimes it's not enough. 
+ The primary filtering mechanism on daily.dev is [based on tags](/docs/setting-up-your-feed/filtering-content-feed), but sometimes it's not enough. 
  
  Some posts may contain a tag you follow, yet it is not quite what you're looking for. 
  
@@ -34,7 +34,7 @@ Once on the Advanced menu, you get several on/off toggle switches to control the
 
 | Category                  | Description                                                                                                                                                                                                                                    |
 |---                        | ---                                                                                                                                                                                                                                            |
-| Community Picks (3)       | [Community Picks](/docs/key-features/community-picks.md) are individual articles that are sourced by daily.dev community members. They are normally high quality and or highly entertaining articles that the community feels are valuable.    |
+| Community Picks (3)       | [Community Picks](/docs/key-features/community-picks) are individual articles that are sourced by daily.dev community members. They are normally high quality and or highly entertaining articles that the community feels are valuable.    |
 | Newsletters (4)           | Show posts that were published in developer newsletters. Such posts usually contain curated lists and opinionated essays.                                                                                                                      |
 | Non-editorial content (5) | Show user-generated posts that were created on blogging platforms that are not editor dirven. Such posts may not be checked professional editors for factual accuracy, spelling, grammar etc.                                                  |
 | Product launches (6)      | Show posts that aim to help you discover new product launches or significant releases to existing developer tools.                                                                                                                             |
@@ -43,5 +43,5 @@ Once on the Advanced menu, you get several on/off toggle switches to control the
 
 ## How to block specific sources or tags?
 
-If you want to filter out a specific source (or block a specific tag), please check out this [guide on blocking sources or tags](/settingyourfeed/blocking-tags-sources.md). 
+If you want to filter out a specific source (or block a specific tag), please check out this [guide on blocking sources or tags](/setting-up-your-feed/blocking-tags-sources.md). 
 

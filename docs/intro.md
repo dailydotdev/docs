@@ -26,7 +26,7 @@ Don't worry though, you can always pause the new tab functionality if you need t
 
 ### Step 2: Set up your personal feed 🎯
 
-Once you've installed the extension (or you are on the web app), the next step is to [create your personal feed](/settingyourfeed/filtering-content-feed.md). 
+Once you've installed the extension (or you are on the web app), the next step is to [create your personal feed](/setting-up-your-feed/filtering-content-feed.md). 
 
 This will allow you to tailor daily.dev to your preferences and interests, providing you with the most relevant tech and developer news.
 

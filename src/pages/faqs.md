@@ -37,7 +37,7 @@ hide_table_of_contents: true
         <p>Blocking is only applied on articles that are displayed on the <strong>"My Feed"</strong> feed</p>
         <p>Blocking a tag does not affect the content on the "Popular", "Most Upvoted" and "Best Discussions" feeds.</p>
         <p>These feeds will still show articles with tags that you have blocked.</p>
-        <p>To make sure you get the most relevant content for you we recommend you <a href="/docs/key-features/default-feeds">setup your personal feed</a></p>
+        <p>To make sure you get the most relevant content for you we recommend you <a href="/docs/key-features/feeds">setup your personal feed</a></p>
 </details>
 <details>
     <summary>My weekly reading goals are reseting / not updating?</summary>
