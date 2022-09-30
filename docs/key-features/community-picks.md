@@ -9,7 +9,8 @@ To get access to this feature you first need to earn the Scout privilege (min. 2
 
 ## Quick Overview Video
 
-<iframe width="700" height="400"  src="https://www.youtube-nocookie.com/embed/JlBlTIMfrGM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="700" height="400"  src="https://www.youtube-nocookie.com/embed/JlBlTIMfrGM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
+</iframe>
 
 
 ## Community Picks in the daily.dev feed
@@ -28,22 +29,22 @@ All of the articles submitted by the community are available in the [Community P
 ![](https://daily-now-res.cloudinary.com/image/upload/v1657719387/cp-3-community-feed_enjtux.png)
 
 ## Submitting / Scouting a Community Pick
-We want you to submit articles that made a real difference to your tech journey. Whether they are in-depth tutorials, interesting perspectives on tech problems, or well thought out and high effort entertainment pieces aimed at developers.
+We want you to submit articles that made a real difference to your tech journey. Whether they are in-depth tutorials, interesting perspectives on tech problems, or well thought out and high effort entertainment pieces aimed at developer(s).
 
 Above all, we want articles that you believe need more exposure, from authors you admire, that you believe will benefit the daily.dev developer community.
 
-Low effort, poor quality and (self) promotional content will be removed to ensure a high standard on the platform.
+Low effort, poor quality and (Self) promotional content will be removed to ensure a high standard on the platform.
 
 :::info
 Before submitting a Community Pick, you should read the [**Community Picks Guidelines**](https://docs.daily.dev/docs/how-does-daily-dev-work/community-picks-submission-guidelines) to ensure your article is suitable for the feed.
 :::
 
-**Also note:** Submitting a link to the daily.dev feed (AKA Scouting) via Community Picks is straight forward, however you may not have access to Community Picks yet if you do not have enough reputation.
+**Also Note:** Submitting a link to the daily.dev feed (AKA Scouting) via Community Picks is straight forward, however you may not have access to Community Picks yet if you do not have enough reputation.
 
-### Reputation Requirements
+### Reputation Requirements:
 To be able to submit a Community Pick you need to have at least 250 reputation on daily.dev. Once you reach this threshold you will earn the Scout privilege.
 
-:::tip
+::: tip
 [Learn how to gain reputation](https://docs.daily.dev/docs/how-does-daily-dev-work/reputation) and how reputation works.
 :::
 
@@ -63,9 +64,9 @@ You will then see either a success, already exists or error message.
 ---
 
 :::info
-Please note that **we do not accept links with redirects**. So please share the final article URL and not a shortened URL from a provider such as bitly or rebrandly. 
+Please note that **We do not accept links with redirects**. So please share the final article URL and not a shortened URL from a provider such as bitly or rebrandly. 
 
-Please also note that **submitting your own articles is not allowed.** Please share amazing articles from other authors that you have enjoyed.
+Please also note that **Submitting your own articles is not allowed.** Please share amazing articles from other authors that you have enjoyed.
 :::
 
 
@@ -106,14 +107,14 @@ There are multiple reasons why a submission to Community Picks could fail.
 ## Gaining Reputation
 Not only do you help the community by sharing useful and interesting articles, you can gain more reputation too!
 
-You gain reputation on any link you submit when it receives an upvote (as long as the person upvoting has at least 250 reputation), as well as the post author, if they have a profile on daily.dev.
+You gain reputation on any link you submit when it receives an upvote (as long as the person upvoting has at least 250 reputation), as well as the post author, if they have a profile on daily.dev .
 
 :::tip
 We plan on releasing more features that are dependant on reputation in the future, so this is a great way to gain reputation while helping the community!
 :::
 
 ## What links do we expect to see?
-You can submit any article you think is useful or interesting for the developer community.
+You can submit any article you think is useful or interesting for the developer community!
 
 However, we do prefer that you don't submit "top 10s" and similar listicles.
 
