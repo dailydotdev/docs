@@ -25,6 +25,9 @@ Run the local dev environment:
 // with npm
 $ npm run start
 
+// if your npm not updated then do this:
+$ npm install latest-version
+
 // or with yarn
 $ yarn start
 ```
