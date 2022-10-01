@@ -108,7 +108,7 @@ function Feature({title, icon, items }) {
         <img src={icon} className={styles.homeIcon}></img>
         <h2>{title}</h2>
         <div className={styles.listContainer}>
-        <ul>
+        <ul className={styles.listContainerLists}>
           {items.map((props, idx) => (
             <FeatureItem key={idx} {...props} />
           ))}

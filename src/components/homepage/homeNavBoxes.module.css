@@ -49,6 +49,9 @@
 .listContainer{
   min-height: 17rem;
 }
+.listContainerLists {
+  padding-left: 1rem;
+}
 @media screen and (max-width: 768px) {
   .listContainer{
     min-height: 3rem;
