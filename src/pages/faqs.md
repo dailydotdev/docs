@@ -25,7 +25,7 @@ hide_table_of_contents: true
     <summary>I can't login (or create an account) as my email is being used</summary>
         <p>You have already registered with daily.dev, but possibly used Google or GitHub to sign up</p>
         <p>The quickest way to solve this is to use the provider you signed up with to login.</p>
-        <p>However if you are still having problems (or wish to change to using email and password to sign in), please email <a href="mailto:support@daily.dev">support@daily.dev</a> with your daily.dev username and our friendly team will help you resolve it!</p>
+        <p>However, if you are still having problems (or wish to change to using email and password to sign in), please email <a href="mailto:support@daily.dev">support@daily.dev</a> with your daily.dev username and our friendly team will help you resolve it!</p>
 </details>
 <details>
     <summary>How to request a new feature?</summary>
@@ -34,7 +34,7 @@ hide_table_of_contents: true
 </details>
 <details>
     <summary>I block a tag but I still see articles with that tag!</summary>
-        <p>Blocking is only applied on articles that are displayed on the <strong>"My Feed"</strong> feed</p>
+        <p>Blocking is only applied to articles that are displayed on the <strong>"My Feed"</strong> feed</p>
         <p>Blocking a tag does not affect the content on the "Popular", "Most Upvoted" and "Best Discussions" feeds.</p>
         <p>These feeds will still show articles with tags that you have blocked.</p>
         <p>To make sure you get the most relevant content for you we recommend you <a href="/docs/key-features/feeds">setup your personal feed</a></p>
@@ -44,5 +44,5 @@ hide_table_of_contents: true
         <p>Our weekly reading goals run from Monday to Sunday.</p>
         <p><strong>At midnight (GMT) your weekly reading goal progress is reset</strong>, and you start again.</p>
         <p>Whatever rank you achieved the week before will be shown and you will see progress indicators towards repeating it.</p>
-        <p>Bear in mind that we only count 1 article each day towards your reading goal, so even if you read 100 articles one day and then 0 then next day, you will only get 1 day counted towards your weekly reading goal.</p>
+        <p>Bear in mind that we only count 1 article each day towards your reading goal, so even if you read 100 articles one day and then 0 the next day, you will only get 1 day counted towards your weekly reading goal.</p>
 </details>
