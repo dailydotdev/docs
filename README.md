@@ -92,6 +92,6 @@ Licensed under [AGPL-3.0](https://github.com/dailydotdev/daily/blob/master/LICEN
 
 ## ⭐️ One more thing
 
-Don't forget to leave a star ⭐️
+Don't forget to leave us a star ⭐️
 
 
