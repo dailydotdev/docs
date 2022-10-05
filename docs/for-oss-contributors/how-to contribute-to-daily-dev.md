@@ -4,11 +4,11 @@ sidebar_position: 1
 
 # How to contribute to daily.dev
 
-daily.dev is an open source project! We're glad to have you here. We believe in transparency and giving back to the community, so we decided to publish the source code to GitHub. Suggest a feature, report a bug, or even contribute. Everyone is welcome!
+daily.dev is an open-source project! We're glad to have you here. We believe in transparency and giving back to the community, so we decided to publish the source code on GitHub. Suggest a feature, report a bug, or even contribute. Everyone is welcome!
 
 ## Why open source?
 
-Contributing to open source can be game-changing for a developer career. Open source is a way for the developers to build their portfolio, experiment with new technologies, and learn in public. Big companies are open sourcing their projects and many open-source startups are also making waves. Getting involved in such projects is definitely a great opportunity to learn and enhance your skills.
+Contributing to open source can be game-changing for a developer's career. Open source is a way for developers to build their portfolios, experiment with new technologies, and learn in public. Big companies are open-sourcing their projects and many open-source startups are also making waves. Getting involved in such projects is definitely a great opportunity to learn and enhance your skills.
 
 ## daily.dev's GitHub Repository
 
