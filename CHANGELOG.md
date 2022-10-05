@@ -1,4 +1,13 @@
-## 0.0.1 (2022-10-01)
+## [0.0.2](https://github.com/dailydotdev/docs/compare/v0.0.1...v0.0.2) (2022-10-05)
+
+
+### Bug Fixes
+
+* typos and grammar errors ([0be5dca](https://github.com/dailydotdev/docs/commit/0be5dcaa10a339c9e8ad0f05fcbdf35463819e43))
+
+
+
+## [0.0.1](https://github.com/dailydotdev/docs/compare/962d1164a462976d63f94b66771f20196658871d...v0.0.1) (2022-10-01)
 
 
 ### Bug Fixes
