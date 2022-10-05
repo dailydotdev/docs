@@ -48,7 +48,7 @@ Click on the "Follow all" button (4) on a tag group to follow all the tags withi
 You can choose as many of these as you want.
 
 #### Follow specific tags 
-Alternatively you can click on the group name (5) and select individual tags that interest you from the list of tags that appear below (6).
+Alternatively, you can click on the group name (5) and select individual tags that interest you from the list of tags that appear below (6).
 
 Once you have found all the tags that you want to follow you can just click the "Create" button (7) to complete the process and create your personalized feed.
 

@@ -18,7 +18,7 @@ Blocking allows you to:
 2. Remove all articles that come from a [specific source](#blocking-sources) 
 
 :::info
-Blocking is only applied on articles that are displayed on the "**My Feed**" feed
+Blocking is only applied to articles that are displayed on the "**My Feed**" feed
 
 Blocking a tag does not affect the content on the:
 
