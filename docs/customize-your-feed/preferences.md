@@ -4,7 +4,7 @@ sidebar_position: 4
 
 # Preferences
 
-Here you can set the some other preferences to fine-tune the user experience of using daily.dev, including:
+Here you can set some other preferences to fine-tune the user experience of using daily.dev, including:
 1. Hide read posts
 2. Open links in new tab
 3. Show custom shortcuts
@@ -14,15 +14,15 @@ Here you can set the some other preferences to fine-tune the user experience of 
 
 ## Hide read posts
 
-Turning this toggle switch `on` will make sure that every post you read will dissapear from your feed after you've read it.
+Turning this toggle switch `on` will make sure that every post you read will disappear from your feed after you've read it.
 
 ## Open link in new tab
 
-The default setting in daily.dev is that links to articles are opened in a new tab. However, if you turn this toggle switch `off`, daily.dev will open article in your current tab.
+The default setting in daily.dev is that links to articles are opened in a new tab. However, if you turn this toggle switch `off`, daily.dev will open the article in your current tab.
 
 ## Show custom shortcuts
 
-Turning this toggle switch `off` will hide the quick links to your custom shotcuts/most visited sites from the feed.
+Turning this toggle switch `off` will hide the quick links to your custom shortcuts/most visited sites from the feed.
 
 ## Show feed sorting menu
 
