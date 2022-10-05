@@ -25,7 +25,7 @@ Low effort, poor quality and (self) promotional content will be removed to ensur
 The Community Picks feature is still in Beta, as such these guidelines are provisional and are likely to change to ensure we uphold high standards on the daily.dev feed
 :::
 
-We work hard to ensure that we only intervene on low quality, low effort and or repetitive articles that do not benefit the community, and not in any way that introduces bias towards any one point of view.
+We work hard to ensure that we only intervene on low quality, low effort and or repetitive articles that do not benefit the community, and not in any way that introduces a bias towards any one point of view.
 
 Hopefully, the following guidelines will help you ensure that articles you scout out for the community are well received:
 
@@ -44,9 +44,9 @@ Hopefully, the following guidelines will help you ensure that articles you scout
 
 Your own posts, promotional content, top 10s, listicles, vs articles, low-quality content, shallow or non-professional content, shortened URLs, redirected URLs or clickbait.
 
-- **Your own posts** - Community Picks is about highlighting amazing articles from our community, not self-promotion.
+- **Your own posts** - Community Picks are about highlighting amazing articles from our community, not self-promotion.
 - **Shortened URLs / Redirected URLs** - Please always submit the final and full URL (including the protocol e.g. https://mydomain.com/some-article). Any URLs submitted must not redirect or they will be rejected.
-- **Promotional content** - Community Picks are not meant for product and or Services promotion. If you want to promote your product or service, why not enquire about [advertising on daily.dev](https://promote.daily.dev/).
+- **Promotional content** - Community Picks are not meant for product and or Service promotion. If you want to promote your product or service, why not enquire about [advertising on daily.dev](https://promote.daily.dev/).
 - **Roadmaps** - Roadmaps are subjective and often full of very opinionated and misleading information, we would prefer you not add them to avoid confusion. 
 - **Top 10s, Listicles** - There are thousands of top 10 style, low-effort listicles that add very little value, we do not want these cluttering up the daily.dev Community feed. (For clarity though, if they contain in-depth explanations, original and detailed reviews, etc. these are acceptable.)
 - **Vs Articles** - Product X vs Product Y articles tend to be spammy and offer little value as they are normally opinionated. As such we have decided we would prefer you not submit them at all.
