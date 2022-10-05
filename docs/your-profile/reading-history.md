@@ -6,7 +6,7 @@ sidebar_position: 3
 
 ![](https://daily-now-res.cloudinary.com/image/upload/v1637591227/docs/488-865328617fc50e9468bc480f19d3107368a00833.jpg)
 
-## How does reading history works?
+## How does reading history work?
 
 The feed algorithm is designed that way to allow for fresh content to surface up. So when you read an article, it might disappear from your feed after several minutes. 
 

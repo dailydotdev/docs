@@ -6,7 +6,7 @@ sidebar_position: 6
 
 ## How to delete your profile?
 
-To delete your account click on your Profile -> Click on "Acccount Details" -> Scroll down until your reach the `Danger zone` section -> Click "Delete account" 
+To delete your account click on your Profile -> Click on "Account Details" -> Scroll down until your reach the `Danger zone` section -> Click "Delete account" 
 
 :::danger
 Important: deleting your account is **unrecoverable and cannot be undone**.

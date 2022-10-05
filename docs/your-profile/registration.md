@@ -10,7 +10,7 @@ when you visit [app.daily.dev](https://app.daily.dev/) hit the "Login Button"
 
 this popup will appear.
 
-You can log using:
+You can log in using:
 - GitHub Account
 - Google Account
 
