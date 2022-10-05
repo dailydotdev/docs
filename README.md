@@ -1,19 +1,19 @@
+# 📝 The official daily.dev Documentation
+
+The [daily.dev docs](https://docs.daily.dev/) are designed to help our community members get the most out of the product. Hope you will find it userful! We welcome your contribution to help us make it better and up-to-date 💜
+
 ## 👨‍💻 Contributing
 
 - Contributions make the open source community such an amazing place to learn, inspire, and create.
 - Any contributions you make are **truly appreciated**
 
-# 📝 daily.dev Documentation
-
-
 ## 💻 Development
 
- - Fork the project:
-  Click the gray `Fork` button in the top right of this page. This creates _your_ copy of the project and saves it as a new repository in your github account
+ 1. Fork the project: Click the gray `Fork` button in the top right of this page. This creates _your_ copy of the project and saves it as a new repository in your github account
+2. Click on the green `Code` button, then either the HTTPS or SSH option and, click the icon to copy the URL. Now you have a copy of the project. Thus, you can play around with it locally on your computer.
+3. Run the following commands into a terminal window (Command Prompt, Powershell, Terminal, Git Bash, ZSH): 
 
-- Click on the green `Code` button, then either the HTTPS or SSH option and, click the icon to copy the URL. Now you have a copy of the project. Thus, you can play around with it locally on your computer.
-
-- Run the following commands into a terminal window (Command Prompt, Powershell, Terminal, Git Bash, ZSH). Do this to download the forked copy of this repository to your computer.
+Do this to download the forked copy of this repository to your computer:
  
 ```bash
 $ git clone https://github.com/dailydotdev/docs.git
@@ -78,20 +78,20 @@ $ docker compose up --build
 ```
 The server is available by default on port `3000`.
 
-## 👨‍💻 Test it
+## 🍿 Test
 ```bash
 $ docker run -p 3000:3000 francescoxx/dailydev-docs:0.9.3
 ```
 
 ## 💪 Thanks to all Contributors
 
-Thanks a lot for spending your time helping daily.dev grow. Thanks a lot! ❤️
+Thanks a lot for spending your time helping daily.dev grow ❤️
 
 ## 📑 License
 Licensed under [AGPL-3.0](https://github.com/dailydotdev/daily/blob/master/LICENSE).
 
-## 🙏 Support
+## ⭐️ One more thing
 
-This project needs a ⭐️ from you. Don't forget to leave a star ⭐️
+Don't forget to leave us a star ⭐️
 
 
