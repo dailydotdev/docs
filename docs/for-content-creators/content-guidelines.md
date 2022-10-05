@@ -12,7 +12,7 @@ Do you prefer a video version? here is a 3 minutes video for you to watch.
 
 Submitting a new source to daily.dev is a great way to contribute to our community! 
 
-We welcome your requests and promise to give it the proper attention. 
+We welcome your requests and promise to give them the proper attention. 
 
 :::info
 Learn [how to submit a new source request](/for-content-creators/suggest-new-source.md). 

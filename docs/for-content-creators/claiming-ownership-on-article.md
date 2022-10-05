@@ -46,7 +46,7 @@ See it in action:
 
 ### Get an analytics report for every post that got listed
 
-We never met authors who are not curious about their blog post’s stats. Today, we bring a missing piece for any post who got picked up by daily.dev. If your article got picked up by daily.dev, you could now expect to get a complete analytics report within 24 hours or so. 
+We never met authors who are not curious about their blog post’s stats. Today, we bring a missing piece for any post that got picked up by daily.dev. If your article got picked up by daily.dev, you could now expect to get a complete analytics report within 24 hours or so. 
 
 ![](https://daily-now-res.cloudinary.com/image/upload/v1635256584/docs/5f8ee3a40afdcad2ea9b1cd5_UOUpf1FCZMJPa2EAbyO9h0LbFpFFb1z44gpcVQ5tEC9Ggxaj9SizlTxYtiAIVvtu-8NJ_YET37Xz8Np3ZCKIixvhgYfC561MZ-i1M5uoCMlAXiKp-vQ45iKcs3MRZc7cA0J2dXyA.gif)
 
