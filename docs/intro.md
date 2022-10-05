@@ -9,7 +9,7 @@ daily.dev provides the latest tech news and articles in one place.
 
 We take over 600 tech news sources, find the best articles on each of them and put those articles into a single feed. You can then tailor this feed to your interests and specialisms using tags!
 
-Above all, we help you save time finding high quality articles so you can stay up to date (and stay ahead of the curve) as a developer.
+Above all, we help you save time finding high-quality articles so you can stay up to date (and stay ahead of the curve) as a developer.
 
 <iframe width="700" height="400" src="https://www.youtube.com/embed/igZCEr3HwCg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
