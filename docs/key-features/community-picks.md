@@ -16,7 +16,7 @@ To get access to this feature you first need to earn the Scout privilege (min. 2
 Community Picks are articles that are added to the daily.dev feed by our community members. These articles can be from nearly any website / online publication, not just from our 400+ sources.
 
 ### How can I spot a community pick?
-On a card in the feed there is always an icon showing the source in the top left.
+On a card in the feed, there is always an icon showing the source in the top left.
 
 ![screenshot showing the community picks icon on the top left of a card](https://daily-now-res.cloudinary.com/image/upload/v1657719351/cp-1-icon_qhynlc.png)
 
@@ -52,7 +52,7 @@ If you do not have enough reputation to submit a link you will see a message tel
 ![](https://daily-now-res.cloudinary.com/image/upload/v1657719512/cp-4-not-enough-permissions_zadogk.jpg)
 
 ### How to submit a link
-On the menu on the left you will see a section "Contribute" containing a button "Submit article".
+On the menu on the left, you will see a section "Contribute" containing a button "Submit article".
 
 Clicking on that button will open the "Submit article" modal.
 
@@ -78,7 +78,7 @@ If the article already exists in the daily.dev feed you will see a message expla
 If the article you submitted has a valid URL and doesn't already exist you will get a confirmation that you will be notified by email about the request status.
 
 #### Email confirmation
-After a short while (up to an hour) you should receive an email telling you that your article submission was successful. In this email you will find a link to the article on daily.dev.
+After a short while (up to an hour) you should receive an email telling you that your article submission was successful. In this email, you will find a link to the article on daily.dev.
 
 You can then leave a comment telling people why you added it to the Community Picks if you want!
 
@@ -106,7 +106,7 @@ There are multiple reasons why a submission to Community Picks could fail.
 ## Gaining Reputation
 Not only do you help the community by sharing useful and interesting articles, you can gain more reputation too!
 
-You gain reputation on any link you submit when it receives an upvote (as long as the person upvoting has at least 250 reputation), as well as the post author, if they have a profile on daily.dev.
+You gain reputation on any link you submit when it receives an upvote (as long as the person upvoting has at least 250 reputations), as well as the post author if they have a profile on daily.dev.
 
 :::tip
 We plan on releasing more features that are dependant on reputation in the future, so this is a great way to gain reputation while helping the community!

@@ -15,7 +15,7 @@ Give the companion widget overview video a watch if you haven't already and see 
 <iframe width="700" height="400" src="https://www.youtube.com/embed/7lfUzdkG03E" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Activating the companion
-Getting started with the comanion widget is easy!
+Getting started with the companion widget is easy!
 
 1. On the daily.dev extension, open a new tab and look for the purple button in the top right next to your profile picture
 2. If you don't see the purple button, go to the [extension store](https://api.daily.dev/get?_ga=2.220083545.157894557.1655794404-623033389.1647175282) and download the latest version of the daily.dev extension.
@@ -36,7 +36,7 @@ On the left of the companion widget you will see 5 buttons:
 2. **Upvote** - let people know that you loved this article and help more people discover it in the feed.
 3. **Comment** - share your thoughts with the daily.dev community, add any interesting information or even point out any issues with the article (politely)
 4. **Bookmark** - add this article to your bookmarks so you can find it easily in the future!
-5. **Options** - this opens a drop down where you can view the discussion on daily.dev, share the article, report an article, give us feedback or disable the widget entirely!
+5. **Options** - this opens a drop-down where you can view the discussion on daily.dev, share the article, report an article, give us feedback or disable the widget entirely!
  
 ### 1. Collapse / Open and TLDR screen
  Clicking on the collapse / open button will minimize and restore the companion widget.
@@ -56,7 +56,7 @@ On the left of the companion widget you will see 5 buttons:
  ### 2. Upvote
  Clicking on the upvote button will add your vote for the article to daily.dev.
  
- This helps the best articles rise to the top of the feed, helping other developers discover an interesting or useful article.
+ This helps the best articles rise to the top of the feed, helping other developers discover interesting or useful articles.
  
  Clicking on the button again will remove your upvote.
  
@@ -69,26 +69,26 @@ On the left of the companion widget you will see 5 buttons:
  1. You can switch to the writing tab at any point to create and edit your comment
  2. Enter your comment (we support markdown) into the text box
  3. You can also tag other people who use daily.dev in your comment using the @mention feature
- 4. Back at the top you can switch to the preview tab to make sure your comment looks awesome!
+ 4. Back at the top, you can switch to the preview tab to make sure your comment looks awesome!
  5. Click on the "Comment" button to share your thoughts with the daily.dev community!
  
  The modal will automatically close once you have submitted your comment.
  
 ### 4. Bookmark
- Clicking on the bookmark button will add this article to your daily.dev bookmarks so you can easily find it later!
+ Clicking on the bookmark button will add this article to your daily.dev bookmarks so you can easily find them later!
  
  Clicking on the button again will remove the article from your bookmarks.
  
 ### 5. Options
- Clicking on the options button will show a drop down with the following options:
+ Clicking on the options button will show a drop-down with the following options:
  1. **View discussion** - view the discussion on the daily.dev web app
- 2. **Share the article** - share the article via social media, email, WhatsApp etc.
+ 2. **Share the article** - share the article via social media, email, WhatsApp, etc.
  3. **Report** - Is the article NSFW? Is there a problem with it? Is it spam? etc. Please let us know so we can remove it from our feed
  4. **Give us feedback** - love something (or hate something 😱) about daily.dev, let us know, we love hearing from you!
  5. **Disable widget** - if for some reason you do not like the companion, you can disable it here.‍
 
 ## Privacy and data usage
-We collect minimal data and no personal data when using the companion. However we do need to send a couple of bits of information to our servers to make the companion work.
+We collect minimal data and no personal data when using the companion. However, we do need to send a couple of bits of information to our servers to make the companion work.
 
 - For every page you visit, we dispatch a request that contains the URL you visit. 
 - This URL is not saved anywhere and is only used to check whether the page you are viewing is in the daily.dev database. 
@@ -105,7 +105,7 @@ Your version should be at least v3.16.4)
 Please visit the [extension store](https://api.daily.dev/get?_ga=2.190141803.157894557.1655794404-623033389.1647175282) and download the latest version and try again.
 
 ### 2. Check your settings
-On the daily.dev extension go to the menu item "Customize".
+On the daily.dev extension, go to the menu item "Customize".
 
 There you will see a section called "preferences". 
 
@@ -119,7 +119,7 @@ If the above does not work, please let us know via [our report a bug form.](http
 Please remember to leave the best email to contact you on so we can help you fix the companion!
 
 ## Bugs!
-Hopefully you will never need to use this, but just in case a bug crept into the Companion please raise an issue using our [bug report template on GitHub](https://github.com/dailydotdev/daily/issues/new?assignees=&labels=Type%3A+Bug&template=---bug-report.md&title=%F0%9F%90%9B+BUG%3A+).
+Hopefully, you will never need to use this, but just in case a bug crept into the Companion please raise an issue using our [bug report template on GitHub](https://github.com/dailydotdev/daily/issues/new?assignees=&labels=Type%3A+Bug&template=---bug-report.md&title=%F0%9F%90%9B+BUG%3A+).
 
 
 
