@@ -72,7 +72,7 @@ Instead of entering your own shortcuts, you can import your most visited sites f
 
 Click on "Most Visited Sites" (3) and you will see a second modal informing you that we need more permissions. 
 
-![information about extra permissions needed shown in a modal, along with the "next" button (5)](https://daily-now-res.cloudinary.com/image/upload/v1663490601/docs-v2/shortcuts-3.jpg)
+![information about extra permissions needed to be shown in a modal, along with the "next" button (5)](https://daily-now-res.cloudinary.com/image/upload/v1663490601/docs-v2/shortcuts-3.jpg)
 
 Click "next" to continue (5) and you will be prompted for extra permissions.
 
@@ -82,4 +82,4 @@ Once you save and close the modal you will see that the "add shortcuts" button h
 
 Click on the three dots (⠇) if you wish to change your shortcuts at any time!
 
-![information about extra permissions needed shown in a modal, along with the "next" button (5)](https://daily-now-res.cloudinary.com/image/upload/v1663490601/docs-v2/shortcuts-4.jpg)
+![information about extra permissions needed to be shown in a modal, along with the "next" button (5)](https://daily-now-res.cloudinary.com/image/upload/v1663490601/docs-v2/shortcuts-4.jpg)
