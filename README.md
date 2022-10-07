@@ -87,6 +87,11 @@ $ docker run -p 3000:3000 francescoxx/dailydev-docs:0.9.3
 
 Thanks a lot for spending your time helping daily.dev grow ❤️
 
+<a href = "https://github.com/dailydotdev/docs/graphs/contributors">
+  <img src = "https://contrib.rocks/image?repo=dailydotdev/docs"/>
+</a>
+
+
 ## 📑 License
 Licensed under [AGPL-3.0](https://github.com/dailydotdev/daily/blob/master/LICENSE).
 
