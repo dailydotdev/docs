@@ -34,4 +34,4 @@ Turning this toggle switch `off`, you will no longer see the [weekly goal widget
 
 ## Enable companion
 
-Turning this toggle switch `on` will activate the companion widget. To know more about it click [here](https://docs.daily.dev/docs/key-features/the-companion) 
+Turning this toggle switch `on` will activate the [companion widget](https://docs.daily.dev/docs/key-features/the-companion). 
