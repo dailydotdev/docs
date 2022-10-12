@@ -65,6 +65,11 @@ const config = {
   
         //... other Algolia params
       },
+      colorMode: {
+        defaultMode: 'dark',
+        disableSwitch: false,
+        respectPrefersColorScheme: true,
+      },
       navbar: {
         // title: 'My Site',
         logo: {
