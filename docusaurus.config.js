@@ -210,6 +210,10 @@ const config = {
                 to: 'https://www.youtube.com/channel/UCXUjtTfQWJa0G9K_SqRm3jQ',
               },
               {
+                label: 'TikTok',
+                to: 'https://www.tiktok.com/@dailydotdev',
+              },
+              {
                 label: 'Facebook',
                 to: 'https://www.facebook.com/dailydotdev',
               },
