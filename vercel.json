@@ -1,0 +1,28 @@
+{
+  "redirects": [
+    { 
+      "source": "/docs/key-features/do-not-disturb", 
+      "destination": "/docs/key-features/pause-new-tab" 
+    },
+    { 
+      "source": "/docs/settingyourfeed", 
+      "destination": "/docs/setting-up-your-feed" 
+    },
+    { 
+      "source": "/docs/settingyourfeed/filtering-content-feed", 
+      "destination": "/docs/setting-up-your-feed/filtering-content-feed" 
+    },
+    { 
+      "source": "/docs/settingyourfeed/advanced-filtering-options", 
+      "destination": "/docs/setting-up-your-feed/advanced-filtering-options" 
+    },
+    { 
+      "source": "/docs/settingyourfeed/blocking-tags-sources", 
+      "destination": "/docs/setting-up-your-feed/blocking-tags-sources" 
+    },
+    { 
+      "source": "/docs/key-features/default-feeds", 
+      "destination": "/docs/key-features/feeds" 
+    }
+  ]
+}

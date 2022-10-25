@@ -65,6 +65,11 @@ const config = {
   
         //... other Algolia params
       },
+      colorMode: {
+        defaultMode: 'dark',
+        disableSwitch: false,
+        respectPrefersColorScheme: true,
+      },
       navbar: {
         // title: 'My Site',
         logo: {
@@ -86,6 +91,11 @@ const config = {
           {
             label: 'Change Log',
             href: 'https://app.daily.dev/sources/daily_updates',
+            position: 'left',
+          },
+          {
+            label: 'FAQs',
+            to: 'faqs',
             position: 'left',
           },
           {
@@ -203,6 +213,10 @@ const config = {
               {
                 label: 'YouTube',
                 to: 'https://www.youtube.com/channel/UCXUjtTfQWJa0G9K_SqRm3jQ',
+              },
+              {
+                label: 'TikTok',
+                to: 'https://www.tiktok.com/@dailydotdev',
               },
               {
                 label: 'Facebook',

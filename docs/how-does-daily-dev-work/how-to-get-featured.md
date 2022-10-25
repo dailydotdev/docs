@@ -33,7 +33,7 @@ Once you find one magazine you like, we suggest checking if they allow guest pos
 
 Nowadays, many developers choose to host their blogs on a blogging platform. The main advantage of this method is that you can get people to discover your content. Whereas building a new website will take you much time and effort to build your readership. Each platform has its own merits, and we are not affiliated with any of them.
 
-However, to give you an easy head-start, you may want to check out developer blogging platforms such as [Hashnode](https://hashnode.com/), [DEV](https://dev.to/), [Medium](https://medium.com/), or [Hacker Noon](https://hackernoon.com/). All of the platforms were qualified as content sources of daily.dev. 
+However, to give you an easy head-start, you may want to check out developer blogging platforms such as [DEV](https://dev.to/), [Medium](https://medium.com/), or [Hacker Noon](https://hackernoon.com/). All of the platforms were qualified as content sources of daily.dev. 
 
 :::note
 We are not collecting **all** the articles published on blogging platforms. Our system will only pick an article from a blogging platform once it has gained enough traction/engagement on it. That's our way to ensure that we source qualified content.

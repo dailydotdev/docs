@@ -10,15 +10,13 @@ It's fully-responsive so you can use it on any device!
 
 All you need to do is to visit this URL: https://app.daily.dev
 
-## FAQ
-
-### How can I add daily.dev to my mobile home screen on iOS?
+### Add a shortcut to the PWA on iOS
 
 For iOS users, you can add a shortcut to your iPhone Home screen for quick access to the daily.dev web app!
 
-Open the web app on your mobile Safari browser, tap the Share button, then tap `Add to Home Screen`.
+Open the web app on Safari browser, tap the Share button, then tap "Add to Home Screen".
 
-> Based on the [official guide](https://support.apple.com/en-il/guide/iphone/iph42ab2f3a7/ios) by Apple.
+For more information read the [official guide](https://support.apple.com/en-il/guide/iphone/iph42ab2f3a7/ios) by Apple.
 
 ### How can I add daily.dev to my mobile home screen on Android?
 
