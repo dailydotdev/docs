@@ -27,3 +27,11 @@ Turning this toggle switch `off` will hide the quick links to your custom shotcu
 ## Show feed sorting menu
 
 Turning this toggle switch on will add a dropdown menu to My feed and Popular feed, enabling you to sort those feeds `By date` or by `Recommendation`. 
+
+## Show weekly goal widget
+
+Turning this toggle switch `off`, you will no longer see the [weekly goal widget](https://docs.daily.dev/docs/your-profile/weekly-goal) in your sidebar.
+
+## Enable companion
+
+Turning this toggle switch `on` will activate the [companion widget](https://docs.daily.dev/docs/key-features/the-companion). 
