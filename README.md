@@ -18,15 +18,15 @@ $ npm i
 
 // or with yarn
 $ yarn
+
+// Incase your npm not updated:
+$ npm install latest-version
 ```
 
 Run the local dev environment:
 ```bash
 // with npm
 $ npm run start
-
-// Update npm:
-$ npm install latest-version
 
 // or with yarn
 $ yarn start
