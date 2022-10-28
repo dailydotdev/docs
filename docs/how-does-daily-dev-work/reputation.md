@@ -29,10 +29,10 @@ On 24th April 2022 we changed the way we calculated your reputation, the table b
 | You suggest a new source that is approved and added to the daily.dev feed! 🎉 | N / A | **200** |
 | Your comment gets featured (deprecated) | 2 | **N / A** |
 
- \* In order to gain or lose reputation from writing a post, the post must be attributed to you and shown in your posts list on your profile. Also please note that only upvotes from developers with more than 250 reputation points will count for the purpose of gaining reputation.  
+ \* In order to gain or lose reputation from writing a post the post must be attributed to you and shown in your posts list on your profile. Also please note that only upvotes from developers with more than 250 reputation points will count for the purpose of gaining reputation.  
 
 ### What counts towards reputation?
-We introduced a system where you only receive a reputation from an upvote on your post or comment if the person who **casts that upvote** has at least 250 reputation. 
+We introduced a system where you only receive reputation from an upvote on your post or comment if the person who **casts that upvote** has at least 250 reputation. 
 
 This ensures that people can't just add a new account and upvote their own post, only genuine users' votes are counted!
 

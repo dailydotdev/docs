@@ -11,7 +11,7 @@ hide_table_of_contents: true
             <li>The first is that we source it from one of the 600+ sites that we gather articles from.</li>
         <li>The second is via submissions from the community via <a href="/docs/key-features/community-picks">Community Picks.</a></li>
         </ul>
-        <p>We, therefore, recommend you publish your articles on well-known developer related publications.</p>
+        <p>We therefore recommend you publish your articles on well known developer related publications.</p>
         <p>Bear in mind that this does not guarantee that your article will get picked up, but it will greatly increase your chances!</p>
         <p>For more details please read <a href="https://docs.daily.dev/docs/how-does-daily-dev-work/how-to-get-featured#how-to-get-your-article-picked-up">how to get featured on daily.dev</a></p>
 </details>
