@@ -5,7 +5,7 @@ hide_table_of_contents: true
 ---
 
 <details>
-    <summary>How to get featured / get your article picked up by daily.dev)?</summary>
+    <summary>How to get featured / get your article picked up by daily.dev?</summary>
         <p>There are 2 ways that articles appear in the daily.dev feed.</p>
         <ul>
             <li>The first is that we source it from one of the 600+ sites that we gather articles from.</li>

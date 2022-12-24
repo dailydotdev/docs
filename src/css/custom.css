@@ -140,7 +140,6 @@ html[data-theme='dark'] .DocSearch {
 
 .navbar {
   background-color:  #0e1217;
-  z-index: 9999;
 }
 
 html[data-theme='light'] .navbar {

@@ -6,9 +6,7 @@ sidebar_position: 1
 
 ## How do we evaluate new source requests for daily.dev?
 
-Do you prefer a video version? here is a 3 minutes video for you to watch.
-
-
+Do you prefer a video version? [Here is a 3 minutes video](https://youtu.be/r1IIWf6ApJc) for you to watch.
 
 Submitting a new source to daily.dev is a great way to contribute to our community! 
 

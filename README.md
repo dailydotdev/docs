@@ -83,9 +83,11 @@ The server is available by default on port `3000`.
 $ docker run -p 3000:3000 francescoxx/dailydev-docs:0.9.3
 ```
 
-## 💪 Thanks to all Contributors
-
-Thanks a lot for spending your time helping daily.dev grow ❤️
+## 🙏 Thanks to all Contributors
+Thanks a lot for spending your time in helping daily.dev grow. Thanks a lot! ❤️
+ <a href = "https://github.com/dailydotdev/docs/graphs/contributors">
+   <img src = "https://contrib.rocks/image?repo=dailydotdev/docs" alt="Contributors to daily.dev docs"/>
+ </a>
 
 ## 📑 License
 Licensed under [AGPL-3.0](https://github.com/dailydotdev/daily/blob/master/LICENSE).
@@ -93,5 +95,3 @@ Licensed under [AGPL-3.0](https://github.com/dailydotdev/daily/blob/master/LICEN
 ## ⭐️ One more thing
 
 Don't forget to leave us a star ⭐️
-
-
