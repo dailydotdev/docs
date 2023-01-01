@@ -233,7 +233,7 @@ const config = {
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} daily.dev  All rights reserved.`,
+        copyright: `${new Date().getFullYear()} All rights reserved.`,
       },
       announcementBar: {
         id: 'support_us',

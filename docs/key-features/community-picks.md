@@ -5,7 +5,9 @@ sidebar_position: 9
 # Community Picks
 Community Picks are articles that are sourced by the community.
 
-To get access to this feature you first need to earn the Scout privilege (min. 250 reputation points). Only people with the Scout privilege can submit links and are limited to 3 submissions per day.
+:::info
+To get access to this feature you first need to earn the Scout privilege (min. 250 reputation points). Only people with the Scout privilege can submit links and are limited to 3 submissions per day. Learn more about [how to gain reputation points](https://docs.daily.dev/docs/how-does-daily-dev-work/reputation)
+:::
 
 ## Quick Overview Video
 
