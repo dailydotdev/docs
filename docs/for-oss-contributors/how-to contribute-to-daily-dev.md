@@ -8,12 +8,12 @@ daily.dev is an open source project! We're glad to have you here. We believe in 
 
 ## Why open source?
 
-Contributing to open source can be game-changing for a developer career. Open source is a way for the developers to build their portfolio, experiment with new technologies, and learn in public. Big companies are open sourcing their projects and many open-source startups are also making waves. Getting involved in such projects is definitely a great opportunity to learn and enhance your skills.
+Contributing to open source can be game-changing for a developer's career. Open source is a way for developers to build their portfolios, experiment with new technologies, and learn in public. Big companies are open-sourcing their projects, and many open-source startups are also making waves. Getting involved in such projects is definitely a great opportunity to learn and enhance your skills.
 
 ## daily.dev's GitHub Repository
 
 This is our repository on GitHub if you want to take a look and level up your coding skills: https://github.com/dailydotdev/daily
-oh, and if you're already visiting our GitHub repo, don't forget to give us a star :)
+Oh, and if you're already visiting our GitHub repo, don't forget to give us a star :)
 
 
 ## Running daily.dev locally with Docker
