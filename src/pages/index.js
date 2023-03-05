@@ -13,7 +13,7 @@ function HomepageHeader() {
     
     <header className={clsx(styles.heroBanner)}>
       <div className="container">
-        <h1 className="hero__title">daily.dev Docs</h1>
+        <h1 className="hero__title">daily.dev docs</h1>
       </div>
     </header>
   );
