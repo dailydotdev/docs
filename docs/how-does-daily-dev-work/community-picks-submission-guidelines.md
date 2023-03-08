@@ -56,11 +56,9 @@ Your own posts, promotional content, top 10s, listicles, vs articles, low-qualit
 
 ## What happens if I submit an article that is deleted?
 
-We operate a 2-strike system.
-
 The first time you submit an article that we believe contravenes the above guidelines we will just remove it and send a friendly reminder email.
 
-However, if you submit another article that contravenes the same point we will penalize you 100 reputation points.
+However, if you keep submitting another article that contravenes the same point we will penalize you 100 reputation points.
 
 If you continually submit too many articles that contravene our guidelines, we may remove your “Scout” privilege entirely and indefinitely so you can no longer submit Community Picks. (It is worth noting this is highly unlikely unless you are deliberately trying to submit spam on a consistent basis).
 
