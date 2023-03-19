@@ -116,24 +116,16 @@ const config = {
                 to: 'https://daily.dev/',
               },
               {
-                label: 'Web Version',
-                to: 'https://app.daily.dev/',
-              },
-              {
-                label: 'Chrome Extension',
+                label: 'Chrome extension',
                 to: 'https://chrome.google.com/webstore/detail/dailydev-the-homepage-dev/jlmpjdjjbgclbocgajdjefcidcncaied',
               },
               {
-                label: 'Firefox Add-on',
+                label: 'Firefox add-on',
                 to: 'https://addons.mozilla.org/en-US/firefox/addon/daily/',
               },
               {
-                label: 'Edge Extension',
-                to: 'https://microsoftedge.microsoft.com/addons/detail/dailydev-news-for-busy/cbdhgldgiancdheindpekpcbkccpjaeb?hl=en-GB',
-              },
-              {
-                label: 'Android app',
-                to: 'https://play.google.com/store/apps/details?id=dev.daily',
+                label: 'Web version',
+                to: 'https://app.daily.dev/',
               },
               {
                 label: 'Changelog',
@@ -145,23 +137,19 @@ const config = {
             title: 'Community',
             items: [
               {
-                label: 'Events',
-                to: 'https://www.meetup.com/the-monthly-dev-world-class-talks-by-expert-developers/',
-              },
-              {
-                label: 'Become a contributor',
+                label: 'Open source',
                 to: 'https://github.com/dailydotdev/.github/blob/master/CONTRIBUTING.md',
               },
               {
-                label: 'GitHub Discussions',
+                label: 'Feature requests',
                 to: 'https://github.com/dailydotdev/daily/discussions',
               },
               {
-                label: 'Content Guidelines',
-                to: 'https://daily.dev/support/content-guidelines',
+                label: 'Online events',
+                to: 'https://www.meetup.com/the-monthly-dev-world-class-talks-by-expert-developers/',
               },
               {
-                label: 'Swag Store',
+                label: 'Swag store',
                 to: 'https://store.daily.dev/',
               },
             ],
@@ -169,10 +157,6 @@ const config = {
           {
             title: 'Company',
             items: [
-              {
-                label: 'About',
-                to: 'https://daily.dev/about',
-              },
               {
                 label: 'Blog',
                 to: 'https://daily.dev/blog',
@@ -182,8 +166,8 @@ const config = {
                 to: 'https://promote.daily.dev/',
               },
               {
-                label: 'Media Kit',
-                to: 'https://daily.dev/media-kit',
+                label: 'Brand book',
+                to: 'https://brand.daily.dev/',
               },
               {
                 label: 'Contact',
@@ -200,40 +184,32 @@ const config = {
             ],
           },
           {
-            title: 'Social Links',
+            title: 'Social',
             items: [
-              {
-                label: 'GitHub',
-                to: 'https://github.com/dailydotdev/daily',
-              },
               {
                 label: 'Twitter',
                 to: 'https://twitter.com/dailydotdev',
+              },
+              {
+                label: 'GitHub',
+                to: 'https://github.com/dailydotdev/daily',
               },
               {
                 label: 'YouTube',
                 to: 'https://www.youtube.com/channel/UCXUjtTfQWJa0G9K_SqRm3jQ',
               },
               {
-                label: 'TikTok',
-                to: 'https://www.tiktok.com/@dailydotdev',
-              },
-              {
-                label: 'Facebook',
-                to: 'https://www.facebook.com/dailydotdev',
-              },
-              {
                 label: 'Instagram',
                 to: 'https://www.instagram.com/dailydotdev/',
               },
               {
-                label: 'Product Hunt',
-                to: 'https://www.producthunt.com/posts/daily-dev-2',
+                label: 'TikTok',
+                to: 'https://www.tiktok.com/@dailydotdev',
               },
             ],
           },
         ],
-        copyright: `${new Date().getFullYear()} All rights reserved.`,
+        copyright: `© ${new Date().getFullYear()} All rights reserved.`,
       },
       announcementBar: {
         id: 'support_us',
