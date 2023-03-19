@@ -7,7 +7,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'daily.dev',
-  tagline: 'ALL DEVELOPER NEWS IN ONE PLACE',
+  tagline: 'Where developers grow together',
   url: 'https://docs.daily.dev/',
   baseUrl: '/',
   onBrokenLinks: 'throw',
@@ -84,12 +84,12 @@ const config = {
             position: 'left',
           },
           {
-            label: 'Video Tutorials',
+            label: 'Video tutorials',
             to: 'video-tutorials',
             position: 'left'
           },
           {
-            label: 'Change Log',
+            label: 'Changelog',
             href: 'https://app.daily.dev/sources/daily_updates',
             position: 'left',
           },
