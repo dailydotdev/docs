@@ -6,6 +6,9 @@ The [daily.dev docs](https://docs.daily.dev/) are designed to help our community
 
 - Contributions make the open source community such an amazing place to learn, inspire, and create.
 - Any contributions you make are **truly appreciated**
+- Provide clear documentation
+- Create descriptive pull requests
+- Test your changes
 
 ## 💻 Development
 
