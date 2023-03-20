@@ -7,7 +7,7 @@ sidebar_position: 6
 
 90% of the time you will love having daily.dev as your new tab.
 
-But occassionally you may need to focus and not get distracted by interesting articles and tech news.
+But occasionally you may need to focus and not get distracted by interesting articles and tech news.
 
 We understand that, so we built the "Pause new tab" (Do No Disturb) feature (1).
 
