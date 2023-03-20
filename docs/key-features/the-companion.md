@@ -15,7 +15,7 @@ Give the companion widget overview video a watch if you haven't already and see 
 <iframe width="700" height="400" src="https://www.youtube.com/embed/7lfUzdkG03E" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Activating the companion
-Getting started with the comanion widget is easy!
+Getting started with the companion widget is easy!
 
 1. On the daily.dev extension, open a new tab and look for the purple button in the top right next to your profile picture
 2. If you don't see the purple button, go to the [extension store](https://api.daily.dev/get?_ga=2.220083545.157894557.1655794404-623033389.1647175282) and download the latest version of the daily.dev extension.
