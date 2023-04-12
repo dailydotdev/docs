@@ -8,14 +8,15 @@ sidebar_position: 3
 
 ## How does reading history works?
 
-The feed algorithm is designed that way to allow for fresh content to surface up. So when you read an article, it might disappear from your feed after several minutes. 
-
-With the new reading history, you'll be able to access all of those articles you read to date. One less thing to worry about, your reading history is in good hands, and you can access it any time 😄
+At daily.dev, we understand that finding interesting articles and staying up-to-date with the latest content can be challenging, especially with the constantly changing feed algorithm. That's why we've introduced the reading history feature. When you read an article on daily.dev, it may disappear from your feed after several minutes due to the feed algorithm. However, with reading history, you can easily access all the articles you have read to date, ensuring that you never lose track of the valuable content you've discovered.
 
 ## How to access your reading history?
 
-There are two options:
-1. Go to https://app.daily.dev/history
-2. Click 'Reading history' using the sidebar
+Accessing your reading history on daily.dev is easy and convenient. There are two options:
+
+1. Go to https://app.daily.dev/history: You can directly visit the reading history page by navigating to https://app.daily.dev/history in your web browser. This will display a list of all the articles you have read on daily.dev, organized by date and time.
+2. Click "Reading History" in the Sidebar: Alternatively, you can access your reading history by clicking on the "Reading History" option in the sidebar of your daily.dev profile page. This will instantly take you to the reading history page, where you can view all the articles you have read.
 
 ![](https://daily-now-res.cloudinary.com/image/upload/v1643293972/docs/Screen_Shot_2022-01-27_at_16.31.01.png)
+
+With reading history, you can easily track and access all the articles you have read on daily.dev, ensuring that you can revisit valuable content and stay organized in your learning journey. Say goodbye to worrying about losing track of articles you've read and easily access your reading history whenever you want, right from your daily.dev profile!
