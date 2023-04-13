@@ -21,7 +21,7 @@ Blocking empowers you to:
 :::info
 Please note that blocking is only applied to articles displayed in your "My Feed" feed. It does not affect content in the Popular, Most Upvoted, or Best Discussions feeds.
 
-To make the most out of the blocking features, be sure to [set up your personal feed](/filtering-content-feed.md). Customize your daily.dev experience to suit your preferences and enjoy a curated feed tailored just for you.
+To make the most out of the blocking features, be sure to set up your personal feed. Customize your daily.dev experience to suit your preferences and enjoy a curated feed tailored just for you.
 :::
 
 ## Blocking tags and sources from the feed

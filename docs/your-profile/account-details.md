@@ -33,7 +33,7 @@ At daily.dev, we prioritize the security of your account information. You have c
 2. Connect Social Media Auth Providers: You can connect additional social media authentication providers to your daily.dev account. This adds an extra layer of security and ensures that you never lose access to your daily.dev profile. It also makes login quick and easy across different devices.
 3. Remove Authorized Login Providers: You can remove the connection between daily.dev and any authorized login providers that you have previously connected. This gives you control over the authentication methods associated with your daily.dev account.
 4. Set and Change Password: You can set and change your password to ensure that your account is protected with a strong and unique password. This helps prevent unauthorized access to your daily.dev profile.
-5. Delete Your Account: If you wish to delete your daily.dev account, you have the option to do so. Please note that this action is irreversible and will result in the permanent deletion of your account information and data. [Learn more](/deleting-your-profile.md)
+5. Delete Your Account: If you wish to delete your daily.dev account, you have the option to do so. Please note that this action is irreversible and will result in the permanent deletion of your account information and data. [Learn more](/your-profile/deleting-your-profile.md)
 
 <img src="https://daily-now-res.cloudinary.com/image/upload/v1681304027/docs/Update%20April%202023/Screenshot_2023-04-12_at_15.52.31.png" alt='Highlight of the Security settings menu' width="900" height="100%" />
 

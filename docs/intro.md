@@ -29,7 +29,7 @@ Check out some of our [key features](/key-features/feeds.md) and start engaging 
 
 ### Step 4: Build your presence 🦸
 
-Although you don't have to register with daily.dev, we highly recommend it so you can [create a profile](/your-profile/registration.md). With a profile, you can comment on articles, upvote, bookmark useful articles, showcase your reading with our DevCard, and much more!
+Although you don't have to register with daily.dev, we highly recommend it so you can [create a profile](/your-profile/activity.md). With a profile, you can comment on articles, upvote, bookmark useful articles, showcase your reading with our DevCard, and much more!
 
 ### Step 5: Customize the look and feel 🌈
 

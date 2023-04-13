@@ -22,8 +22,8 @@ You can try out our [progressive web app](/getting-started/pwa.md), which has al
 
 ## Troubleshooting
 
-1. [My Chrome's bookmarks bar is gone. How can I bring it back?]((#my-chromes-bookmarks-bar-is-gone-how-can-i-bring-it-back))
-2. [I want shortcuts to show on my home page. Does daily.dev support this?]((#adding-custom-shortcuts-to-dailydev))
+1. [My Chrome's bookmarks bar is gone. How can I bring it back?](#my-chromes-bookmarks-bar-is-gone-how-can-i-bring-it-back)
+2. [I want shortcuts to show on my home page. Does daily.dev support this?](#adding-custom-shortcuts-to-dailydev)
 
 ### My Chrome's bookmarks bar is gone. How can I bring it back?
 
