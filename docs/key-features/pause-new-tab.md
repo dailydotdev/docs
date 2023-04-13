@@ -4,7 +4,7 @@ sidebar_position: 6
 
 # Pause New Tab (DND)
 
-At daily.dev, we understand that sometimes you need to focus without distractions. While our new tab functionality is designed to provide you with interesting articles, we also recognize that there may be times when you need to temporarily disable it. That's why we've introduced the "Pause New Tab" (Do Not Disturb) feature.
+At daily.dev, we understand that sometimes you need to focus without distractions. While our new tab functionality is designed to provide you with interesting posts, we also recognize that there may be times when you need to temporarily disable it. That's why we've introduced the "Pause New Tab" (Do Not Disturb) feature.
 
 ## Activating Pause New Tab Mode
 

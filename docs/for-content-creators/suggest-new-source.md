@@ -6,7 +6,7 @@ sidebar_position: 2
 
 ## Introduction
 
-At daily.dev, we collect articles from over 400 unique sources across the web. All of our sources have been added following a request we got from the community. That's an essential part of our community-driven approach. 
+At daily.dev, we collect posts from over 400 unique sources across the web. All of our sources have been added following a request we got from the community. That's an essential part of our community-driven approach. 
 
 We try our best to cover as much quality content as possible. But sometimes, it happens that you like to follow a particular source that's not in our current sources list. We understand that. That's why we have the option to request new sources! 
 
@@ -28,7 +28,7 @@ We've tried to make this process as simple as possible.
 4. Make sure your publication has a public RSS feed
 
 :::tip
-If you're running a company blog with both promotional and technical articles, we highly recommend separating the technical articles to a dedicated RSS feed.
+If you're running a company blog with both promotional and technical posts, we highly recommend separating the technical posts to a dedicated RSS feed.
 :::
 
 ### Submitting your source

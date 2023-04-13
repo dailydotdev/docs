@@ -6,7 +6,7 @@ sidebar_position: 5
 
 ## Show Off Your Daily.dev Activity!
 
-The DevCard is a fun and interactive way to showcase your daily.dev activity and share your learning journey with others. It displays information such as the number of articles you've read, your top read topics, and your favorite publications, allowing you to highlight your interests and achievements on the platform. You can generate your own personalized DevCard and share it with the hashtag #DevCard to connect with other like-minded developers.
+The DevCard is a fun and interactive way to showcase your daily.dev activity and share your learning journey with others. It displays information such as the number of posts you've read, your top read topics, and your favorite publications, allowing you to highlight your interests and achievements on the platform. You can generate your own personalized DevCard and share it with the hashtag #DevCard to connect with other like-minded developers.
 
 <img src="https://daily-now-res.cloudinary.com/image/upload/v1681306143/docs/Update%20April%202023/Screenshot_2023-04-12_at_16.28.55.png" alt='Highlight of the devcard' width="900" height="100%" />
 

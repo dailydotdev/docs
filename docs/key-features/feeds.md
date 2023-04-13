@@ -17,10 +17,10 @@ Prefer a video version? Check out this 6-minute video that explains each feed in
 
 ## My feed
 
-Your feed contains articles that are relevant to you and your interests (once you have set it up).
+Your feed contains posts that are relevant to you and your interests (once you have set it up).
 
 ### Creating your personal feed
-If you are new to daily.dev, the first thing we strongly recommend is setting up filters on your feed. This will unlock the true power of daily.dev, showing articles that are relevant to your interests.
+If you are new to daily.dev, the first thing we strongly recommend is setting up filters on your feed. This will unlock the true power of daily.dev, showing posts that are relevant to your interests.
 
 There are three guides to help you get the most out of your feed:
 1. a detailed guide on how to [set up your feed](docs/setting-up-your-feed/filtering-content-feed).
@@ -31,21 +31,21 @@ Once you have followed the steps in these guides, you will have "My Feed" set up
 
 ## Popular feed 
 
-The popular feed uses our ranking algorithm to provide you with articles that are recent, gaining lots of traffic and gaining lots of positive responses from the daily.dev community (either via upvotes or positive comments).
+The popular feed uses our ranking algorithm to provide you with posts that are recent, gaining lots of traffic and gaining lots of positive responses from the daily.dev community (either via upvotes or positive comments).
 
-To explain this further, let's quickly look at a brief overview of how articles are ranked on our popular feed.
+To explain this further, let's quickly look at a brief overview of how posts are ranked on our popular feed.
 
 ### Ranking overview for the popular feed
 
-Once an article is featured on daily.dev, it begins to rank based on various factors, such as:
+Once a post is featured on daily.dev, it begins to rank based on various factors, such as:
 
-* The number of unique reads the article has received
+* The number of unique reads the post has received
 * The number of upvotes the post has obtained from our community members
-* The freshness of the article, or how recently it was published
+* The freshness of the post, or how recently it was published
 * Other parameters related to content quality and engagement levels
 By considering these factors, we aim to increase the likelihood of interesting and valuable posts surfacing to the top of the feed.
 
-However, we understand that sometimes you may prefer to view the latest articles we've featured without the influence of our ranking algorithm. To accommodate this, we've added the option to sort the Popular feed by date.
+However, we understand that sometimes you may prefer to view the latest posts we've featured without the influence of our ranking algorithm. To accommodate this, we've added the option to sort the Popular feed by date.
 
 ### Sorting by date
 
@@ -66,7 +66,7 @@ By default, there is a drop-down menu that allows you to change the order of the
 
 ## Most upvoted feed
 
-In the "Most Upvoted" Feed, we feature the articles with the highest number of upvotes on the platform. The ranking in this feed is based on the number of upvotes over a given timescale. The higher the upvote count, the higher the article will be listed in the feed.
+In the "Most Upvoted" Feed, we feature the posts with the highest number of upvotes on the platform. The ranking in this feed is based on the number of upvotes over a given timescale. The higher the upvote count, the higher the post will be listed in the feed.
 
 ### Changing the date filter
 

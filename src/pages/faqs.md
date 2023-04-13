@@ -5,15 +5,15 @@ hide_table_of_contents: true
 ---
 
 <details>
-    <summary>How to get featured / get your article picked up by daily.dev?</summary>
-        <p>There are 2 ways that articles appear in the daily.dev feed.</p>
+    <summary>How to get featured / get your post picked up by daily.dev?</summary>
+        <p>There are 2 ways that posts appear in the daily.dev feed.</p>
         <ul>
-            <li>The first is that we source it from one of the 600+ sites that we gather articles from.</li>
+            <li>The first is that we source it from one of the 600+ sites that we gather posts from.</li>
         <li>The second is via submissions from the community via <a href="/docs/key-features/community-picks">Community Picks.</a></li>
         </ul>
-        <p>We therefore recommend you publish your articles on well known developer related publications.</p>
-        <p>Bear in mind that this does not guarantee that your article will get picked up, but it will greatly increase your chances!</p>
-        <p>For more details please read <a href="https://docs.daily.dev/docs/how-does-daily-dev-work/how-to-get-featured#how-to-get-your-article-picked-up">how to get featured on daily.dev</a></p>
+        <p>We therefore recommend you publish your posts on well known developer related publications.</p>
+        <p>Bear in mind that this does not guarantee that your post will get picked up, but it will greatly increase your chances!</p>
+        <p>For more details please read <a href="https://docs.daily.dev/docs/how-does-daily-dev-work/how-to-get-featured#how-to-get-your-post-picked-up">how to get featured on daily.dev</a></p>
 </details>
 <details>
     <summary>How to stop the new tab behaviour?</summary>
@@ -33,10 +33,10 @@ hide_table_of_contents: true
         <p>There you will find discussions on existing features, head over to our <a href="https://github.com/dailydotdev/daily/discussions/categories/ideas" target="_blank" rel="noreferrer noopenner">ideas channel</a> and raise any ideas and feature requests there!</p>
 </details>
 <details>
-    <summary>I block a tag but I still see articles with that tag!</summary>
-        <p>Blocking is only applied to articles that are displayed on the <strong>"My Feed"</strong> feed</p>
+    <summary>I block a tag but I still see posts with that tag!</summary>
+        <p>Blocking is only applied to posts that are displayed on the <strong>"My Feed"</strong> feed</p>
         <p>Blocking a tag does not affect the content on the "Popular", "Most Upvoted" and "Best Discussions" feeds.</p>
-        <p>These feeds will still show articles with tags that you have blocked.</p>
+        <p>These feeds will still show posts with tags that you have blocked.</p>
         <p>To make sure you get the most relevant content for you we recommend you <a href="/docs/key-features/feeds">setup your personal feed</a></p>
 </details>
 <details>
@@ -44,5 +44,5 @@ hide_table_of_contents: true
         <p>Our weekly reading goals run from Monday to Sunday.</p>
         <p><strong>At midnight (GMT) your weekly reading goal progress is reset</strong>, and you start again.</p>
         <p>Whatever rank you achieved the week before will be shown and you will see progress indicators towards repeating it.</p>
-        <p>Bear in mind that we only count 1 article each day towards your reading goal, so even if you read 100 articles one day and then 0 the next day, you will only get 1 day counted towards your weekly reading goal.</p>
+        <p>Bear in mind that we only count 1 post each day towards your reading goal, so even if you read 100 posts one day and then 0 the next day, you will only get 1 day counted towards your weekly reading goal.</p>
 </details>

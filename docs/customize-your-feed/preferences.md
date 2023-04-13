@@ -18,7 +18,7 @@ Turning this toggle switch `on` will make sure that every post you read will dis
 
 ## Open link in new tab
 
-The default setting in daily.dev is that links to articles are opened in a new tab. However, if you turn this toggle switch `off`, daily.dev will open article in your current tab.
+The default setting in daily.dev is that links to posts are opened in a new tab. However, if you turn this toggle switch `off`, daily.dev will open post in your current tab.
 
 ## Show custom shortcuts
 

@@ -6,7 +6,7 @@ sidebar_position: 8
 
 ![](https://daily-now-res.cloudinary.com/image/upload/v1655796433/companion/chagelog_cover.png)
 
-The companion widget allows you to [upvote](https://docs.daily.dev/docs/key-features/upvotes), [comment](https://docs.daily.dev/docs/key-features/discussions) and [bookmark](https://docs.daily.dev/docs/key-features/bookmarks) articles directly on the article page itself!
+The companion widget allows you to [upvote](https://docs.daily.dev/docs/key-features/upvotes), [comment](https://docs.daily.dev/docs/key-features/discussions) and [bookmark](https://docs.daily.dev/docs/key-features/bookmarks) posts directly on the post page itself!
 
 ## Companion Widget Overview Video
 
@@ -25,7 +25,7 @@ Getting started with the comanion widget is easy!
 
 ## Features
 
-All of the features you are used to seeing in daily.dev are now available directly within an article!
+All of the features you are used to seeing in daily.dev are now available directly within a post!
 
 ![](https://daily-now-res.cloudinary.com/image/upload/v1655796433/companion/Companion_-_Pointers.png)
 
@@ -33,30 +33,30 @@ All of the features you are used to seeing in daily.dev are now available direct
 On the left of the companion widget you will see 5 buttons:
 
 1. **Collapse / Open** - collapse the companion or open it again to read the TLDR; view the comments etc.
-2. **Upvote** - let people know that you loved this article and help more people discover it in the feed.
-3. **Comment** - share your thoughts with the daily.dev community, add any interesting information or even point out any issues with the article (politely)
-4. **Bookmark** - add this article to your bookmarks so you can find it easily in the future!
-5. **Options** - this opens a drop down where you can view the discussion on daily.dev, share the article, report an article, give us feedback or disable the widget entirely!
+2. **Upvote** - let people know that you loved this post and help more people discover it in the feed.
+3. **Comment** - share your thoughts with the daily.dev community, add any interesting information or even point out any issues with the post (politely)
+4. **Bookmark** - add this post to your bookmarks so you can find it easily in the future!
+5. **Options** - this opens a drop down where you can view the discussion on daily.dev, share the post, report a post, give us feedback or disable the widget entirely!
  
 ### 1. Collapse / Open and TLDR screen
  Clicking on the collapse / open button will minimize and restore the companion widget.
  
  You can still access the buttons to upvote, comment, bookmark etc. when the companion is minimized.
  
- Above the TLDR is the daily.dev logo (A), which will take you back to the feed when clicked, and a copy URL button (B) so you can quickly copy the url to access the daily.dev page about this article and share it with others.
+ Above the TLDR is the daily.dev logo (A), which will take you back to the feed when clicked, and a copy URL button (B) so you can quickly copy the url to access the daily.dev page about this post and share it with others.
  
- When the companion is open you will see the TLDR for the article (C), to give you a quick overview of what to expect.
+ When the companion is open you will see the TLDR for the post (C), to give you a quick overview of what to expect.
  
- You will also see the number of upvotes (D) and comments (E) on the article.
+ You will also see the number of upvotes (D) and comments (E) on the post.
  
- Clicking on the comments button will open the discussion for the article so you can see what others have said!
+ Clicking on the comments button will open the discussion for the post so you can see what others have said!
  
  Clicking the comments button again will collapse the comments.
  
  ### 2. Upvote
- Clicking on the upvote button will add your vote for the article to daily.dev.
+ Clicking on the upvote button will add your vote for the post to daily.dev.
  
- This helps the best articles rise to the top of the feed, helping other developers discover an interesting or useful article.
+ This helps the best posts rise to the top of the feed, helping other developers discover an interesting or useful post.
  
  Clicking on the button again will remove your upvote.
  
@@ -75,15 +75,15 @@ On the left of the companion widget you will see 5 buttons:
  The modal will automatically close once you have submitted your comment.
  
 ### 4. Bookmark
- Clicking on the bookmark button will add this article to your daily.dev bookmarks so you can easily find it later!
+ Clicking on the bookmark button will add this post to your daily.dev bookmarks so you can easily find it later!
  
- Clicking on the button again will remove the article from your bookmarks.
+ Clicking on the button again will remove the post from your bookmarks.
  
 ### 5. Options
  Clicking on the options button will show a drop down with the following options:
  1. **View discussion** - view the discussion on the daily.dev web app
- 2. **Share the article** - share the article via social media, email, WhatsApp etc.
- 3. **Report** - Is the article NSFW? Is there a problem with it? Is it spam? etc. Please let us know so we can remove it from our feed
+ 2. **Share the post** - share the post via social media, email, WhatsApp etc.
+ 3. **Report** - Is the post NSFW? Is there a problem with it? Is it spam? etc. Please let us know so we can remove it from our feed
  4. **Give us feedback** - love something (or hate something 😱) about daily.dev, let us know, we love hearing from you!
  5. **Disable widget** - if for some reason you do not like the companion, you can disable it here.‍
 

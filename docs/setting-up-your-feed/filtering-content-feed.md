@@ -14,7 +14,7 @@ Tag categories are the building blocks of your personal feed. They help you spec
 
 ## Step 2: Sign Up
 
-Once you've selected your tag categories, it's time to sign up for an account. Simply follow the on-screen instructions to create your profile. By signing up, you'll have access to additional features such as bookmakring articles, customizing settings, and syncing your feed across multiple devices.
+Once you've selected your tag categories, it's time to sign up for an account. Simply follow the on-screen instructions to create your profile. By signing up, you'll have access to additional features such as bookmakring posts, customizing settings, and syncing your feed across multiple devices.
 
 ## Step 3: Fine-Tune Your Tags
 
