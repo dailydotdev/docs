@@ -16,7 +16,7 @@ Staying up to date requires us to **form a habit**. With daily.dev, creating suc
 
 ## How does the Weekly Goal work?
 
-The metric we use to count the Weekly Goals is fairly simple, and we call it `Reading Days`. You need to read at least one article per day to increase your reading days. The more reading days you nail, the higher the rank you will earn in a given week:
+The metric we use to count the Weekly Goals is fairly simple, and we call it `Reading Days`. You need to read at least one post per day to increase your reading days. The more reading days you nail, the higher the rank you will earn in a given week:
 
 | Reading Days 	| Rank      	|
 |--------------	|-----------	|
@@ -53,7 +53,7 @@ All the ranks you earned will appear **on your profile** (assuming you're a regi
 In your profile you'll be able to see:
 1. All the **ranks you earned** over time
 2. Your **top tags** counted by reading days
-3. A GitHub-style matrix of the **articles you read**
+3. A GitHub-style matrix of the **posts you read**
 
 :::tip
 Try to use the dropdown menu to change the date range in the `Activity` section of your profile. Using this option, you will see how your performance changed over time.

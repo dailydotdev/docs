@@ -8,10 +8,11 @@ sidebar_position: 3
 
 Discussions are a valuable way to engage with the professional developer community on daily.dev and share insights on various topics!
 
-As a professional network for developers, we highly value the opportunity for our community members to participate in public discussions. Discussions allow you to share your thoughts, insights, and experiences related to an article or topic, and contribute to the collective knowledge of the community.
+As a professional network for developers, we highly value the opportunity for our community members to participate in public discussions. Discussions allow you to share your thoughts, insights, and experiences related to a post or topic, and contribute to the collective knowledge of the community.
 
 Participating in discussions can benefit you in several ways:
-1. Gain insights from others: Discussions provide an opportunity to learn from other experienced developers who have read the article. You can gain additional insights, perspectives, and tips that can enhance your understanding of the topic.
+1. Gain insights from others: Discussions provide an opportunity to learn from other experienced developers who have read the post. You can gain additional insights, perspectives, and tips that can enhance your understanding of the topic.
+
 2. Share your expertise: If you have expertise in a particular area, participating in discussions allows you to share your knowledge and contribute to the community. Your insights and experiences can provide valuable information to others and help foster meaningful discussions.
 3. Build your professional network: Engaging in discussions can help you connect with like-minded professionals in your industry. You can build relationships, expand your network, and establish your reputation as a knowledgeable and engaged member of the community.
 4. Enhance your profile: By actively participating in discussions, you can showcase your expertise and build your professional brand. Your comments and insights can be viewed by other community members, including potential employers or collaborators, which can help you establish yourself as a thought leader in your field.
@@ -19,20 +20,20 @@ Participating in discussions can benefit you in several ways:
 
 ## How to participate in a discussion?
 
-Click on any article in the feed to see the article modal.
+Click on any post in the feed to see the post modal.
 
-Beneath the title, TLDR and article image you can see all the comments on the post.
+Beneath the title, TLDR and post image you can see all the comments on the post.
 
 You can be upvote (1), reply (2) to and share (3) individual comments. You can also see the number of upvotes a comment has on the right (4).
 
-<img src="https://daily-now-res.cloudinary.com/image/upload/v1663541915/docs-v2/discussions-1.jpg" alt='Article modal with lower half highlighted. On one comment there is a highlight showing the upvote button (1), the comment button (2), the share button (3) and the number of upvotes (4)' width="990" height="1600" />
+<img src="https://daily-now-res.cloudinary.com/image/upload/v1663541915/docs-v2/discussions-1.jpg" alt='post modal with lower half highlighted. On one comment there is a highlight showing the upvote button (1), the comment button (2), the share button (3) and the number of upvotes (4)' width="990" height="1600" />
 
-or you can add your own comment on the article itself.
+or you can add your own comment on the post itself.
 
 ## Add a comment
 
 There are two options to start/join a discussion:
-1. Click on the comment button in the article modal.
+1. Click on the comment button in the post modal.
 2. Use the [Companion widget](/docs/key-features/the-companion).
 
 The easiest way to start or join a discussion is to click on the comment icon at the middle-bottom of a post:
@@ -45,7 +46,7 @@ You can then leave a comment [using markdown](#writing-comments-in-markdown) in 
 
 ### Writing comments in markdown
 
-You can [use markdown](https://www.markdownguide.org/cheat-sheet/) when commenting on articles 🎉 
+You can [use markdown](https://www.markdownguide.org/cheat-sheet/) when commenting on posts 🎉 
 
 Including: 
 * Headings (using `#` for a h1 through to `######` for a h6 ) 
@@ -78,25 +79,25 @@ When writing a comment you can click on the "Preview" button at the top of the m
 
 ## Additional features
 
-We built some great and informative quality of life items into the article modal, such as:
+We built some great and informative quality of life items into the post modal, such as:
 
-### Article meta data
+### post meta data
 
-All the details about this article, including the title (a), TLDR (b), tags (c), published date (d), reading time (e) and cover image (f).
+All the details about this post, including the title (a), TLDR (b), tags (c), published date (d), reading time (e) and cover image (f).
 
-<img src="https://daily-now-res.cloudinary.com/image/upload/v1663541915/docs-v2/discussions-4.jpg" alt='Article modal showing the main section at the top containing the title (a), with the TLDR below (b), the articles tags below the TLDR (c), the published date (d) and reading time (e) below that and finally the article image at the bottom (f)' width="960" height="960" />
+<img src="https://daily-now-res.cloudinary.com/image/upload/v1663541915/docs-v2/discussions-4.jpg" alt='post modal showing the main section at the top containing the title (a), with the TLDR below (b), the posts tags below the TLDR (c), the published date (d) and reading time (e) below that and finally the post image at the bottom (f)' width="960" height="960" />
 
 ### Table of contents
 
-daily.dev uses the headings in each article to build an automatic table of contents (7). 
+daily.dev uses the headings in each post to build an automatic table of contents (7). 
 
-A great way to get a snapshot of the article and understand what it's about, in addition to the TLDR. 
+A great way to get a snapshot of the post and understand what it's about, in addition to the TLDR. 
 
-<img src="https://daily-now-res.cloudinary.com/image/upload/v1663541915/docs-v2/discussions-5.jpg" alt='The right sidebar / aside on the article modal highlighting the table on contents (7), the reading recommendations (8) and articles with interesting discussions (9)' width="960" height="1600" />
+<img src="https://daily-now-res.cloudinary.com/image/upload/v1663541915/docs-v2/discussions-5.jpg" alt='The right sidebar / aside on the post modal highlighting the table on contents (7), the reading recommendations (8) and posts with interesting discussions (9)' width="960" height="1600" />
 
 ### Suggested similar posts
 
-Based on the article's data, daily.dev will also recommend further reading recommendations (8). 
+Based on the post's data, daily.dev will also recommend further reading recommendations (8). 
 
 ### Best discussions
 
@@ -105,7 +106,7 @@ Additionally, we feature some of the most interesting discussions (9) currently 
 That way, you can engage with the community on the hottest topics without going back to the feed.
 
 :::tip
-* Clicking on a particular row in the [table of contents](https://app.daily.dev/posts/dfK6hCNTe) will open up the article on that specific heading. 
+* Clicking on a particular row in the [table of contents](https://app.daily.dev/posts/dfK6hCNTe) will open up the post on that specific heading. 
 * Clicking on the number of upvotes on a comment will display a list of the users who upvoted the post or comment (10).
 :::
 

@@ -7,7 +7,8 @@ sidebar_label: Introduction
 
 daily.dev is a professional network for developers that provides the latest tech news and articles all in one place. 
 
-We curate articles from over 600 tech news sources and present them in a single feed that you can customize to your interests using tags. Our platform helps you save time by finding high-quality articles, so you can stay up-to-date and stay ahead of the curve as a developer.
+
+We curate posts from over 600 tech news sources and present them in a single feed that you can customize to your interests using tags. Our platform helps you save time by finding high-quality posts, so you can stay up-to-date and stay ahead of the curve as a developer.
 
 <iframe width="700" height="400" src="https://www.youtube.com/embed/igZCEr3HwCg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -29,7 +30,7 @@ Check out some of our [key features](/key-features/feeds.md) and start engaging 
 
 ### Step 4: Build your presence 🦸
 
-Although you don't have to register with daily.dev, we highly recommend it so you can [create a profile](/your-profile/activity.md). With a profile, you can comment on articles, upvote, bookmark useful articles, showcase your reading with our DevCard, and much more!
+Although you don't have to register with daily.dev, we highly recommend it so you can [create a profile](/your-profile/activity.md). With a profile, you can comment on posts, upvote, bookmark useful posts, showcase your reading with our DevCard, and much more!
 
 ### Step 5: Customize the look and feel 🌈
 

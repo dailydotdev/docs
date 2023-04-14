@@ -4,7 +4,7 @@ sidebar_position: 0
 
 # Layout
 
-With this option, you can select how the articles are displayed on the page.
+With this option, you can select how the posts are displayed on the page.
 
 You can switch between Grid and List.
 

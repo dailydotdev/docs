@@ -9,10 +9,11 @@ The activity stats on your daily.dev profile provide insights into your reading 
 <img src="https://daily-now-res.cloudinary.com/image/upload/v1681305180/docs/Update%20April%202023/WhatsApp_Image_2023-03-20_at_15.19.31.jpg" alt='Highlight of the profile stats' width="900" height="100%" />
 
 ## Badges from Weekly Goal
-The badges earned from the weekly goal highlight your achievements and engagement on daily.dev. The weekly goal encourages you to read articles and interact with the community regularly, and as you reach milestones, you earn badges as recognition for your efforts. The badges can be displayed on your profile, showcasing your dedication to continuous learning and active participation in the daily.dev community.
+
+The badges earned from the weekly goal highlight your achievements and engagement on daily.dev. The weekly goal encourages you to read posts and interact with the community regularly, and as you reach milestones, you earn badges as recognition for your efforts. The badges can be displayed on your profile, showcasing your dedication to continuous learning and active participation in the daily.dev community.
 
 ## Reading Matrix
-The reading matrix provides you with a visual representation of how many articles you have been reading over the course of the year. It displays the number of articles you have read each month, allowing you to track your reading activity and see how it evolves over time. This can be a great motivator to set reading goals and stay consistent in your learning journey.
+The reading matrix provides you with a visual representation of how many posts you have been reading over the course of the year. It displays the number of posts you have read each month, allowing you to track your reading activity and see how it evolves over time. This can be a great motivator to set reading goals and stay consistent in your learning journey.
 
 ## Favorite Tags
 The favorite tags section shows you the tags that you have engaged with the most based on your reading history. It gives you insights into the topics that interest you the most and can help you discover new content related to your favorite tags. This feature allows you to personalize your reading experience and stay up-to-date with the latest trends in your areas of interest.
