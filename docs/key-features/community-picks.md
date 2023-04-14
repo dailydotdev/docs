@@ -13,9 +13,8 @@ To get access to this feature you first need to earn the Scout privilege (min. 2
 
 <iframe width="700" height="400"  src="https://www.youtube-nocookie.com/embed/JlBlTIMfrGM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-
 ## Community Picks in the daily.dev feed
-Community Picks are articles that are added to the daily.dev feed by our community members. These articles can be from nearly any website / online publication, not just from our 400+ sources.
+Community Picks are articles that are added to the daily.dev feed by our community members. These articles can be from nearly any website / online publication, not just from our pre-qualified sources.
 
 ### How can I spot a community pick?
 On a card in the feed there is always an icon showing the source in the top left.
@@ -120,6 +119,3 @@ You can submit any article you think is useful or interesting for the developer 
 However, we do prefer that you don't submit "top 10s" and similar listicles.
 
 We also will remove articles that contain profanity in their titles or contain any Not Safe For Work (NSFW) content, imagery etc. For more information, please check out our [Content Guidelines](../for-content-creators/content-guidelines.md). 
-
-
-

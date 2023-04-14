@@ -2,45 +2,28 @@
 sidebar_position: 100
 ---
 # Community
+Welcome to the daily.dev community! Join us on our various social media channels to stay updated with the latest news, events, educational content, giveaways, and more related to daily.dev.
 
 ## Changelog
-
-The is the current changelog for daily.dev: https://changelog.daily.dev/
+Stay up-to-date with the latest changes and updates on daily.dev by checking out our [changelog](https://changelog.daily.dev/).
 
 ## Twitter
-
-We have a powerful AI handling on our Official Twitter account.
-
-Show it some love: https://twitter.com/dailydotdev
-
-[![](https://daily-now-res.cloudinary.com/image/upload/v1636634599/docs/twitter1.svg)](https://twitter.com/dailydotdev)
-
+Follow us on Twitter [@dailydotdev](https://twitter.com/dailydotdev) for the latest news, updates, educational content, giveaways, and engaging discussions related to daily.dev.
 
 ## YouTube
+Subscribe to our official [YouTube channel](https://www.youtube.com/c/dailydev) for a wealth of content, including Monthly Dev events with world-class talks, cool intro videos, tutorials, and more! Stay updated with new releases, educational content, giveaways, and behind-the-scenes glimpses.
 
-Official YouTube Account: https://www.youtube.com/c/dailydev
+## TikTok
+Join us on TikTok [@daily.dev](https://www.tiktok.com/@dailydotdev) for fun and engaging content related to daily.dev, including coding tips, behind-the-scenes glimpses, updates, and giveaways.
 
-[![](https://daily-now-res.cloudinary.com/image/upload/v1636634455/docs/youtube1.svg)](https://www.youtube.com/c/dailydev)
-
-On the official daily.dev YouTube account, there are mainly two types of content: 
-* Monthly Dev: The Monthly Dev is a series of online events brought to you with love by daily.dev. It's a place for software engineers to gather and hear world-class talks, once a month.
-* Weekly Dev: a series of casual live streams about daily.dev.
-
-Oh and there are some cool intro videos too 😎
-
-https://www.youtube.com/c/dailydev
+## Instagram
+In case you're into short-form videos make sure you don't miss our [Instagram profile](https://www.instagram.com/dailydotdev)! 
 
 ## Meetup
-
-We meet once a month to hear some inspiring talks from world-class developers!
-Join our meetup group to get updates: https://www.meetup.com/the-monthly-dev-world-class-talks-by-expert-developers/
+Join our meetup group to stay informed about our monthly events featuring inspiring talks from expert developers, and updates on new releases, educational content, and giveaways. [Join here](https://www.meetup.com/the-monthly-dev-world-class-talks-by-expert-developers/)
 
 ## LinkedIn
-
-This is the official LinkedIn page for daily.dev: https://www.linkedin.com/company/dailydotdev
-
-[![](https://daily-now-res.cloudinary.com/image/upload/v1636634819/docs/linkedin.svg)](https://www.linkedin.com/company/dailydotdev)
+Connect with us on LinkedIn at [daily.dev](https://www.linkedin.com/company/dailydotdev) to stay in the loop with our latest updates, announcements, and educational content, as well as engage with our community.
 
 ## Feedback
-
-Do you have any feedback? Question? Feature request? [Submit it here](https://daily.dev/feedback)
+Have feedback, questions, or feature requests? [Submit it here](https://daily.dev/feedback) and let us know how we can improve your daily.dev experience!
