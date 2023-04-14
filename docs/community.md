@@ -16,6 +16,9 @@ Subscribe to our official [YouTube channel](https://www.youtube.com/c/dailydev) 
 ## TikTok
 Join us on TikTok [@daily.dev](https://www.tiktok.com/@dailydotdev) for fun and engaging content related to daily.dev, including coding tips, behind-the-scenes glimpses, updates, and giveaways.
 
+## Instagram
+In case you're into short-form videos make sure you don't miss our [Instagram profile](https://www.instagram.com/dailydotdev)! 
+
 ## Meetup
 Join our meetup group to stay informed about our monthly events featuring inspiring talks from expert developers, and updates on new releases, educational content, and giveaways. [Join here](https://www.meetup.com/the-monthly-dev-world-class-talks-by-expert-developers/)
 

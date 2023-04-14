@@ -20,7 +20,9 @@ Prefer a video version? Check out this 6-minute video that explains each feed in
 Your feed contains posts that are relevant to you and your interests (once you have set it up).
 
 ### Creating your personal feed
+
 If you are new to daily.dev, the first thing we strongly recommend is setting up filters on your feed. This will unlock the true power of daily.dev, showing posts that are relevant to your interests.
+
 
 There are three guides to help you get the most out of your feed:
 1. a detailed guide on how to [set up your feed](docs/setting-up-your-feed/filtering-content-feed).
@@ -47,6 +49,7 @@ By considering these factors, we aim to increase the likelihood of interesting a
 
 However, we understand that sometimes you may prefer to view the latest posts we've featured without the influence of our ranking algorithm. To accommodate this, we've added the option to sort the Popular feed by date.
 
+
 ### Sorting by date
 
 By default, there is a drop-down menu that allows you to change the order of the popular feed. If it is not activated on your profile, you can easily enable it by following these steps:
@@ -67,6 +70,7 @@ By default, there is a drop-down menu that allows you to change the order of the
 ## Most upvoted feed
 
 In the "Most Upvoted" Feed, we feature the posts with the highest number of upvotes on the platform. The ranking in this feed is based on the number of upvotes over a given timescale. The higher the upvote count, the higher the post will be listed in the feed.
+
 
 ### Changing the date filter
 

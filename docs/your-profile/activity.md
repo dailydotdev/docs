@@ -9,6 +9,7 @@ The activity stats on your daily.dev profile provide insights into your reading 
 <img src="https://daily-now-res.cloudinary.com/image/upload/v1681305180/docs/Update%20April%202023/WhatsApp_Image_2023-03-20_at_15.19.31.jpg" alt='Highlight of the profile stats' width="900" height="100%" />
 
 ## Badges from Weekly Goal
+
 The badges earned from the weekly goal highlight your achievements and engagement on daily.dev. The weekly goal encourages you to read posts and interact with the community regularly, and as you reach milestones, you earn badges as recognition for your efforts. The badges can be displayed on your profile, showcasing your dedication to continuous learning and active participation in the daily.dev community.
 
 ## Reading Matrix

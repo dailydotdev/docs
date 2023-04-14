@@ -17,7 +17,6 @@ Blocking empowers you to:
 1. Remove all posts that contain a [specific tag](#blocking-tags) : Say goodbye to unwanted content by blocking specific tags that don't interest you.
 2. Remove all posts that come from a [specific source](#blocking-sources) : Keep your feed free from content from specific sources that you don't prefer.
 
-
 :::info
 Please note that blocking is only applied to posts displayed in your "My Feed" feed. It does not affect content in the Popular, Most Upvoted, or Best Discussions feeds.
 
@@ -66,6 +65,7 @@ Tags can have the following states:
 * Following / Not following
 * Blocked 
 
+
 | Tag A (State)     | Tag B (State)     | Will you see the post?     |
 | ---               | ---               | ---                           |
 | Following         | Following         | ✅ Yes                        |
@@ -73,6 +73,7 @@ Tags can have the following states:
 | Not following     | Not following     | ❌ No                         |
 | Not following     | Blocked           | ❌ No                         |
 | Following         | Blocked           | ❌ No                         |
+
 
 ### Blocking sources
 

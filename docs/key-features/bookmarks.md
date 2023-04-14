@@ -25,6 +25,7 @@ You can save posts to your bookmarks in daily.dev using multiple methods:
 
 With these options, saving posts to bookmarks in daily.dev is quick and easy. Once a post is saved, you can access it later in your bookmarks section, which can be found on the left sidebar, and enjoy the benefits of organized and personalized content consumption.
 
+
 ## Sync bookmarks across devices and browsers
 
 To sync your bookmarks across devices and browsers, all you need to do is log in with the same account on every device/browser. This way, you can access your bookmarks from any device or browser where you are logged in, making it convenient to keep your reading list consistent and updated.

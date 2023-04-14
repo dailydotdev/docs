@@ -7,6 +7,7 @@ sidebar_label: Introduction
 
 daily.dev is a professional network for developers that provides the latest tech news and articles all in one place. 
 
+
 We curate posts from over 600 tech news sources and present them in a single feed that you can customize to your interests using tags. Our platform helps you save time by finding high-quality posts, so you can stay up-to-date and stay ahead of the curve as a developer.
 
 <iframe width="700" height="400" src="https://www.youtube.com/embed/igZCEr3HwCg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
