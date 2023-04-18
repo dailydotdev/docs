@@ -65,10 +65,11 @@ We completely redesigned the profile to fit a new special section for your posts
 Keep in mind that we can only add posts that we're already picked up by daily.dev. Not sure if your post appeared in our feed? Try [searching its headline](https://app.daily.dev/search).
 :::
 
-* Step 1 - Go to your profile on daily.dev
-* Step 2 - Click “Account details”
-* Step 3 - Add your Twitter handle
-* Step 4 - [Click here](mailto:support@daily.dev?subject=Add%20my%20posts%20retroactively&body=README%3A%20To%20add%20your%20posts%20retroactively%2C%20please%20reply%20with%20your%20username%20or%20a%20link%20to%20your%20profile%20on%20daily.dev.%20Keep%20in%20mind%20that%20we%20can%20only%20add%20posts%20that%20we're%20already%20picked%20up%20by%20daily.dev.%20Not%20sure%20if%20your%20post%20appeared%20in%20our%20feed%3F%20Try%20searching%20its%20headline%20here%3A%20https%3A%2F%2Fapp.daily.dev%2Fsearch) or email us to [support@daily.dev](mailto:support@daily.dev?subject=Add%20my%20posts%20retroactively&body=README%3A%20To%20add%20your%20posts%20retroactively%2C%20please%20reply%20with%20your%20username%20or%20a%20link%20to%20your%20profile%20on%20daily.dev.%20Keep%20in%20mind%20that%20we%20can%20only%20add%20posts%20that%20we're%20already%20picked%20up%20by%20daily.dev.%20Not%20sure%20if%20your%20post%20appeared%20in%20our%20feed%3F%20Try%20searching%20its%20headline%20here%3A%20https%3A%2F%2Fapp.daily.dev%2Fsearch)
+* Step 1 - Ensure your post's HTML contains the `twitter:creator` meta tag within the `<head>` tag i.e. `<meta name="twitter:creator" content="@username" />` where `@username' is your username on Twitter.
+* Step 2 - Go to your profile on daily.dev
+* Step 3 - Click “Account details”
+* Step 4 - Add your Twitter handle
+* Step 5 - [Click here](mailto:support@daily.dev?subject=Add%20my%20posts%20retroactively&body=README%3A%20To%20add%20your%20posts%20retroactively%2C%20please%20reply%20with%20your%20username%20or%20a%20link%20to%20your%20profile%20on%20daily.dev.%20Keep%20in%20mind%20that%20we%20can%20only%20add%20posts%20that%20we're%20already%20picked%20up%20by%20daily.dev.%20Not%20sure%20if%20your%20post%20appeared%20in%20our%20feed%3F%20Try%20searching%20its%20headline%20here%3A%20https%3A%2F%2Fapp.daily.dev%2Fsearch) or email us to [support@daily.dev](mailto:support@daily.dev?subject=Add%20my%20posts%20retroactively&body=README%3A%20To%20add%20your%20posts%20retroactively%2C%20please%20reply%20with%20your%20username%20or%20a%20link%20to%20your%20profile%20on%20daily.dev.%20Keep%20in%20mind%20that%20we%20can%20only%20add%20posts%20that%20we're%20already%20picked%20up%20by%20daily.dev.%20Not%20sure%20if%20your%20post%20appeared%20in%20our%20feed%3F%20Try%20searching%20its%20headline%20here%3A%20https%3A%2F%2Fapp.daily.dev%2Fsearch)
 
 ## How to get your post listed on daily.dev?
 
