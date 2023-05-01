@@ -16,11 +16,13 @@ We welcome your requests and promise to give it the proper attention.
 Learn [how to submit a new source request](/for-content-creators/suggest-new-source.md). 
 :::
 
-### What we are looking for?
+### What are we looking for?
 
-✅ Relevant and fresh content for developers.
+✅ Relevant, fresh and up-to-date content for developers.
 
-✅ Sources that are generating exciting and professional content.
+✅ Sources that are generating novel, professional and well-written content.
+
+✅ Sources that adhere to ethical publishing and blogging practices.
 
 ✅ Sources that publish new content regularly.
 
@@ -28,15 +30,23 @@ Learn [how to submit a new source request](/for-content-creators/suggest-new-sou
 
 ✅ Sources about innovative and trending topics that will inspire our community.
 
+✅ Clearly separates sponsored content, if any, from editorial content.
+
 ✅ Good vibes ✌️
 
-### When will we reject a source request?
+:::info
+In our ongoing effort to maintain a balanced content inventory on the platform, we are temporarily giving higher priority to niche sources during our review process. This allows us to provide our developer community with a diverse range of topics and unique perspectives. As a result, we may apply more strict judgment on new source suggestions that feature mainstream content. This is to ensure that our platform maintains a healthy mix of content and caters to various interests within the developer community.
+:::
+
+### When will we reject a source suggestion?
+
+:::caution
+Please note that we kindly ask you not to share copyrighted or trademarked sources. If you did not create the source you are submitting for review, make sure it's publicly accessible for sharing. We will give due credit to the owner.
+:::
 
 ❌ It is not publishing content for developers.
 
-❌ It is a personal blog (global thought-leaders excluded).
-
-❌ It is used mostly for self-promotion.
+❌ It is used only or mostly for self-promotion.
 
 ❌ It is not publishing content written in English.
 
@@ -46,11 +56,27 @@ Learn [how to submit a new source request](/for-content-creators/suggest-new-sou
 
 ❌ It is publishing politically-oriented content.
 
+❌ It relies on programmatic SEO or any similar method to populate content. This includes publications that might not use programmatic SEO but can be perceived as doing so.
+
 ❌ It includes content that is either illegal, pornographic (including mature in content or overtly sexual), racist, sexist (or otherwise offensive), grotesque (or obscene), inflammatory, and other inappropriate content.
 
-:::caution
-Please note that we kindly ask you not to share copyrighted or trademarked sources. If you did not create the source you are submitting for review, make sure it's publicly accessible for sharing. We will give due credit to the owner.
-:::
+✋ Personal or corporate blog? Additional terms apply, keep reading. 
+
+### Additional guidelines for corporate blogs
+
+In additional to the general guidelines above, corporate blogs that wish to pass the review process should also consider the following specific guidelines for corporate blogs:
+
+✅ Generates a dedicated RSS feed that is free of promotional material or company updates such as press releases, customer use cases, funding announcements, product updates or any similar content.
+
+### Additional guidelines for personal blogs
+
+At the moment, the basic rule of thumb in our review process is that we do not approve personal blogs. However, we recently started working gradually towards allowing personal blogs on the platform. During this interim period, we will only approve personal blogs that meet specific criteria. If you're submitting a personal blog for review, please ensure it meets the following guidelines:
+
+✅ Personal blog of a global thought leader who has a significant impact on the developer community.
+
+✅ Focused on niche topics that cater to specific and non-mainstream interests.
+
+Please note that these additional guidelines for personal blogs are subject to change as we continue to refine our review process.
 
 ## Be respectful to the community
 
