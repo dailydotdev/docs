@@ -13,7 +13,7 @@ If you’re new to daily.dev, we recommend to first spend time in [setting up yo
 
 ## What is reputation?
 
-**Reputation is how we measure, how much the community trusts you.** It is earned by receiving positive feedback (such as upvotes) from other community members on comments you post and posts you write that are picked up by our feed. 
+**Reputation is how we measure how much the community trusts you.** It is earned by receiving positive feedback (such as upvotes) from other community members on comments you post and posts you write that are picked up by our feed. 
 
 The more reputation you earn, the more privileges you will gain and the more tools you'll have access to on daily.dev. That is intentional. We don’t run this site; the community does! Although specific privileges have not been announced yet, we encourage you to start building your reputation on the platform, as your points are **publicly visible on your profile.** 
 
