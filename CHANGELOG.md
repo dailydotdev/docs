@@ -1,3 +1,12 @@
+# [0.1.0](https://github.com/dailydotdev/docs/compare/v0.0.2...v0.1.0) (2023-06-20)
+
+
+### Features
+
+* update to docusaurus 2.4.1 and add ga4 support ([#191](https://github.com/dailydotdev/docs/issues/191)) ([40980a2](https://github.com/dailydotdev/docs/commit/40980a2d87390eb147507e59267955f1dab224ca))
+
+
+
 ## [0.0.2](https://github.com/dailydotdev/docs/compare/v0.0.1...v0.0.2) (2022-10-05)
 
 
