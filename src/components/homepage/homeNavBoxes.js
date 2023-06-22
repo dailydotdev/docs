@@ -64,7 +64,6 @@ const FeatureList = [
       {url: "docs/how-does-daily-dev-work/dailydev-101", text: "What is daily.dev?​​​​"},
       {url: "docs/how-does-daily-dev-work/how-to-get-featured", text: "How to get featured?"},
       {url: "docs/how-does-daily-dev-work/reputation", text: "Reputation explained"},
-      {url: "docs/how-does-daily-dev-work/community-picks-submission-guidelines", text: "Community Picks Guidelines"},
     ]
   },
   {
