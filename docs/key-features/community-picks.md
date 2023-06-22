@@ -75,7 +75,7 @@ Please also note that **submitting your own articles is not allowed.** Please sh
 #### post already exists
 If the post already exists in the daily.dev feed you will see a message explaining the post already exists and a link to that post.
 
-![](https://daily-now-res.cloudinary.com/image/upload/v1657719529/cp-5_post_exists_hye5qv.png)
+![](https://daily-now-res.cloudinary.com/image/upload/v1657719529/cp-5_article_exists_hye5qv.png)
 
 ### Successful Submissions
 If the post you submitted has a valid URL and doesn't already exist you will get a confirmation that you will be notified by email about the request status.
