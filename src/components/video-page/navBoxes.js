@@ -64,7 +64,7 @@ const FeatureList = [
     duration: "3:54"
   },
   {
-    title: 'Cusomtize your profile',
+    title: 'Customize your profile',
     url: "yJCv2NG-9nk",
     type: "Tutorial",
     duration: "1:09"
