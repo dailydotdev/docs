@@ -6,18 +6,25 @@ sidebar_position: 6
 
 ## How to delete your profile?
 
-To delete your account click on your Profile -> Click on "Acccount Details" -> Scroll down until your reach the `Danger zone` section -> Click "Delete account" 
+If you wish to delete your account on daily.dev, please follow these steps:
+
+1. Go to your profile by clicking on your profile icon.
+2. Click on "Account Details" in the profile menu.
+3. Scroll down until you reach the "Danger zone" section.
+4. Click on the "Delete account" button.
 
 :::danger
-Important: deleting your account is **unrecoverable and cannot be undone**.
+Important: Deleting your account is **unrecoverable and cannot be undone**.
 ::: 
 
-## What is being deleted exactly?
+## What will be deleted?
 
-Deleting your account will:
+When you delete your account, the following actions will occur:
 
-1. Permanently delete your profile, along with your authentication associations.
-2. Permanently delete all your content, including your articles, bookmarks, comments, upvotes, etc.
-3. Allow your username to become available to anyone.
+1. Your profile, along with your authentication associations, will be permanently deleted.
 
-If you're in doubt, feel free to contact support@daily.dev with any questions, and our team members would be glad to assist you.
+2. All your content, including your posts, bookmarks, comments, upvotes, etc., will be permanently deleted.
+
+3. Your username will become available to anyone.
+
+If you have any doubts or questions, feel free to contact support@daily.dev, and our team members will be glad to assist you. Please note that deleting your account is a permanent action, so please proceed with caution.

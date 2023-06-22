@@ -4,71 +4,35 @@ sidebar_position: 3
 
 # Blocking tags and sources
 
-Adjusting your feed is designed to be straightforward. But sometimes, there are specific tags or sources that you just don't want to see at all. This is where blocking plays an important role. 
+Customizing your daily.dev feed has never been easier, but sometimes there are specific tags or sources that you simply don't want to see. That's where blocking comes in handy.
 
-Watch the quick overview video to quickly get familiar with blocking sources and tags.
+Watch this quick overview video to quickly understand how to block sources and tags for a more tailored feed experience.
 
 <iframe width="700" height="400" src="https://www.youtube.com/embed/10ECCjEdHK4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-
 ## How does blocking work?
 
-Blocking allows you to:
-1. Remove all articles that contain a [specific tag](#blocking-tags) 
-2. Remove all articles that come from a [specific source](#blocking-sources) 
+Blocking empowers you to:
+
+1. Remove all posts that contain a [specific tag](#blocking-tags) : Say goodbye to unwanted content by blocking specific tags that don't interest you.
+2. Remove all posts that come from a [specific source](#blocking-sources) : Keep your feed free from content from specific sources that you don't prefer.
 
 :::info
-Blocking is only applied on articles that are displayed on the "**My Feed**" feed
+Please note that blocking is only applied to posts displayed in your "My Feed" feed. It does not affect content in the Popular, Most Upvoted, or Best Discussions feeds.
 
-Blocking a tag does not affect the content on the:
-
-- Popular feed
-- Most Upvoted feed 
-- Best Discussions feed 
-
-These feeds will still show articles with tags that you have blocked. 
-
-To take full advantage of the blocking features, please [set up your personal feed](../key-features/feeds.md).
+To make the most out of the blocking features, be sure to set up your personal feed. Customize your daily.dev experience to suit your preferences and enjoy a curated feed tailored just for you.
 :::
 
-
-### Blocking tags
-
-Tags can have the following states:
-* Following / Not following
-* Blocked 
-
-| Tag A (State)     | Tag B (State)     | Will you see the article?     |
-| ---               | ---               | ---                           |
-| Following         | Following         | ✅ Yes                        |
-| Following         | Not following     | ✅ Yes                        |
-| Not following     | Not following     | ❌ No                         |
-| Not following     | Blocked           | ❌ No                         |
-| Following         | Blocked           | ❌ No                         |
-
-### Blocking sources
-
-A source can have the following states:
-* Following (default for all sources)
-* Blocked 
-
-| Source (State)    | Will you see the article?     |
-| ---               | ---                           |
-| Following         | ✅ Yes                        |
-| Blocked           | ❌ No                         |
-
-## How to block tags and sources
-
-
+## Blocking tags and sources from the feed
 
 Blocking tags and sources can be done directly from the feed. Whenever you see a post with a tag/source you wish to block, click on the more options button (⋮) (1)
 
-<img src="https://daily-now-res.cloudinary.com/image/upload/v1663521933/docs-v2/advanced-filters-and-blocking-b1.jpg" alt='Options button located top right of an article card (1)' width="900" height="900" />
+<img src="https://daily-now-res.cloudinary.com/image/upload/v1663521933/docs-v2/advanced-filters-and-blocking-b1.jpg" alt='Options button located top right of a post card (1)' width="900" height="900" />
 
 - **To block a tag:** Choose “Not interested in (tag_name)“ (2)
-- **To block a source:** Choose "Don't show articles from (source_name)" (3)
+- **To block a source:** Choose "Don't show posts from (source_name)" (3)
 
-<img src="https://daily-now-res.cloudinary.com/image/upload/v1663521933/docs-v2/advanced-filters-and-blocking-b2.jpg" alt='Options menu open highlighting three "not interested in" tags (2) and one "Dont show articles from" (3)' width="900" height="900" />
+<img src="https://daily-now-res.cloudinary.com/image/upload/v1663521933/docs-v2/advanced-filters-and-blocking-b2.jpg" alt='Options menu open highlighting three "not interested in" tags (2) and one "Dont show posts from" (3)' width="900" height="900" />
 
 Once clicked, the blocked tags and sources will be removed from your feed.
 
@@ -77,27 +41,47 @@ You will also see a toast notification confirming you have blocked a tag or sour
 If you have blocked a tag or source by mistake you can click "Undo" in the toast to reverse the action.
 
 :::tip
-If you can't find an article from a specific tag or source you wish to block, try using the [search feature](/docs/key-features/search). 
+If you can't find a post from a specific tag or source you wish to block, try using the [search feature](/docs/key-features/search). 
 :::
 
-## How to unblock tags and sources
+## Unblocking tags and sources
 
-Click on the "My Feed" filter button (4) to open the feed options menu.
+To unblock tags or sources in your daily.dev feed, follow these simple steps:
 
-<img src="https://daily-now-res.cloudinary.com/image/upload/v1663521933/docs-v2/advanced-filters-and-blocking-b3.jpg" alt='' width="900" height="900" />
+1. Click on the "My Feed" filter button to open the feed options menu.
+2. Click on "Blocked Items" in the options menu.
+3. You will see a list of all the blocked tags and sources that you currently have selected.
+4. Click on the "unblock" icon next to a blocked item to unblock it.
 
-Then click on "Blocked Items" (5)
+<img src="https://daily-now-res.cloudinary.com/image/upload/v1681289318/docs/Update%20April%202023/Screenshot_2023-04-12_at_11.48.32.png" alt='Options menu open highlighting three how to unblock items' width="900" height="900" />
 
-<img src="https://daily-now-res.cloudinary.com/image/upload/v1663521933/docs-v2/advanced-filters-and-blocking-b4.jpg" alt='Options button located top right of an article card (1)' width="900" height="900" />
+Items with the unblocked tag or source will start appearing in your feed again. With these easy steps, you can easily manage and customize your daily.dev feed to suit your preferences and interests.
 
-You will see a list of all the blocked tags (6) and sources (7) you currently have selected.
+## Advanced information about how blocking works
 
-Just click on the "unblock" icon next to a blocked item to unblock it. 
+### Blocking tags
 
-<img src="https://daily-now-res.cloudinary.com/image/upload/v1663521933/docs-v2/advanced-filters-and-blocking-b5.jpg" alt='Options button located top right of an article card (1)' width="900" height="900" />
+Tags can have the following states:
+* Following / Not following
+* Blocked 
 
-You will see a modal appear asking you to confirm you wish to unblock. 
 
-Click the "Yes, unblock" button (8) and items with that tag or source will start appearing in your feed again.
+| Tag A (State)     | Tag B (State)     | Will you see the post?     |
+| ---               | ---               | ---                           |
+| Following         | Following         | ✅ Yes                        |
+| Following         | Not following     | ✅ Yes                        |
+| Not following     | Not following     | ❌ No                         |
+| Not following     | Blocked           | ❌ No                         |
+| Following         | Blocked           | ❌ No                         |
 
-<img src="https://daily-now-res.cloudinary.com/image/upload/v1663521933/docs-v2/advanced-filters-and-blocking-b6.jpg" alt='Options button located top right of an article card (1)' width="900" height="900" />
+
+### Blocking sources
+
+A source can have the following states:
+* Following (default for all sources)
+* Blocked 
+
+| Source (State)    | Will you see the post?     |
+| ---               | ---                           |
+| Following         | ✅ Yes                        |
+| Blocked           | ❌ No                         |

@@ -4,24 +4,23 @@ sidebar_position: 5
 
 # DevCard 
 
-Show off how many articles you've read, your top read topics and your favorite publications!
+## Show Off Your Daily.dev Activity!
 
-Click the image below for a small video about the topic.
+The DevCard is a fun and interactive way to showcase your daily.dev activity and share your learning journey with others. It displays information such as the number of posts you've read, your top read topics, and your favorite publications, allowing you to highlight your interests and achievements on the platform. You can generate your own personalized DevCard and share it with the hashtag #DevCard to connect with other like-minded developers.
 
-[![](https://daily-now-res.cloudinary.com/image/upload/v1635253800/docs/416-ab443bb23181aac9a2a98ebe623583d3b3e70dcf.jpg)](https://youtu.be/LT712TIwgmQ)
+<img src="https://daily-now-res.cloudinary.com/image/upload/v1681306143/docs/Update%20April%202023/Screenshot_2023-04-12_at_16.28.55.png" alt='Highlight of the devcard' width="900" height="100%" />
 
+## How to generate your DevCard
 
-Share your DevCard using the hashtag #DevCard
+Generating your DevCard is quick and easy! Simply click on your profile picture (but make sure you log in first) and click on the DevCard button. Another option is to directly visit https://app.daily.dev/devcard. This will take you to a page where you can customize your DevCard by choosing your preferred background color and accent color. Once you're satisfied with your customization, click the "Generate DevCard" button to generate your unique DevCard.
 
-To Generate your DevaCard, click on the button below.
+## Limited Edition DevCards
+Occasionally, limited edition DevCards may become available during the year. These special edition DevCards feature unique designs and themes, and can be a fun way to showcase your daily.dev activity with a touch of exclusivity. Keep an eye out for announcements and updates on daily.dev's social media channels to know when limited edition DevCards are available and how you can obtain one!
 
-![](https://daily-now-res.cloudinary.com/image/upload/v1636632360/docs/weeklygoal1.svg)
+## Adding DevCard to Your GitHub Profile
 
+Once you've generated your DevCard, you can add it to your GitHub profile or embed it in your website to further showcase your daily.dev activity. This can be a great way to highlight your interests, achievements, and engagement with daily.dev to fellow developers and potential employers.
 
-Generate your #DevCard here → https://app.daily.dev/devcard
+Here's the [full tutorial](https://daily.dev/blog/adding-the-daily-devcard-to-your-github-profile) and a demo video:
 
-Sometimes during the year, some Limited Edition DevCard can be available!
-
-![](https://daily-now-res.cloudinary.com/image/upload/v1636632716/docs/devcard20.svg)
-
-You can also add the DevCard to your Github profile or embed it in a website!
+<iframe width="700" height="400" src="https://www.youtube.com/watch?v=RCwKFpC286w" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

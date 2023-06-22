@@ -13,7 +13,7 @@ If you’re new to daily.dev, we recommend to first spend time in [setting up yo
 
 ## What is reputation?
 
-**Reputation is how we measure much the community trusts you.** It is earned by getting positive feedback (as upvotes) from other community members on comments you post and articles you write that got picked up by our feed. 
+**Reputation is how we measure much the community trusts you.** It is earned by getting positive feedback (as upvotes) from other community members on comments you post and posts you write that got picked up by our feed. 
 
 The more reputation you earn, the more privileges you will gain, and the more tools you'll have access to on daily.dev. That is intentional. We don’t run this site; the community does! Although specific privileges are not announced yet, we encourage you to start building your reputation on the platform, as your points are **publicly visible on your profile.** 
 
@@ -45,11 +45,11 @@ Additionally it is not possible to get a negative reputation anymore. So reputat
 
 
 ## Useful comments are the best and easiest way to gain points!
-We love comments that help others decide if an article is for them, support the author or offer valuable feedback.
+We love comments that help others decide if a post is for them, support the author or offer valuable feedback.
 
 Here are a few tips on how you can make your comments better:
-* Try to help other users extract new insights from the article you’re commenting on
-* Write summaries so that other users can save time reading through the whole article
-* Warn if there’s a professional mistake in an article
+* Try to help other users extract new insights from the post you’re commenting on
+* Write summaries so that other users can save time reading through the whole post
+* Warn if there’s a professional mistake in a post
 * Make a funny dev rant
 * Anything else you have in mind, as long as it is respectful and valuable

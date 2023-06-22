@@ -6,6 +6,9 @@ The [daily.dev docs](https://docs.daily.dev/) are designed to help our community
 
 - Contributions make the open source community such an amazing place to learn, inspire, and create.
 - Any contributions you make are **truly appreciated**
+- Provide clear documentation
+- Create descriptive pull requests
+- Test your changes
 
 ## 💻 Development
 
@@ -26,20 +29,26 @@ $ cd docs
 
   Install the dependencies:
 ```bash
-// with npm
+# with npm
 $ npm i
 
-// or with yarn
+# or with yarn
 $ yarn
+
+# or with pnpm
+$ pnpm i
 ```
 
   Run the local dev environment:
 ```bash
-// with npm
+# with npm
 $ npm run start
 
-// or with yarn
+# or with yarn
 $ yarn start
+
+# or with pnpm
+$ pnpm start
 ```
 
  Now Visit:
@@ -52,20 +61,26 @@ http://localhost:3000
 - Build the project:
 
 ```bash
-// with npm
+# with npm
 $ npm run build
 
-// or with yarn
+# or with yarn
 $ yarn build
+
+# or with pnpm
+$ pnpm build
 ```
 - Run the server:
 
 ```bash
-// with npm
+# with npm
 $ npm run serve
 
-// or with yarn
+# or with yarn
 $ yarn serve
+
+# or with pnpm
+$ pnpm serve
 ```
 The server is available by default on port `3000`.
 

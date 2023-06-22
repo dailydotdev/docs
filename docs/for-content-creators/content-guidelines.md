@@ -4,60 +4,84 @@ sidebar_position: 1
 
 # Content guidelines
 
-## How do we evaluate new source requests for daily.dev?
+## Introduction
 
-Do you prefer a video version? [Here is a 3 minutes video](https://youtu.be/r1IIWf6ApJc) for you to watch.
+Welcome to our content guidelines. This page is your comprehensive guide to understanding the core principles and standards that shape the content on our platform. Whether you're a content creator, developer, or enthusiast exploring our vast variety of resources, these guidelines serve as the blueprint to our commitment to quality, innovation, and ethics. 
 
-Submitting a new source to daily.dev is a great way to contribute to our community! 
+In this document, we provide detailed guidance on what we look for in content, what we prioritize, and under what conditions we might remove content. These guidelines are not only a reference for anyone who creates or submits content to daily.dev, but also an insight into our dedication to maintaining a respectful, diverse, and valuable community.
 
-We welcome your requests and promise to give it the proper attention. 
+Take a moment, dive in, and let's create an enriching and inspiring space together!
 
-:::info
-Learn [how to submit a new source request](/for-content-creators/suggest-new-source.md). 
+:::tip
+These guidelines are key to your journey on our platform. By aligning your content with our standards, you not only enhance the quality of our community but also build your reputation as a trusted source of knowledge. Conversely, content that fail to comply may lead to a reduction in reputation. The respect and trust you earn from our community are invaluable, so we encourage you to take these guidelines seriously. For more insights on how reputation works, please visit our [reputation guide](../how-does-daily-dev-work/reputation.md).
 :::
 
-### What we are looking for?
+### What content are we looking for?
 
-✅ Relevant and fresh content for developers.
+✅ Relevant, fresh and up-to-date content for developers.
 
-✅ Sources that are generating exciting and professional content.
+✅ Professional and well-written content.
 
-✅ Sources that publish new content regularly.
+✅ Novel, innovative and trending content that inspires developers.
 
-✅ Sources that have published a substantial amount of content to date.
+✅ Content that adheres to ethical publishing practices.
 
-✅ Sources about innovative and trending topics that will inspire our community.
+✅ Content from sources that publish new content regularly.
+
+✅ Content from sources that have published a substantial amount of content to date.
+
+✅ Content that clearly separates sponsored content, if any, from editorial content.
 
 ✅ Good vibes ✌️
 
-### When will we reject a source request?
-
-❌ It is not publishing content for developers.
-
-❌ It is a personal blog (global thought-leaders excluded).
-
-❌ It is used mostly for self-promotion.
-
-❌ It is not publishing content written in English.
-
-❌ It was not active in the past three months or more.
-
-❌ It doesn't provide an RSS feed available for public use.
-
-❌ It is publishing politically-oriented content.
-
-❌ It includes content that is either illegal, pornographic (including mature in content or overtly sexual), racist, sexist (or otherwise offensive), grotesque (or obscene), inflammatory, and other inappropriate content.
-
-:::caution
-Please note that we kindly ask you not to share copyrighted or trademarked sources. If you did not create the source you are submitting for review, make sure it's publicly accessible for sharing. We will give due credit to the owner.
+:::info
+In our ongoing effort to maintain a balanced content inventory on the platform, we are temporarily giving higher priority to niche sources during our review process. This allows us to provide our developer community with a diverse range of topics and unique perspectives. As a result, we may apply more strict judgment on new source suggestions that feature mainstream content. This is to ensure that our platform maintains a healthy mix of content and caters to various interests within the developer community.
 :::
 
-## Be respectful to the community
+### When will we reject, ban or remove content?
 
-The daily.dev community is highly sensitive to content quality and the code of conduct of publishers. After a new source is approved and added to the daily.dev feed, we continue to monitor it continuously. Our aim is simple -- to maintain and enforce the content guidelines for the benefit of our community.
+❌ Content that is irrelevant for developers.
 
-‍We kindly ask you to refrain from misusing the opportunity to be listed on the daily.dev feed.
+❌ Content that is used only or mostly for self-promotion.
+
+❌ Content that is not written in English.
+
+❌ Content from sources that were not active in the past three months or more.
+
+❌ Content from sources that don't provide an RSS feed available for public use.
+
+❌ Content about politically-oriented topics.
+
+❌ Content that is generated through programmatic SEO or any similar method to populate content. This includes publications that might not use programmatic SEO but can be perceived as doing so.
+
+❌ Content that is either illegal, pornographic (including mature in content or overtly sexual), racist, sexist (or otherwise offensive), grotesque (or obscene), inflammatory, and other inappropriate content.
+
+❌ Content that incites violence or hatred towards an individual or group based on race, religion, gender identity or expression, sex, ethnicity, nationality, sexual orientation, age, or disability or other characteristics associated with systemic discrimination or marginalization.
+
+❌ Content that violates privacy rights, including sharing or encouraging others to share someone’s private information without their consent or is otherwise unlawful according to applicable laws.
+
+❌ IContent that is unsuitable or harmful to the daily.dev's business reputation.
+
+❌ Content that infringes third party rights, including copyrights, trademarks or other intellectual property rights.
+
+✋ Personal or corporate blog? Additional terms apply, keep reading. 
+
+### Additional guidelines for corporate blogs
+
+In additional to the general guidelines above, corporate blogs that wish to pass the review process should also consider the following specific guidelines:
+
+✅ Content from a dedicated RSS feed that is free of promotional material or company updates such as press releases, customer use cases, funding announcements, product updates or any similar content.
+
+### Additional guidelines for personal blogs
+
+At the moment, the basic rule of thumb in our review process is that we do not approve personal blogs as sources. However, we recently started working gradually towards allowing personal blogs on the platform. During this interim period, we will only approve personal blogs that meet specific criteria. If you're submitting a personal blog for review, please ensure it meets the following guidelines:
+
+✅ Personal blog of a global thought leader who has a significant impact on the developer community.
+
+✅ Focused on niche topics that cater to specific and non-mainstream interests.
+
+Please note that these additional guidelines for personal blogs are subject to change as we continue to refine our review process.
 
 ## Some legal stuff...
 
-Daily Dev Ltd. does not claim ownership or copyright to any of the submitted sources. If a copyright infringement claim is made regarding the submitted source, the content will be removed and the submitted user might be blocked from future submissions. Read more about our [Privacy Policy](https://daily.dev/privacy) and [Terms of Service](https://daily.dev/tos).
+Please note that Daily Dev Ltd. does not assert ownership or copyright over any content submitted to our platform. Our team vigilantly reviews all submitted content, either manually or through automated systems, to verify its adherence to our content guidelines. If a claim arises concerning a piece of content, such as alleged copyright infringement or a breach of our guidelines, we reserve the right to remove said content. The offending user may also face restrictions on future submissions. Further, any community found in violation of these guidelines may be suspended or terminated. All interactions with our platform, including content publication, are governed by our [Privacy Policy](https://daily.dev/privacy) and [Terms of Service](https://daily.dev/tos). We encourage our community members to report any content they believe infringes upon our policies at any time.
