@@ -14,7 +14,7 @@ Here you can set the some other preferences to fine-tune the user experience of 
 
 ## Hide read posts
 
-Turning this toggle switch `on` will make sure that every post you read will dissapear from your feed after you've read it.
+Turning this toggle switch `on` will make sure that every post you read will disappear from your feed after you've read it.
 
 ## Open link in new tab
 
@@ -22,7 +22,7 @@ The default setting in daily.dev is that links to posts are opened in a new tab.
 
 ## Show custom shortcuts
 
-Turning this toggle switch `off` will hide the quick links to your custom shotcuts/most visited sites from the feed.
+Turning this toggle switch `off` will hide the quick links to your custom shortcuts/most visited sites from the feed.
 
 ## Show feed sorting menu
 
