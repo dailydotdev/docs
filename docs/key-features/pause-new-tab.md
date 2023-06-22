@@ -23,3 +23,4 @@ Once you have set the desired duration and optional default URL, simply click "D
 ## Looking for another solution?
 
 If the "Pause New Tab" feature is not enough for you and you're looking for a simpler experience, we recommend trying out the [daily.dev Progressive Web App (PWA)](../getting-started/pwa.md). The PWA allows you to access daily.dev as a standalone website, without the potential distractions of having it in your new tab tab. 
+
