@@ -25,12 +25,12 @@ const FeatureList = [
     icon: 'img/icons/key-features.svg',
     items: [
       {url: "docs/key-features/default-feeds", text: "Feeds"},
-      {url: "docs/key-features/upvotes", text: "Upvotes"},
+      {url: "docs/key-features/upvotes", text: "Upvotes & Downvotes"},
       {url: "docs/key-features/discussions", text: "Discussions"},
       {url: "docs/key-features/bookmarks", text: "Bookmarks"},
       {url: "docs/key-features/search", text: "Search"},
-      {url: "docs/key-features/do-not-disturb", text: "Do not disturb"},
-      {url: "docs/key-features/the-companion", text: "The Companion Widget"},
+      {url: "docs/key-features/do-not-disturb", text: "Pause New Tab (DND)"},
+      {url: "docs/key-features/the-companion", text: "Companion Widget"},
       {url: "docs/key-features/community-picks", text: "Community Picks"},
     ]
   },
