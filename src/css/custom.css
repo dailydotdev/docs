@@ -788,3 +788,12 @@ p:last-child {
 
 }
 
+/* Search Box */
+.DocSearch-Form { 
+  padding: 0px 2.5px 0px var(--docsearch-spacing) !important;
+  gap: 10px;
+}
+
+.DocSearch-Input{
+  height: 92% !important;
+}
