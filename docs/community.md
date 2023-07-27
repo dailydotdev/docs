@@ -1,5 +1,5 @@
 ---
-sidebar_position: 100
+sidebar_position: 110
 ---
 # Community
 Welcome to the daily.dev community! Join us on our various social media channels to stay updated with the latest news, events, educational content, giveaways, and more related to daily.dev.
