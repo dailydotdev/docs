@@ -510,27 +510,29 @@ html[data-theme='light'] .menu__link:before {
 .theme-doc-sidebar-menu li:nth-child(5) .menu__link:before {
   background: url('../img/menu/your-profile.svg');
 }
-
 .theme-doc-sidebar-menu li:nth-child(6) .menu__link:before {
+  background: url('../img/menu/squads.svg');
+}
+.theme-doc-sidebar-menu li:nth-child(7) .menu__link:before {
   background: url('../img/menu/customization.svg');
 }
 
-.theme-doc-sidebar-menu li:nth-child(7) .menu__link:before {
+.theme-doc-sidebar-menu li:nth-child(8) .menu__link:before {
   background: url('../img/menu/useful-guides.svg');
 }
 
-.theme-doc-sidebar-menu li:nth-child(8) .menu__link:before {
+.theme-doc-sidebar-menu li:nth-child(9) .menu__link:before {
   background: url('../img/menu/integration.svg');
 }
 
-.theme-doc-sidebar-menu li:nth-child(9) .menu__link:before {
+.theme-doc-sidebar-menu li:nth-child(10) .menu__link:before {
   background: url('../img/menu/content-creator.svg');
 }
 
-.theme-doc-sidebar-menu li:nth-child(10) .menu__link:before {
+.theme-doc-sidebar-menu li:nth-child(11) .menu__link:before {
   background: url('../img/menu/oss-contributors.svg');
 }
-.theme-doc-sidebar-menu li:nth-child(11) .menu__link:before {
+.theme-doc-sidebar-menu li:nth-child(12) .menu__link:before {
   background: url('../img/menu/community.svg');
   left: 0.75rem;
 }
