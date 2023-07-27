@@ -31,10 +31,14 @@ Your Squad members can have different roles, each with distinct permissions:
 * **Admin**: The admin, usually the Squad creator, can manage all posts, comments, members, and modify Squad settings, including privacy settings and permissions.
 
 ### Managing Roles
+
+![Promote to moderator cover image](https://daily-now-res.cloudinary.com/image/upload/v1690470250/docs/Update%20July%202023/promotomod.png)
+
 * **Promoting to Moderator/Admin**: Find the member you wish to promote in the member list, select "Promote to Moderator" or "Make an Admin" from their options menu. They will now have access to moderation tools.
 * **Demoting Moderators**: If a moderator isn't fulfilling their duties, demote them back to a member by selecting "Demote to Member" in their options menu.
 
-## Squad Privacy Settings
+## Squad Visibility (Private vs. Public)
+
 You can choose the visibility of your Squad:
 
 1. **Private Squads**: Only members can view and contribute to the Squad content. You control invitations.

@@ -4,7 +4,7 @@ sidebar_position: 1
 
 # Growing Your Squad
 
-## Inviting Others to Your Squad
+## Inviting People to Your Squad
 
 Now that you've created your Squad, it's time to build and grow it. Inviting other developers to join your Squad is a straightforward process:
 
@@ -22,7 +22,7 @@ In a Squad, posts form the backbone of discussion and engagement. They are where
 
 ## Creating a Post
 
-1. **Create a New Post**: Inside your Squad, click on the "New Post" button.
+1. **Create a New Post**: Inside your Squad, click on the "New post" button.
 2. **Add Content**: You can write a post from scratch or share links from the daily.dev feed or external sources. Add a title and description for the content to provide context to your members.
 3. **Post**: Click "Post" to share your content with the Squad.
 
@@ -30,8 +30,9 @@ In a Squad, posts form the backbone of discussion and engagement. They are where
 Both posts and comments have full markdown support so you can format it, add code snippets, and more.
 :::
 
-
 ## Sharing Posts from the Feed
+
+![New post from feed option](https://daily-now-res.cloudinary.com/image/upload/v1690470252/docs/Update%20July%202023/Post_to_Squads_from_your_feed_.png)
 
 Sharing interesting posts from the daily.dev feed to your Squad is a great way to foster discussions:
 
@@ -41,7 +42,7 @@ Sharing interesting posts from the daily.dev feed to your Squad is a great way t
 4. Choose the Squad you want to share the post with
 5. Add your commentary and hit "Post"
 
-:::Tip 
+:::tip 
 We also have a 1-click-share feature. When you're on the post page, you'll see all the Squads you're part of on the right side of the page. Simply click on the Squad icon to share the post to that Squad.
 :::
 
