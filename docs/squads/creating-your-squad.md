@@ -2,21 +2,26 @@
 sidebar_position: 0
 ---
 
-# Overview and Creating Your Squad
+# Creating Your Squad
+
 ![A cover image for squads](https://daily-now-res.cloudinary.com/image/upload/v1690467943/docs/Update%20July%202023/-_Private_squads_v3_2.png)
+
 ## What is a Squad?
 
-In daily.dev, a Squad is a group where developers can come together to learn and interact on topics that matter to them. You can think of Squads as your own personalized Facebook Group, but geared specifically towards developers. Here, you can share knowledge, ask questions, and engage in lively discussions, all within a community of your peers.
+A Squad is a group where you and other developers can come together to learn and interact on topics that matter to you. You can think of Squads like any other online group but geared specifically towards developers.
 
-Squads can be centered around specific coding languages, certain software practices, industry trends, or any topic of your choosing. The possibilities are endless.
+On Squads, you can share knowledge, ask questions, and engage in discussions, all within a private group of your peers.
 
-## Benefits of a Squad
+Squads can center around your team, a project, a community, or anything else. It can be about a topic, a mutual goal, or just having fun together. The possibilities are endless (but keep it clean).
 
-By creating or joining a Squad, you can:
-* Network with other developers who share your interests
-* Share and discuss the latest articles or posts from daily.dev feed or other sources
-* Gain insights and new perspectives from community discussions
-* Foster a collaborative learning environment
+## Key features of Squads
+
+Here are some of the features that are now live as part of Squads:
+* ✨ **Create a Squad**: Starting today, you all have the ability to create your own Squads, complete with a unique name, image, and description.
+* ✨ **Invite your friends and colleagues**: invite developers you know and appreciate to your Squad, facilitate the discussion, manage interesting links together, and more!
+* ✨ **Create new posts**: Members of a Squad can create new posts, share links from the daily.dev feed or external sources, enhancing interaction and discussion. It has full markdown support too!
+* ✨ **Discuss with your Squad**: Squads feature the option for members to comment and engage in discussions on the posts shared within the Squad itself.
+* ✨ **Moderate Your Squad**: As an admin, you have access to moderation tools to manage posts, comments, and member interactions. Keep your Squad discussions healthy, respectful, and focused.
 
 ## How to Create a Squad
 
