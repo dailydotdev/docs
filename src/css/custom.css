@@ -789,4 +789,13 @@ p:last-child {
   border: 2px solid var(--cabbage60);
 
 }
-
+/* algolia search customization */
+.DocSearch-Form{
+  padding:0 4px !important;
+}
+.DocSearch-Input {
+height: 85% !important;
+}
+.DocSearch-MagnifierLabel,.DocSearch-Reset{
+  padding: 5px !important;
+}
