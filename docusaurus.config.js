@@ -187,7 +187,7 @@ const config = {
             title: 'Social',
             items: [
               {
-                label: 'Twitter',
+                label: 'Twitter/X',
                 to: 'https://twitter.com/dailydotdev',
               },
               {
