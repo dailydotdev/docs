@@ -62,8 +62,7 @@ daily.dev Search is designed to help you in a wide range of scenarios that devel
 | Content Generation             | Queries aimed at creating original content, which is beyond the scope of this search engine as it relies on existing web data.| Generate marketing copy, Summarize this article for me | 🔴          |
 
 :::info
-
-### Explanation of Support Levels:
+Explanation of Support Levels:
 
 - 🟢: This means that the use-case should be well supported as long as relevant and sufficient information has been found. Keep in mind that daily.dev Search is still in beta.
 - 🟡: This level indicates that the use-case is partially supported and is currently undergoing improvements. Use with caution.
