@@ -8,14 +8,14 @@ sidebar_position: 2
 
 ## What is daily.dev Search?
 
-Welcome to the the official guide for daily.dev Search, our latest innovation designed to supercharge your daily.dev experience. If you're like the hundreds of thousands of developers who rely on daily.dev to stay ahead of the curve, you know how invaluable it is to have the most up-to-date information at your fingertips. 
+Welcome to the the official guide for daily.dev Search, a powerful tool we made to supercharge your daily.dev experience. If you're like many other developers who rely on daily.dev to stay ahead of the curve, you know how invaluable it is to have the most up-to-date information at your fingertips. 
 
 But what happens when you have a specific question, problem, or issue that requires immediate attention? That's where daily.dev Search comes in.
 
-Our new AI-powered search engine is designed to answer your questions directly, pull in insights from a complete list of sources, and present them to you in a concise and actionable format. This isn't just another search engine; **it's a search engine that's both fine-tuned for developers and fully integrated into the daily.dev ecosystem**. 
+Our AI-powered search engine is designed to answer your questions directly, pull in insights from a complete list of sources, and present them to you in a concise and actionable format. **This isn't just another search engine; it's a search engine that's both fine-tuned for developers and fully integrated into the daily.dev ecosystem**. 
 
 :::info
-**Beta Access**: If you're wondering why you haven't seen the new daily.dev Search on your platform yet, it's because we're currently in the beta testing phase. Access to this feature is limited to a select group of users who are helping us fine-tune the experience. We appreciate your patience and can't wait to roll it out to everyone soon. If you can't wait and want to have access please email us at hi@daily.dev
+**Beta Access**: If you're wondering why you haven't seen this new daily.dev Search on your platform yet, it's because we're currently in the beta testing phase. Access to this feature is limited to a select group of users who are helping us fine-tune the experience. We appreciate your patience and can't wait to roll it out to everyone soon. If you can't wait and want to have access please email us at hi@daily.dev
 :::
 
 ## Key Features
@@ -24,7 +24,7 @@ Before diving into the specifics, let's talk about why daily.dev Search is unlik
 
 Here are some of its most impactful features:
 
-* **No Hallucinations, No Made-Up Answers**: While many other AI-powered search engines try to 'guess' what you're looking for, daily.dev Search values accuracy above all. If the engine doesn't know the answer to your query, it will simply tell you. No made-up answers, no hallucinations. Period.
+* **No Hallucinations, No Made-Up Answers**: While many other AI-powered search engines are optimized to answer, we optimize for accuracy. If the engine doesn't know the answer to your query, it will simply tell you. No made-up answers, no hallucinations. Period.
 * **Fully Transparant with a Complete List of Sources**: Transparency is one of our core values. Our search engine provides a comprehensive list of sources for each answer, allowing you to trace the information back to its roots and explore further if you wish. 
 * **Always Up to Date**: daily.dev Search is connected to the web, ensuring that the answers you receive are not only accurate but also up-to-date with the latest information and trends. 
 * **Concise and Straight to the Point Results**: Clarity and conciseness are crucial when you're trying to solve a problem. daily.dev Search offers answers that are brief yet informative. For queries requiring more in-depth information, we provide a summarized bottom line upfront so you can grasp the essentials before diving in and spending your time.
@@ -46,31 +46,83 @@ One of the standout features of daily.dev Search is its seamless integration wit
 
 This tight-knit integration transforms daily.dev Search from a simple utility to a powerful tool that enhances every facet of your daily.dev experience. It's not just about finding answers; it's about becoming a more informed, more capable, and more connected developer.
 
-## Use Cases
+## Supported Use Cases
 
 daily.dev Search is designed to help you in a wide range of scenarios that developers commonly face. Below is a table outlining some of these use cases:
 
-| Use Case Name                  | Description                                                                 | Example                        | Support Level |
-|--------------------------------|------------------------------------------------------------------------------------------|----------------------------------------------|---------------|
-| Time-sensitive Questions       | Queries about the most recent updates or changes in technologies or programming languages. | "Latest security update in Linux"             | 🟢            |
-| Comparative Questions          | Queries that compare two or more technologies, tools, or concepts.                       | "React vs Angular performance"                | 🟢            |
-| How-to Questions               | Instructional queries seeking step-by-step guides for specific tasks.                     | "Set up a Docker container"                   | 🟢            |
-| Conceptual/Theoretical Questions | Queries focused on understanding the fundamental concepts or theories.                   | "What is DevOps?"                             | 🟢            |
-| Problem-solving/Debugging Questions | Queries aimed at troubleshooting specific bugs, errors, or issues.                    | "Fix JavaScript TypeError"                    | 🟢            |
-| Recommendations/Suggestions    | Queries asking for advice or recommendations on technologies, tools, or career development. | "Best IDE for Python"                         | 🟢            |
-| Implementation/Code Questions  | Queries seeking advice on implementing a wide range of topics.                           | "How to implement OAuth in Flask"             | 🟢            |
-| Product/Tools Specific Questions | Queries about how to use specific features in development tools or services.            | "Configure ESLint in VSCode"                  | 🟢            |
-| Best Practices/Standards Questions | Queries related to industry standards or best practices in coding, design, or technology usage. | "REST API design best practices"               | 🟢            |
-| Code Generation                | Queries seeking automated ways to generate code snippets or entire codebases.            | "Generate CRUD operations in Rails"           | 🔴            |
-| Things that aren't related to development | Queries about topics that fall outside of typical software development concerns.      | "Best productivity hacks"                     | 🔴            |
+| Use Case        | Short Description                                                                                     | Examples                           | Support Level |
+|--------------------------------|-------------------------------------------------------------------------------------------------------|------------------------------------|---------------|
+| Answering Technical Questions  | Queries aimed at solving specific technical problems or understanding how to do something.             | How to configure ESLint in VSCode, How to set up a Docker container | 🟢          |
+| Technology/Product Selection   | Queries aimed at comparing technologies or products to make an informed choice.                        | Angular vs React, Best IDE for Python   | 🟢          |
+| Learning and Researching New Skills/Concepts  | Queries focused on understanding new technical concepts, theories, or industry best practices.         | What are microservices, REST API best practices | 🟢          |
+| Time-Sensitive Updates         | Queries looking for the latest updates, features, or vulnerabilities in a specific technology.         | Latest Python release, Recent security vulnerabilities in Nginx | 🟢          |
+| Problem-solving/Debugging      | Queries related to troubleshooting code errors or other issues during development.                      | Resolve TypeException in JavaScript, Fix 404 error in Apache | 🟢          |
+| Code Examples                | Queries related to generating code snippets or templates for specific tasks.                           | Generate REST API code in Node.js, Create React component template | 🟡          |
+| Non-Development Related        | Queries not directly related to software engineering, such as general knowledge or unrelated topics.  | Best coffee brands, How to grow houseplants | 🔴          |
+| Content Generation             | Queries aimed at creating original content, which is beyond the scope of this search engine as it relies on existing web data.| Generate marketing copy, Summarize this article for me | 🔴          |
 
 :::info
 Explanation of Support Levels:
 
 - 🟢: This means that the use-case should be well supported as long as relevant and sufficient information has been found. Keep in mind that daily.dev Search is still in beta.
-- 🟡: This level indicates that the use-case is partially supported and is currently undergoing improvements.
+- 🟡: This level indicates that the use-case is partially supported and is currently undergoing improvements. Use with caution.
 - 🔴: This use-case is not officially supported. While daily.dev Search may provide responses, it was not designed to handle these types of queries.
 :::
+
+## Best Practices for daily.dev Search
+
+Getting the most accurate and useful information from daily.dev Search often comes down to how well you craft your query. If you've ever wished for a search engine that speaks "Developer," you're in the right place. Here are some pro tips to supercharge your queries and get even more precise and relevant results.
+
+### 1. Jargon is Your Friend Here
+
+You're among developers, so feel free to talk like one. If you have a technical term or a piece of jargon that will make your query more precise, go ahead and use it.
+
+🚫 **Not Recommended**: "Optimize server-side rendering in React"  
+✅ **Recommended**: "How to optimize SSR hydration in React?"
+
+### 2. Go Long-Tail for Niche Queries
+
+Contrary to most search advice, getting super specific can actually improve the quality of your search results on daily.dev. If you have a niche question or topic, go ahead and make your query as detailed as you like.
+
+🚫 **Not Recommended**: "Vue.js state management"  
+✅ **Recommended**: "How do I manage local state in a Vue.js 3 composition API?"
+
+### 3. Keep It Single-Task Focused
+
+It's better to have a single, well-focused query than a multi-pronged question. This keeps our AI on point and gives you the most relevant information for what you're specifically asking about.
+
+🚫 **Not Recommended**: "Compare Python and Ruby for web development and latest security vulnerabilities"  
+✅ **Recommended**: "How does Python compare to Ruby for web development?" *Then* "What are the latest security vulnerabilities in Python/Ruby?" 
+
+### 4. Use Keywords, But Don't Be Shy About Context
+
+While keywords are the bedrock of search queries, don't shy away from providing a bit more context if it makes your query clearer.
+
+🚫 **Not Recommended**: "React state"  
+✅ **Recommended**: "What are the best practices for managing state in React?"
+
+### 5. Questions Are Welcome
+
+Good news—our search engine loves questions! Phrasing your queries as questions can lead to more focused and accurate results.
+
+🚫 **Not Recommended**: "JavaScript async updates"  
+✅ **Recommended**: "What are the latest updates on async in JavaScript?"
+
+### 6. Not ChatGPT for Developers: We Find, We Don't Write
+
+It might be tempting to use daily.dev Search as a content generator for things like blog posts or technical documentation. However, it's essential to understand that our wheelhouse is in finding the developer-related information you need. We don't generate original content like blog posts or technical documents.
+
+🚫 **Not Recommended**: "Write a blog post about React Hooks"
+✅ **Recommended**: "Best practices for using React Hooks"
+
+🚫 **Not Recommended**: "Generate technical documentation for my Python code"
+✅ **Recommended**: "Python technical documentation guidelines"
+
+:::tip
+In essence, daily.dev Search is your trusty companion for discovering the coding resources you require, but we're not the tool to create those resources from scratch. So, for all your finding needs, we're here; for your creating needs, there are other specialized platforms. Happy searching!
+:::
+
+By putting these best practices to work, you can get the most out of daily.dev Search, making it easier than ever to find exactly what you're looking for. So go ahead, ask us anything! Well, almost anything. 🤓
 
 ## The Fine Print
 
