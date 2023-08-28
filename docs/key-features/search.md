@@ -62,7 +62,8 @@ daily.dev Search is designed to help you in a wide range of scenarios that devel
 | Content Generation             | Queries aimed at creating original content, which is beyond the scope of this search engine as it relies on existing web data.| Generate marketing copy, Summarize this article for me | 🔴          |
 
 :::info
-Explanation of Support Levels:
+
+### Explanation of Support Levels:
 
 - 🟢: This means that the use-case should be well supported as long as relevant and sufficient information has been found. Keep in mind that daily.dev Search is still in beta.
 - 🟡: This level indicates that the use-case is partially supported and is currently undergoing improvements. Use with caution.
@@ -112,10 +113,10 @@ Good news—our search engine loves questions! Phrasing your queries as question
 
 It might be tempting to use daily.dev Search as a content generator for things like blog posts or technical documentation. However, it's essential to understand that our wheelhouse is in finding the developer-related information you need. We don't generate original content like blog posts or technical documents.
 
-🚫 **Not Recommended**: "Write a blog post about React Hooks"
+🚫 **Not Recommended**: "Write a blog post about React Hooks"  
 ✅ **Recommended**: "Best practices for using React Hooks"
 
-🚫 **Not Recommended**: "Generate technical documentation for my Python code"
+🚫 **Not Recommended**: "Generate technical documentation for my Python code"  
 ✅ **Recommended**: "Python technical documentation guidelines"
 
 :::tip
