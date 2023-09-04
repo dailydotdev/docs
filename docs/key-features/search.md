@@ -8,11 +8,11 @@ sidebar_position: 2
 
 ## What is daily.dev Search?
 
-Welcome to the the official guide for daily.dev Search, a powerful tool we made to supercharge your daily.dev experience. If you're like many other developers who rely on daily.dev to stay ahead of the curve, you know how invaluable it is to have the most up-to-date information at your fingertips. 
+Welcome to the official guide for daily.dev Search, a powerful tool we made to supercharge you as a developer. If you're like many other developers who rely on daily.dev to stay ahead of the curve, you know how invaluable it is to have the most up-to-date information at your fingertips. 
 
 But what happens when you have a specific question, problem, or issue that requires immediate attention? That's where daily.dev Search comes in.
 
-Our AI-powered search engine is designed to answer your questions directly, pull in insights from a complete list of sources, and present them to you in a concise and actionable format. **This isn't just another search engine; it's a search engine that's both fine-tuned for developers and fully integrated into the daily.dev ecosystem**. 
+Our AI-powered search engine is designed to answer your questions directly, pull in insights from a call over the web, and present them to you in a concise and actionable format. **This isn't just another search engine; it's a search engine that's both fine-tuned for developers and fully integrated into the daily.dev ecosystem**. 
 
 :::info
 **Beta Access**: If you're wondering why you haven't seen this new daily.dev Search on your platform yet, it's because we're currently in the beta testing phase. Access to this feature is limited to a select group of users who are helping us fine-tune the experience. We appreciate your patience and can't wait to roll it out to everyone soon. If you can't wait and want to have access please email us at hi@daily.dev
@@ -20,12 +20,12 @@ Our AI-powered search engine is designed to answer your questions directly, pull
 
 ## Key Features
 
-Before diving into the specifics, let's talk about why daily.dev Search is unlike any other search engine you've encountered. **Built with developers like you in mind, it offers a blend of accuracy, transparency, convenience, and reliability that would take your day-to-day developer experience to the next level**. 
+Before diving into the specifics, let's talk about why daily.dev Search is unlike any other search engine you've encountered. **Built with developers like you in mind, it offers a blend of accuracy, transparency, convenience, and reliability to take your day-to-day developer experience to the next level**. 
 
 Here are some of its most impactful features:
 
 * **No Hallucinations, No Made-Up Answers**: While many other AI-powered search engines are optimized to answer, we optimize for accuracy. If the engine doesn't know the answer to your query, it will simply tell you. No made-up answers, no hallucinations. Period.
-* **Fully Transparant with a Complete List of Sources**: Transparency is one of our core values. Our search engine provides a comprehensive list of sources for each answer, allowing you to trace the information back to its roots and explore further if you wish. 
+* **Fully Transparent with a Complete List of Sources**: Transparency is one of our core values. Our search engine provides a comprehensive list of sources for each answer, allowing you to trace the information back to its roots and explore further if you wish. 
 * **Always Up to Date**: daily.dev Search is connected to the web, ensuring that the answers you receive are not only accurate but also up-to-date with the latest information and trends. 
 * **Concise and Straight to the Point Results**: Clarity and conciseness are crucial when you're trying to solve a problem. daily.dev Search offers answers that are brief yet informative. For queries requiring more in-depth information, we provide a summarized bottom line upfront so you can grasp the essentials before diving in and spending your time.
 * **Supports Markdown**: We understand the day-to-day needs of developers. That's why we designed daily.dev Search to support Markdown, making it incredibly easy for you to copy and paste code snippets, commands, and other answers into your projects or notes.
@@ -40,8 +40,8 @@ Farewell to the old search feature 👋 As we innovate, we're saying goodbye to 
 
 One of the standout features of daily.dev Search is its seamless integration with the daily.dev platform. This isn't just a search engine operating in isolation; it's a cohesive part of your daily.dev experience. Here's why this integration is such a game-changer:
 
-* **✨ Personalized Search Recommendations**: Ever wonder how you can find more articles and resources that align with your interests? As you interact with content on daily.dev—especially as you upvote articles—our platform learns about your preferences. This intelligence is directly fed into daily.dev Search, offering you search recommendations that are incredibly personalized and relevant to your coding journey.
-* **One Cohesive Experience**: With daily.dev Search integrated into the platform, you never have to leave the ecosystem for your informational needs. Whether you're reading trending articles or seeking solutions to specific problems, everything is available in one place. It's a unified, distraction-free zone designed to enhance your productivity.
+* **✨ Personalized Search Recommendations**: Ever wonder how you can find more articles and resources that align with your interests? As you interact with content on daily.dev—especially as you upvote articles—our platform learns about your preferences. This data is directly fed into daily.dev Search, offering you search recommendations that are incredibly personalized and relevant to your coding journey.
+* **One Cohesive Experience**: With daily.dev Search integrated into the platform, you get everything you need in one place. Whether you're reading trending articles or seeking solutions to specific problems, everything is available in one place. It's a unified, distraction-free zone designed to enhance your productivity.
 * **Consistent Updates**: Any changes or updates made to the daily.dev platform are automatically reflected in daily.dev Search. This ensures that you always have access to the latest features and the most current information, all without needing to adapt to a new environment.
 
 This tight-knit integration transforms daily.dev Search from a simple utility to a powerful tool that enhances every facet of your daily.dev experience. It's not just about finding answers; it's about becoming a more informed, more capable, and more connected developer.
@@ -126,4 +126,4 @@ By putting these best practices to work, you can get the most out of daily.dev S
 
 ## The Fine Print
 
-Please note that while we've worked hard to make daily.dev Search as accurate and helpful as possible, it's still utilizes AI and Large-Laguage Models (LLMs) at its core. That means it might not always get everything 100% right. If you find something that seems off or unclear, we encourage you to double-check with other trusted sources. Your feedback is invaluable to us, especially as we're still in the beta phase. Thank you for understanding and for being a part of our community!
+Please note that while we've worked hard to make daily.dev Search as accurate and helpful as possible, it still utilizes AI and Large-Laguage Models (LLMs) at its core. That means it might not always get everything 100% right. If you find something that seems off or unclear, we encourage you to double-check with other trusted sources. Your feedback is invaluable to us, especially as we're still in the beta phase. Thank you for understanding and for being a part of our community!
