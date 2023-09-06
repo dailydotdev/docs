@@ -4,7 +4,7 @@ sidebar_position: 2
 
 # Search
 
-<video loop autoplay preload="none">
+<video loop autoplay preload="none" width="100%">
     <source src="https://daily-now-res.cloudinary.com/video/upload/s--fWFSeOAV--/v1694011245/daily.dev_-_Search_mcieig.mp4" type="video/mp4" />
     <source src="https://daily-now-res.cloudinary.com/video/upload/s--7rPSOEsC--/v1694011245/daily.dev_-_Search_mcieig.webm" type="video/webm" />
 </video>
