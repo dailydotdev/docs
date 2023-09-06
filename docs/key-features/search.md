@@ -4,7 +4,7 @@ sidebar_position: 2
 
 # Search
 
-![A cover image introducing daily.dev search](https://daily-now-res.cloudinary.com/image/upload/v1693076425/docs/Update%20August%202023/dailv.dev_Search.png)
+![A cover image introducing daily.dev search](https://daily-now-res.cloudinary.com/video/upload/s--KvUJB6Fo--/f_auto/v1694011245/daily.dev_-_Search_mcieig.mp4)
 
 ## What is daily.dev Search?
 
