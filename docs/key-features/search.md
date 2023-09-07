@@ -4,7 +4,10 @@ sidebar_position: 2
 
 # Search
 
-![A cover image introducing daily.dev search](https://daily-now-res.cloudinary.com/image/upload/v1693076425/docs/Update%20August%202023/dailv.dev_Search.png)
+<video loop autoPlay width="100%">
+    <source src="https://daily-now-res.cloudinary.com/video/upload/s--ldicxh37--/v1694071721/search_daily_dev_dkqm25.mp4" type="video/mp4" />
+    <source src="https://daily-now-res.cloudinary.com/video/upload/s--wuDfV-fW--/v1694071721/search_daily_dev_dkqm25.webm" type="video/webm" />
+</video>
 
 ## What is daily.dev Search?
 
