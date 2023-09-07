@@ -4,7 +4,7 @@ sidebar_position: 2
 
 # Search
 
-<video loop autoPlay width="100%">
+<video loop autoPlay muted width="100%">
     <source src="https://daily-now-res.cloudinary.com/video/upload/s--ldicxh37--/v1694071721/search_daily_dev_dkqm25.mp4" type="video/mp4" />
     <source src="https://daily-now-res.cloudinary.com/video/upload/s--wuDfV-fW--/v1694071721/search_daily_dev_dkqm25.webm" type="video/webm" />
 </video>
