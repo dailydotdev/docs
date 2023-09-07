@@ -5,8 +5,8 @@ sidebar_position: 2
 # Search
 
 <video loop autoPlay width="100%">
-    <source src="https://daily-now-res.cloudinary.com/video/upload/s--fWFSeOAV--/v1694011245/daily.dev_-_Search_mcieig.mp4" type="video/mp4" />
-    <source src="https://daily-now-res.cloudinary.com/video/upload/s--7rPSOEsC--/v1694011245/daily.dev_-_Search_mcieig.webm" type="video/webm" />
+    <source src="https://daily-now-res.cloudinary.com/video/upload/s--ldicxh37--/v1694071721/search_daily_dev_dkqm25.mp4" type="video/mp4" />
+    <source src="https://daily-now-res.cloudinary.com/video/upload/s--wuDfV-fW--/v1694071721/search_daily_dev_dkqm25.webm" type="video/webm" />
 </video>
 
 ## What is daily.dev Search?
