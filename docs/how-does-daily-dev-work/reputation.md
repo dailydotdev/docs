@@ -39,7 +39,7 @@ This ensures that people can't just add a new account and upvote their own post;
 ### Starting reputation and minimum reputation
 Finally we changed the starting and minimum reputation.
 
-The starting reputation used to be 1 point; we have changed it to 10 points to keep it inline with out new scoring.
+The starting reputation used to be 1 point; we have changed it to 10 points to keep it inline with our new scoring.
 
 Additionally it is not possible to get a negative reputation anymore. So reputation will never drop below 0!
 
