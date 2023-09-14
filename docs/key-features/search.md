@@ -63,6 +63,8 @@ daily.dev Search is designed to help you in a wide range of scenarios that devel
 | Code Examples                | Queries related to generating code snippets or templates for specific tasks.                           | Generate REST API code in Node.js, Create React component template | 🟡          |
 | Non-Development Related        | Queries not directly related to software engineering, such as general knowledge or unrelated topics.  | Best coffee brands, How to grow houseplants | 🔴          |
 | Content Generation             | Queries aimed at creating original content, which is beyond the scope of this search engine as it relies on existing web data.| Generate marketing copy, Summarize this article for me | 🔴          |
+| Finding Specific Posts from daily.dev | Queries aimed at finding posts within the daily.dev platform. | "JavaScript", "Python" | 🔴           |
+
 
 :::info
 Explanation of Support Levels:
