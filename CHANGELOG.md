@@ -1,3 +1,12 @@
+## [0.1.1](https://github.com/dailydotdev/docs/compare/v0.1.0...v0.1.1) (2023-09-28)
+
+
+### Bug Fixes
+
+* replace webm video with working video ([#226](https://github.com/dailydotdev/docs/issues/226)) ([def0140](https://github.com/dailydotdev/docs/commit/def0140c63d5d7b11328fc79b9d1a296e6bf7fc1))
+
+
+
 # [0.1.0](https://github.com/dailydotdev/docs/compare/v0.0.2...v0.1.0) (2023-06-20)
 
 
