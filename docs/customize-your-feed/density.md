@@ -1,24 +1,33 @@
 ---
-sidebar_position: 3
+sidebar_position: 2
 ---
 
 # Density
 
-Here you can set the density for [daily.dev](https://daily.dev)
+The density option enables you to set the density of content on the daily.dev feed. And you can do this by switching between Eco, Roomy, and Cozy options as seen below:
 
-The options currently available are:
-- Eco
-- Roomy
-- Cozy
+## Eco
 
-### Eco
+![](https://daily-now-res.cloudinary.com/image/upload/v1695752388/docs-v2/Density-eco.png)
 
-![](https://daily-now-res.cloudinary.com/image/upload/v1636617984/docs/density1.svg)
+You can set the density of your feed to Eco, as seen below:
 
-### Roomy
+![](https://daily-now-res.cloudinary.com/image/upload/v1695752389/docs-v2/Density-eco-customize.png)
 
-![](https://daily-now-res.cloudinary.com/image/upload/v1636617984/docs/density2.svg)
+## Roomy
 
-### Cozy
+![](https://daily-now-res.cloudinary.com/image/upload/v1695752384/docs-v2/Density-roomy.png)
 
-![](https://daily-now-res.cloudinary.com/image/upload/v1636617984/docs/density3.svg)
+You can set the density of your feed to Roomy as seen below:
+
+![](https://daily-now-res.cloudinary.com/image/upload/v1695752389/docs-v2/Density-roomy-customize.png
+)
+
+## Cozy
+
+![](https://daily-now-res.cloudinary.com/image/upload/v1695752386/docs-v2/Density-cozy.png)
+
+You can set the density of your feed to Cozy as seen below:
+
+![](https://daily-now-res.cloudinary.com/image/upload/v1695752386/docs-v2/Density-cozy-customize.png)
+

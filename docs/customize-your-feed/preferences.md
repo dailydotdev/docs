@@ -1,37 +1,51 @@
 ---
-sidebar_position: 4
+sidebar_position: 3
 ---
 
 # Preferences
 
-Here you can set the some other preferences to fine-tune the user experience of using daily.dev, including:
-1. Hide read posts
-2. Open links in new tab
-3. Show custom shortcuts
-4. Show feed sorting menu
+![](https://daily-now-res.cloudinary.com/image/upload/v1695752384/docs-v2/Preferences.png
+)
 
-![](https://daily-now-res.cloudinary.com/image/upload/v1643292249/docs/Screen_Shot_2022-01-27_at_16.03.26.png)
-
-## Hide read posts
-
-Turning this toggle switch `on` will make sure that every post you read will disappear from your feed after you've read it.
+The preferences options enable you to fine-tune your user experiences of daily.dev by toggling some options on/off. Currently, the available options are:
+Open links in new tab
+Show feed sorting menu
+Show Weekly Goal widget
+Enable companion
 
 ## Open link in new tab
 
-The default setting in daily.dev is that links to posts are opened in a new tab. However, if you turn this toggle switch `off`, daily.dev will open post in your current tab.
-
-## Show custom shortcuts
-
-Turning this toggle switch `off` will hide the quick links to your custom shortcuts/most visited sites from the feed.
+By default, when you click on a post link on your feed (using the `Read post` button on the post), daily.dev will open that post in a new tab. However, if you want daily.dev to open that post in the current tab, then set the `Open links in new tab`  toggle switch to `off`.
 
 ## Show feed sorting menu
 
-Turning this toggle switch on will add a dropdown menu to My feed and Popular feed, enabling you to sort those feeds `By date` or by `Recommendation`. 
+Turning this toggle switch on will add a dropdown menu to My feed and Popular feed, enabling you to sort these feeds `By date` or by `Recommended` as seen in the image below:
 
-## Show weekly goal widget
+![](https://daily-now-res.cloudinary.com/image/upload/v1695752384/docs-v2/show-feed-sorting-menu.png)
 
-Turning this toggle switch `off`, you will no longer see the [weekly goal widget](https://docs.daily.dev/docs/your-profile/weekly-goal) in your sidebar.
+## Show Weekly Goal widget
+
+![](https://daily-now-res.cloudinary.com/image/upload/v1695752384/docs-v2/Weekly-goal.png)
+
+This widget handles the [Weekly Reading Goal](https://docs.daily.dev/docs/your-profile/weekly-goal) feature for daily.dev. The Weekly Reading Goal feature ranks users based on the number of days in which a user has read at least one post. This feature helps daily.dev readers form a reading habit. 
+
+So by turning this toggle switch `off`, you will no longer see the 
+[weekly goal widget](https://docs.daily.dev/docs/your-profile/weekly-goal) in your sidebar as seen in the image below:
+
+![](https://daily-now-res.cloudinary.com/image/upload/v1695752384/docs-v2/No-weekly-goal.png)
 
 ## Enable companion
 
-Turning this toggle switch `on` will activate the [companion widget](https://docs.daily.dev/docs/key-features/the-companion). 
+Turning this toggle switch `on` will activate the [companion widget](https://docs.daily.dev/docs/key-features/the-companion), and turning this toggle switch `off` will deactivate the companion widget.
+
+The companion widget is a game changer as it enhances your user experiences by letting you bookmark, comment, and upvote directly on the original post. And to activate this widget, click on the companion button on the top right corner of the daily.dev menu bar as seen below:
+
+![](https://daily-now-res.cloudinary.com/image/upload/v1695752806/docs-v2/Companion-widget-icon.png)
+
+Then click on the `Activate companion` button in the description box as seen below:
+
+![](https://daily-now-res.cloudinary.com/image/upload/v1695752390/docs-v2/Activate-companion.png)
+
+After this, it will ask you to grant it extra permission so that the companion widget can be displayed directly on the original post. 
+
+
