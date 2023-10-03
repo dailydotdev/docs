@@ -8,10 +8,10 @@ sidebar_position: 3
 )
 
 The preferences options enable you to fine-tune your user experiences of daily.dev by toggling some options on/off. Currently, the available options are:
-Open links in new tab
-Show feed sorting menu
-Show Weekly Goal widget
-Enable companion
+* Open links in new tab
+* Show feed sorting menu
+* Show Weekly Goal widget
+* Enable companion widget
 
 ## Open link in new tab
 

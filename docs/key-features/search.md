@@ -36,7 +36,7 @@ Here are some of its most impactful features:
 * **Search History**: Stores all your previous search queries that you've executed on daily.dev for easy access when needed. This enables you to revisit your past queries without having to remember the exact terms or retype them. A convenient way to keep track of the topics you've explored or problems you've been troubleshooting.
 
 :::info
-Farewell to the old search feature 👋 As we innovate, we're saying goodbye to our old search engine to make way for the new. The decision to sunset the old search aligns with our goal to provide a more efficient and comprehensive search experience. Thank you for evolving with us.
+Missing the previous search? As we innovate, we've renamed our old search engine to [Post Finder](https://app.daily.dev/posts/finder), now accessible via the sidebar. This change aligns with our goal to provide a more efficient and comprehensive search experience. Thank you for evolving with us.
 :::
 
 ## Integration with the daily.dev Platform
@@ -63,7 +63,7 @@ daily.dev Search is designed to help you in a wide range of scenarios that devel
 | Code Examples                | Queries related to generating code snippets or templates for specific tasks.                           | Generate REST API code in Node.js, Create React component template | 🟡          |
 | Non-Development Related        | Queries not directly related to software engineering, such as general knowledge or unrelated topics.  | Best coffee brands, How to grow houseplants | 🔴          |
 | Content Generation             | Queries aimed at creating original content, which is beyond the scope of this search engine as it relies on existing web data.| Generate marketing copy, Summarize this article for me | 🔴          |
-| Finding Specific Posts from daily.dev | Queries aimed at finding posts within the daily.dev platform. | "JavaScript", "Python" | 🔴           |
+| Finding Specific Posts from daily.dev | Queries aimed at finding posts within the daily.dev platform. To search posts please use [Post finder](https://app.daily.dev/posts/finder) | "JavaScript", "Python" | 🔴           |
 
 
 :::info
