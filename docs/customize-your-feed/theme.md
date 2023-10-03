@@ -6,9 +6,9 @@ sidebar_position: 1
 
 The theme option enables you to change the look and feel of daily.dev by selecting one of the available themes. Currently, the available themes for daily.dev are:
 
-Dark theme
-Light theme
-Auto 
+* Dark theme
+* Light theme
+* Auto 
 
 ## Dark Theme (default)
 
