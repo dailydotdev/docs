@@ -81,11 +81,7 @@ const config = {
             docId: 'intro',
             position: 'left',
           },
-          {
-            label: 'Video tutorials',
-            to: 'video-tutorials',
-            position: 'left',
-          },
+        
           {
             label: 'Changelog',
             href: 'https://app.daily.dev/sources/daily_updates',
