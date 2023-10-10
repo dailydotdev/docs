@@ -49,20 +49,18 @@ const config = {
       algolia: {
         // If Algolia did not provide you any appId, use 'BH4D9OD16A'
         appId: 'OFOYRKZKKB',
-  
+
         // Public API key: it is safe to commit it
         apiKey: 'f70587b4279fabdac7fd30732de4e5de',
-  
-        indexName: 'docs-daily'
-  
+
+        indexName: 'docs-daily',
+
         // Optional: see doc section below
-  
+
         // Optional: Specify domains where the navigation should occur through window.location instead on history.push. Useful when our Algolia config crawls multiple documentation sites and we want to navigate with window.location.href to them.
 
-  
         // Optional: Algolia search parameters
 
-  
         //... other Algolia params
       },
       colorMode: {
@@ -86,7 +84,7 @@ const config = {
           {
             label: 'Video tutorials',
             to: 'video-tutorials',
-            position: 'left'
+            position: 'left',
           },
           {
             label: 'Changelog',
@@ -160,10 +158,6 @@ const config = {
               {
                 label: 'Blog',
                 to: 'https://daily.dev/blog',
-              },
-              {
-                label: 'Advertise',
-                to: 'https://promote.daily.dev/',
               },
               {
                 label: 'Brand book',
