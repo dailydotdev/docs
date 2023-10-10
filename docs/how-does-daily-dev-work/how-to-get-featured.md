@@ -19,7 +19,7 @@ Practically there are three ways you can get listed on daily.dev:
 
 1. Publish guest posts on well-known publications
 2. Publish posts on developer blogging platforms
-3. Submit a post through the [Community Picks](../key-features/community-picks.md) feature [beta]
+3. Submit a post through the [Community Picks](../key-features/community-picks.md) feature
 
 ### Option 1 - Publish guest posts on well-known publications
 
@@ -39,7 +39,7 @@ However, to give you an easy head-start, you may want to check out developer blo
 We are not collecting **all** the posts published on blogging platforms. Our system will only pick a post from a blogging platform once it has gained enough traction/engagement on it. That's our way to ensure that we source qualified content.
 :::
 
-### Option 3 - Submit a post through the Community Picks feature (beta)
+### Option 3 - Submit a post through the Community Picks feature
 
 Learn more about Community Picks in [this guide](../key-features/community-picks.md). 
 
