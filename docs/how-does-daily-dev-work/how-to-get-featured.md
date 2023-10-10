@@ -4,7 +4,7 @@ sidebar_position: 2
 
 # How to get featured?
 
-Do you prefer a video version? here is a 3 minutes video for you
+Do you prefer a video version? Here is a 3 minutes video for you.
 
 [![](https://daily-now-res.cloudinary.com/image/upload/v1647589793/docs/how-to-get-featured-youtube.png)](https://youtu.be/sRwoLWDIYCI)
 
@@ -39,7 +39,7 @@ However, to give you an easy head-start, you may want to check out developer blo
 We are not collecting **all** the posts published on blogging platforms. Our system will only pick a post from a blogging platform once it has gained enough traction/engagement on it. That's our way to ensure that we source qualified content.
 :::
 
-### Option 3 - Submit a post through the Community Picks feature (beta)
+### Option 3 - Submit a post through the Community Picks feature
 
 Learn more about Community Picks in [this guide](../key-features/community-picks.md). 
 
