@@ -65,7 +65,7 @@ By default, there is a drop-down menu that allows you to change the order of the
 3. Go back to the popular feed, and you should see a new sorting option in the upper right corner (3).
 4. You can then choose to change the feed to sort either "By Date" or by "Recommended" (4).
 
-<img src="https://daily-now-res.cloudinary.com/image/upload/v1663528971/docs-v2/feeds-3.jpg" alt='The drop-down located top right of the "Popular" feed is highlighted (3). The drop-down is open showing "Recommended" and "By date" as options (4)' width="900" height="900" />
+<img src="https://user-images.githubusercontent.com/18360871/273930544-6d870771-259b-4023-925c-15f08a593526.png" alt='The drop-down located top right of the "Popular" feed is highlighted (3). The drop-down is open showing "Recommended" and "By date" as options (4)' width="900" height="900" />
 
 ## Most upvoted feed
 
