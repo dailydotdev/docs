@@ -32,7 +32,7 @@ Blocking tags and sources can be done directly from the feed. Whenever you see a
 - **To block a tag:** Choose “Not interested in (tag_name)“ (2)
 - **To block a source:** Choose "Don't show posts from (source_name)" (3)
 
-<img src="https://daily-now-res.cloudinary.com/image/upload/v1663521933/docs-v2/advanced-filters-and-blocking-b2.jpg" alt='Options menu open highlighting three "not interested in" tags (2) and one "Dont show posts from" (3)' width="900" height="900" />
+<img src="https://res.cloudinary.com/dindl96sm/image/upload/v1696951495/ivg7czqjqsrvqif9amby.png" alt='Options menu open highlighting three "not interested in" tags (2) and one "Dont show posts from" (3)' width="900" height="900" />
 
 Once clicked, the blocked tags and sources will be removed from your feed.
 
