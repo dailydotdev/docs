@@ -4,18 +4,19 @@ sidebar_position: 3
 
 # Preferences
 
-![](https://daily-now-res.cloudinary.com/image/upload/v1695752384/docs-v2/Preferences.png
+![](https://res.cloudinary.com/jitul-teron/image/upload/v1697552104/Screenshot_2023-10-17_at_7.42.15_PM_e74vse.png
 )
 
 The preferences options enable you to fine-tune your user experiences of daily.dev by toggling some options on/off. Currently, the available options are:
-* Open links in new tab
-* Show feed sorting menu
-* Show Weekly Goal widget
-* Enable companion widget
+
+- Open links in new tab
+- Show feed sorting menu
+- Show Weekly Goal widget
+- Enable companion widget
 
 ## Open link in new tab
 
-By default, when you click on a post link on your feed (using the `Read post` button on the post), daily.dev will open that post in a new tab. However, if you want daily.dev to open that post in the current tab, then set the `Open links in new tab`  toggle switch to `off`.
+By default, when you click on a post link on your feed (using the `Read post` button on the post), daily.dev will open that post in a new tab. However, if you want daily.dev to open that post in the current tab, then set the `Open links in new tab` toggle switch to `off`.
 
 ## Show feed sorting menu
 
@@ -27,9 +28,9 @@ Turning this toggle switch on will add a dropdown menu to My feed and Popular fe
 
 ![](https://daily-now-res.cloudinary.com/image/upload/v1695752384/docs-v2/Weekly-goal.png)
 
-This widget handles the [Weekly Reading Goal](https://docs.daily.dev/docs/your-profile/weekly-goal) feature for daily.dev. The Weekly Reading Goal feature ranks users based on the number of days in which a user has read at least one post. This feature helps daily.dev readers form a reading habit. 
+This widget handles the [Weekly Reading Goal](https://docs.daily.dev/docs/your-profile/weekly-goal) feature for daily.dev. The Weekly Reading Goal feature ranks users based on the number of days in which a user has read at least one post. This feature helps daily.dev readers form a reading habit.
 
-So by turning this toggle switch `off`, you will no longer see the 
+So by turning this toggle switch `off`, you will no longer see the
 [weekly goal widget](https://docs.daily.dev/docs/your-profile/weekly-goal) in your sidebar as seen in the image below:
 
 ![](https://daily-now-res.cloudinary.com/image/upload/v1695752384/docs-v2/No-weekly-goal.png)
@@ -46,6 +47,4 @@ Then click on the `Activate companion` button in the description box as seen bel
 
 ![](https://daily-now-res.cloudinary.com/image/upload/v1695752390/docs-v2/Activate-companion.png)
 
-After this, it will ask you to grant it extra permission so that the companion widget can be displayed directly on the original post. 
-
-
+After this, it will ask you to grant it extra permission so that the companion widget can be displayed directly on the original post.
