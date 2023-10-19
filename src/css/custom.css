@@ -535,7 +535,12 @@ html[data-theme='light'] .menu__link:before {
 }
 .theme-doc-sidebar-menu li:nth-child(12) .menu__link:before {
   background: url('../img/menu/community.svg');
-  left: 0.75rem;
+}
+
+.theme-doc-sidebar-menu li:nth-child(12) .menu__link {
+  position: relative;
+  margin-left: 0rem;
+  padding-left: 2.3rem;
 }
 
 .theme-doc-sidebar-item-link-level-2 > .menu__link {
