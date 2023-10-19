@@ -1,3 +1,12 @@
+## [0.1.3](https://github.com/dailydotdev/docs/compare/v0.1.2...v0.1.3) (2023-10-19)
+
+
+### Bug Fixes
+
+* style community icon on mobile view ([#254](https://github.com/dailydotdev/docs/issues/254)) ([e0f4847](https://github.com/dailydotdev/docs/commit/e0f4847a73b0450135f879360ea5d9207556040a))
+
+
+
 ## [0.1.2](https://github.com/dailydotdev/docs/compare/v0.1.1...v0.1.2) (2023-10-10)
 
 
@@ -31,18 +40,6 @@
 ### Bug Fixes
 
 * typos and grammar errors ([0be5dca](https://github.com/dailydotdev/docs/commit/0be5dcaa10a339c9e8ad0f05fcbdf35463819e43))
-
-
-
-## [0.0.1](https://github.com/dailydotdev/docs/compare/962d1164a462976d63f94b66771f20196658871d...v0.0.1) (2022-10-01)
-
-
-### Bug Fixes
-
-* :bug: Remove search bar for now ([#34](https://github.com/dailydotdev/docs/issues/34)) ([962d116](https://github.com/dailydotdev/docs/commit/962d1164a462976d63f94b66771f20196658871d))
-* correct grammatical errors ([d52d574](https://github.com/dailydotdev/docs/commit/d52d5740102b7ef8f30c7e0b7b584abb1b1b38db))
-* resolve typo in heading  ([e909167](https://github.com/dailydotdev/docs/commit/e9091676472102b25202ff45b5aaad170e45893a)), closes [#100](https://github.com/dailydotdev/docs/issues/100)
-* resolve typos  ([1963290](https://github.com/dailydotdev/docs/commit/19632903cedd7cbc5e7d41e296167e1699ee2244)), closes [#101](https://github.com/dailydotdev/docs/issues/101)
 
 
 
