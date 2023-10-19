@@ -97,15 +97,14 @@ html[data-theme='dark'] .themedDocusaurus [fill='#FFFF50'] {
 }
 
 html[data-theme='light'] .DocSearch {
-  /* --docsearch-primary-color: var(--ifm-color-primary); */
-  /* --docsearch-text-color: var(--ifm-font-color-base); */
+  --docsearch-primary-color: var(--ifm-color-primary-light);
   --docsearch-muted-color: var(--ifm-color-secondary-darkest);
   --docsearch-container-background: rgba(94, 100, 112, 0.7);
   /* Modal */
   --docsearch-modal-background: var(--ifm-color-secondary-lighter);
   /* Search box */
   --docsearch-searchbox-background: var(--ifm-color-secondary);
-  --docsearch-searchbox-focus-background: var(--ifm-color-white);
+  --docsearch-searchbox-focus-background: var(--ifm-color-primary-darker);
   /* Hit */
   --docsearch-hit-color: var(--ifm-font-color-base);
   --docsearch-hit-active-color: var(--ifm-color-white);
@@ -115,16 +114,17 @@ html[data-theme='light'] .DocSearch {
 }
 
 html[data-theme='dark'] .DocSearch {
-  /* --ifm-background-surface-color: #242526; */
   --ifm-background-surface-color: rgba(20, 73, 180, 0.7);
   --docsearch-text-color: var(--ifm-font-color-base);
   --docsearch-muted-color: var(--ifm-color-secondary-darkest);
   --docsearch-container-background: rgba(47, 55, 69, 0.7);
+  
   /* Modal */
   --docsearch-modal-background: var(--ifm-background-color);
+
   /* Search box */
-  --docsearch-searchbox-background: var(--ifm-color-black);
-  --docsearch-searchbox-focus-background: var(--ifm-color-black);
+  --docsearch-searchbox-background: var(--ifm-color-primary-dark);
+  --docsearch-searchbox-focus-background: var(--ifm-color-primary-darker);
   /* Hit */
   --docsearch-hit-color: var(--ifm-font-color-base);
   --docsearch-hit-active-color: var(--ifm-color-white);
@@ -531,7 +531,12 @@ html[data-theme='light'] .menu__link:before {
 }
 .theme-doc-sidebar-menu li:nth-child(11) .menu__link:before {
   background: url('../img/menu/community.svg');
-  left: 0.75rem;
+}
+
+.theme-doc-sidebar-menu li:nth-child(12) .menu__link {
+  position: relative;
+  margin-left: 0rem;
+  padding-left: 2.3rem;
 }
 
 .theme-doc-sidebar-item-link-level-2 > .menu__link {
