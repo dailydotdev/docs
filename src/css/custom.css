@@ -523,17 +523,13 @@ html[data-theme='light'] .menu__link:before {
 }
 
 .theme-doc-sidebar-menu li:nth-child(9) .menu__link:before {
-  background: url('../img/menu/integration.svg');
-}
-
-.theme-doc-sidebar-menu li:nth-child(10) .menu__link:before {
   background: url('../img/menu/content-creator.svg');
 }
 
-.theme-doc-sidebar-menu li:nth-child(11) .menu__link:before {
+.theme-doc-sidebar-menu li:nth-child(10) .menu__link:before {
   background: url('../img/menu/oss-contributors.svg');
 }
-.theme-doc-sidebar-menu li:nth-child(12) .menu__link:before {
+.theme-doc-sidebar-menu li:nth-child(11) .menu__link:before {
   background: url('../img/menu/community.svg');
 }
 
