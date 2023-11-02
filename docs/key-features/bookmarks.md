@@ -99,8 +99,8 @@ jobs:
 
 - add these lines at the end of the file
 ```
-<!--  daily.dev BOOKMARKS:START -->
-<!--  daily.dev BOOKMARKS:END -->
+<!-- daily.dev BOOKMARKS:START -->
+<!-- daily.dev BOOKMARKS:END -->
 ```
 - Commit the Readme.md file
 - Check if the README file has been updated
