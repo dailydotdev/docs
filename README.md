@@ -19,36 +19,41 @@ The [daily.dev docs](https://docs.daily.dev/) are designed to help our community
 Do this to download the forked copy of this repository to your computer:
  
 ```bash
-$ git clone https://github.com/dailydotdev/docs.git
+git clone https://github.com/dailydotdev/docs.git
 ```
 
   Step into the directory:
 ```bash
-$ cd docs
+cd docs
+```
+
+  Ensure you are on the correct node version:
+```bash
+nvm use
 ```
 
   Install the dependencies:
 ```bash
 # with npm
-$ npm i
+npm i
 
 # or with yarn
-$ yarn
+yarn
 
 # or with pnpm
-$ pnpm i
+pnpm i
 ```
 
   Run the local dev environment:
 ```bash
 # with npm
-$ npm run start
+npm run start
 
 # or with yarn
-$ yarn start
+yarn start
 
 # or with pnpm
-$ pnpm start
+pnpm start
 ```
 
  Now Visit:
@@ -62,25 +67,25 @@ http://localhost:3000
 
 ```bash
 # with npm
-$ npm run build
+npm run build
 
 # or with yarn
-$ yarn build
+yarn build
 
 # or with pnpm
-$ pnpm build
+pnpm build
 ```
 - Run the server:
 
 ```bash
 # with npm
-$ npm run serve
+npm run serve
 
 # or with yarn
-$ yarn serve
+yarn serve
 
 # or with pnpm
-$ pnpm serve
+pnpm serve
 ```
 The server is available by default on port `3000`.
 
@@ -89,13 +94,13 @@ The server is available by default on port `3000`.
 From the folder where the docker-compose.yml file is located, type:
 
 ```bash
-$ docker compose up --build
+docker compose up --build
 ```
 The server is available by default on port `3000`.
 
 ## 🍿 Test
 ```bash
-$ docker run -p 3000:3000 francescoxx/dailydev-docs:0.9.3
+docker run -p 3000:3000 francescoxx/dailydev-docs:0.9.3
 ```
 
 ## 🙏 Thanks to all Contributors

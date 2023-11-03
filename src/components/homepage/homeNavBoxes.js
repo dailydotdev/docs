@@ -15,21 +15,21 @@ const FeatureList = [
     title: 'Setting up your feed',
     icon: 'img/icons/setting-up-feed.svg',
     items: [
-      {url: "docs/settingyourfeed/filtering-content-feed", text: "Filtering content"},
-      {url: "docs/settingyourfeed/advanced-filtering-options", text: "Advanced filtering"},
-      {url: "docs/settingyourfeed/blocking-tags-sources", text: "Blocking tags and sources"},
+      {url: "docs/setting-up-your-feed/filtering-content-feed", text: "Filtering content"},
+      {url: "docs/setting-up-your-feed/advanced-filtering-options", text: "Advanced filtering"},
+      {url: "docs/setting-up-your-feed/blocking-tags-sources", text: "Blocking tags and sources"},
     ]
   },
   {
     title: 'Key features',
     icon: 'img/icons/key-features.svg',
     items: [
-      {url: "docs/key-features/default-feeds", text: "Feeds"},
+      {url: "docs/key-features/feeds", text: "Feeds"},
       {url: "docs/key-features/upvotes", text: "Upvotes & Downvotes"},
       {url: "docs/key-features/discussions", text: "Discussions"},
       {url: "docs/key-features/bookmarks", text: "Bookmarks"},
       {url: "docs/key-features/search", text: "Search"},
-      {url: "docs/key-features/do-not-disturb", text: "Pause New Tab (DND)"},
+      {url: "docs/key-features/pause-new-tab", text: "Pause New Tab (DND)"},
       {url: "docs/key-features/the-companion", text: "Companion Widget"},
       {url: "docs/key-features/community-picks", text: "Community Picks"},
     ]
@@ -52,7 +52,7 @@ const FeatureList = [
     items: [
       {url: "docs/squads/creating-your-squad", text: "Creating Your Squad"},
       {url: "docs/squads/growing-your-squad", text: "Growing Your Squad"},
-      {url: "docs/your-profile/managing-your-squad", text: "Managing Your Squad"},
+      {url: "docs/squads/managing-your-squad", text: "Managing Your Squad"},
     ]
   },
   {
@@ -72,13 +72,6 @@ const FeatureList = [
       {url: "docs/how-does-daily-dev-work/dailydev-101", text: "What is daily.dev?​​​​"},
       {url: "docs/how-does-daily-dev-work/how-to-get-featured", text: "How to get featured?"},
       {url: "docs/how-does-daily-dev-work/reputation", text: "Reputation explained"},
-    ]
-  },
-  {
-    title: 'Integrations',
-    icon: 'img/icons/integration.svg',
-    items: [
-      {url: "docs/integrations/sharing-bookmarks", text: "Sharing bookmarks"},
     ]
   },
   {
@@ -122,7 +115,7 @@ function Feature({title, icon, items }) {
         </ul>
         </div>
       </div>
-      
+
     </article>
   );
 }
