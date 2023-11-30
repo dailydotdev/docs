@@ -20,7 +20,7 @@ Once you've selected your tag categories, it's time to sign up for an account. S
 
 After signing up, you can further customize your personal feed by fine-tuning your tag categories. You can easily add or remove tags based on your changing interests or preferences. This way, you can ensure that the content you see in your feed is always relevant and up-to-date.
 
-To access this manu hit the "My feed" button that's placed above the first card on your feed.
+To access this menu hit the "My feed" button that's placed above the first card on your feed.
 
 <img src="https://daily-now-res.cloudinary.com/image/upload/v1681288606/docs/Update%20April%202023/Screenshot_2023-04-12_at_11.36.39.png" alt='Highlight of the tag selection menu' width="900" height="100%" />
 
