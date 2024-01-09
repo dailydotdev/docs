@@ -25,7 +25,7 @@ If you are new to daily.dev, the first thing we strongly recommend is setting up
 
 
 There are three guides to help you get the most out of your feed:
-1. a detailed guide on how to [set up your feed](docs/setting-up-your-feed/filtering-content-feed).
+1. a detailed guide on how to [set up your feed](/docs/setting-up-your-feed/filtering-content-feed).
 2. A guide on how to [adjust the content types that appear in your feed](/docs/setting-up-your-feed/advanced-filtering-options).
 3. A guide on [blocking tags and sources](/docs/setting-up-your-feed/blocking-tags-sources) you do not wish to see in your feed that you do not wish to see in your feed.
 
