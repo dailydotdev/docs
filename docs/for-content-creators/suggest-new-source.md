@@ -24,11 +24,11 @@ Before you embark on submitting a new source suggestion, it's crucial to familia
 
 1. Go to your feed, either in the [browser extension](../getting-started/browser-extension-installation.md) or in the [web app](https://app.daily.dev)
 2. Sign up
-2. Click the `Suggest new source` option on the left sidebar
-3. Insert a URL of your publication's RSS feed (recommended) or a URL to your publication's homepage
-4. Click the `Check link` button
-5. Choose the relevant rss feed (in case ,utiple ones have been found),
-6. 4. Click the `Submit` button, and you're good to go
+3. Click the `Suggest new source` option on the left sidebar
+4. Insert a URL of your publication's RSS feed (recommended) or a URL to your publication's homepage
+5. Click the `Check link` button
+6. Choose the relevant rss feed (in case , multiple ones have been found)
+7. Click the `Submit` button, and you're good to go
 
 ### Review process
 
