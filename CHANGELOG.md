@@ -1,3 +1,12 @@
+# [0.2.0](https://github.com/dailydotdev/docs/compare/v0.1.3...v0.2.0) (2024-01-18)
+
+
+### Features
+
+* latest updates to our content guidelines in 2024 ([#270](https://github.com/dailydotdev/docs/issues/270)) ([36ba98a](https://github.com/dailydotdev/docs/commit/36ba98aeb8370557bdb9064815973d0f7792246a))
+
+
+
 ## [0.1.3](https://github.com/dailydotdev/docs/compare/v0.1.2...v0.1.3) (2023-10-19)
 
 
@@ -31,15 +40,6 @@
 ### Features
 
 * update to docusaurus 2.4.1 and add ga4 support ([#191](https://github.com/dailydotdev/docs/issues/191)) ([40980a2](https://github.com/dailydotdev/docs/commit/40980a2d87390eb147507e59267955f1dab224ca))
-
-
-
-## [0.0.2](https://github.com/dailydotdev/docs/compare/v0.0.1...v0.0.2) (2022-10-05)
-
-
-### Bug Fixes
-
-* typos and grammar errors ([0be5dca](https://github.com/dailydotdev/docs/commit/0be5dcaa10a339c9e8ad0f05fcbdf35463819e43))
 
 
 
