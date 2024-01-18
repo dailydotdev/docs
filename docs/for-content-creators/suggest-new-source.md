@@ -6,53 +6,56 @@ sidebar_position: 2
 
 ## Introduction
 
-At daily.dev, we collect posts from a lot of unique sources across the web. All of our sources have been added following a request we got from the community. That's an essential part of our community-driven approach. 
-
-We try our best to cover as much quality content as possible. But sometimes, it happens that you like to follow a particular source that's not in our current sources list. We understand that. That's why we have the option to request new sources! 
+We're delighted you're interested in ading your content to daily.dev. Our platform continuously evolves, enriched by source suggestions from our community. If you've discovered a source that would be a great fit for daily.dev but isn't currently listed, we invite you to suggest it.
 
 :::caution
-Before you embark on submitting a new source suggestion, it's crucial to familiarize yourself with our [content guidelines](/for-content-creators/content-guidelines.md). These principles are the cornerstone of our content review process and they ensure that our platform maintains its standard of high-quality, relevant, and ethical content. So, take a moment to read through these guidelines thoroughly. Doing so will increase your understanding of what we look for and improve the likelihood of your content being accepted. Your informed contribution can help make our platform an even more enriching resource for our community.
+It's crucial to review our [content guidelines](/for-content-creators/content-guidelines.md) before suggesting a new source. These guidelines are fundamental to our content review process, ensuring the maintenance of high-quality, relevant, and ethical content. Understanding and adhering to these guidelines will greatly enhance the likelihood of your suggestion being accepted, helping us make daily.dev an invaluable resource for our community.
 :::
 
 ### Prerequisites
 
-1. Please read our [content guidelines](/for-content-creators/content-guidelines.md) carefully and ensure your publication meets the criteria. 
-2. Register to daily.dev
-3. Make sure your publication has a public RSS feed
+1. Familiarize yourself with our [content guidelines](/for-content-creators/content-guidelines.md).
+2. Register on daily.dev.
+3. Verify that your publication has a public RSS feed.
+4. Ensure the source is a well-known publication or developer blogging platform. Corporate and personal blogs are not elgible. For corporate and personal blogs, consider [starting a Squad](../squads/creating-your-squad.md) instead.
 
-### Submitting your source
+:::note
+We acknowledge that some of our existing sources may not fully align with these newer criteria. We are dedicated to gradually migrating relevant sources to Squads, ensuring all our content meets these updated standards.
+:::
 
-1. Go to your feed, either in the [browser extension](../getting-started/browser-extension-installation.md) or in the [web app](https://app.daily.dev)
-2. Sign up
-2. Click the `Suggest new source` option on the left sidebar
-3. Insert a URL of your publication's RSS feed (recommended) or a URL to your publication's homepage
-4. Click the `Check link` button
-5. Choose the relevant rss feed (in case ,utiple ones have been found),
-6. 4. Click the `Submit` button, and you're good to go
+### How to Submit Your Source
 
-### Review process
+1. Go to your feed in the [browser extension](../getting-started/browser-extension-installation.md) or the [web app](https://app.daily.dev).
+2. Sign up or log in.
+3. Select `Suggest new source` from the left sidebar.
+4. Enter the URL of your publication's RSS feed (preferred) or homepage.
+5. Click `Check link`.
+6. Choose the relevant RSS feed if multiple are found.
+7. Click `Submit for review`.
 
-Once you've successfully submitted a source suggestion our team would manually review it. That's our way to ensure that the [content guidelines](/for-content-creators/content-guidelines.md) are met. **The review process usually takes up to 30 days**.
+### Review Process
 
-You can expect to receive the following notifications by email:
-1. Once the source request was successfully sent
-2. Once your source request got approved or rejected
-3. If our team would have a question, they will reach you out directly via email
+Our team manually reviews each submission to ensure it meets our [content guidelines](/for-content-creators/content-guidelines.md). **Expect the review process to take up to 30 days.**
+
+You will receive email notifications:
+1. Confirming your source request submission.
+2. Informing you if your source has been approved or rejected.
+3. If further information is needed, our team will contact you directly via email at support@daily.dev.
 
 ## FAQ
 
-### What happens after my source was approved?
+### What Happens After Approval?
 
-If it gets approved, every new post that is published by this source will be collected by daily.dev, analyzed, and if it is suitable will be added to the feed. It might take a few days until it is fully synced, so please bear that in mind.
+Once your source is approved, new posts from your source will be automatically collected, analyzed, and potentially added to the feed going forward. Please note that we do not auto-populate the feed with historical content from newly approved sources. Only content published after the approval date will be considered. Allow a few days for full synchronization.
 
-### My source got approved, is it permanant? 
+### Is Approval Permanent?
 
-The daily.dev community is highly sensitive to content quality and the code of conduct of publishers. After a new source is approved and added to the daily.dev feed, we continue to monitor it continuously. Our aim is simple -- to maintain and enforce the content guidelines for the benefit of our community.‍ ‍We kindly ask you to refrain from misusing the opportunity to be listed on the daily.dev feed as it may lead to disqualification of your approved source.
+Continuous monitoring of new sources is part of our commitment to maintain content quality. Misuse of the platform could lead to the disqualification of your approved source.
 
-### My source request got rejected, Can I submit it again?
+### Can I Resubmit a Rejected Source?
 
-Basically, yes. But please be mindful and only submit your source again once you've made a substantial change. If you got rejected and you'd like to get additional information please contact us at support@daily.dev
+Yes, but only after making substantial changes. For additional details or support, contact support@daily.dev.
 
-### Where can I see the status of my review process?
+### How to Track the Review Process?
 
-Besides the email notifications, there's no way to check the status of your source request review process. Your patience is much appreciated :) 
+Review status is communicated through email notifications. We appreciate your patience during this period.

@@ -6,7 +6,7 @@ sidebar_position: 9
 
 Community Picks are posts that are sourced by the community. 
 
-We want you to submit posts that made a real difference to your tech journey. Whether these are in-depth tutorials, interesting perspectives on tech problems, or well thought out and high-effort entertainment pieces aimed at developers.Above all, we want posts that you believe need more exposure, from creators you admire, that you think will benefit the daily.dev developer community. 
+We want you to submit posts that made a real difference to your tech journey. Whether these are in-depth tutorials, interesting perspectives on tech problems, or well thought out and high-effort entertainment pieces aimed at developers. Above all, we want posts that you believe need more exposure, from creators you admire, that you think will benefit the daily.dev developer community. 
 
 :::caution
 Before you embark on submitting your Community Picks, it's crucial to familiarize yourself with our [content guidelines](../for-content-creators/content-guidelines.md). These principles are the cornerstone of our content review process and they ensure that our platform maintains its standard of high-quality, relevant, and ethical content. So, take a moment to read through these guidelines thoroughly. Doing so will increase your understanding of what we look for and improve the likelihood of your content being accepted. Your informed contribution can help make our platform an even more enriching resource for our community.

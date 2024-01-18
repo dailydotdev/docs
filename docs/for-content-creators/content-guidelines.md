@@ -6,21 +6,21 @@ sidebar_position: 1
 
 ## Introduction
 
-Welcome to our content guidelines  This page is your comprehensive guide to understanding the core principles and standards that shape the content on our platform. Whether you're a content creator, developer, or enthusiast exploring the wide variety of resources on our platform, these guidelines serve as the blueprint for our commitment to quality, innovation, and ethics. 
+Welcome to our content guidelines! This page is your comprehensive guide to understanding the core principles and standards that shape the content on our platform. Whether you're a content creator, developer, or enthusiast exploring the wide variety of resources on our platform, these guidelines serve as the blueprint for our commitment to quality, innovation, and ethics. As you plan to feature your content on daily.dev, we invite you to familiarize yourself with the [different ways to get your content on daily.dev](../for-content-creators/how-to-get-featured.md), alongside these guidelines.
 
 In this document, we provide detailed guidance on what we look for in content, what we prioritize, and under what conditions we might remove content. These guidelines are not only a reference for anyone who creates or submits content to daily.dev, but also an insight into our dedication to maintaining a respectful, diverse, and valuable community.
 
 Take a moment, dive in, and let's create an enriching and inspiring space together!
 
 :::tip
-These guidelines are key to your journey on our platform. By aligning your content with our standards, you not only enhance the quality of our community but also build your reputation as a trusted source of knowledge. Conversely, content that fails to comply may lead to a reduction in reputation points. The respect and trust you earn from our community are invaluable, so we encourage you to take these guidelines seriously. For more insights on how reputation works, please visit our [reputation guide](../how-does-daily-dev-work/reputation.md).
+These guidelines are key to your journey on our platform. By aligning your content with our standards, you not only enhance the quality of our community but also build your reputation as a trusted source of knowledge. Conversely, content that fails to comply may lead to a reduction in reputation points. The respect and trust you earn from our community are invaluable, so we encourage you to take these guidelines seriously. For more insights on how reputation works, please visit our [reputation guide](../how-does-daily-dev-work/reputation.md)
 :::
 
 ### What content are we looking for?
 
 ✅ Relevant, fresh and up-to-date content for developers.
 
-✅ Professional and well-written content.
+✅ Professional and well-produced textual or video content.
 
 ✅ Novel, innovative, and trending content that inspires developers.
 
@@ -42,13 +42,13 @@ In our ongoing effort to maintain a balanced content inventory on the platform, 
 
 ❌ Content that is irrelevant for developers.
 
-❌ Content that is used only or primarily for self-promotion.
+❌ Content that is used only or primarily for self-promotion or any other type of promotion.
 
-❌ Content that is not written in English.
+❌ Content that is not in English.
 
 ❌ Content from sources that were not active in the past three months or more.
 
-❌ Content from sources that don't provide an RSS feed available for public use.
+❌ Content from sources that don't provide an RSS feed or Atom feed available for public use.
 
 ❌ Content about politically-oriented topics.
 
@@ -72,19 +72,15 @@ In our ongoing effort to maintain a balanced content inventory on the platform, 
 
 ### Additional guidelines for corporate blogs
 
-In addition to the general guidelines above, corporate blogs that wish to pass the review process should also consider the following specific guidelines:
+:::info
+[Update January 2024] Corporate blogs are no longer eligible to be added as sources on daily.dev. Instead, we encourage corporations to [open a Squad](../squads/creating-your-squad.md) on our platform to share their content. We recognize the legacy of existing corporate blogs on daily.dev and plan to gradually migrate these sources to Squads, ensuring a seamless transition while adhering to our updated guidelines.
+:::
 
-✅ Content from a dedicated RSS feed that is free of promotional material or company updates such as press releases, customer use cases, funding announcements, product updates, or any similar content.
+### Additional guidelines for personal blogs and indie content creators
 
-### Additional guidelines for personal blogs
-
-At the moment, the basic rule of thumb in our review process is that we do not approve personal blogs as sources. However, we recently started working gradually towards allowing personal blogs on the platform. During this interim period, we will only approve personal blogs that meet specific criteria. If you're submitting a personal blog for review, please ensure it meets the following guidelines:
-
-✅ Personal blog of a global thought leader who has a significant impact on the developer community.
-
-✅ Focused on niche topics that cater to specific and non-mainstream interests.
-
-Please note that these additional guidelines for personal blogs are subject to change as we continue to refine our review process.
+:::info
+[Update January 2024] As part of our ongoing platform evolution, personal blogs are no longer eligible to be added as sources on daily.dev as of January 2024. Personal bloggers and content creators are encouraged to [create a Squad](../squads/creating-your-squad.md) to share their content with our community. We acknowledge the presence of personal blogs that have historically been part of daily.dev, and we are committed to transitioning these sources to Squads in a gradual and considerate manner.
+:::
 
 ### Update regarding AI-generated content
 
