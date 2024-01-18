@@ -39,6 +39,7 @@ const FeatureList = [
     icon: 'img/icons/your-profile.svg',
     items: [
       {url: "docs/your-profile/activity", text: "Activity"},
+      {url: "docs/your-profile/reputation", text: "Reputation explained"},
       {url: "docs/your-profile/reading-history", text: "Reading history"},
       {url: "docs/your-profile/weekly-goal", text: "Weekly Reading Goal"},
       {url: "docs/your-profile/devcard", text: "DevCard"},
@@ -66,18 +67,10 @@ const FeatureList = [
     ]
   },
   {
-    title: 'Useful guides',
-    icon: 'img/icons/useful-guides.svg',
-    items: [
-      {url: "docs/how-does-daily-dev-work/dailydev-101", text: "What is daily.dev?​​​​"},
-      {url: "docs/how-does-daily-dev-work/how-to-get-featured", text: "How to get featured?"},
-      {url: "docs/how-does-daily-dev-work/reputation", text: "Reputation explained"},
-    ]
-  },
-  {
     title: 'For content creators',
     icon: 'img/icons/content-creator.svg',
     items: [
+      {url: "docs/for-content-creators/how-to-get-featured", text: "How to get featured?"},
       {url: "docs/for-content-creators/content-guidelines", text: "Content guidelines"},
       {url: "docs/for-content-creators/suggest-new-source", text: "How to suggest a new source"},
       {url: "docs/for-content-creators/claiming-ownership-on-article", text: "Special features for creators"},
