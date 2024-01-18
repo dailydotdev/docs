@@ -52,7 +52,7 @@ We never met authors who are not curious about their blog post’s stats. Today,
 
 ### Gain reputation points and build up your profile
 
-In case you’ve missed it in our previous announcements, here’s a brief about [What is reputation? How do I earn it?](../how-does-daily-dev-work/reputation.md)
+In case you’ve missed it in our previous announcements, here’s a brief about [What is reputation? How do I earn it?](../your-profile/reputation.md)
 
 We completely redesigned the profile to fit a new special section for your posts. That’s a great way to show your achievements to the world. And the best part? For every upvote your post earns, you will receive a +1 reputation point!
 
@@ -71,6 +71,6 @@ Keep in mind that we can only add posts that we're already picked up by daily.de
 * Step 4 - Add your Twitter handle
 * Step 5 - [Click here](mailto:support@daily.dev?subject=Add%20my%20posts%20retroactively&body=README%3A%20To%20add%20your%20posts%20retroactively%2C%20please%20reply%20with%20your%20username%20or%20a%20link%20to%20your%20profile%20on%20daily.dev.%20Keep%20in%20mind%20that%20we%20can%20only%20add%20posts%20that%20we're%20already%20picked%20up%20by%20daily.dev.%20Not%20sure%20if%20your%20post%20appeared%20in%20our%20feed%3F%20Try%20searching%20its%20headline%20here%3A%20https%3A%2F%2Fapp.daily.dev%2Fsearch) or email us to [support@daily.dev](mailto:support@daily.dev?subject=Add%20my%20posts%20retroactively&body=README%3A%20To%20add%20your%20posts%20retroactively%2C%20please%20reply%20with%20your%20username%20or%20a%20link%20to%20your%20profile%20on%20daily.dev.%20Keep%20in%20mind%20that%20we%20can%20only%20add%20posts%20that%20we're%20already%20picked%20up%20by%20daily.dev.%20Not%20sure%20if%20your%20post%20appeared%20in%20our%20feed%3F%20Try%20searching%20its%20headline%20here%3A%20https%3A%2F%2Fapp.daily.dev%2Fsearch)
 
-## How to get your post listed on daily.dev?
+## How to get your content featured on daily.dev?
 
-Check out this guide about [getting listed on daily.dev](../how-does-daily-dev-work/how-to-get-featured.md).
+Check out this guide about[getting featured on daily.dev](/for-content-creators/how-to-get-featured.md).

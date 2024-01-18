@@ -6,7 +6,7 @@ sidebar_position: 9
 
 Community Picks are posts that are sourced by the community. 
 
-We want you to submit posts that made a real difference to your tech journey. Whether these are in-depth tutorials, interesting perspectives on tech problems, or well thought out and high-effort entertainment pieces aimed at developers.Above all, we want posts that you believe need more exposure, from creators you admire, that you think will benefit the daily.dev developer community. 
+We want you to submit posts that made a real difference to your tech journey. Whether these are in-depth tutorials, interesting perspectives on tech problems, or well thought out and high-effort entertainment pieces aimed at developers. Above all, we want posts that you believe need more exposure, from creators you admire, that you think will benefit the daily.dev developer community. 
 
 :::caution
 Before you embark on submitting your Community Picks, it's crucial to familiarize yourself with our [content guidelines](../for-content-creators/content-guidelines.md). These principles are the cornerstone of our content review process and they ensure that our platform maintains its standard of high-quality, relevant, and ethical content. So, take a moment to read through these guidelines thoroughly. Doing so will increase your understanding of what we look for and improve the likelihood of your content being accepted. Your informed contribution can help make our platform an even more enriching resource for our community.
@@ -15,7 +15,7 @@ Before you embark on submitting your Community Picks, it's crucial to familiariz
 ## Quick Overview Video
 
 :::info
-To get access to this feature you first need to earn the Scout privilege (min. 250 reputation points). Only people with the Scout privilege can submit links and are limited to 3 submissions per day. Learn more about [how to gain reputation points](https://docs.daily.dev/docs/how-does-daily-dev-work/reputation)
+To get access to this feature you first need to earn the Scout privilege (min. 250 reputation points). Only people with the Scout privilege can submit links and are limited to 3 submissions per day. Learn more about [how to gain reputation points](../your-profile/reputation.md)
 :::
 
 <iframe width="700" height="400"  src="https://www.youtube-nocookie.com/embed/JlBlTIMfrGM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -51,7 +51,7 @@ Before submitting a Community Pick, you should read the [**content guidelines**]
 To be able to submit a Community Pick you need to have at least 250 reputation on daily.dev. Once you reach this threshold you will earn the Scout privilege.
 
 :::tip
-[Learn how to gain reputation](https://docs.daily.dev/docs/how-does-daily-dev-work/reputation) and how reputation works.
+[Learn how to gain reputation](../your-profile/reputation.md) and how reputation works.
 :::
 
 If you do not have enough reputation to submit a link you will see a message telling you that you do not have enough reputation and the submit button will be disabled.

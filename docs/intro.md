@@ -35,7 +35,3 @@ Although you don't have to register with daily.dev, we highly recommend it so yo
 ### Step 5: Customize the look and feel 🌈
 
 Make daily.dev look and feel the way you want! [Customize](/customize-your-feed/layout.md) the theme, layout, card density, and other cool preferences to personalize your experience.
-
-### Step 6: Explore behind the scenes 👀
-
-If you're interested in learning [how daily.dev works](/how-does-daily-dev-work/dailydev-101.md), we've got you covered with detailed information.
