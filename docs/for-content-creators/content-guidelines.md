@@ -13,7 +13,7 @@ In this document, we provide detailed guidance on what we look for in content, w
 Take a moment, dive in, and let's create an enriching and inspiring space together!
 
 :::tip
-These guidelines are key to your journey on our platform. By aligning your content with our standards, you not only enhance the quality of our community but also build your reputation as a trusted source of knowledge. Conversely, content that fails to comply may lead to a reduction in reputation points. The respect and trust you earn from our community are invaluable, so we encourage you to take these guidelines seriously. For more insights on how reputation works, please visit our [reputation guide](/for-content-creators/reputation.md)
+These guidelines are key to your journey on our platform. By aligning your content with our standards, you not only enhance the quality of our community but also build your reputation as a trusted source of knowledge. Conversely, content that fails to comply may lead to a reduction in reputation points. The respect and trust you earn from our community are invaluable, so we encourage you to take these guidelines seriously. For more insights on how reputation works, please visit our [reputation guide](../your-profile/reputation.md)
 :::
 
 ### What content are we looking for?
