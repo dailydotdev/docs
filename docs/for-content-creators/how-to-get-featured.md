@@ -25,7 +25,7 @@ There are three primary ways to have your content featured on daily.dev:
 | **Community Picks**   | Available to all daily.dev users.                                                                          | Any daily.dev user with more than 250 reputation points. Suitable for those who want to share valuable content with the community, regardless of authorship. |
 
 :::note
-Remember, all content featured on daily.dev must adhere to our content guidelines, irrespective of the method chosen for submission.
+Remember, all content featured on daily.dev must adhere to our [content guidelines](/for-content-creators/content-guidelines.md), irrespective of the method chosen for submission.
 :::
 
 ### 1. Starting a Squad
