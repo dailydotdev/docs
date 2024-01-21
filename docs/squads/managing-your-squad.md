@@ -12,10 +12,11 @@ In your role as a Squad admin, you have a wide range of tools and settings to he
 Note: The provided tools are the most basic ones to get you started with your Squad management. We understand the criticality of robust and comprehensive moderation tools for the success of Squads. Rest assured, we're actively working to add more advanced moderation options and enhancements to this toolkit.
 :::
 
-## Deleting Posts, Comments, and Removing Users
+## Deleting Posts, Comments, and Blocking Users
+
 As an admin, maintaining a respectful community is in your hands:
 * **Deleting Posts or Comments**: If a post or comment violates the Squad guidelines, navigate to it, click on the options menu, and select "Delete". Confirm in the pop-up window.
-* **Removing Users**: Should a member consistently breach guidelines, you can remove them. Find the user in the member list, select "Remove" from their options menu, and confirm your decision.
+* **Blocking Users**: To address repeated guideline breaches, you can block a member. This action will remove them from the Squad and prevent them from rejoining. To unblock and allow them back, you'll need to manually reverse this action. Locate the user in the member list, choose "Block" from their options, and confirm.
 
 ## Managing Permissions
 
