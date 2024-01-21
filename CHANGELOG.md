@@ -1,3 +1,12 @@
+## [0.2.1](https://github.com/dailydotdev/docs/compare/v0.2.0...v0.2.1) (2024-01-21)
+
+
+### Bug Fixes
+
+* better explanation for what blocking a user does ([#271](https://github.com/dailydotdev/docs/issues/271)) ([41e4123](https://github.com/dailydotdev/docs/commit/41e4123c3b14ffb02c2fd04db5129bf80b9c0a4a))
+
+
+
 # [0.2.0](https://github.com/dailydotdev/docs/compare/v0.1.3...v0.2.0) (2024-01-18)
 
 
@@ -31,15 +40,6 @@
 ### Bug Fixes
 
 * replace webm video with working video ([#226](https://github.com/dailydotdev/docs/issues/226)) ([def0140](https://github.com/dailydotdev/docs/commit/def0140c63d5d7b11328fc79b9d1a296e6bf7fc1))
-
-
-
-# [0.1.0](https://github.com/dailydotdev/docs/compare/v0.0.2...v0.1.0) (2023-06-20)
-
-
-### Features
-
-* update to docusaurus 2.4.1 and add ga4 support ([#191](https://github.com/dailydotdev/docs/issues/191)) ([40980a2](https://github.com/dailydotdev/docs/commit/40980a2d87390eb147507e59267955f1dab224ca))
 
 
 
