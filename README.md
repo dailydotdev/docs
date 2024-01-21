@@ -1,6 +1,6 @@
 # 📝 The official daily.dev Documentation
 
-The [daily.dev docs](https://docs.daily.dev/) are designed to help our community members get the most out of the product. Hope you will find it userful! We welcome your contribution to help us make it better and up-to-date 💜
+The [daily.dev docs](https://docs.daily.dev/) are designed to help our community members get the most out of the product. Hope you will find it useful! We welcome your contribution to help us make it better and up-to-date 💜
 
 ## 👨‍💻 Contributing
 
