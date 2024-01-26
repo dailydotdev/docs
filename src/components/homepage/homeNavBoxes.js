@@ -53,7 +53,8 @@ const FeatureList = [
     items: [
       {url: "docs/squads/creating-your-squad", text: "Creating Your Squad"},
       {url: "docs/squads/growing-your-squad", text: "Growing Your Squad"},
-      {url: "docs/squads/managing-your-squad", text: "Managing Your Squad"},
+      {url: "docs/squads/moderating-your-squad", text: "Moderating Your Squad"},
+      {url: "docs/squads/public-squads", text: "Becoming a Public Squad"},
     ]
   },
   {
