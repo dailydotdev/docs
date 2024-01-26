@@ -1,3 +1,12 @@
+# [0.3.0](https://github.com/dailydotdev/docs/compare/v0.2.1...v0.3.0) (2024-01-26)
+
+
+### Features
+
+* new page for public squads ([#279](https://github.com/dailydotdev/docs/issues/279)) ([46e2097](https://github.com/dailydotdev/docs/commit/46e2097174eb924c1af6983ef36a312da76d9a22))
+
+
+
 ## [0.2.1](https://github.com/dailydotdev/docs/compare/v0.2.0...v0.2.1) (2024-01-21)
 
 
@@ -31,15 +40,6 @@
 ### Bug Fixes
 
 * remote adevertise from footer ([#233](https://github.com/dailydotdev/docs/issues/233)) ([10e85d9](https://github.com/dailydotdev/docs/commit/10e85d9cb340f09bc218ff613971c13e7c50552c))
-
-
-
-## [0.1.1](https://github.com/dailydotdev/docs/compare/v0.1.0...v0.1.1) (2023-09-28)
-
-
-### Bug Fixes
-
-* replace webm video with working video ([#226](https://github.com/dailydotdev/docs/issues/226)) ([def0140](https://github.com/dailydotdev/docs/commit/def0140c63d5d7b11328fc79b9d1a296e6bf7fc1))
 
 
 
