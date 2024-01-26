@@ -36,5 +36,14 @@ Creating a new Squad is simple and straightforward. Follow these steps to get st
 Remember, the most vibrant Squads are those with active participation. Encourage your members to contribute, share their knowledge, and engage in discussions. With your leadership and the tools provided by daily.dev, your Squad is well on its way to becoming a dynamic and valuable community for developers.
 :::
 
+## Squad Visibility (Private vs. Public)
+
+You can choose the visibility of your Squad:
+
+1. **Private Squads**: Only members can view and contribute to the Squad content. You control invitations.
+2. **Public Squads** (in closed beta): Everyone can see the content, and the posts may organically appear on the main feed. Read more about [how to become a Public Squad](/squads/public-squads.md). 
+
+By understanding and utilizing these tools and settings effectively, you can shape your Squad into a vibrant, engaging, and respectful community. 
+
 Congratulations! You've created your first Squad. In the following pages, you'll learn how to invite other developers, 
 manage posts and discussions, and use various admin and moderation tools to help your Squad thrive.

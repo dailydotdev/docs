@@ -2,7 +2,7 @@
 sidebar_position: 2
 ---
 
-# Managing Your Squad
+# Moderating Your Squad
 
 ## Admin, Moderation, and Privacy Settings
 
@@ -37,12 +37,3 @@ Your Squad members can have different roles, each with distinct permissions:
 
 * **Promoting to Moderator/Admin**: Find the member you wish to promote in the member list, select "Promote to Moderator" or "Make an Admin" from their options menu. They will now have access to moderation tools.
 * **Demoting Moderators**: If a moderator isn't fulfilling their duties, demote them back to a member by selecting "Demote to Member" in their options menu.
-
-## Squad Visibility (Private vs. Public)
-
-You can choose the visibility of your Squad:
-
-1. **Private Squads**: Only members can view and contribute to the Squad content. You control invitations.
-2. **Public Squads** (in closed beta): Open to all daily.dev users. Currently, public Squads are in early beta with a waitlist for public Squad creation.
-
-By understanding and utilizing these tools and settings effectively, you can shape your Squad into a vibrant, engaging, and respectful community. 
