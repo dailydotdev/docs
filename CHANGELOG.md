@@ -1,3 +1,12 @@
+## [0.3.1](https://github.com/dailydotdev/docs/compare/v0.3.0...v0.3.1) (2024-01-27)
+
+
+### Bug Fixes
+
+* public squads improvements ([#280](https://github.com/dailydotdev/docs/issues/280)) ([053a90d](https://github.com/dailydotdev/docs/commit/053a90d456356e8f8c9ca384b433798295c2a5f9))
+
+
+
 # [0.3.0](https://github.com/dailydotdev/docs/compare/v0.2.1...v0.3.0) (2024-01-26)
 
 
@@ -31,15 +40,6 @@
 ### Bug Fixes
 
 * style community icon on mobile view ([#254](https://github.com/dailydotdev/docs/issues/254)) ([e0f4847](https://github.com/dailydotdev/docs/commit/e0f4847a73b0450135f879360ea5d9207556040a))
-
-
-
-## [0.1.2](https://github.com/dailydotdev/docs/compare/v0.1.1...v0.1.2) (2023-10-10)
-
-
-### Bug Fixes
-
-* remote adevertise from footer ([#233](https://github.com/dailydotdev/docs/issues/233)) ([10e85d9](https://github.com/dailydotdev/docs/commit/10e85d9cb340f09bc218ff613971c13e7c50552c))
 
 
 
