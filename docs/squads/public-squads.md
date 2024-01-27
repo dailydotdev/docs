@@ -60,7 +60,7 @@ This focus on editorially curated content ensures that the Squads featured in th
 The selection of Public Squads to be featured in the directory is an editorial decision made by our team. This process ensures that only the most engaging, valuable, and compliant Squads are highlighted.
 
 :::tip
-Here are a few things you can do to increase your chances of being featured:
+### How to increase your chances to get featured on the Public Squads Directory?
 
 1. **Consistently post exceptional content**: High-quality content is the primary criteria for being featured.
 2. **Foster a thriving community**: Active engagement and a growing member base can influence your Squad's inclusion in the directory.
