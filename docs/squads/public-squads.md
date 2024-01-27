@@ -30,7 +30,7 @@ Public Squads stand out in several ways:
 3. **Apply for review**: Submit your Squad for review. Once your Squad passes the review process it will automatically become Public. Currently we accept applications via this [online form](https://it057218.typeform.com/Publicsquads).
 
 :::tip
-**How to increase your chances to pass the review process?**
+### How to increase your chances to pass the review process?
 
 1. Active engagement. Squads with existing members and active participation are more likely to get approved.
 2. Effective Squad presentation. Craft a compelling Squad name, description, and image that clearly represent its purpose.
