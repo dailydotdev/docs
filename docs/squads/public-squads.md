@@ -8,7 +8,7 @@ sidebar_position: 3
 
 Public Squads are the newest way to feature your content and gain organic exposure on daily.dev. Public Squads, like sources, receive exposure in the daily.dev feed, regardless of whether users have joined them or not. It offers an unparalleled growth opportunity for engagement and traffic within the daily.dev community. 
 
-## Distinctive features of Public Squads
+## Key features of Public Squads
 
 Public Squads stand out in several ways:
 
