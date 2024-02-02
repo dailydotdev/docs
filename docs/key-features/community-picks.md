@@ -68,7 +68,7 @@ Here you can paste in the post URL and then press submit.
 You will then see either a success, already exists or error message.
 
 :::caution
-Please note that **submitting your own articles is not allowed.** Please share amazing articles from other authors that you have enjoyed.
+Please note that **submitting your own articles is not allowed.** Please share amazing articles from other authors that you have enjoyed. If you're looking for ways to post your own content please refer to our ["How to get featured?"](../for-content-creators/how-to-get-featured.md) guide.
 :::
 
 #### Post already exists

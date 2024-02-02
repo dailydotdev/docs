@@ -22,5 +22,3 @@ Occasionally, limited edition DevCards may become available during the year. The
 Once you've generated your DevCard, you can add it to your GitHub profile or embed it in your website to further showcase your daily.dev activity. This can be a great way to highlight your interests, achievements, and engagement with daily.dev to fellow developers and potential employers.
 
 Here's the [full tutorial](https://daily.dev/blog/adding-the-daily-devcard-to-your-github-profile) and a demo video:
-
-<iframe width="700" height="400" src="https://www.youtube.com/watch?v=RCwKFpC286w" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
