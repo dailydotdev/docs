@@ -17,7 +17,8 @@ It's crucial to review our [content guidelines](/for-content-creators/content-gu
 1. Familiarize yourself with our [content guidelines](/for-content-creators/content-guidelines.md).
 2. Register on daily.dev.
 3. Verify that your publication has a public RSS feed.
-4. Ensure the source is a well-known publication or developer blogging platform. Corporate and personal blogs are not elgible. For corporate and personal blogs, consider [starting a Squad](../squads/creating-your-squad.md) instead.
+4. Ensure the source is a well-known publication or developer blogging platform. 
+5. Corporate and personal blogs are not elgible. For corporate and personal blogs, consider [starting a Squad](../squads/creating-your-squad.md) instead.
 
 :::note
 We acknowledge that some of our existing sources may not fully align with these newer criteria. We are dedicated to gradually migrating relevant sources to Squads, ensuring all our content meets these updated standards.
