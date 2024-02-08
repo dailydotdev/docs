@@ -25,8 +25,13 @@
       "destination": "/docs/your-profile/reputation" 
     },
     { 
+      "source": "/docs/how-does-daily-dev-work/how-to-get-featured", 
+      "destination": "/docs/for-content-creators/how-to-get-featured" 
+    },
+    { 
       "source": "/docs/key-features/default-feeds", 
       "destination": "/docs/key-features/feeds" 
     }
   ]
 }
+
