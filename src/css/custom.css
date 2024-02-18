@@ -407,12 +407,11 @@ img[src='/img/logo.png'] {
   --dd-mar-top-h6: calc(var(--dd-h6-font-size) * var(--dd-mar-mutiplier-top-6));
   --dd-mar-bot-h6: calc(var(--dd-h6-font-size) * var(--dd-mar-mutiplier-bot-6));
 
-  /* colours */
+  /* colors */
   --dd-background: var(--pepper90);
-  --ifm-link-color: var(--bacon90);
-  --ifm-link-hover-color: var(--water40);
+  --ifm-link-color: var(--water60);
+  --ifm-link-hover-color: var(--water20);
   --ifm-color-warning-dark: var(--cheese90);
-
 
   /* menu */
   --ifm-menu-link-padding-vertical: 0.5rem;
@@ -426,7 +425,7 @@ img[src='/img/logo.png'] {
 
 html[data-theme='dark'] {
   --ifm-menu-color: var(--white);
-  --ifm-link-color: var(--onion10);
+  --ifm-link-color: var(--water40);
 }
 
 html[data-theme='dark'] *:focus-visible {
