@@ -490,7 +490,7 @@ html[data-theme='light'] .menu__link:before {
 
 .menu__list li:nth-child(1) .menu__link:before {
   background: none;
-  display: block;
+  display: none;
 }
 /**getting started**/
 .theme-doc-sidebar-menu li:nth-child(2) .menu__link:before {
