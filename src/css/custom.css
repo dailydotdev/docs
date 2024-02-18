@@ -469,8 +469,7 @@ html[data-theme='light'] .menu__link {
 
 .menu__link {
   margin-left: 1.55rem;
-  color: var(--salt80);
-  color: rgb(168, 179, 255);
+  color: var(--salt40);
   font-weight: normal;
   font-size: 1rem;
   line-height: 1.25;
