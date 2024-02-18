@@ -785,11 +785,10 @@ p:last-child {
 }
 
 .markdown img {
-  max-width: min(600px, 100%);
+  max-width: min(1000px, 100%);
   margin: 0 auto 1.5rem auto;
   display: block;
-  border: 2px solid var(--cabbage60);
-
+  border: 1px solid var(--pepper10);
 }
 
 /* algolia search customization */
