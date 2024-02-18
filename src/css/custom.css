@@ -468,7 +468,7 @@ html[data-theme='light'] .menu__link {
 }
 
 .menu__link {
-  margin-left: 1.55rem;
+  gap: 12px;
   color: var(--salt40);
   font-weight: normal;
   font-size: 1rem;
@@ -479,7 +479,6 @@ html[data-theme='light'] .menu__link:before {
 }
 .theme-doc-sidebar-menu .menu__link:before {
   content: '';
-  position: absolute;
   background: var(--ifm-menu-link-sublist-icon-before) 50% / 1.25rem 1.25rem;
   height: 1.25rem;
   width: 1.25rem;
@@ -491,6 +490,7 @@ html[data-theme='light'] .menu__link:before {
 
 .menu__list li:nth-child(1) .menu__link:before {
   background: none;
+  display: block;
 }
 /**getting started**/
 .theme-doc-sidebar-menu li:nth-child(2) .menu__link:before {
@@ -535,10 +535,6 @@ html[data-theme='light'] .menu__link:before {
   position: relative;
   margin-left: 0rem;
   padding-left: 2.3rem;
-}
-
-.theme-doc-sidebar-item-link-level-2 > .menu__link {
-  margin-left: 1.25rem;
 }
 
 .theme-doc-sidebar-item-link-level-2 > .menu__link:before {
