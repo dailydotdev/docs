@@ -6,7 +6,10 @@ sidebar_position: 3
 
 ## Introduction to Public Squads
 
-Public Squads are the newest way to feature your content and gain organic exposure on daily.dev. Public Squads, like sources, receive exposure in the daily.dev feed, regardless of whether users have joined them or not. It offers an unparalleled growth opportunity for engagement and traffic within the daily.dev community. 
+Public Squads are the newest way to feature your content and gain organic exposure on daily.dev. Public Squads, like sources, receive exposure in the daily.dev feed, regardless of whether users have joined them or not. It offers an unparalleled growth opportunity for engagement and traffic within the daily.dev community.
+
+![Untitled design (21)](https://github.com/dailydotdev/docs/assets/18360871/db1091c4-eab0-4357-ba73-a8c3873f6231)
+
 
 ## Key features of Public Squads
 
@@ -24,6 +27,9 @@ Public Squads stand out in several ways:
 * **Apply to get featured in the Public Squads Directory**: Public Squads are also elgible to apply to get featured on the the [Public Squads Directory](https://app.daily.dev/squads), a go-to place for the daily.dev community to discover new and interesting Squads. Read more about how you can get featured below. 
 
 ## How to become a Public Squad
+
+![Untitled design (20)](https://github.com/dailydotdev/docs/assets/18360871/9f56bd43-3a8f-4905-8355-bdc6b974f899)
+
 
 1. **Start your Squad**: [Create a Squad](https://app.daily.dev/squads/new) with a clear theme or focus.
 2. **Post your content**: Post at least three representative posts that align with your Squad's ongoing content style.
@@ -63,6 +69,9 @@ The selection of Public Squads to be featured in the directory is an editorial d
 
 :::tip
 ### How to increase your chances to get featured on the Public Squads Directory?
+
+![Untitled design (22)](https://github.com/dailydotdev/docs/assets/18360871/5d2a852f-43df-4f91-b8d5-6f5a7358f0e0)
+
 
 1. **Consistently post exceptional content**: High-quality content is the primary criteria for being featured.
 2. **Foster a thriving community**: Active engagement and a growing member base can influence your Squad's inclusion in the directory.
