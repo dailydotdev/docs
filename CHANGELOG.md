@@ -1,3 +1,12 @@
+# [0.4.0](https://github.com/dailydotdev/docs/compare/v0.3.1...v0.4.0) (2024-02-27)
+
+
+### Features
+
+* upgrade the reputation docs page ([#289](https://github.com/dailydotdev/docs/issues/289)) ([ce9e940](https://github.com/dailydotdev/docs/commit/ce9e940ef3100f655a5a001e5b480ef2e08fc422))
+
+
+
 ## [0.3.1](https://github.com/dailydotdev/docs/compare/v0.3.0...v0.3.1) (2024-01-27)
 
 
@@ -31,15 +40,6 @@
 ### Features
 
 * latest updates to our content guidelines in 2024 ([#270](https://github.com/dailydotdev/docs/issues/270)) ([36ba98a](https://github.com/dailydotdev/docs/commit/36ba98aeb8370557bdb9064815973d0f7792246a))
-
-
-
-## [0.1.3](https://github.com/dailydotdev/docs/compare/v0.1.2...v0.1.3) (2023-10-19)
-
-
-### Bug Fixes
-
-* style community icon on mobile view ([#254](https://github.com/dailydotdev/docs/issues/254)) ([e0f4847](https://github.com/dailydotdev/docs/commit/e0f4847a73b0450135f879360ea5d9207556040a))
 
 
 
