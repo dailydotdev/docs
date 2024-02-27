@@ -1,55 +1,54 @@
 ---
 sidebar_position: 1
 ---
-# Reputation explained
+# Reputation Explained
 
-## Reputation is entirely optional
+## What is Reputation?
 
-The most important activities on daily.dev are reading the latest dev news, upvoting and commenting. None of which require you to have any reputation. 
+Reputation is metric that reflect the trust you earn from the community through positive and meaningful interactions. It's a measure of your contributions' impact, visible on your profile. Higher reputation unlocks more privileges, reflecting your role in shaping our community.
 
-:::tip
-If you’re new to daily.dev, we recommend to first spend time in [setting up your feed.](../setting-up-your-feed/filtering-content-feed.md) Once you get comfortable with your feed settings, go ahead, and expand your participation in other areas. 
+## Reputation Basics
+
+Once you sign up to daily.dev you start with 10 points, reflecting the value of joining the community. Your reputation cannot fall below 0, preventing negative scores.
+
+## How to Earn Reputation Points
+
+:::note
+Reputation points are awarded for activities directly linked to your profile and are only affected by upvotes from **users with over 250 reputation points**, ensuring fairness and authenticity.
 :::
 
-## What is reputation?
+Here's how reputation points are earned or lost (latest update: February 2024):
 
-**Reputation is how we measure how much the community trusts you.** It is earned by receiving positive feedback (such as upvotes) from other community members on comments you post and posts you write that are picked up by our feed. 
+| Activity | Points |
+| --- | --- |
+| Your post is upvoted* | **10** |
+| Your post is banned* | **-100** |
+| Your comment is upvoted | **50** |
+| Your comment is downvoted | **-10** |
+| You successfully report a post | **100** |
+| Your source suggestion is approved | **200** |
 
-The more reputation you earn, the more privileges you will gain and the more tools you'll have access to on daily.dev. That is intentional. We don’t run this site; the community does! Although specific privileges have not been announced yet, we encourage you to start building your reputation on the platform, as your points are **publicly visible on your profile.** 
+## Privileges Unlocked with Reputation
 
-## How do I earn reputation points?
-On 24th April 2022 we changed the way we calculated your reputation, the table below explains how we calculate your score currently (and the old scores for reference):
+Gaining reputation not only increases your influence but also unlocks special privileges:
 
-| Reputation Area | Old Scoring | **New Scoring** |
-| --- | --- | --- |
-| A post you wrote/scouted is upvoted* | 1 | **10** |
-| A post you wrote/scouted is banned* | N / A | **-100** |
-| A comment you wrote is upvoted | 1 | **50** |
-| You report a post and it is approved by a moderator and removed | 1 | **100** |
-| You suggest a new source that is approved and added to the daily.dev feed! 🎉 | N / A | **200** |
-| Your comment gets featured (deprecated) | 2 | **N / A** |
+* **Influence Others**: Surpassing 250 points allows your upvotes to contribute to others’ reputation, amplifying your impact within the community.
+* **Community Picks**: With over 250 points, you're invited to [submit links directly](../key-features/community-picks.md), engaging more deeply with content curation.
+* **Exclusive DevCard Themes**: Accumulating more points unlocks unique themes for your [DevCard](/devcard.md), personalizing your presence.
+* More to come soon...
 
- \* In order to gain or lose reputation from writing a post, the post must be attributed to you and show in your posts list on your profile. Also, please note that only upvotes from developers with more than 250 reputation points will count for the purpose of gaining reputation.  
+## Tips for Boosting Your Reputation
 
-### What counts towards reputation?
-We introduced a system where you only receive reputation from an upvote on your post or comment if the person who **casts that upvote** has at least 250 reputation. 
+Maximize your reputation through thoughtful participation:
 
-This ensures that people can't just add a new account and upvote their own post; only genuine users' votes are counted!
+1. Insightful Contributions: Offer unique perspectives or essential information to enrich discussions.
+2. Effective Summaries: Condense information, providing valuable overviews to save others time.
+3. Constructive Feedback: Highlight inaccuracies in a helpful manner, improving content reliability.
+4. Personal Stories: Share relatable dev anecdotes or humorous takes, adding personality and fun.
+5. Supportive Engagement: Positive interactions can significantly enhance the community spirit.
 
-### Starting reputation and minimum reputation
-Finally we changed the starting and minimum reputation.
+Strive for respectful and constructive contributions, fostering a welcoming and informative environment on daily.dev.
 
-The starting reputation used to be 1 point; we have changed it to 10 points to keep it inline with our new scoring.
+## Reputation is Entirely Optional
 
-Additionally it is not possible to get a negative reputation anymore. So reputation will never drop below 0!
-
-
-## Useful comments are the best and easiest way to gain points!
-We love comments that help others decide if a post is for them, support the author or offer valuable feedback.
-
-Here are a few tips on how you can make your comments better:
-* Try to help other users extract new insights from the post you’re commenting on
-* Write summaries so that other users can save time reading through the whole post
-* Warn if there’s a professional mistake in a post
-* Make a funny dev rant
-* Anything else you have in mind, as long as it is respectful and valuable
+You don't need reputation to enjoy the essentials: reading news, upvoting, and commenting. Dive into the dev conversations without it.
