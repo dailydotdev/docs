@@ -34,7 +34,7 @@ Gaining reputation not only increases your influence but also unlocks special pr
 
 * **Influence Others**: Surpassing 250 points allows your upvotes to contribute to others’ reputation, amplifying your impact within the community.
 * **Community Picks**: With over 250 points, you're invited to [submit links directly](../key-features/community-picks.md), engaging more deeply with content curation.
-* **Exclusive DevCard Themes**: Accumulating more points unlocks unique themes for your [DevCard](/devcard.md), personalizing your presence.
+* **Exclusive DevCard Themes**: Accumulating more points unlocks unique themes for your [DevCard](/your-profile/devcard.md), personalizing your presence.
 * More to come soon...
 
 ## Tips for Boosting Your Reputation
