@@ -37,8 +37,8 @@ Gaining reputation not only increases your influence but also unlocks special pr
 
 | Reputation Threshold | Privileges |
 | --- | --- |
-| 250+ | - Your upvotes contribute to others' reputation<br>- Eligible to submit links via [community picks](../key-features/community-picks.md)<br>- Can [suggest new sources](../for-content-creators/suggest-new-source.md) for the feed |
-| Various Points | - Unlock exclusive themes for your [DevCard](/your-profile/devcard.md) |
+| 250+ | Your upvotes contribute to others' reputation<br> Eligible to submit links via [community picks](../key-features/community-picks.md)<br> Can [suggest new sources](../for-content-creators/suggest-new-source.md) for the feed |
+| Various Points | Unlock exclusive themes for your [DevCard](/your-profile/devcard.md) |
 
 More to come soon...
 
