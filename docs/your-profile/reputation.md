@@ -17,35 +17,42 @@ Once you sign up to daily.dev you start with 10 points, reflecting the value of 
 Reputation points are awarded for activities directly linked to your profile and are only affected by upvotes from **users with over 250 reputation points**, ensuring fairness and authenticity.
 :::
 
-Here's how reputation points are earned or lost (latest update: February 2024):
+Here's how reputation points are earned or lost:
 
 | Activity | Points |
 | --- | --- |
-| Your post is upvoted* | **10** |
-| Your post is banned* | **-100** |
+| Your post is upvoted | **10** |
+| Your post is downvoted | **-10** |
+| Your post is banned or removed | **-100** |
 | Your comment is upvoted | **50** |
-| Your comment is downvoted | **-10** |
-| You successfully report a post | **100** |
-| Your source suggestion is approved | **200** |
+| Your comment is downvoted | **-50** |
+| You report a post and it got removed by a moderator | **100** |
+| Your source suggestion got approved | **200** |
+
+ > Last update: February 2024
 
 ## Privileges Unlocked with Reputation
 
 Gaining reputation not only increases your influence but also unlocks special privileges:
 
-* **Influence Others**: Surpassing 250 points allows your upvotes to contribute to others’ reputation, amplifying your impact within the community.
-* **Community Picks**: With over 250 points, you're invited to [submit links directly](../key-features/community-picks.md), engaging more deeply with content curation.
-* **Exclusive DevCard Themes**: Accumulating more points unlocks unique themes for your [DevCard](/your-profile/devcard.md), personalizing your presence.
-* More to come soon...
+| Reputation Threshold | Privileges |
+| --- | --- |
+| 250+ | Your upvotes contribute to others' reputation |
+| 250+ | Can [suggest new sources](../for-content-creators/suggest-new-source.md) for the feed |
+| 250+ | Eligible to submit links via [community picks](../key-features/community-picks.md) |
+| Various Points | Unlock exclusive themes for your [DevCard](/your-profile/devcard.md) |
+
+More to come soon...
 
 ## Tips for Boosting Your Reputation
 
 Maximize your reputation through thoughtful participation:
 
-1. Insightful Contributions: Offer unique perspectives or essential information to enrich discussions.
-2. Effective Summaries: Condense information, providing valuable overviews to save others time.
-3. Constructive Feedback: Highlight inaccuracies in a helpful manner, improving content reliability.
-4. Personal Stories: Share relatable dev anecdotes or humorous takes, adding personality and fun.
-5. Supportive Engagement: Positive interactions can significantly enhance the community spirit.
+* **Insightful contributions**: Offer unique perspectives or essential information to enrich discussions.
+* **Effective summaries**: Condense information, providing valuable overviews to save others time.
+* **Constructive Feedback**: Highlight inaccuracies in a helpful manner, improving content reliability.
+* **Personal stories**: Share relatable dev anecdotes or humorous takes, adding personality and fun.
+* **Supportive engagement**: Positive interactions can significantly enhance the community spirit.
 
 Strive for respectful and constructive contributions, fostering a welcoming and informative environment on daily.dev.
 
