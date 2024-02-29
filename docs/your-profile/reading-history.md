@@ -6,7 +6,7 @@ sidebar_position: 2
 
 ![](https://daily-now-res.cloudinary.com/image/upload/v1637591227/docs/488-865328617fc50e9468bc480f19d3107368a00833.jpg)
 
-## How does reading history works?
+## How does reading history work?
 
 At daily.dev, we understand that finding interesting posts and staying up-to-date with the latest content can be challenging, especially with the constantly changing feed algorithm. That's why we've introduced the reading history feature. When you read a post on daily.dev, it may disappear from your feed after several minutes due to the feed algorithm. However, with reading history, you can easily access all the posts you have read to date, ensuring that you never lose track of the valuable content you've discovered.
 
