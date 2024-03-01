@@ -8,13 +8,13 @@ sidebar_position: 4
 
 Discussions are a valuable way to engage with the professional developer community on daily.dev and share insights on various topics!
 
-As a professional network for developers, we highly value the opportunity for our community members to participate in public discussions. Discussions allow you to share your thoughts, insights, and experiences related to a post or topic, and contribute to the collective knowledge of the community.
+As a professional network for developers, we highly value the opportunity for our community members to participate in public discussions. Discussions allow you to share your thoughts, insights, and experiences related to a post or topic and contribute to the community's collective knowledge.
 
 Participating in discussions can benefit you in several ways:
-1. Gain insights from others: Discussions provide an opportunity to learn from other experienced developers who have read the post. You can gain additional insights, perspectives, and tips that can enhance your understanding of the topic.
+1. Gain insights from others: Discussions provide an opportunity to learn from other experienced developers who have read the post. You can gain additional insights, perspectives, and tips to enhance your understanding of the topic.
 
 2. Share your expertise: If you have expertise in a particular area, participating in discussions allows you to share your knowledge and contribute to the community. Your insights and experiences can provide valuable information to others and help foster meaningful discussions.
-3. Build your professional network: Engaging in discussions can help you connect with like-minded professionals in your industry. You can build relationships, expand your network, and establish your reputation as a knowledgeable and engaged member of the community.
+3. Build your professional network: Engaging in discussions can help you connect with like-minded professionals in your industry. You can build relationships, expand your network, and establish your reputation as a knowledgeable and engaged community member.
 4. Enhance your profile: By actively participating in discussions, you can showcase your expertise and build your professional brand. Your comments and insights can be viewed by other community members, including potential employers or collaborators, which can help you establish yourself as a thought leader in your field.
 5. Stay up-to-date with industry trends: Discussions often revolve around current trends, technologies, and best practices. By participating in discussions, you can stay updated with the latest industry developments, learn from others' experiences, and stay ahead in your professional journey.
 
@@ -22,13 +22,13 @@ Participating in discussions can benefit you in several ways:
 
 Click on any post in the feed to see the post modal.
 
-Beneath the title, TLDR and post image you can see all the comments on the post.
+Beneath the title, TLDR (Now powered by Open AI!) and post image you can see all the comments on the post.
 
-You can be upvote (1), reply (2) to and share (3) individual comments. You can also see the number of upvotes a comment has on the right (4).
+You can upvote (1), reply (2) to and share (3) individual comments. You can also see the number of upvotes a comment has on the right (4).
 
 <img src="https://daily-now-res.cloudinary.com/image/upload/v1663541915/docs-v2/discussions-1.jpg" alt='post modal with lower half highlighted. On one comment there is a highlight showing the upvote button (1), the comment button (2), the share button (3) and the number of upvotes (4)' width="990" height="1600" />
 
-or you can add your own comment on the post itself.
+Or you can add your own comment on the post itself.
 
 ## Add a comment
 
@@ -65,21 +65,21 @@ We only support pure markdown in comments, HTML will be converted to plain text.
 
 ### @Mention people!
 
-You can @mention people in comments! Simply type the <kbd>@</kbd> character and start writing the first few characters of their name.
+You can @mention people in the comments! Simply type the <kbd>@</kbd> character and start writing the first few characters of their name.
 
 <img src="https://daily-now-res.cloudinary.com/image/upload/v1663541915/docs-v2/discussions-3.jpg" alt='Comment modal highlighting the @mention drop-down (6)' width="960" height="540" />
 
-A list of matches will appear based on what you write, select the person you want to mention (6) and it will auto complete their name for you. 
+A list of matches will appear based on what you write, select the person you want to mention (6) and it will auto-complete their name for you. 
 
-Once you post the comment they will be notified that you mentioned them (if they have notifications switched on)
+Once you post the comment, they will be notified that you mentioned them (if they have notifications switched on)
 
 ### Preview your comment
 
-When writing a comment you can click on the "Preview" button at the top of the modal to check your comment looks great before posting!
+When writing a comment, you can click on the "Preview" button at the top of the modal to check your comment looks great before posting!
 
 ## Additional features
 
-We built some great and informative quality of life items into the post modal, such as:
+We built some great and informative quality-of-life items into the post-modal, such as:
 
 ### post meta data
 
