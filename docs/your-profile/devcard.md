@@ -34,3 +34,7 @@ Download the DevCard X header image to give people a snapshot of the kind of dev
 Once you've generated your DevCard, you can add it to your GitHub profile or embed it in your website. This can be a great way to highlight your interests, achievements, and engagement with daily.dev to fellow developers and potential employers.
 
 Here's the [full tutorial](https://daily.dev/blog/adding-the-daily-devcard-to-your-github-profile)
+
+A Video Version:
+
+<iframe width="700" height="400" src="https://www.youtube.com/embed/tOIZnXK81Q0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
