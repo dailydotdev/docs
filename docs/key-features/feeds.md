@@ -2,6 +2,9 @@
 sidebar_position: 1
 ---
 
+![image](https://github.com/dailydotdev/docs/assets/18360871/910c2096-d70b-4b5a-a514-765745bb4b44)
+
+
 # Feeds
 
 There are four feeds on daily.dev, each with its own ranking logic:
@@ -21,7 +24,7 @@ Your feed contains posts that are relevant to you and your interests (once you h
 
 ### Creating your personal feed
 
-If you are new to daily.dev, the first thing we strongly recommend is setting up filters on your feed. This will unlock the true power of daily.dev, showing posts that are relevant to your interests.
+If you are new to daily.dev, we strongly recommend setting up filters on your feed first. This will unlock the true power of daily.dev, showing posts that are relevant to your interests.
 
 
 There are three guides to help you get the most out of your feed:
@@ -62,10 +65,11 @@ By default, there is a drop-down menu that allows you to change the order of the
 
 <img src="https://daily-now-res.cloudinary.com/image/upload/v1663528971/docs-v2/feeds-2.jpg" alt='Customize modal with the "Show feed sorting menu" toggle highlighted (2)' width="900" height="900" />
 
-3. Go back to the popular feed, and you should see a new sorting option in the upper right corner (3).
+3. Go back to the popular feed, and you should see a new sorting option in the upper left corner (3).
 4. You can then choose to change the feed to sort either "By Date" or by "Recommended" (4).
 
-<img src="https://user-images.githubusercontent.com/18360871/273930544-6d870771-259b-4023-925c-15f08a593526.png" alt='The drop-down located top right of the "Popular" feed is highlighted (3). The drop-down is open showing "Recommended" and "By date" as options (4)' width="900" height="900" />
+<img src="![image](https://github.com/dailydotdev/docs/assets/18360871/55e0e66b-fae8-4408-a2ae-09e84a7bfff0)
+" alt='The drop-down located top right of the "Popular" feed is highlighted (3). The drop-down is open, showing "Recommended" and "By date" as options (4)' width="900" height="900" />
 
 ## Most upvoted feed
 
@@ -85,4 +89,4 @@ There are three options (6):
 
 ## Best discussions feed
 
-In the "Best Discussions" feed, we showcase the most interesting discussions currently taking place on daily.dev. The ranking is determined by multiple factors, including the reputation levels of the people who commented, the freshness of the comments, and the number of upvotes on the comments, among others. This feed is designed to help you find engaging and interesting discussions that you can participate in!
+In the "Best Discussions" feed, we showcase the most interesting discussions currently taking place on daily.dev. The ranking is determined by multiple factors, including the reputation levels of the people who commented, the freshness of the comments, and the number of upvotes on the comments, among others. This feed is designed to help you find engaging and interesting discussions to participate in!
