@@ -10,6 +10,7 @@ sidebar_position: 3
 The preferences options enable you to fine-tune your user experiences of daily.dev by toggling some options on/off. Currently, the available options are:
 
 - Open links in new tab
+- Show custom shortcuts
 - Show feed sorting menu
 - Show Weekly Goal widget
 - Enable companion widget
@@ -23,6 +24,15 @@ By default, when you click on a post link on your feed (using the `Read post` bu
 Turning this toggle switch on will add a dropdown menu to My feed and Popular feed, enabling you to sort these feeds `By date` or by `Recommended` as seen in the image below:
 
 ![](https://daily-now-res.cloudinary.com/image/upload/v1695752384/docs-v2/show-feed-sorting-menu.png)
+
+## Show custom shortcuts
+
+By enabling this option, you will have access to custom shortcuts at the top right of your feed
+
+![image](https://github.com/dailydotdev/docs/assets/18360871/da5738bc-475b-4dee-a811-dd7d90a1a704)
+
+
+
 
 ## Show Weekly Goal widget
 
