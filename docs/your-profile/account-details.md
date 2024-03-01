@@ -23,7 +23,7 @@ On the account settings page, you can edit various personal information, includi
 * Social Media Accounts: You can add links to your Twitter profile, GitHub profile, etc. 
 * Website: You can add or edit your personal website or any other URL.
 
-<img src="https://daily-now-res.cloudinary.com/image/upload/v1681304027/docs/Update%20April%202023/Screenshot_2023-04-12_at_15.52.19.png" alt='Highlight of the profile details menu' width="900" height="100%" />
+<img src="https://github.com/dailydotdev/docs/assets/18360871/73edb08f-b1df-4a51-b9ec-b4141a36876b" alt='Highlight of the profile details menu' width="900" height="100%" />
 
 ## Security settings
 
@@ -35,7 +35,8 @@ At daily.dev, we prioritize the security of your account information. You have c
 4. Set and Change Password: You can set and change your password to ensure that your account is protected with a strong and unique password. This helps prevent unauthorized access to your daily.dev profile.
 5. Delete Your Account: If you wish to delete your daily.dev account, you have the option to do so. Please note that this action is irreversible and will result in the permanent deletion of your account information and data. [Learn more](/your-profile/deleting-your-profile.md)
 
-<img src="https://daily-now-res.cloudinary.com/image/upload/v1681304027/docs/Update%20April%202023/Screenshot_2023-04-12_at_15.52.31.png" alt='Highlight of the Security settings menu' width="900" height="100%" />
+
+<img src="https://github.com/dailydotdev/docs/assets/18360871/70b9d888-6e32-4473-b2f9-b335db39c1ba" alt='Highlight of the Security settings menu' width="900" height="100%" />
 
 ## Notification settings
 
@@ -45,7 +46,13 @@ At daily.dev, we offer customizable notification settings to keep you informed a
 2. Email Notifications: You can also choose to turn on or off email notifications from daily.dev. Email notifications are sent to your registered email address and provide you with updates and important information about your daily.dev profile.
 3. Configure Email Notification Settings: If you have chosen to receive email notifications, you can further customize the types of notifications you want to receive. 
 
-<img src="https://daily-now-res.cloudinary.com/image/upload/v1681304027/docs/Update%20April%202023/Screenshot_2023-04-12_at_15.52.43.png" alt='Highlight of the Notification settings menu' width="900" height="100%" />
+<img src="https://github.com/dailydotdev/docs/assets/18360871/5365118b-43b0-4346-a235-0cdc2a86cb72" alt='Highlight of the Notification settings menu' width="900" height="100%" />
+
+## Invite friends
+
+You can invite your friends to daily.dev! Just click the "Copy link" button and share it wherever you want!
+
+<img src="https://github.com/dailydotdev/docs/assets/18360871/60b5f0c2-1dfd-459b-82f2-0287cfc1572f" alt='Highlight of the Notification settings menu' width="900" height="100%" />
 
 ## Other settings
 
