@@ -6,7 +6,7 @@ sidebar_position: 0
 
 The activity stats on your daily.dev profile provide insights into your reading habits, favorite tags, badges earned from the weekly goal, as well as your posts and comments made on the platform. These stats help you track your progress, interests, and engagement on daily.dev.
 
-<img src="https://daily-now-res.cloudinary.com/image/upload/v1681305180/docs/Update%20April%202023/WhatsApp_Image_2023-03-20_at_15.19.31.jpg" alt='Highlight of the profile stats' width="900" height="100%" />
+<img src="https://github.com/dailydotdev/docs/assets/18360871/c073ca35-e9f1-46df-9cd3-bbf68734ecd9" alt='Highlight of the profile stats' width="900" height="100%" />
 
 ## Badges from Weekly Goal
 
