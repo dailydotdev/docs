@@ -18,7 +18,7 @@ Sure! Just click the “more options” button on any collection card/post and s
 
 ## Can I see all Collections similar to all Community Picks?
 
-Of course! :)  Check our feed exclusively for Collection posts: <https://app.daily.dev/sources/collections>
+Of course! :)  Check our feed exclusively for Collection posts: https://app.daily.dev/sources/collections
 
 ## Can I see all the Collections that I'm subscribed to?
 
