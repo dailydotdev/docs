@@ -4,10 +4,22 @@ sidebar_position: 11
 
 # Collections
 
- Tired of reading blogs or articles to get information about the latest trends? Weep no more fellow techies! :) You can now watch [Ben Holmes](https://app.daily.dev/sources/bholmes), [Fireship](https://app.daily.dev/sources/fireship), and your other favorite tech YouTubers on daily.dev!
+ Want to get the latest tech news and drama, but tired of sifting through countless posts? Well now you can through our collections feature! :)
 
 ![image](https://github.com/dailydotdev/docs/assets/18360871/2663d24c-45bb-4bce-b676-6b3bb68efba6)
 
-## Help Us Grow Our List
+## How are Collections formed?
 
-Feeling like our list is missing some people? Write your suggestions in the [comment section of our release post](https://app.daily.dev/posts/7yqkWkdLc)
+When our search engine detects two or more posts that talk about the same topic, they’re automatically grouped into one post/card. with a brief summary of the the topic.
+
+## Can I turn off the Collections in my feed?
+
+Sure! Just click the “more options” button on any collection card/post and select `Don't show posts from Collections`.
+
+## Can I see all Collections similar to all Community Picks?
+
+Of course! :)  Check our feed exclusively for Collection posts: <https://app.daily.dev/sources/collections>
+
+## Can I see all the Collections that I'm subscribed to?
+
+Currently, there’s no feature to view a list of Collections you’re subscribed to.
