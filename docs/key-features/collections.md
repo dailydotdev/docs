@@ -5,7 +5,8 @@ sidebar_position: 11
 # Collections
 
  Want to get the latest tech news and drama but tired of sifting through countless posts? Well, now you can go through our collections feature! :)
-![image](https://github.com/dailydotdev/docs/assets/18360871/38f254d3-a237-4f34-b4a7-22dafa4b2830)
+![image](https://github.com/dailydotdev/docs/assets/18360871/71a4b3ea-16f8-427a-804a-7f57589e78bd)
+
 
 
 ## How are Collections formed?
