@@ -28,6 +28,9 @@ On the other hand, downvotes are used to indicate that a you didn't find a post 
 2. Even though the number of downvotes is private and not visible to anyone, each downvote still impacts the post's ranking in the feed.
 3. After downvoting, you can take follow-up actions such as [blocking the source or tags](../setting-up-your-feed/blocking-tags-sources.md) associated with the post or even reporting the post if you find it inappropriate or irrelevant.
 
+![alt text](https://github.com/dominicOT/docs/blob/main/docs/key-features/Screenshot%20(47).png)
+
+
 ## How to Upvote
 
 To upvote a post in daily.dev, simply click on the bottom-left button (1) on the post card. Your upvote will contribute to the community's feedback and appreciation for the content.
