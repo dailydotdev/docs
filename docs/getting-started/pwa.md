@@ -23,8 +23,6 @@ To add a shortcut to the daily.dev PWA on iOS and iPadOS:
 2. Tap the Share button, then select "Add to Home Screen".
 3. Follow the prompts to add the shortcut to your iPhone Home screen for quick access.
 
-![a GIF illustrating how to add the PWA to your iPhone's Home Screen](https://cloud.headwayapp.co/changelogs_images/images/big/000/106/630-0666a9845704a978a2d64a27bcc5a385a3de265f.gif)
-
 For more information read the [official guide](https://support.apple.com/en-il/guide/iphone/iph42ab2f3a7/ios) by Apple.
 
 ## How can I add daily.dev to my home screen on Android?
