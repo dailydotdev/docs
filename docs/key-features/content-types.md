@@ -92,7 +92,7 @@ Original? No. Effective? Yes.
 
 ### How are Collections formed?
 
-When our search engine detects two or more posts that talk about the same topic, they’re automatically grouped into one post/card, with a brief summary of the topic.
+When our content engine detects two or more posts that talk about the same topic, they’re automatically grouped into one post/card, with a brief summary of the topic.
 
 Collections take all the news that has come out on the same topic from multiple sources and creates a concise, complete summary of what’s going on. As new articles come out, the Collection is updated so that it gives you the latest overview of everything you need to know.
 
