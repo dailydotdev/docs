@@ -15,13 +15,13 @@ All you need to do is to visit this URL: https://app.daily.dev
 * Easy installation: Adding the daily.dev PWA to your home screen on iOS and Android is quick and simple, providing you with one-tap access to your developer news.
 * Regular updates: As a PWA, daily.dev is continuously updated with new features and improvements, ensuring you have the latest and greatest experience every time you use it.
 
-## Adding daily.dev to your home screen on iPhone and iPad
+## Adding daily.dev to your home screen on iPhone, iPad and Mac
 
-To add a shortcut to the daily.dev PWA on iOS and iPadOS:
+To add a shortcut to the daily.dev PWA on iOS, iPadOS or MacOS:
 
 1. Open the daily.dev web app on Safari browser.
 2. Tap the Share button, then select "Add to Home Screen".
-3. Follow the prompts to add the shortcut to your iPhone Home screen for quick access.
+3. Follow the prompts to add the shortcut to your device's Home screen for quick access.
 
 For more information read the [official guide](https://support.apple.com/en-il/guide/iphone/iph42ab2f3a7/ios) by Apple.
 
