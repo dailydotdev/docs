@@ -1,3 +1,12 @@
+## [0.4.1](https://github.com/dailydotdev/docs/compare/v0.4.0...v0.4.1) (2024-04-12)
+
+
+### Bug Fixes
+
+* missing space ([#308](https://github.com/dailydotdev/docs/issues/308)) ([c71d1db](https://github.com/dailydotdev/docs/commit/c71d1db4ffaf2d16df9f80bdb8e5df1fa3109569))
+
+
+
 # [0.4.0](https://github.com/dailydotdev/docs/compare/v0.3.1...v0.4.0) (2024-02-27)
 
 
@@ -31,15 +40,6 @@
 ### Bug Fixes
 
 * better explanation for what blocking a user does ([#271](https://github.com/dailydotdev/docs/issues/271)) ([41e4123](https://github.com/dailydotdev/docs/commit/41e4123c3b14ffb02c2fd04db5129bf80b9c0a4a))
-
-
-
-# [0.2.0](https://github.com/dailydotdev/docs/compare/v0.1.3...v0.2.0) (2024-01-18)
-
-
-### Features
-
-* latest updates to our content guidelines in 2024 ([#270](https://github.com/dailydotdev/docs/issues/270)) ([36ba98a](https://github.com/dailydotdev/docs/commit/36ba98aeb8370557bdb9064815973d0f7792246a))
 
 
 
