@@ -73,4 +73,4 @@ Keep in mind that we can only add posts that we're already picked up by daily.de
 
 ## How to get your content featured on daily.dev?
 
-Check out this guide about[getting featured on daily.dev](/for-content-creators/how-to-get-featured.md).
+Check out this guide about [getting featured on daily.dev](/for-content-creators/how-to-get-featured.md).
