@@ -48,6 +48,8 @@ In our ongoing effort to maintain a balanced content inventory on the platform, 
 
 ❌ Content from sources that were not active in the past three months or more.
 
+❌ Content that uses clickbait titles or persuasive tactics primarily aimed at getting people to click on it without delivering substantial value or relevant information.
+
 ❌ Content from sources that don't provide an RSS feed or Atom feed available for public use.
 
 ❌ Content about politically-oriented topics.
