@@ -41,7 +41,7 @@ const FeatureList = [
       {url: "docs/your-profile/activity", text: "Activity"},
       {url: "docs/your-profile/reputation", text: "Reputation explained"},
       {url: "docs/your-profile/reading-history", text: "Reading history"},
-      {url: "docs/your-profile/weekly-goal", text: "Weekly Reading Goal"},
+      {url: "docs/your-profile/reading-streak", text: "Reading streak"},
       {url: "docs/your-profile/devcard", text: "DevCard"},
       {url: "docs/your-profile/account-details", text: "Account details"},
       {url: "docs/your-profile/deleting-your-profile", text: "Deleting your profile"},

@@ -32,19 +32,6 @@ By enabling this option, you will have access to custom shortcuts at the top rig
 ![image](https://github.com/dailydotdev/docs/assets/18360871/da5738bc-475b-4dee-a811-dd7d90a1a704)
 
 
-
-
-## Show Weekly Goal widget
-
-![](https://daily-now-res.cloudinary.com/image/upload/v1695752384/docs-v2/Weekly-goal.png)
-
-This widget handles the [Weekly Reading Goal](https://docs.daily.dev/docs/your-profile/weekly-goal) feature for daily.dev. The Weekly Reading Goal feature ranks users based on the number of days in which a user has read at least one post. This feature helps daily.dev readers form a reading habit.
-
-So by turning this toggle switch `off`, you will no longer see the
-[weekly goal widget](https://docs.daily.dev/docs/your-profile/weekly-goal) in your sidebar as seen in the image below:
-
-![](https://daily-now-res.cloudinary.com/image/upload/v1695752384/docs-v2/No-weekly-goal.png)
-
 ## Enable companion
 
 Turning this toggle switch `on` will activate the [companion widget](https://docs.daily.dev/docs/key-features/the-companion), and turning this toggle switch `off` will deactivate the companion widget.
