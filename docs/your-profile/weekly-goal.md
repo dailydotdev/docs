@@ -2,73 +2,70 @@
 sidebar_position: 3
 ---
 
-# Weekly Reading Goal
+# Reading Streaks
 
 :::note
-We recently applied a significant change to the Weekly Goal, resulting in a misalignment of goals between the Web App and the Browser Extension. To fix it, make sure you update your browser extension to v3.15.0 or later.
+The previous version of Reading Streaks, called Weekly Goal, has been sunset as of May 2024.
 :::
 
-![](https://daily-now-res.cloudinary.com/image/upload/v1644761151/docs/New_Ranks.png)
+![Milestone Pop-up](https://daily-now-res.cloudinary.com/image/upload/v1719905254/docs/mTR8YyOxU_1.webp)
 
-## What is the Weekly Goal?
+## Introduction to Reading Streaks
 
-Staying up to date requires us to **form a habit**. With daily.dev, creating such a habit is easier than ever before since you get all the content you need in one place! We built some extra stuff to help make this habit a bit more fun! That's what we call `Weekly Goals`!
+Creating a reading habit can significantly impact your personal and professional growth. Continuous learning keeps you updated with the latest trends, tools, and best practices in your field. To help you maintain this habit, we've introduced **Reading Streaks**. This feature provides motivation by celebrating your dedication to staying updated. Here's how it works:
 
-## How does the Weekly Goal work?
+## How It Works
 
-The metric we use to count the Weekly Goals is fairly simple, and we call it `Reading Days`. You need to read at least one post per day to increase your reading days. The more reading days you nail, the higher the rank you will earn in a given week:
+### Milestones and Notifications
 
-| Reading Days 	| Rank      	|
-|--------------	|-----------	|
-| 1            	| 🖤 Iron      	|
-| 2            	| 🧡 Bronze    	|
-| 3            	| 🤍 Silver    	|
-| 4            	| 💛 Gold      	|
-| 5            	| 💙 Platinum  	|
-| 6            	| 💜 Diamond   	|
-| 7            	| ❤️‍🔥 Legendary 	|
+Celebrate your reading streak milestones with congratulatory pop-ups. Milestones follow a Fibonacci series. You can opt out of these notifications anytime.
 
-### How we count ranks
+![Milestone Pop-up](https://daily-now-res.cloudinary.com/image/upload/v1719905253/docs/content_376c6ea1-ab0b-4402-bddb-d4ac5c28d237.webp)
 
-1. Ranks are being counted based on your **reading days**
-2. Every week you can earn a **new rank**
-3. Weeks are calculated from **Monday to Monday** (see the tip below)
-4. When a rank is achieved, it will be **displayed in your sidebar** throughout the week and subsequent week
-5. During the next week, you will need to **re-earn it**
+### Reading Streak Icon
 
-:::tip
-To sync your Weekly Goal with your current time zone, go to Account details -> Add time zone.
-:::
+On the top right, you'll see the reading streak icon. It shows a flame once you've read the first post of the day. Before that, it appears as an empty icon outlined by a dotted line.
 
-## Reading status per tag
+![Reading Streak Icon](https://daily-now-res.cloudinary.com/image/upload/v1719905253/docs/content_7bdd0401-c9cd-45ab-88e0-45b49197e34f.webp)
 
-In your Weekly Reading Goal popup, we also made it easier to understand what type of content you are reading! Since daily.dev is all about staying up to date, we thought it would be nice to show how updated you are based on the tags you read! Check it out here:
+### Streak Tracking
 
-![](https://daily-now-res.cloudinary.com/image/upload/v1644761668/docs/Screen_Shot_2022-02-13_at_16.14.20.png)
+Click on the reading streak icon to view your reading activity for the past week, including days read and skipped. The widget also displays your longest streak and total reading days since joining daily.dev.
 
-## Where do you see the ranks you've earned?
+![Streak Tracking Widget](https://daily-now-res.cloudinary.com/image/upload/v1719905253/docs/content_ab5fd98a-3e8a-4c64-b4fe-c103ee92fdf7.webp)
 
-All the ranks you earned will appear **on your profile** (assuming you're a registered member of our community)!
+### Weekend Freeze
 
-In your profile you'll be able to see:
-1. All the **ranks you earned** over time
-2. Your **top tags** counted by reading days
-3. A GitHub-style matrix of the **posts you read**
+Weekends are grayed out, and skipping them won't break your streak. If you read on weekends, those days are counted in your streak and marked with a flame.
 
-:::tip
-Try to use the dropdown menu to change the date range in the `Activity` section of your profile. Using this option, you will see how your performance changed over time.
-:::
+## What Counts as a Reading Day?
 
-![](https://daily-now-res.cloudinary.com/image/upload/v1644761730/docs/Upgraded_personal_stats.png)
+For most content types on daily.dev, you need to go and read/watch the original content for it to qualify as a reading day. Simply clicking on a post in the feed isn't enough; you must click "Read post" or "Watch video" and consume the content for it to count. There are some exceptions, like Squad posts, where clicking on them inside daily.dev is sufficient. Additionally, it's not enough to simply log in to daily.dev once a day; you must consume something every day (except weekends) to maintain a streak.
 
-## Opt out from the Weekly Goal
+## Customizing Your Reading Streak
 
-Following some recent feedback, we realized that some people feel stressed due to the weekly Goal. Since we aim to help people create a reading habit, we added an option to opt-out of the Weekly Goal. You will no longer see the Weekly Goal widget in your sidebar by opting out.
+### Enabling/Disabling Reading Streak
 
-To opt-out, follow these steps: 
-1. Go to the `Customize` menu on the sidebar
-2. Switch off the `Show Weekly Goal widget` toggle
+You can toggle the reading streak feature on or off. Navigate to "Customize" on the sidebar and use the toggle option.
 
-:::note
-The Weekly Goal also serves to establish social proof in the daily.dev community. Therefore, the opt-out option is designed to mitigate the "stressful" aspects it may create. After opting out, you will no longer see the Weekly Goal widget in the sidebar, but you will still be enrolled in the weekly Goal as a program, which means that your ranks and achievements will still appear on your profile page.
-:::
+![Enable/Disable Reading Streak](https://daily-now-res.cloudinary.com/image/upload/v1719905253/docs/content_5508690a-ba29-4d47-94cb-4cb714ca948c.webp)
+
+### Streak Reminders
+
+To avoid breaking your streak, a reminder notification is sent at 20:00 in your local time if you're about to lose your streak. You can [enable or disable these notifications](https://app.daily.dev/account/notifications) by navigating to your profile image 👉 account details 👉 notifications. You can also manage this via the reading streak modal.
+
+![Notification Settings](https://daily-now-res.cloudinary.com/image/upload/v1719905253/docs/content_27fd1816-4348-4624-a6f2-faceb2d68605.webp)
+
+### Profile Integration
+
+Your longest streak and total reading days are featured on your profile, showcasing your dedication and consistency.
+
+### DevCard Integration
+
+Your longest streak is displayed on your profile and your [DevCard](https://app.daily.dev/devcard), allowing you to showcase your dedication. Check out a sample below 👇#notsohumblebrag
+
+![DevCard Integration](https://daily-now-res.cloudinary.com/image/upload/v1719905253/docs/content_b4284768-370f-45f0-ad18-b94699badcee.webp)
+
+## Public Leaderboard
+
+We have a [public leaderboard](https://app.daily.dev/users) that features community members with the longest streaks and the most reading days in general. Check it out to see where you stand and get inspired by the top readers in our community.
