@@ -40,7 +40,11 @@ Weekends are grayed out, and skipping them won't break your streak. If you read 
 
 ## What Counts as a Reading Day?
 
-For most content types on daily.dev, you need to go and read/watch the original content for it to qualify as a reading day. Simply clicking on a post in the feed isn't enough; you must click "Read post" or "Watch video" and consume the content for it to count. There are some exceptions, like Squad posts, where clicking on them inside daily.dev is sufficient. Additionally, it's not enough to simply log in to daily.dev once a day; you must consume something every day (except weekends) to maintain a streak.
+For most content types on daily.dev, you need to go and read/watch the original content for it to qualify as a reading day. Simply clicking on a post in the feed isn't enough; you must click "Read post" and consume the content for it to count. For video content, it counts as a view just by opening the post since you can watch the video in the embedded player. There are some other exceptions, like Squad posts, where clicking on them inside daily.dev is sufficient. 
+
+:::note
+Additionally, it's not enough to simply log in to daily.dev once a day; you must consume something every day (except weekends) to maintain a streak.
+:::
 
 ## Customizing Your Reading Streak
 
