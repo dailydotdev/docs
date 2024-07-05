@@ -68,7 +68,7 @@ Your longest streak and total reading days are featured on your profile, showcas
 
 Your longest streak is displayed on your profile and your [DevCard](https://app.daily.dev/devcard), allowing you to showcase your dedication. Check out a sample below 👇#notsohumblebrag
 
-![DevCard Integration](https://daily-now-res.cloudinary.com/image/upload/v1719905253/docs/content_b4284768-370f-45f0-ad18-b94699badcee.webp)
+![DevCard Integration](https://raw.githubusercontent.com/omBratteng/omBratteng/devcard/devcard-background.webp)
 
 ## Public Leaderboard
 
