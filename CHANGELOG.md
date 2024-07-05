@@ -1,3 +1,12 @@
+# [0.5.0](https://github.com/dailydotdev/docs/compare/v0.4.1...v0.5.0) (2024-07-05)
+
+
+### Features
+
+* use real-time devcard example ([#323](https://github.com/dailydotdev/docs/issues/323)) ([6b50fb3](https://github.com/dailydotdev/docs/commit/6b50fb3b7b7974603d3d4cbabb3b0b27155f4d3f))
+
+
+
 ## [0.4.1](https://github.com/dailydotdev/docs/compare/v0.4.0...v0.4.1) (2024-04-12)
 
 
@@ -31,15 +40,6 @@
 ### Features
 
 * new page for public squads ([#279](https://github.com/dailydotdev/docs/issues/279)) ([46e2097](https://github.com/dailydotdev/docs/commit/46e2097174eb924c1af6983ef36a312da76d9a22))
-
-
-
-## [0.2.1](https://github.com/dailydotdev/docs/compare/v0.2.0...v0.2.1) (2024-01-21)
-
-
-### Bug Fixes
-
-* better explanation for what blocking a user does ([#271](https://github.com/dailydotdev/docs/issues/271)) ([41e4123](https://github.com/dailydotdev/docs/commit/41e4123c3b14ffb02c2fd04db5129bf80b9c0a4a))
 
 
 
