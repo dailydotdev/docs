@@ -5,7 +5,7 @@ sidebar_position: 100
 Welcome to the daily.dev community! Join us on our various social media channels to stay updated with the latest news, events, educational content, giveaways, and more related to daily.dev.
 
 ## Changelog
-Stay up-to-date with the latest changes and updates on daily.dev by checking out our [changelog](https://changelog.daily.dev/).
+Stay up-to-date with the latest changes and updates on daily.dev by checking out our [changelog]([https://changelog.daily.dev/](https://app.daily.dev/squads/daily_updates)).
 
 ## Twitter
 Follow us on Twitter [@dailydotdev](https://twitter.com/dailydotdev) for the latest news, updates, educational content, giveaways, and engaging discussions related to daily.dev.
