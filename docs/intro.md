@@ -18,7 +18,9 @@ We want you to get the most out of daily.dev, so we've put together this quick s
 
 ### Step 1: Install 🚀
 
-You can use daily.dev as a [browser extension](/getting-started/browser-extension-installation.md) or as a [progressive web app (PWA)](/getting-started/pwa.md). We recommend the browser extension, as it sets your new tab to show daily.dev and helps you develop a good reading habit. But don't worry, you can always pause the new tab functionality if you need to focus!
+You can use daily.dev as a [browser extension](/getting-started/browser-extension-installation.md) or as a [progressive web app (PWA)](/getting-started/pwa.md). Also available on the Google Play store as [Android app](https://play.google.com/store/apps/details?id=dev.daily)
+
+We recommend the browser extension, which sets your new tab to show daily.dev and helps you develop a good reading habit. But don't worry, you can always pause the new tab functionality if you need to focus!
 
 ### Step 2: Set up your feed 🎯
 
@@ -30,7 +32,7 @@ Check out some of our [key features](/key-features/feeds.md) and start engaging 
 
 ### Step 4: Build your presence 🦸
 
-Although you don't have to register with daily.dev, we highly recommend it so you can [create a profile](/your-profile/activity.md). With a profile, you can comment on posts, upvote, bookmark useful posts, showcase your reading with our DevCard, and much more!
+On daily.dev, You can [create a profile](/your-profile/activity.md). With a profile, you can comment on posts, upvote, bookmark useful posts, showcase your reading with our DevCard, and much more!
 
 ### Step 5: Customize the look and feel 🌈
 
