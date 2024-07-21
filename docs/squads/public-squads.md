@@ -30,7 +30,8 @@ Public Squads stand out in several ways:
 
 1. **Start your Squad**: [Create a Squad](https://app.daily.dev/squads/new) with a clear theme or focus.
 2. **Post your content**: Post at least five representative posts that align with your Squad's ongoing content style.
-3. **Apply for review**: Submit your Squad for review within the app. Once your Squad passes the review process, it will automatically become Public.
+3. **Earn reputation**: Ensure the Squad admin has at least 100 [reputation points](../your-profile/reputation.md).
+4. **Apply for review**: Submit your Squad for review within the app. Once your Squad passes the review process, it will automatically become Public.
 
 :::tip
 ### How to increase your chances to pass the review process?
