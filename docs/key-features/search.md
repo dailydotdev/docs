@@ -4,10 +4,7 @@ sidebar_position: 2
 
 # Search
 
-<video loop autoPlay muted width="100%">
-    <source src="https://daily-now-res.cloudinary.com/video/upload/v1695814691/search_daily_dev_dkqm25_jae0jq.webm" type="video/webm" />
-    <source src="https://daily-now-res.cloudinary.com/video/upload/s--ldicxh37--/v1694071721/search_daily_dev_dkqm25.mp4" type="video/mp4" />
-</video>
+![Search Screenshot](https://res.cloudinary.com/daily-now/image/upload/s--qE_clJVd--/f_auto/v1709219206/ugc/content_87571061-784f-4022-ac3b-457ad86b74ba)
 
 ## What is daily.dev Search?
 
@@ -34,6 +31,7 @@ Here are some of its most impactful features:
 * **Supports Markdown**: We understand the day-to-day needs of developers. That's why we designed daily.dev Search to support Markdown, making it incredibly easy for you to copy and paste code snippets, commands, and other answers into your projects or notes.
 * **Highly Convenient**: What could be more convenient than having an advanced search engine built right into your new tab? With daily.dev Search, you won't need to juggle between tabs or applications. It's always there, waiting to assist you whenever you need it.
 * **Search History**: Stores all your previous search queries that you've done on daily.dev into Search History and [Reading History](https://docs.daily.dev/docs/your-profile/reading-history#how-does-reading-history-work). This enables you to revisit your past queries without having to remember the exact terms or retype them. A convenient way to keep track of the topics you've explored or problems you've been troubleshooting.
+* **Smoother keyboard navigation**: We've updated daily.dev Search with keyboard shortcuts like <kbd> ⌘</kbd> + <kbd> K </kbd> (Mac) or <kbd> Ctrl</kbd> + <kbd> K</kbd> (PC) for easier result navigation. Now, you can easily navigate through your search results with ease.
 
 :::info
 Missing the previous search? As we innovate, we've renamed our old search engine to [Post Finder](https://app.daily.dev/posts/finder), now accessible via the sidebar. This change aligns with our goal to provide a more efficient and comprehensive search experience. Thank you for evolving with us.
@@ -43,7 +41,7 @@ Missing the previous search? As we innovate, we've renamed our old search engine
 
 One of the standout features of daily.dev Search is its seamless integration with the daily.dev platform. This isn't just a search engine operating in isolation; it's a cohesive part of your daily.dev experience. Here's why this integration is such a game-changer:
 
-* **✨ Personalized Search Recommendations**: Ever wonder how you can find more articles and resources that align with your interests? As you interact with content on daily.dev—especially as you upvote articles—our platform learns about your preferences. This data is directly fed into daily.dev Search, offering you search recommendations that are incredibly personalized and relevant to your coding journey.
+* **✨ Personalized Search Recommendations**: Ever wonder how you can find more articles and resources that align with your interests? As you interact with content on daily.dev—especially as you upvote articles—our platform learns about your preferences. This data is directly fed into daily.dev Search. All you have to do is click on the button at the top of your results.  From there, you are offered search recommendations that are incredibly personalized and relevant to your coding journey.
 * **One Cohesive Experience**: With daily.dev Search integrated into the platform, you get everything you need in one place. Whether you're reading trending articles or seeking solutions to specific problems, everything is available in one place. It's a unified, distraction-free zone designed to enhance your productivity.
 * **Consistent Updates**: Any changes or updates made to the daily.dev platform are automatically reflected in daily.dev Search. This ensures that you always have access to the latest features and the most current information, all without needing to adapt to a new environment.
 
