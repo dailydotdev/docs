@@ -38,7 +38,7 @@ As a Squad leader, you'll have the unique opportunity to create a dedicated spac
 
 ### 2. Suggesting a Source
 
-If you're the owner of a prominent publication or a developer-focused blogging platform, you can submit your platform to be a content source on daily.dev. This method is specifically designed for established publications in the tech and developer sphere. By submitting your platform, the content you produce is automatically considered for featuring on daily.dev, providing a wider reach and greater visibility. It's important to note that this does not include corporate or personal blogs, ensuring the content remains diverse and community-focused. Ideal for publishers seeking to enhance their distribution and connect with a broader audience of developers.
+If you're the owner of a prominent publication or a developer-focused blogging platform, you can submit your platform to be a content source on daily.dev. This method is specifically designed for established publications in the tech and developer sphere. By submitting your platform, the content you produce is automatically considered for featuring on daily.dev, providing a wider reach and greater visibility. It's important to note that this [does not include corporate or personal blogs](daily.dev/blog/why-we-are-discontinuing-company-sources-and-moving-forward-with-squads), ensuring the content remains diverse and community-focused. Ideal for publishers seeking to enhance their distribution and connect with a broader audience of developers.
 
 → [Learn more about suggesting a source](/for-content-creators/suggest-new-source.md)
 

@@ -76,6 +76,8 @@ In our ongoing effort to maintain a balanced content inventory on the platform, 
 
 :::info
 [Update January 2024] Corporate blogs are no longer eligible to be added as sources on daily.dev. Instead, we encourage corporations to [open a Squad](../squads/creating-your-squad.md) on our platform to share their content. We recognize the legacy of existing corporate blogs on daily.dev and plan to gradually migrate these sources to Squads, ensuring a seamless transition while adhering to our updated guidelines.
+
+Learn [why we are discontinuing company sources and moving forward with Squads](daily.dev/blog/why-we-are-discontinuing-company-sources-and-moving-forward-with-squads)
 :::
 
 ### Additional guidelines for personal blogs and indie content creators
