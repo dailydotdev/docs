@@ -11,6 +11,23 @@ Reputation is metric that reflect the trust you earn from the community through 
 
 Once you sign up to daily.dev you start with 10 points, reflecting the value of joining the community. Your reputation cannot fall below 0, preventing negative scores.
 
+## Reputation Update
+Reputation is now visible in multiple places on the platform
+
+👤 At the top right near your profile image
+
+![reputation](https://daily-now-res.cloudinary.com/image/upload/v1722605023/docs-v2/e543de46-2598-4ffb-96a9-91762f1d176b.png)
+
+💬 On your comments
+
+🎯 On your posts and community pick submissions
+
+![reputation](https://daily-now-res.cloudinary.com/image/upload/v1722605160/docs-v2/902c0367-6733-4f9a-bf9e-4f7e81fe9fbe.png)
+
+We’ve also made an update to how reputation points work. You can now also lose reputation points.
+
+P.S Reputation points are only affected by upvotes or downvotes from users with over 250 reputation points, ensuring fairness and authenticity.
+
 ## How to Earn Reputation Points
 
 :::note
