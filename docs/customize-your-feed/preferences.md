@@ -29,7 +29,7 @@ Turning this toggle switch on will add a dropdown menu to My feed and Popular fe
 
 By enabling this option, you will have access to custom shortcuts at the top right of your feed
 
-![image](https://github.com/dailydotdev/docs/assets/18360871/da5738bc-475b-4dee-a811-dd7d90a1a704)
+![Show Custom Shortcuts](https://daily-now-res.cloudinary.com/image/upload/v1722602009/docs-v2/da5738bc-475b-4dee-a811-dd7d90a1a704.png)
 
 
 ## Enable companion
