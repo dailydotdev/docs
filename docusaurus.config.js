@@ -109,10 +109,6 @@ const config = {
                 to: 'https://chrome.google.com/webstore/detail/dailydev-the-homepage-dev/jlmpjdjjbgclbocgajdjefcidcncaied',
               },
               {
-                label: 'Firefox add-on',
-                to: 'https://addons.mozilla.org/en-US/firefox/addon/daily/',
-              },
-              {
                 label: 'Web version',
                 to: 'https://app.daily.dev/',
               },
