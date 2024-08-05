@@ -14,7 +14,7 @@ You can install the daily.dev extension on the following browsers:
 - [Microsoft Edge](https://microsoftedge.microsoft.com/addons/detail/dailydev-the-homepage-/cbdhgldgiancdheindpekpcbkccpjaeb?hl=en-GB)
 
 :::info
-Wait, but what about Firefox? We’ve had to temporarily removed the Firefox extension from the store due to the Mozilla review team’s decision to enforce new terms. These terms include changes that are partially non-feasible and not reasonable for any app developer to implement, affecting our ability to operate and monetize the app. As a result, Mozilla reverted our extension to an outdated version, making it unusable. We are actively working to find a resolution and appreciate your understanding and patience.
+Wait, but what about Firefox? We’ve had to temporarily remove the Firefox extension from the store due to the Mozilla review team’s decision to enforce new terms. These terms include changes that are partially non-feasible and not reasonable for any app developer to implement, affecting our ability to operate and monetize the app. As a result, Mozilla reverted our extension to an outdated version, making it unusable. We are actively working to find a resolution and appreciate your understanding and patience.
 :::
 
 Just install the extension, open a new tab, and you're all set!
