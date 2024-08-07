@@ -46,4 +46,4 @@ Public Squads stand out in several ways:
 Public Squad status is revocable. Non-compliance with our content guidelines or misuse of the platform can lead to a loss of public status. Exercise this privilege with responsibility.
 :::
 
-In case you have any further questions regarding Public Squads don't hestitate to reach us out advocacy@daily.dev
+In case you have any further questions regarding Public Squads don't hesitate to reach us out advocacy@daily.dev
