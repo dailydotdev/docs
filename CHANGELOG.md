@@ -1,3 +1,12 @@
+# [0.6.0](https://github.com/dailydotdev/docs/compare/v0.5.0...v0.6.0) (2024-08-07)
+
+
+### Features
+
+* add a Slack integration page ([#352](https://github.com/dailydotdev/docs/issues/352)) ([10b756e](https://github.com/dailydotdev/docs/commit/10b756ec05b953d577b4981acd7f0bc08b597ff2))
+
+
+
 # [0.5.0](https://github.com/dailydotdev/docs/compare/v0.4.1...v0.5.0) (2024-07-05)
 
 
@@ -31,15 +40,6 @@
 ### Bug Fixes
 
 * public squads improvements ([#280](https://github.com/dailydotdev/docs/issues/280)) ([053a90d](https://github.com/dailydotdev/docs/commit/053a90d456356e8f8c9ca384b433798295c2a5f9))
-
-
-
-# [0.3.0](https://github.com/dailydotdev/docs/compare/v0.2.1...v0.3.0) (2024-01-26)
-
-
-### Features
-
-* new page for public squads ([#279](https://github.com/dailydotdev/docs/issues/279)) ([46e2097](https://github.com/dailydotdev/docs/commit/46e2097174eb924c1af6983ef36a312da76d9a22))
 
 
 
