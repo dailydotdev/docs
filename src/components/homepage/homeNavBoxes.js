@@ -56,6 +56,7 @@ const FeatureList = [
       {url: "docs/squads/moderating-your-squad", text: "Moderating Your Squad"},
       {url: "docs/squads/public-squads", text: "Becoming a Public Squad"},
       {url: "docs/squads/featured-squads", text: "Getting featured on the Squads Directory"},
+      {url: "docs/squads/slack-integration", text: "Slack Integration for Squads"},
     ]
   },
   {
