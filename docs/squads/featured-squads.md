@@ -8,9 +8,9 @@ sidebar_position: 4
 
 The [Public Squads Directory](https://app.daily.dev/squads) on daily.dev is a curated space where community members discover new and engaging Public Squads. Being featured here significantly enhances your Squad's visibility and traffic. If you have a Public Squad and you wish to grow it even further, that's a place you want to be in. 
 
-### Who is elgible to get featured on the directory?
+### Who is eligible to get featured on the directory?
 
-To become elgible for the Public Squads Directory on daily.dev, your Squad must meet the following criteria:
+To become eligible for the Public Squads Directory on daily.dev, your Squad must meet the following criteria:
 
 1. **Public Status**: Only Squads that have successfully transitioned to public status are eligible. Private Squads and sources are not included in the directory.
 2. **Editorial Selection**: The featured Squads in the directory are handpicked by our editorial team, ensuring a selection of high-quality, engaging, and compliant Squads. See more tips on how to increase your chances to get picked by our team below.
@@ -29,4 +29,4 @@ The selection of Public Squads to be featured in the directory is an editorial d
 3. **Create impactful interactions**: Regular posts and discussions that resonate with your audience can elevate your Squad's appeal.
 :::
 
-In case you have any further questions regarding Public Squads don't hestitate to reach us out advocacy@daily.dev
+In case you have any further questions regarding Public Squads don't hesitate to reach us out advocacy@daily.dev
