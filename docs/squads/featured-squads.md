@@ -12,8 +12,8 @@ The [Public Squads Directory](https://app.daily.dev/squads) on daily.dev is a cu
 
 To become elgible for the Public Squads Directory on daily.dev, your Squad must meet the following criteria:
 
-1. Public Status: Only Squads that have successfully transitioned to public status are eligible. Private Squads and sources are not included in the directory.
-2. Editorial Selection: The featured Squads in the directory are handpicked by our editorial team, ensuring a selection of high-quality, engaging, and compliant Squads. See more tips on how to increase your chances to get picked by our team below.
+1. **Public Status**: Only Squads that have successfully transitioned to public status are eligible. Private Squads and sources are not included in the directory.
+2. **Editorial Selection**: The featured Squads in the directory are handpicked by our editorial team, ensuring a selection of high-quality, engaging, and compliant Squads. See more tips on how to increase your chances to get picked by our team below.
 
 This focus on editorially curated content ensures that the Squads featured in the directory represent the best of what daily.dev's community has to offer, providing users with a diverse and enriching experience.
 
