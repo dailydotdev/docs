@@ -6,7 +6,7 @@ sidebar_position: 4
 
 ![](https://daily-now-res.cloudinary.com/image/upload/v1707232156/docs/daily.dev_-_squads.png)
 
-The [Public Squads Directory](https://app.daily.dev/squads) on daily.dev is a curated space where community members discover new and engaging Public Squads. Being featured here significantly enhances your Squad's visibility and traffic. If you have a Public Squad an you wish to grow it even further, that's a place you want to be in. 
+The [Public Squads Directory](https://app.daily.dev/squads) on daily.dev is a curated space where community members discover new and engaging Public Squads. Being featured here significantly enhances your Squad's visibility and traffic. If you have a Public Squad and you wish to grow it even further, that's a place you want to be in. 
 
 ### Who is elgible to get featured on the directory?
 
