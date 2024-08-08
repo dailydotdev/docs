@@ -18,14 +18,10 @@ Squads can center around your team, a project, a community, or anything else. It
 
 Here are some of the features that are now live as part of Squads:
 
-✨ **Create a Squad**: Starting today, you all have the ability to create your own Squads, complete with a unique name, image, and description.
-
-✨ **Invite your friends and colleagues**: Invite developers you know and appreciate to your Squad, facilitate the discussion, manage interesting links together, and more!
-
-✨ **Create new posts**: Members of a Squad can create new posts, share links from the daily.dev feed or external sources, enhancing interaction and discussion. It has full markdown support too!
-
-✨ **Discuss with your Squad**: Squads feature the option for members to comment and engage in discussions on the posts shared within the Squad itself.
-
+✨ **Create a Squad**: Starting today, you all have the ability to create your own Squads, complete with a unique name, image, and description. <br>
+✨ **Invite your friends and colleagues**: Invite developers you know and appreciate to your Squad, facilitate the discussion, manage interesting links together, and more! <br>
+✨ **Create new posts**: Members of a Squad can create new posts, share links from the daily.dev feed or external sources, enhancing interaction and discussion. It has full markdown support too! <br>
+✨ **Discuss with your Squad**: Squads feature the option for members to comment and engage in discussions on the posts shared within the Squad itself. <br>
 ✨ **Moderate Your Squad**: As an admin, you have access to moderation tools to manage posts, comments, and member interactions. Keep your Squad discussions healthy, respectful, and focused.
 
 ## How to Create a Squad
