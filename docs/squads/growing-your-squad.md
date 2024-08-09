@@ -60,8 +60,8 @@ Remember, the growth of your Squad depends on the active participation of its me
 
 As your Squad grows and becomes more active, you might consider transitioning it to a public status. Making your Squad public can significantly increase its visibility and engagement within the daily.dev community:
 
-1. Increased Exposure: Public Squads are featured in the daily.dev feed, reaching a wider audience.
-2. Community Building: Public status enables you to connect with more developers and foster a larger community.
+1. **Increased Exposure**: Public Squads are featured in the daily.dev feed, reaching a wider audience.
+2. **Community Building**: Public status enables you to connect with more developers and foster a larger community.
 
 For detailed guidance on how to make your Squad public, including the benefits, process, and tips for success, refer to our  guide about [how to become a Public Squad](/squads/public-squads.md). This guide will provide you with all the necessary information to make an informed decision and successfully transition your Squad to public status.
 

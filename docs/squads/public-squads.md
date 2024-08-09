@@ -24,7 +24,7 @@ Public Squads stand out in several ways:
 * **Increased visibility**: Engaging content leads to more exposure as users interact and upvote.
 * **Community engagement**: Actively engage with your audience through discussions, questions, and any type of content you want to post.
 * **Special recognition**: Public Squads receive a special "Public Squad" badge on the top of the Squad page. The admin and moderators are featured at the header of the Squad, and the Squad's key stats (total views, total upvotes, and number of posts) are displayed at the top. This helps gain credibility in front of potential new squad members who are considering whether to join.
-* **Apply to get featured in the Public Squads Directory**: Public Squads are also elgible to apply to get featured on the the [Public Squads Directory](https://app.daily.dev/squads), a go-to place for the daily.dev community to discover new and interesting Squads. Read more about how you can get featured below. 
+* **Apply to get featured in the Public Squads Directory**: Public Squads are also eligible to apply to get featured on the [Public Squads Directory](https://app.daily.dev/squads), a go-to place for the daily.dev community to discover new and interesting Squads. Read more about how you can get featured below. 
 
 ## How to become a Public Squad
 
@@ -46,4 +46,4 @@ Public Squads stand out in several ways:
 Public Squad status is revocable. Non-compliance with our content guidelines or misuse of the platform can lead to a loss of public status. Exercise this privilege with responsibility.
 :::
 
-In case you have any further questions regarding Public Squads don't hestitate to reach us out advocacy@daily.dev
+In case you have any further questions regarding Public Squads don't hesitate to reach us out advocacy@daily.dev
