@@ -39,6 +39,23 @@ Follow these simple steps to connect your squad with your Slack workspace:
 
 - Once the integration is complete, you'll start receiving notifications in the selected Slack channel for every new post published in your squad.
 
+## Connecting a Squad to a Private Channel on Slack
+
+If you want to connect your daily.dev squad to a private channel on Slack, follow these steps:
+
+1. **Manually Add the Bot to Your Private Channel:**
+   - Go to the private Slack channel where you want to receive squad notifications.
+   - Manually add the daily.dev bot/app to the channel. You can do this by typing `/invite @daily.dev` in the channel.
+
+2. **Refresh Your daily.dev Page:**
+   - Once the bot is added, return to daily.dev and refresh the page. The private channel should now be visible in the channel selection dropdown.
+
+3. **Connect the Channel:**
+   - Select your private Slack channel from the dropdown list in your squad's settings.
+   - Complete the connection as usual, and you’ll start receiving notifications in your private channel.
+
+By following these steps, you can ensure that your squad’s updates remain within the privacy of your chosen Slack channel.
+
 ## Troubleshooting
 
 If you encounter any issues during the integration process, consider the following:
