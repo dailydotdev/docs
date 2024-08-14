@@ -1,3 +1,12 @@
+# [0.7.0](https://github.com/dailydotdev/docs/compare/v0.6.0...v0.7.0) (2024-08-14)
+
+
+### Features
+
+* add instructions for connecting a private channel on Slack ([#357](https://github.com/dailydotdev/docs/issues/357)) ([48dab7c](https://github.com/dailydotdev/docs/commit/48dab7c3b57d85db178afa42a62633bab39f68e4))
+
+
+
 # [0.6.0](https://github.com/dailydotdev/docs/compare/v0.5.0...v0.6.0) (2024-08-07)
 
 
@@ -31,15 +40,6 @@
 ### Features
 
 * upgrade the reputation docs page ([#289](https://github.com/dailydotdev/docs/issues/289)) ([ce9e940](https://github.com/dailydotdev/docs/commit/ce9e940ef3100f655a5a001e5b480ef2e08fc422))
-
-
-
-## [0.3.1](https://github.com/dailydotdev/docs/compare/v0.3.0...v0.3.1) (2024-01-27)
-
-
-### Bug Fixes
-
-* public squads improvements ([#280](https://github.com/dailydotdev/docs/issues/280)) ([053a90d](https://github.com/dailydotdev/docs/commit/053a90d456356e8f8c9ca384b433798295c2a5f9))
 
 
 
