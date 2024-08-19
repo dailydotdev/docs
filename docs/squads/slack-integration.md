@@ -12,34 +12,29 @@ Integrate your Slack workspace with daily.dev Squads to streamline communication
 This feature is currently in the experimental stage. It may undergo changes and improvements based on user feedback and testing. We appreciate your understanding and welcome any feedback to help us enhance this integration.
 :::
 
+## Prerequisites
+
+To use the Slack integration, you must be an admin of a squad or have an existing squad on daily.dev. If you don't have a squad yet, we recommend [creating one](/squads/creating-your-squad.md) to take full advantage of the Slack integration.
+
 ## Benefits of Slack integration
 
 - **Real-time updates:** Receive instant notifications in your Slack channels whenever new posts are published in your Squad.
 - **Seamless collaboration:** Keep your team engaged and informed without switching between platforms.
 - **Enhanced productivity:** Focus on your work while staying in the loop with relevant Squad activities.
 
-## How to set up Slack integration
+## How to Set Up Slack Integration
 
 Follow these simple steps to connect your squad with your Slack workspace:
 
-### Step 1: Connect your Slack workspace
+1. **Go to Your Squad:** Start by navigating to the squad you want to connect to Slack.
 
-1. Navigate to daily.dev and log in to your account.
-2. Click on the **"Connect to Slack"** button to initiate the integration.
-3. Follow the on-screen prompts to authorize daily.dev to access your Slack workspace.
+2. **Connect to Slack:** In your squad's settings, you'll see a **"Connect to Slack"** button. Click this button to begin the integration process.
 
-### Step 2: Connect your Squad to Slack
+3. **Authorize and Choose a Channel:** Connect your Slack workspace by authorizing daily.dev. After connecting, select the Slack channel where you’d like to receive notifications.
 
-1. After connecting your Slack workspace, go to the squad you are admin of.
-2. Click on the **"Connect to Slack"** button in the squad settings.
-3. Choose the Slack channel where you'd like to receive notifications.
-4. Confirm your selection to complete the setup.
+4. **Start Receiving Notifications:** Once the integration is complete, you'll start receiving notifications in the selected Slack channel for every new post published in your squad.
 
-### Step 3: Start receiving notifications
-
-- Once the integration is complete, you'll start receiving notifications in the selected Slack channel for every new post published in your squad.
-
-## Connecting a Squad to a Private Channel on Slack
+### Connecting a Squad to a Private Channel on Slack
 
 If you want to connect your daily.dev squad to a private channel on Slack, follow these steps:
 
