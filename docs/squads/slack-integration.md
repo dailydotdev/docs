@@ -14,7 +14,7 @@ This feature is currently in the experimental stage. It may undergo changes and 
 
 ## Prerequisites
 
-To use the Slack integration, you must be an admin of a squad or have an existing squad on daily.dev. If you don't have a squad yet, we recommend [creating one](/creating-your-squad.md) to take full advantage of the Slack integration.
+To use the Slack integration, you must be an admin of a squad or have an existing squad on daily.dev. If you don't have a squad yet, we recommend [creating one](/squads/creating-your-squad.md) to take full advantage of the Slack integration.
 
 ## Benefits of Slack integration
 
