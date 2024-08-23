@@ -15,7 +15,7 @@ Before you embark on submitting your Community Picks, it's crucial to familiariz
 ## Quick Overview Video
 
 :::info
-To get access to this feature you first need to earn the Scout privilege (min. 250 reputation points). Only people with the Scout privilege can submit links and are limited to 3 submissions per day. Learn more about [how to gain reputation points](../your-profile/reputation.md)
+To get access to this feature you first need to earn the Scout privilege (min. 250 reputation points). Only people with the Scout privilege can submit links and are limited to 5 submissions per day. Learn more about [how to gain reputation points](../your-profile/reputation.md)
 :::
 
 <iframe width="700" height="400"  src="https://www.youtube-nocookie.com/embed/JlBlTIMfrGM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -27,14 +27,15 @@ Community Picks are posts that are added to the daily.dev feed by our community 
 ### How can I spot a community pick?
 On a card in the feed there is always an icon showing the source in the top left.
 
-![screenshot showing the community picks icon on the top left of a card](https://daily-now-res.cloudinary.com/image/upload/v1657719351/cp-1-icon_qhynlc.png)
+![screenshot showing the community picks icon on the top left of a card](https://daily-now-res.cloudinary.com/image/upload/v1724397565/docs-v2/f531e2b3-a052-44d2-8bac-311df72e906d.png)
 
 Clicking on this icon will take you to the community picks feed.
 
 ### Community Picks feed
 All of the posts submitted by the community are available in the [Community Picks feed.](https://app.daily.dev/sources/community)
 
-![](https://daily-now-res.cloudinary.com/image/upload/v1657719387/cp-3-community-feed_enjtux.png)
+![community picks page](https://daily-now-res.cloudinary.com/image/upload/v1724397631/docs-v2/03d6da9c-7a30-44aa-9d7d-96e345b5df36.png)
+
 
 ## Submitting / Scouting a Community Pick
 We want you to submit posts that made a real difference to your tech journey. Whether they are in-depth tutorials, interesting perspectives on tech problems, or well thought out and high effort entertainment pieces aimed at developers.
@@ -63,6 +64,10 @@ On the menu on the left you will see a section "Contribute" containing a button 
 
 Clicking on that button will open the "Submit link" modal.
 
+This is how the modal looks like
+
+![Submit modal example](https://daily-now-res.cloudinary.com/image/upload/v1724397819/docs-v2/e8d2da79-6da6-47b8-9b1a-d974f512df6b.png)
+
 Here you can paste in the post URL and then press submit.
 
 You will then see either a success, already exists or error message.
@@ -73,8 +78,6 @@ Please note that **submitting your own articles is not allowed.** Please share a
 
 #### Post already exists
 If the post already exists in the daily.dev feed you will see a message explaining the post already exists and a link to that post.
-
-![](https://daily-now-res.cloudinary.com/image/upload/v1657719529/cp-5_article_exists_hye5qv.png)
 
 ### Successful Submissions
 If the post you submitted has a valid URL and doesn't already exist you will get a confirmation that you will be notified by an in-app notification and an email about the request status.
