@@ -6,7 +6,7 @@ sidebar_position: 0
 
 The layout option lets you select how posts are displayed on your feed. You can switch between **Grid mode** and **List mode**.
 
-To switch between Grid and List mode, click on the customize option from the sidebar, as seen below:
+To switch between Grid and List mode, click on the customize option from the top-right profile menu, as seen below:
 
 !["List to Grid mode switch"](https://daily-now-res.cloudinary.com/image/upload/v1724400818/docs-v2/a57d8ba8-dbfb-4407-9759-fbf9dc1154a6.png)
 
