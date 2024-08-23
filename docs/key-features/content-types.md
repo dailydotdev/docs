@@ -18,7 +18,7 @@ Articles have been the first type of content that daily.dev has supported: You c
 
 Some examples: freeCodeCamp, DEV, Vercel, and many others.
 
-![daily.dev articles](https://daily-now-res.cloudinary.com/image/upload/v1722602097/docs-v2/00f49469-3018-4644-970a-4b07ecb366fd.png)
+![daily.dev articles](https://daily-now-res.cloudinary.com/image/upload/v1724396991/docs-v2/98fe69ab-1010-43b1-8ae1-347d415d79e6.png)
 
 
 Remember that to have a better experience, you can filter the content that you want to see, by setting up your feed: [Set up your feed](https://docs.daily.dev/docs/setting-up-your-feed/filtering-content-feed)
@@ -33,7 +33,7 @@ You can like, comment, upvote, and share the articles with your friends, (for ex
 
 Ah and you can also save the article to read it later, by clicking on the bookmark icon.
 
-![daily.dev bookmarks](https://daily-now-res.cloudinary.com/image/upload/v1722602136/docs-v2/e9c9ac03-21dc-41cc-9c20-adb5f75f2e71.png)
+![daily.dev bookmarks](https://daily-now-res.cloudinary.com/image/upload/v1724397095/docs-v2/fb4be789-33cd-4b3f-b5d9-8d0ed252604d.png)
 
 To read more about it, check the [Bookmarks section](https://docs.daily.dev/docs/key-features/bookmarks#importance-of-bookmarks) documentation.
 
@@ -49,20 +49,20 @@ daily.dev now supports videos!
 
 Yes, you heard it right! you can now watch videos from top-class tech YouTubers, directly on your feed!
 
-Some examples are: Firehip, Theo, Primeagen, and many others.
+Some examples are: Firehip, Traversy Media, Theo, Primeagen, and many others.
 
-The cool part is that you can watch the videos directly on the daily.dev feed, without having to leave the app! Cool, rgiht?
+The cool part is that you can watch the videos directly on the daily.dev feed, without having to leave the app! Cool, right?
 
 Apart from that, you can still have the daily.dev experience of liking, commenting, and sharing the videos with your friends!
 
-![daily.dev videos](https://daily-now-res.cloudinary.com/image/upload/v1722602157/docs-v2/2663d24c-45bb-4bce-b676-6b3bb68efba6.png)
+![daily.dev videos](https://daily-now-res.cloudinary.com/image/upload/v1724397175/docs-v2/c1a66ee3-e505-404b-906b-7b79d06c2591.png)
 
 
 ## Squads posts
 
 A post on a squad is not that different from an usual post, and it can also go on the main feed. The difference is that it will also be visible to the members of the squad.
 
-![daily.dev squads](https://daily-now-res.cloudinary.com/image/upload/v1722602170/docs-v2/ae0af05d-b97e-4900-8c1f-9ab9318ed44d.png)
+![daily.dev squads](https://daily-now-res.cloudinary.com/image/upload/v1724397220/docs-v2/b3b8cd63-8d2d-4559-83b8-5a33f97f25dc.png)
 
 ### What is a Squad?
 
@@ -80,13 +80,13 @@ Another type, the newset one, is the Collections.
 
 They are an AI-powered feature that groups together all the news that has come out on the same topic from multiple sources and creates a concise, complete summary of what’s going on.
 
-![daily.dev collections](https://daily-now-res.cloudinary.com/image/upload/v1722602187/docs-v2/71a4b3ea-16f8-427a-804a-7f57589e78bd.png)
+![daily.dev collections](https://daily-now-res.cloudinary.com/image/upload/v1724397272/docs-v2/a066429b-19a2-47f2-9338-5d5b5ebc554c.png)
 
 ### How do you recognize a Collection?
 
 Collections are marked with a special label, so you can easily recognize them.
 
-![daily.dev collections](https://daily-now-res.cloudinary.com/image/upload/v1722602202/docs-v2/cdc18716-7b60-4b36-a958-47d3bfc6bfa8.png)
+![daily.dev collections](https://daily-now-res.cloudinary.com/image/upload/v1724397343/docs-v2/b32328fd-c6f3-4c35-a226-21f0d979bc39.png)
 
 Original? No. Effective? Yes.
 
