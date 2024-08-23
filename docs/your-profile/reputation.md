@@ -16,13 +16,19 @@ Reputation is now visible in multiple places on the platform
 
 👤 At the top right near your profile image
 
-![reputation](https://daily-now-res.cloudinary.com/image/upload/v1722605023/docs-v2/e543de46-2598-4ffb-96a9-91762f1d176b.png)
+![reputation](https://daily-now-res.cloudinary.com/image/upload/v1724396491/docs-v2/5b31c20a-903e-4e42-8e26-70b45993a31e.png)
 
-💬 On your comments
-
-🎯 On your posts and community pick submissions
+💬 On your comments and your posts 
 
 ![reputation](https://daily-now-res.cloudinary.com/image/upload/v1722605160/docs-v2/902c0367-6733-4f9a-bf9e-4f7e81fe9fbe.png)
+
+🙎 On your profile
+
+![reputation](https://daily-now-res.cloudinary.com/image/upload/v1724396615/docs-v2/0572d900-1422-4b43-9cec-d9946d2768ba.png)
+
+🃏 On your Devcard
+
+![reputation](https://daily-now-res.cloudinary.com/image/upload/v1724396681/docs-v2/3710da78-bfa9-4572-803c-e0c40c327b2f.png)
 
 We’ve also made an update to how reputation points work. You can now also lose reputation points.
 

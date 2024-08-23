@@ -4,7 +4,7 @@ sidebar_position: 2
 
 # Reading history
 
-<img src="https://daily-now-res.cloudinary.com/image/upload/v1724395871/docs-v2/818e7655-44e0-4bfd-8e0b-6f92bf68ee86.png" alt='Reading history' width="900" height="900" />
+<img src="https://daily-now-res.cloudinary.com/image/upload/v1724396491/docs-v2/5b31c20a-903e-4e42-8e26-70b45993a31e.png" alt='Reading history' width="900" height="900" />
 
 ## How does reading history work?
 
