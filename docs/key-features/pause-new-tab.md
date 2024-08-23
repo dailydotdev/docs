@@ -8,9 +8,10 @@ At daily.dev, we understand that sometimes you need to focus without distraction
 
 ## Activating Pause New Tab Mode
 
-To activate Pause New Tab mode, simply click on the "Pause New Tab" button, which can be found in the daily.dev left sidebar menu (1). A modal will then appear, allowing you to choose the duration for which you want to pause daily.dev. You can select from options such as 30 minutes, 1 hour, 2 hours, until tomorrow, or even set a custom time period (1).
+To activate Pause New Tab mode, simply click on the "Pause New Tab" button, which can be found in your profile (top right). A modal will then appear, allowing you to choose the duration for which you want to pause daily.dev. You can select from options such as 30 minutes, 1 hour, 2 hours, until tomorrow, or even set a custom time period (1).
 
-<img src="https://daily-now-res.cloudinary.com/image/upload/v1663400467/docs-v2/pause-new-tab-1.jpg" alt='highlighting the "pause new tab" feature button, 9th item down in the menu (item 1)' width="900" height="900" />
+
+<img src="https://daily-now-res.cloudinary.com/image/upload/v1724398269/docs-v2/fc25b61d-1071-4494-8b5a-d0f10c13a8b1.png" alt='highlighting the "pause new tab" feature button, on profile  menu' width="900" height="900" />
 
 ## Setting the default URL when paused (optional)
 
