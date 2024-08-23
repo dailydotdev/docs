@@ -8,7 +8,7 @@ sidebar_position: 5
 
 Integrate your Slack workspace with daily.dev Squads to streamline communication and keep your team updated with the latest posts. This guide will walk you through the steps to connect your Slack workspace with a squad, so you never miss out on important updates.
 
-:::Note
+:::note
 This feature is currently in the experimental stage. It may undergo changes and improvements based on user feedback and testing. We appreciate your understanding and welcome any feedback to help us enhance this integration.
 :::
 
