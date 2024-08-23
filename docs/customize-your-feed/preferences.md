@@ -4,33 +4,39 @@ sidebar_position: 3
 
 # Preferences
 
-![](https://res.cloudinary.com/jitul-teron/image/upload/v1697552104/Screenshot_2023-10-17_at_7.42.15_PM_e74vse.png
-)
+!["Preferences"](https://daily-now-res.cloudinary.com/image/upload/v1724399519/docs-v2/699dcb1d-8bcc-481f-8ef3-3f2cbc80b15f.png)
 
 The preferences options enable you to fine-tune your user experiences of daily.dev by toggling some options on/off. Currently, the available options are:
 
+- Show reading streaks
 - Open links in new tab
 - Show custom shortcuts
 - Show feed sorting menu
-- Show Weekly Goal widget
-- Enable companion widget
+- Enable companion
+
+As Accessibility:
+- Automatically dismiss notifications
+
+## Show reading streaks
+
+By default, daily.dev displays your reading streaks on the top right corner of your feed. If you want to hide your reading streaks, then set the `Show reading streaks` toggle switch to `off`.
 
 ## Open link in new tab
 
 By default, when you click on a post link on your feed (using the `Read post` button on the post), daily.dev will open that post in a new tab. However, if you want daily.dev to open that post in the current tab, then set the `Open links in new tab` toggle switch to `off`.
 
+## Show custom shortcuts
+
+By enabling this option, you will have access to custom shortcuts at the top middle of your feed
+
+![Show Custom Shortcuts](https://daily-now-res.cloudinary.com/image/upload/v1724399755/docs-v2/dfd3d9aa-1cec-4d0d-b340-0913c8b9ea6b.png)
+
+
 ## Show feed sorting menu
 
 Turning this toggle switch on will add a dropdown menu to My feed and Popular feed, enabling you to sort these feeds `By date` or by `Recommended` as seen in the image below:
 
-![](https://daily-now-res.cloudinary.com/image/upload/v1695752384/docs-v2/show-feed-sorting-menu.png)
-
-## Show custom shortcuts
-
-By enabling this option, you will have access to custom shortcuts at the top right of your feed
-
-![Show Custom Shortcuts](https://daily-now-res.cloudinary.com/image/upload/v1722602009/docs-v2/da5738bc-475b-4dee-a811-dd7d90a1a704.png)
-
+![](https://daily-now-res.cloudinary.com/image/upload/v1724399859/docs-v2/ea9b06cd-b59c-4ccb-a420-cda7bba7e75e.png)
 
 ## Enable companion
 
