@@ -17,11 +17,11 @@ Bookmarks in daily.dev allow you to save and organize posts for later reading. T
 
 ## Bookmarking a Post
 
-- **Via Share Button**: Click "Save to bookmarks" after hitting the share button on any post.
+- **Via Bookmarks Button**: Click the "bookmark" button on the post.
 - **Companion Widget**: Use the [bookmark icon in the companion widget](https://app.daily.dev/posts/6IVMj7uuS) for quick saving.
 - **Post Discussion Page**: On the [action bar](https://app.daily.dev/posts/yc3ZVzfLY) of the post discussion page, click the bookmark button.
 
-![Bookmarking Highlight](https://daily-now-res.cloudinary.com/image/upload/v1722602056/docs-v2/273961662-0144389c-599b-483f-a3ca-29d59e25b27f.png)
+![Bookmarking Highlight](https://daily-now-res.cloudinary.com/image/upload/v1724398568/docs-v2/9ff96218-b88c-4c45-94b6-e087cf2d6810.png)
 
 These methods ensure a hassle-free bookmarking experience in daily.dev.
 
