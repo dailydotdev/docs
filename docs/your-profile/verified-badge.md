@@ -4,7 +4,7 @@ sidebar_position: 4
 
 # Verified Company Badge
 
-![Verified Company Badge cover image](https://daily-now-res.cloudinary.com/image/upload/v1724770668/docs/EmailCover_1.png)
+![Verified Company Badge cover image](https://daily-now-res.cloudinary.com/image/upload/v1724771209/docs/Change_log.png)
 
 Add a verified company badge to your daily.dev profile to showcase your professional affiliation. This badge includes your company's name and logo and is displayed on your public profile and next to your name whenever you post or comment on the platform.
 
@@ -22,8 +22,10 @@ To get a verified company badge, you need access to your work email. Make sure y
 
 1. Go to your profile and [navigate to Account Details](https://app.daily.dev/account/profile#verified-company-badge).
 2. Scroll down to "Verified Company Badge" and enter your work email.
-3. Click "Submit" and check your email for the 6-digit verification code.
+3. Click the arrow button and check your email for the 6-digit verification code.
 4. Enter the 6-digit code on daily.dev. If your company is in our database, your badge will be activated automatically. Otherwise, your request will be reviewed and manually approved by our team.
+
+![screenshot from account settings](![Verified Company Badge cover image](https://daily-now-res.cloudinary.com/image/upload/v1724771209/docs/Change_log.png)
 
 ## Troubleshooting
 
