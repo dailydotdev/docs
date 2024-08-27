@@ -25,7 +25,7 @@ To get a verified company badge, you need access to your work email. Make sure y
 3. Click the arrow button and check your email for the 6-digit verification code.
 4. Enter the 6-digit code on daily.dev. If your company is in our database, your badge will be activated automatically. Otherwise, your request will be reviewed and manually approved by our team.
 
-![screenshot from account settings](![Verified Company Badge cover image](https://daily-now-res.cloudinary.com/image/upload/v1724771209/docs/Change_log.png)
+![screenshot from account settings](https://daily-now-res.cloudinary.com/image/upload/v1724771522/docs/SCR-20240827-pwqt.png)
 
 ## Troubleshooting
 
