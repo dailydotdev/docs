@@ -1,3 +1,12 @@
+# [0.9.0](https://github.com/dailydotdev/docs/compare/v0.8.0...v0.9.0) (2024-08-29)
+
+
+### Features
+
+* add eligibility criteria ([#376](https://github.com/dailydotdev/docs/issues/376)) ([8720970](https://github.com/dailydotdev/docs/commit/872097004a63d76ec5929340a4bf13115b89b563))
+
+
+
 # [0.8.0](https://github.com/dailydotdev/docs/compare/v0.7.0...v0.8.0) (2024-08-27)
 
 
@@ -31,15 +40,6 @@
 ### Features
 
 * use real-time devcard example ([#323](https://github.com/dailydotdev/docs/issues/323)) ([6b50fb3](https://github.com/dailydotdev/docs/commit/6b50fb3b7b7974603d3d4cbabb3b0b27155f4d3f))
-
-
-
-## [0.4.1](https://github.com/dailydotdev/docs/compare/v0.4.0...v0.4.1) (2024-04-12)
-
-
-### Bug Fixes
-
-* missing space ([#308](https://github.com/dailydotdev/docs/issues/308)) ([c71d1db](https://github.com/dailydotdev/docs/commit/c71d1db4ffaf2d16df9f80bdb8e5df1fa3109569))
 
 
 
