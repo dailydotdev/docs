@@ -8,6 +8,10 @@ sidebar_position: 4
 
 Add a verified company badge to your daily.dev profile to showcase your professional affiliation. This badge includes your company's name and logo and is displayed on your public profile and next to your name whenever you post or comment on the platform.
 
+:::note
+We’re currently experiencing a high volume of requests for company verification. We appreciate your patience as we work to process your request as quickly as possible. Thank you for your understanding.
+:::
+
 ## Prerequisites
 
 To get a verified company badge, you need access to your work email. Make sure you can receive emails at this address, as you’ll need to verify it during the process.
@@ -17,6 +21,36 @@ To get a verified company badge, you need access to your work email. Make sure y
 - Showcase your professional affiliation directly on your profile.
 - Build credibility by displaying a verified badge that confirms your employment.
 - Stand out in discussions with a badge that appears next to your name whenever you post or comment.
+
+## Verified Company Badge Eligibility
+
+To ensure that only legitimate and relevant companies receive a verified company badge, we've outlined the eligibility criteria below.
+
+### Who is eligible for a Verified Company Badge?
+
+✅ Employees with a valid work email from a recognized company domain.
+
+✅ Full-time and part-time employees working directly for a company.
+
+✅ Contractors working through a company email provided by the employer.
+
+✅ Non-commercial organizations, such as non-profits, charities, or government entities.
+
+### Who is not eligible for a Verified Company Badge (for now)?
+
+❌ University or academic institution emails.
+
+❌ Freelancers, even if using a unique domain, are not eligible.
+
+❌ Personal portfolio sites, regardless of the domain used.
+
+❌ Companies with websites that are not secured (e.g., lacking HTTPS).
+
+❌ Companies with websites that fail to provide basic information like contact details, an “About Us” page, and details about their services or products.
+
+❌ Temporary or disposable email addresses.
+
+❌ Shared domain emails (e.g., info@domain.com, admin@domain.com).
 
 ## How to Get Your Verified Company Badge
 
