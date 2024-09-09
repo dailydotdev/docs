@@ -52,6 +52,8 @@ To ensure that only legitimate and relevant companies receive a verified company
 
 ❌ Shared domain emails (e.g., info@domain.com, admin@domain.com).
 
+❌ Companies with official websites that cannot be accessed for any reason, including broken links, 403 errors, non-secured domains, "under construction" pages, or any other issues that prevent verification of the company's existence.
+
 ## How to Get Your Verified Company Badge
 
 1. Go to your profile and [navigate to Account Details](https://app.daily.dev/account/profile#verified-company-badge).
