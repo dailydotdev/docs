@@ -1,3 +1,12 @@
+# [0.10.0](https://github.com/dailydotdev/docs/compare/v0.9.0...v0.10.0) (2024-09-09)
+
+
+### Features
+
+* update work email verification terms ([#380](https://github.com/dailydotdev/docs/issues/380)) ([01520d2](https://github.com/dailydotdev/docs/commit/01520d22a7608200adc3d086bbd4357482f3452b))
+
+
+
 # [0.9.0](https://github.com/dailydotdev/docs/compare/v0.8.0...v0.9.0) (2024-08-29)
 
 
@@ -31,15 +40,6 @@
 ### Features
 
 * add a Slack integration page ([#352](https://github.com/dailydotdev/docs/issues/352)) ([10b756e](https://github.com/dailydotdev/docs/commit/10b756ec05b953d577b4981acd7f0bc08b597ff2))
-
-
-
-# [0.5.0](https://github.com/dailydotdev/docs/compare/v0.4.1...v0.5.0) (2024-07-05)
-
-
-### Features
-
-* use real-time devcard example ([#323](https://github.com/dailydotdev/docs/issues/323)) ([6b50fb3](https://github.com/dailydotdev/docs/commit/6b50fb3b7b7974603d3d4cbabb3b0b27155f4d3f))
 
 
 
