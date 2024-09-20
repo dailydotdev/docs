@@ -52,17 +52,18 @@ However, we understand that sometimes you may prefer to view the latest posts we
 
 ### Sorting by date
 
-By default, there is a drop-down menu that allows you to change the order of the popular feed. If it is not activated on your profile, you can easily enable it by following these steps:
+There is a dropdown menu at "My feed" that allows you to change the order of the feed. If it is not activated on your profile, you can easily enable it by following these steps:
 
-1. Click the "Customize" button on the sidebar (1).
+1. Click the "Customize" button on the Profile menu at the top-right (1).
 
-<img src="https://daily-now-res.cloudinary.com/image/upload/v1663528971/docs-v2/feeds-1.jpg" alt='Sidebar menu with the "Customize" button highlighted, last item in the main menu section (1)' width="900" height="900" />
+<img src="https://daily-now-res.cloudinary.com/image/upload/v1726554463/docs-v2/5804a634-0191-4ecb-9706-c05f5195d020.png" alt='Profile menu with the "Customize" button highlighted, last item in the main menu section (1)' width="900" height="900" />
 
 2. Switch on the toggle, ["Show feed sorting menu"](/docs/customize-your-feed/preferences)
 
 <img src="https://daily-now-res.cloudinary.com/image/upload/v1663528971/docs-v2/feeds-2.jpg" alt='Customize modal with the "Show feed sorting menu" toggle highlighted (2)' width="900" height="900" />
 
-3. Go back to the popular feed, and you should see a new sorting option in the upper left corner (3).
+3. Go back to the feed, and you should see a new sorting option in the upper left corner (3).
+
 4. You can then choose to change the feed to sort either "By Date" or by "Recommended" (4).
 
 <img src="https://github.com/dailydotdev/docs/assets/18360871/6a0a39fc-0843-4763-ada9-dbe8ed2a10bd" alt='Customize modal with the "Show feed sorting menu" toggle highlighted (2)' width="900"/>
