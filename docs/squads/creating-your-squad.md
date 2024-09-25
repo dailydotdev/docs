@@ -45,8 +45,8 @@ Remember, the most vibrant Squads are those with active participation. Encourage
 
 You can choose the visibility of your Squad:
 
-1. **Private Squads** (default): Only members can view and contribute to the Squad content. You control invitations.
-2. **Public Squads** (in closed beta): Everyone can see the content, and the posts may organically appear on the main feed. Read more about [how to become a Public Squad](/squads/public-squads.md). 
+1. **Private Squads** : Only members can view and contribute to the Squad content. You control invitations.
+2. **Public Squads** (default): Everyone can see the content, and the posts may organically appear on the main feed. Read more about [how to become a Public Squad](/squads/public-squads.md). 
 
 By understanding and utilizing these tools and settings effectively, you can shape your Squad into a vibrant, engaging, and respectful community. 
 
