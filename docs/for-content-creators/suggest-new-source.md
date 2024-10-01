@@ -6,7 +6,7 @@ sidebar_position: 2
 
 ## Introduction
 
-We're delighted you're interested in ading your content to daily.dev. Our platform continuously evolves, enriched by source suggestions from our community. If you've discovered a source that would be a great fit for daily.dev but isn't currently listed, we invite you to suggest it.
+We're delighted you're interested in adding your content to daily.dev. Our platform continuously evolves, enriched by source suggestions from our community. If you've discovered a source that would be a great fit for daily.dev but isn't currently listed, we invite you to suggest it.
 
 :::caution
 It's crucial to review our [content guidelines](/for-content-creators/content-guidelines.md) before suggesting a new source. These guidelines are fundamental to our content review process, ensuring the maintenance of high-quality, relevant, and ethical content. Understanding and adhering to these guidelines will greatly enhance the likelihood of your suggestion being accepted, helping us make daily.dev an invaluable resource for our community.
