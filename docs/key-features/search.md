@@ -67,7 +67,7 @@ daily.dev Search is designed to help you in a wide range of scenarios that devel
 :::info
 Explanation of Support Levels:
 
-- 🟢: This means that the use-case should be well supported as long as relevant and sufficient information has been found. Keep in mind that daily.dev Search is still in beta.
+- 🟢: This means that the use-case should be well supported as long as relevant and sufficient information has been found.
 - 🟡: This level indicates that the use-case is partially supported and is currently undergoing improvements. Use with caution.
 - 🔴: This use-case is not officially supported. While daily.dev Search may provide responses, it was not designed to handle these types of queries.
 :::
