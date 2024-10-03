@@ -13,6 +13,9 @@ Follow us on Twitter [@dailydotdev](https://twitter.com/dailydotdev) for the lat
 ## YouTube
 Subscribe to our official [YouTube channel](https://www.youtube.com/c/dailydev) for a wealth of content, including Monthly Dev events with world-class talks, cool intro videos, tutorials, and more! Stay updated with new releases, educational content, giveaways, and behind-the-scenes glimpses.
 
+## LinkedIn
+Connect with us on LinkedIn at [daily.dev](https://www.linkedin.com/company/dailydotdev) to stay in the loop with our latest updates, announcements, and educational content, as well as engage with our community.
+
 ## TikTok
 Join us on TikTok [@daily.dev](https://www.tiktok.com/@dailydotdev) for fun and engaging content related to daily.dev, including coding tips, behind-the-scenes glimpses, updates, and giveaways.
 
@@ -21,9 +24,6 @@ In case you're into short-form videos make sure you don't miss our [Instagram pr
 
 ## Meetup
 Join our meetup group to stay informed about our monthly events featuring inspiring talks from expert developers, and updates on new releases, educational content, and giveaways. [Join here](https://www.meetup.com/the-monthly-dev-world-class-talks-by-expert-developers/)
-
-## LinkedIn
-Connect with us on LinkedIn at [daily.dev](https://www.linkedin.com/company/dailydotdev) to stay in the loop with our latest updates, announcements, and educational content, as well as engage with our community.
 
 ## Feedback
 Have feedback, questions, or feature requests? [Submit it here](https://daily.dev/feedback) and let us know how we can improve your daily.dev experience!
