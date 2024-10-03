@@ -49,7 +49,7 @@ Use these toggle switches to easily configure your content categories and person
 
 You can also filter your feed based on the content language. To do this, click on the "Feed Settings" button to open the feed options menu, as shown below:
 
-<img src="https://daily-now-res.cloudinary.com/image/upload/v1724401655/docs-v2/0382f5d7-b4eb-447a-b766-b3da8ae7722a.png" alt='Content and Language section' width="900" height="100%" />
+![Screenshot 2024-10-03 at 6 05 54 AM](https://github.com/user-attachments/assets/e888e32f-3869-4116-9223-2041d2df0e0f)
 
 ## Blocked items
 
