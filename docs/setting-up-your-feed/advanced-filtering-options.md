@@ -49,7 +49,7 @@ Use these toggle switches to easily configure your content categories and person
 
 You can also filter your feed based on the content language. To do this, click on the "Feed Settings" button to open the feed options menu, as shown below:
 
-<img src="https://daily-now-res.cloudinary.com/image/upload/v1724401655/docs-v2/0382f5d7-b4eb-447a-b766-b3da8ae7722a.png" alt='Content and Language section' width="900" height="100%" />
+<img src="https://private-user-images.githubusercontent.com/18360871/373197727-8e4c5141-3109-46f2-a88a-15d9a93c7fdf.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3Mjc5NDk0MzIsIm5iZiI6MTcyNzk0OTEzMiwicGF0aCI6Ii8xODM2MDg3MS8zNzMxOTc3MjctOGU0YzUxNDEtMzEwOS00NmYyLWE4OGEtMTVkOWE5M2M3ZmRmLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDEwMDMlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQxMDAzVDA5NTIxMlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTk5OWY0MWQ3ZjA1MWMzMTEyZmI3ZDExMWU0NTEwMTU0MDM2OGExNmFkNDZlMjU3OWIxMzEwMTllZTM5NTA2ZTImWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.g3YCP6XMlYFKuxys9OeyLDyv3Z9IvbqJ47iFndGljx8" />
 
 ## Blocked items
 
