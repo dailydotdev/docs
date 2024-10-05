@@ -5,40 +5,46 @@ sidebar_label: Introduction
 
 # Introduction
 
-daily.dev is a professional network for developers that provides the latest tech news and articles all in one place. 
+1 in 50 developers worldwide is staying up to date with **daily.dev**. Being part of the other 49 might sound cool, but it’s not.
+**daily.dev** is your one-stop professional network for developers, offering the latest tech news and articles from **over 1300 sources** — all in one place!
 
-
-We curate posts from over 1300 tech news sources and present them in a single feed that you can customize to your interests using tags. Our platform helps you save time by finding high-quality posts, so you can stay up-to-date and stay ahead of the curve as a developer.
+We make it easy for you to stay ahead by curating high-quality posts, tailored to your interests. Customize your feed with tags, so you only see content that matters to you. With daily.dev, keeping up-to-date has never been simpler.
 
 <iframe width="700" height="400" src="https://www.youtube.com/embed/igZCEr3HwCg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-## Quick start guide
+## Quick Start Guide
 
-We want you to get the most out of daily.dev, so we've put together this quick start guide to help you make the most of our platform and our community.
+To help you get the most out of daily.dev, we've created this quick start guide to make onboarding fast and easy!
 
 ### Step 1: Install 🚀
 
-You can use daily.dev as a [browser extension](/getting-started/browser-extension-installation.md) or as a [progressive web app (PWA)](/getting-started/pwa.md). 
+daily.dev is available as a:
+- [**Browser extension**](/getting-started/browser-extension-installation.md) (recommended). This makes daily.dev your new tab, helping you build a reading habit! If needed, you can pause the new tab feature.
+- [**Progressive web app (PWA)**](/getting-started/pwa.md).
+- [**Android app**](https://play.google.com/store/apps/details?id=dev.daily), available on the Google Play Store.
 
-Also available on the Google Play store as [Android app](https://play.google.com/store/apps/details?id=dev.daily)
+![daily.dev on your devices](https://daily-now-res.cloudinary.com/image/upload/v1722604122/docs-v2/d4477057-d984-4999-a1be-fbe43e4fe529.png)
 
+### Step 2: Customize Your Feed 🎯
 
-![image](https://daily-now-res.cloudinary.com/image/upload/v1722604122/docs-v2/d4477057-d984-4999-a1be-fbe43e4fe529.png)
+Once installed, take a moment to [**create your personal feed**](/setting-up-your-feed/filtering-content-feed.md). You can choose tags and topics that match your interests, ensuring daily.dev delivers the most relevant tech news straight to you.
 
-We recommend the browser extension, which sets your new tab to show daily.dev and helps you develop a good reading habit. But don't worry, you can always pause the new tab functionality if you need to focus!
+### Step 3: Connect with Developers 👏
 
-### Step 2: Set up your feed 🎯
+daily.dev isn’t just a news aggregator; it's a community! Start engaging with other developers and build your professional network. Check out our [**key features**](/key-features/feeds.md) to see how you can interact with posts, comment, upvote, and more.
 
-Once you've installed the extension or accessed the web app, the next step is to [create your personal feed](/setting-up-your-feed/filtering-content-feed.md). This allows you to customize daily.dev to your preferences and interests, providing you with the most relevant tech and developer news.
+### Step 4: Build Your Developer Presence 🦸
 
-### Step 3: Engage with other developers 👏
+Take your experience further by [**creating a profile**](/your-profile/activity.md). With a profile, you can:
+- Comment on posts
+- Upvote useful content
+- Bookmark your favorite articles
+- Showcase your reading history with the DevCard
 
-Check out some of our [key features](/key-features/feeds.md) and start engaging with other developers on our platform to help grow your professional network and make new connections.
+### Step 5: Personalize the Look & Feel 🌈
 
-### Step 4: Build your presence 🦸
+Make daily.dev your own! You can [**customize**](/customize-your-feed/layout.md) the theme, layout, card density, and other settings to create the experience that fits you best.
 
-On daily.dev, You can [create a profile](/your-profile/activity.md). With a profile, you can comment on posts, upvote, bookmark useful posts, showcase your reading with our DevCard, and much more!
+---
 
-### Step 5: Customize the look and feel 🌈
-
-Make daily.dev look and feel the way you want! [Customize](/customize-your-feed/layout.md) the theme, layout, card density, and other cool preferences to personalize your experience.
+By following these simple steps, you’ll be ready to get the most out of daily.dev, saving time and staying ahead of the curve in the developer world. Enjoy exploring the latest in tech with daily.dev!
