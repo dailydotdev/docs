@@ -51,6 +51,12 @@ You can also filter your feed based on the content language. To do this, click o
 
 ![Screenshot 2024-10-03 at 6 05 54 AM](https://github.com/user-attachments/assets/e888e32f-3869-4116-9223-2041d2df0e0f)
 
+## Following
+
+You can now follow people on daily.dev and if you are new and haven't follow any User yet, you can Explore our [Leaderboards](https://app.daily.dev/users) to find and follow inspiring users!
+
+<img src="https://private-user-images.githubusercontent.com/18360871/373198383-82122867-f92f-4960-bf14-9da9e406061e.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjgxMjIxOTYsIm5iZiI6MTcyODEyMTg5NiwicGF0aCI6Ii8xODM2MDg3MS8zNzMxOTgzODMtODIxMjI4NjctZjkyZi00OTYwLWJmMTQtOWRhOWU0MDYwNjFlLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDEwMDUlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQxMDA1VDA5NTEzNlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWUwNGU3YzUyNzk4MzU5YzM3YjNiMTIwMjVhOWVjNTJhNWM4MTg4NzQzNzQ0M2VmYmE0MGYxZTM4YWUwNWVmZTYmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0._29NqkMkbvNTh228S3VH1M3viT2QuwPveRMZt22TVCE" />
+
 ## Blocked items
 
 In the Feed Seeings menu, you can also access the "Blocked items" section. Here you can see all the sources and tags you have blocked.
