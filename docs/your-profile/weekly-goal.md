@@ -70,6 +70,17 @@ Your longest streak is displayed on your profile and your [DevCard](https://app.
 
 ![DevCard Integration](https://raw.githubusercontent.com/omBratteng/omBratteng/devcard/devcard-background.webp)
 
+## Restore Streak
+
+When you’re back from your holiday, or hospital stay, whatever your excuse is, you’ll get a message about your lost streak and an offer to restore it. You can restore it by “paying” 25 reputation points (no, we don’t monetize this, it’s just a way to be fair). The first restore is on us. What if I don’t have 25 points to restore? Tough cookie. Looks like you’re going to have to start over.
+
+![image](https://github.com/user-attachments/assets/b9535d48-b778-4442-b51b-9ede3c81d0a6)
+
+You can also configure your weekend days, so that it’s easier to keep your streak: just go to reading streak setting on the top right to configure your reading streak settings.
+
+![image](https://github.com/user-attachments/assets/21223960-bf13-47f0-81f9-3bd42baf6ffb)
+
+
 ## Public Leaderboard
 
 We have a [public leaderboard](https://app.daily.dev/users) that features community members with the longest streaks and the most reading days in general. Check it out to see where you stand and get inspired by the top readers in our community.
