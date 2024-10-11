@@ -28,11 +28,14 @@ We acknowledge that some of our existing sources may not fully align with these 
 
 1. Go to your feed in the [browser extension](../getting-started/browser-extension-installation.md) or the [web app](https://app.daily.dev).
 2. Sign up or log in.
-3. Select `Suggest new source` from the left sidebar.
+3. Select `Suggest new source` from the top-right in the `Sources` section (see screenshot below).
 4. Enter the URL of your publication's RSS feed (preferred) or homepage.
 5. Click `Check link`.
 6. Choose the relevant RSS feed if multiple are found.
 7. Click `Submit for review`.
+
+![image](https://github.com/user-attachments/assets/3e55cc94-c65b-4425-9ad2-1c19f5efd5d2)
+
 
 ### Review Process
 
