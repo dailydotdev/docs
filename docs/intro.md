@@ -23,8 +23,6 @@ You can use daily.dev as a [browser extension](/getting-started/browser-extensio
 Also available on the Google Play store as [Android app](https://play.google.com/store/apps/details?id=dev.daily)
 
 
-![image](https://daily-now-res.cloudinary.com/image/upload/v1722604122/docs-v2/d4477057-d984-4999-a1be-fbe43e4fe529.png)
-
 We recommend the browser extension, which sets your new tab to show daily.dev and helps you develop a good reading habit. But don't worry, you can always pause the new tab functionality if you need to focus!
 
 ### Step 2: Set up your feed 🎯
