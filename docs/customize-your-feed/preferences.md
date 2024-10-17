@@ -1,53 +1,51 @@
 ---
 sidebar_position: 3
+description: "Customize your daily.dev experience with preferences like reading streaks, link behavior, and companion widget for a personalized feed."
 ---
 
-# Preferences
+# Preferences Settings on daily.dev
 
-!["Preferences"](https://daily-now-res.cloudinary.com/image/upload/v1724399519/docs-v2/699dcb1d-8bcc-481f-8ef3-3f2cbc80b15f.png)
-
-The preferences options enable you to fine-tune your user experiences of daily.dev by toggling some options on/off. Currently, the available options are:
+The preferences options allow you to fine-tune your **daily.dev** experience by toggling various features on or off. Currently, available options include:
 
 - Show reading streaks
-- Open links in new tab
+- Open links in a new tab
 - Show custom shortcuts
 - Show feed sorting menu
 - Enable companion
 
-As Accessibility:
+### Accessibility
 - Automatically dismiss notifications
 
-## Show reading streaks
+## Show Reading Streaks
 
-By default, daily.dev displays your reading streaks on the top right corner of your feed. If you want to hide your reading streaks, then set the `Show reading streaks` toggle switch to `off`.
+By default, daily.dev displays your reading streaks in the top right corner of your feed. If you’d prefer to hide your reading streaks, set the `Show reading streaks` toggle switch to `off`.
 
-## Open link in new tab
+## Open Links in a New Tab
 
-By default, when you click on a post link on your feed (using the `Read post` button on the post), daily.dev will open that post in a new tab. However, if you want daily.dev to open that post in the current tab, then set the `Open links in new tab` toggle switch to `off`.
+When you click a post link on your feed using the `Read post` button, daily.dev will open that post in a new tab by default. To have posts open in the current tab instead, set the `Open links in new tab` toggle switch to `off`.
 
-## Show custom shortcuts
+## Show Custom Shortcuts
 
-By enabling this option, you will have access to custom shortcuts at the top middle of your feed
+Enable this option to access custom shortcuts at the top center of your feed.
 
-![Show Custom Shortcuts](https://daily-now-res.cloudinary.com/image/upload/v1724399755/docs-v2/dfd3d9aa-1cec-4d0d-b340-0913c8b9ea6b.png)
+![Enable custom shortcuts on daily.dev](https://daily-now-res.cloudinary.com/image/upload/v1724399755/docs-v2/dfd3d9aa-1cec-4d0d-b340-0913c8b9ea6b.png)
 
+## Show Feed Sorting Menu
 
-## Show feed sorting menu
+Turning this toggle switch on adds a dropdown menu to the My Feed and Popular Feed sections, enabling sorting by `Date` or by `Recommended`, as shown below:
 
-Turning this toggle switch on will add a dropdown menu to My feed and Popular feed, enabling you to sort these feeds `By date` or by `Recommended` as seen in the image below:
+![Feed sorting menu on daily.dev](https://daily-now-res.cloudinary.com/image/upload/v1724399859/docs-v2/ea9b06cd-b59c-4ccb-a420-cda7bba7e75e.png)
 
-![](https://daily-now-res.cloudinary.com/image/upload/v1724399859/docs-v2/ea9b06cd-b59c-4ccb-a420-cda7bba7e75e.png)
+## Enable Companion Widget
 
-## Enable companion
+Switching this toggle to `on` activates the [companion widget for daily.dev](https://docs.daily.dev/docs/key-features/the-companion), while setting it to `off` deactivates the widget.
 
-Turning this toggle switch `on` will activate the [companion widget](https://docs.daily.dev/docs/key-features/the-companion), and turning this toggle switch `off` will deactivate the companion widget.
+The companion widget enhances your experience by allowing you to bookmark, comment, and upvote directly on the original post. To activate this widget, click on the **companion button** in the top-right corner of the daily.dev menu bar, as seen below:
 
-The companion widget is a game changer as it enhances your user experiences by letting you bookmark, comment, and upvote directly on the original post. And to activate this widget, click on the companion button on the top right corner of the daily.dev menu bar as seen below:
+![Companion widget activation icon on daily.dev](https://daily-now-res.cloudinary.com/image/upload/v1695752806/docs-v2/Companion-widget-icon.png)
 
-![](https://daily-now-res.cloudinary.com/image/upload/v1695752806/docs-v2/Companion-widget-icon.png)
+Then click on the `Activate companion` button in the description box:
 
-Then click on the `Activate companion` button in the description box as seen below:
+![Activate companion widget on daily.dev](https://daily-now-res.cloudinary.com/image/upload/v1695752390/docs-v2/Activate-companion.png)
 
-![](https://daily-now-res.cloudinary.com/image/upload/v1695752390/docs-v2/Activate-companion.png)
-
-After this, it will ask you to grant it extra permission so that the companion widget can be displayed directly on the original post.
+You will then be asked to grant additional permissions to display the companion widget directly on the original post.

@@ -1,31 +1,28 @@
 ---
 sidebar_position: 0
+description: "Customize your daily.dev feed layout with Grid and List modes for an optimal reading experience across all devices."
 ---
 
-# Layout
+# Layout Options on daily.dev Feed
 
-The layout option lets you select how posts are displayed on your feed. You can switch between **Grid mode** and **List mode**.
+The layout option lets you select how posts are displayed on your **daily.dev feed**. Switch between **Grid mode** and **List mode** to suit your viewing preferences.
 
-To switch between Grid and List mode, click on the customize option from the top-right profile menu, as seen below:
+To switch between Grid and List mode, click on the **customize** option from the top-right profile menu, as shown below:
 
-!["List to Grid mode switch"](https://daily-now-res.cloudinary.com/image/upload/v1724400818/docs-v2/a57d8ba8-dbfb-4407-9759-fbf9dc1154a6.png)
+![Switch from List to Grid mode on daily.dev](https://daily-now-res.cloudinary.com/image/upload/v1724400818/docs-v2/a57d8ba8-dbfb-4407-9759-fbf9dc1154a6.png)
 
-## Grid mode
+## Grid Mode for Content Display
 
-The Grid mode displays posts as cards arrayed in a Grid, as seen in the image below:
+The **Grid mode** displays posts as cards arranged in a grid format, as seen in the image below:
 
-![Grid Mode](https://daily-now-res.cloudinary.com/image/upload/v1724400852/docs-v2/a6b59df0-78b5-431a-8719-1efb654f9ef4.png)
+![Grid mode view for daily.dev feed](https://daily-now-res.cloudinary.com/image/upload/v1724400852/docs-v2/a6b59df0-78b5-431a-8719-1efb654f9ef4.png)
 
-In Grid mode, posts are positioned vertically and horizontally from each other so that you can easily scan and interact with the posts on the feed. 
+In Grid mode, posts are positioned both vertically and horizontally, making it easy to scan and interact with the content. Grid mode adapts seamlessly to various viewports and orientations, providing consistency across different platforms and screen sizes.
 
-The Grid mode easily adapts to various viewports and orientations, thereby ensuring consistency across platforms and screen sizes. 
+## List Mode for Simplified Layout
 
+In **List mode**, posts are stacked vertically in a list, as shown below:
 
-## List mode
+![List mode view for daily.dev feed](https://daily-now-res.cloudinary.com/image/upload/v1724400878/docs-v2/5ff46522-dfc3-401b-9aff-12819a91f4c4.png)
 
-In the list mode, posts are stacked in a list, as seen below:
-
-![List Mode](https://daily-now-res.cloudinary.com/image/upload/v1724400878/docs-v2/5ff46522-dfc3-401b-9aff-12819a91f4c4.png)
-
-
-In the list mode, posts are arranged in a stacked list.  List mode displays only source images and it does not contain cover images of posts. Using List mode is ideal if you like your feed shorter and with fewer visuals.
+List mode displays posts in a simple, stacked format, showing only source images without cover images. This option is ideal if you prefer a shorter feed with fewer visuals.

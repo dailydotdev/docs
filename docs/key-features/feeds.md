@@ -1,5 +1,6 @@
 ---
 sidebar_position: 1
+description: "Learn about the different feeds on daily.dev, including My Feed, Popular Feed, Most Upvoted Feed, and Best Discussions Feed, and how to customize them."
 ---
 
 # Feeds
@@ -23,19 +24,16 @@ Your feed contains posts that are relevant to you and your interests (once you h
 
 If you are new to daily.dev, the first thing we strongly recommend is setting up filters on your feed. This will unlock the true power of daily.dev, showing posts that are relevant to your interests.
 
-
 There are three guides to help you get the most out of your feed:
-1. a detailed guide on how to [set up your feed](/docs/setting-up-your-feed/filtering-content-feed).
+1. A detailed guide on how to [set up your feed](/docs/setting-up-your-feed/filtering-content-feed).
 2. A guide on how to [adjust the content types that appear in your feed](/docs/setting-up-your-feed/advanced-filtering-options).
-3. A guide on [blocking tags and sources](/docs/setting-up-your-feed/blocking-tags-sources) you do not wish to see in your feed that you do not wish to see in your feed.
+3. A guide on [blocking tags and sources](/docs/setting-up-your-feed/blocking-tags-sources) you do not wish to see in your feed.
 
-Once you have followed the steps in these guides, you will have "My Feed" set up exactly to your likes and interests!
+Once you have followed the steps in these guides, you will have "My Feed" set up exactly to your preferences!
 
 ## Popular feed 
 
-The popular feed uses our ranking algorithm to provide you with posts that are recent, gaining lots of traffic and gaining lots of positive responses from the daily.dev community (either via upvotes or positive comments).
-
-To explain this further, let's quickly look at a brief overview of how posts are ranked on our popular feed.
+The popular feed uses our ranking algorithm to provide you with posts that are recent, gaining lots of traffic, and receiving positive responses from the daily.dev community (either via upvotes or positive comments).
 
 ### Ranking overview for the popular feed
 
@@ -45,10 +43,8 @@ Once a post is featured on daily.dev, it begins to rank based on various factors
 * The number of upvotes the post has obtained from our community members
 * The freshness of the post, or how recently it was published
 * Other parameters related to content quality and engagement levels
+
 By considering these factors, we aim to increase the likelihood of interesting and valuable posts surfacing to the top of the feed.
-
-However, we understand that sometimes you may prefer to view the latest posts we've featured without the influence of our ranking algorithm. To accommodate this, we've added the option to sort the Popular feed by date.
-
 
 ### Sorting by date
 
@@ -68,11 +64,9 @@ There is a dropdown menu at "My feed" that allows you to change the order of the
 
 <img src="https://github.com/dailydotdev/docs/assets/18360871/6a0a39fc-0843-4763-ada9-dbe8ed2a10bd" alt='Customize modal with the "Show feed sorting menu" toggle highlighted (2)' width="900"/>
 
-
 ## Most upvoted feed
 
 In the "Most Upvoted" Feed, we feature the posts with the highest number of upvotes on the platform. The ranking in this feed is based on the number of upvotes over a given timescale. The higher the upvote count, the higher the post will be listed in the feed.
-
 
 ### Changing the date filter
 
