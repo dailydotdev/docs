@@ -1,4 +1,4 @@
-<img width="1504" alt="Screenshot 2024-10-19 at 17 08 56" src="https://github.com/user-attachments/assets/4fe51a3f-07c8-4284-87c4-4dac6d68bc32">---
+---
 sidebar_position: 1
 ---
 
