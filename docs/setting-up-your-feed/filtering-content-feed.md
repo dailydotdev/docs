@@ -25,7 +25,7 @@ After signing up, you can further customize your personal feed by fine-tuning yo
 
 To access this menu hit the "My feed" button that's placed above the first card on your feed.
 
-<img width="1504" alt="Screenshot 2024-10-19 at 17 08 56" src="https://github.com/user-attachments/assets/481b8380-ab8a-401b-88b9-415780865af8">
+<img width="1504" alt="daily now" src="https://github.com/user-attachments/assets/481b8380-ab8a-401b-88b9-415780865af8">
 
 
 ## Step 4: Explore Advanced Filtering Settings
