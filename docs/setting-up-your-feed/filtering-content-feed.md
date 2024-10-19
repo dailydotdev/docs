@@ -1,4 +1,4 @@
----
+<img width="1504" alt="Screenshot 2024-10-19 at 17 08 56" src="https://github.com/user-attachments/assets/4fe51a3f-07c8-4284-87c4-4dac6d68bc32">---
 sidebar_position: 1
 ---
 
@@ -6,15 +6,18 @@ sidebar_position: 1
 
 Welcome to daily.dev's personal feed feature called "My feed"! With our personal feed, you can customize the content you see, making sure it's tailored to your interests. Here's a simple guide on how to create your own personal feed.
 
-## Step 1: Choose Tag Categories
 
-Tag categories are the building blocks of your personal feed. They help you specify the topics and types of content you want to see in your feed. During the onbaording process, you'll be prompted to choose from a list of tag categories that are might be relevant to your interests. Don't worry if you're not sure what tags to choose initially, as you can always fine-tune them later.
+## Step 1: Sign Up
 
-<img src="https://daily-now-res.cloudinary.com/image/upload/v1681287811/docs/Update%20April%202023/Screenshot_2023-04-12_at_11.22.43.png" alt='Highlight of the first step in creating a personal feed' width="900" height="100%" />
+Start by signing up for an account. Simply follow the on-screen instructions to create your profile. By signing up, you'll have access to additional features such as bookmarking posts, customizing settings, and syncing your feed across multiple devices.
 
-## Step 2: Sign Up
 
-Once you've selected your tag categories, it's time to sign up for an account. Simply follow the on-screen instructions to create your profile. By signing up, you'll have access to additional features such as bookmakring posts, customizing settings, and syncing your feed across multiple devices.
+## Step 2: Choose Tag Categories
+
+Tag categories are the building blocks of your personal feed. They help you specify the topics and types of content you want to see in your feed. During the onboarding process, you'll be prompted to choose from a list of tag categories that are might be relevant to your interests. Don't worry if you're not sure what tags to choose initially, as you can always fine-tune them later. You will see a button at the bottom that helps you preview your feed after you have chosen five topics.
+
+<img width="1504" alt="daily-now" src="https://github.com/user-attachments/assets/0e38ef7b-2a51-4823-a909-7dde53c96db9">
+
 
 ## Step 3: Fine-Tune Your Tags
 
@@ -22,7 +25,8 @@ After signing up, you can further customize your personal feed by fine-tuning yo
 
 To access this menu hit the "My feed" button that's placed above the first card on your feed.
 
-<img src="https://daily-now-res.cloudinary.com/image/upload/v1681288606/docs/Update%20April%202023/Screenshot_2023-04-12_at_11.36.39.png" alt='Highlight of the tag selection menu' width="900" height="100%" />
+<img width="1504" alt="Screenshot 2024-10-19 at 17 08 56" src="https://github.com/user-attachments/assets/481b8380-ab8a-401b-88b9-415780865af8">
+
 
 ## Step 4: Explore Advanced Filtering Settings
 
