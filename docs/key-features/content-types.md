@@ -1,12 +1,13 @@
 ---
 sidebar_position: 10
+description: "Explore the different types of content available on daily.dev, including articles, videos, squad posts, and AI-powered collections."
 ---
 
 # Content Types
 
 On daily.dev, there are different types of content that you can consume. 
 
-Here are the different types of content that you can find::
+Here are the different types of content that you can find:
 - **Articles**: Read articles from your favorite tech blogs and news sites.
 - **Videos**: Not just articles, but also videos from top-class tech YouTubers, directly on your feed!
 - **Squad posts**: Read posts shared in one of our many squads. Some of them are public and some of them are private.
@@ -19,7 +20,6 @@ Articles have been the first type of content that daily.dev has supported: You c
 Some examples: freeCodeCamp, DEV, Vercel, and many others.
 
 ![daily.dev articles](https://daily-now-res.cloudinary.com/image/upload/v1724396991/docs-v2/98fe69ab-1010-43b1-8ae1-347d415d79e6.png)
-
 
 Remember that to have a better experience, you can filter the content that you want to see, by setting up your feed: [Set up your feed](https://docs.daily.dev/docs/setting-up-your-feed/filtering-content-feed)
 
@@ -57,7 +57,6 @@ Apart from that, you can still have the daily.dev experience of liking, commenti
 
 ![daily.dev videos](https://daily-now-res.cloudinary.com/image/upload/v1724397175/docs-v2/c1a66ee3-e505-404b-906b-7b79d06c2591.png)
 
-
 ## Squads posts
 
 A post on a squad is not that different from an usual post, and it can also go on the main feed. The difference is that it will also be visible to the members of the squad.
@@ -76,7 +75,7 @@ For more details, please check the [Squads documentation](https://docs.daily.dev
 
 ## Collections
 
-Another type, the newset one, is the Collections.
+Another type, the newest one, is the Collections.
 
 They are an AI-powered feature that groups together all the news that has come out on the same topic from multiple sources and creates a concise, complete summary of what’s going on.
 
@@ -94,7 +93,7 @@ Original? No. Effective? Yes.
 
 When our content engine detects two or more posts that talk about the same topic, they’re automatically grouped into one post/card, with a brief summary of the topic.
 
-Collections take all the news that has come out on the same topic from multiple sources and creates a concise, complete summary of what’s going on. As new articles come out, the Collection is updated so that it gives you the latest overview of everything you need to know.
+Collections take all the news that has come out on the same topic from multiple sources and create a concise, complete summary of what’s going on. As new articles come out, the Collection is updated so that it gives you the latest overview of everything you need to know.
 
 - If you want to read more, Collections display the sources they’re based on, so that you can read the original.
 

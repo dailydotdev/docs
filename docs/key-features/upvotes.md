@@ -1,39 +1,38 @@
 ---
 sidebar_position: 3
+description: "Learn about the Upvote and Downvote system on daily.dev, designed to enhance content quality and optimize your experience on the platform."
 ---
 
 # Upvotes & Downvotes
 
-Upvotes and Downvotes are common methods used in community-driven products to allow users to signal their approval or disapproval for a post. This voting system serves to push quality content to the forefront and helps us refine our recommendation engine to better serve our users.
+Upvotes and downvotes are essential tools in community-driven products, allowing users to express approval or disapproval for a post. This voting system promotes quality content, pushing the best to the forefront, while helping daily.dev refine its recommendation engine to serve users better.
 
 :::info
-Keep in mind that you can only select either of the two options - upvote or downvote for a post, but not both. This helps us ensure the integrity and accuracy of our voting system.
+Keep in mind that you can only select either upvote or downvote for a post—not both. This ensures the integrity and accuracy of our voting system.
 :::
 
 ## Upvoting in daily.dev 👍
 
-In daily.dev, upvotes are a great way to acknowledge quality of posts, show support and appreciation for the work of others. If you find a post helpful, it's highly encouraged to upvote it for several reasons:
+On daily.dev, upvotes are a fantastic way to acknowledge the quality of posts, show support, and express appreciation for the work of others. Here’s why upvoting is highly encouraged:
 
-1. It helps the feed algorithm understand that the community approves of the post, enabling us to show the most interesting posts to our community.
-2. It gives recognition to content creators for their hard work in creating content.
-3. It signals to other community members that a post is interesting, saving them time and effort in finding engaging posts to read.
+1. It helps the feed algorithm understand community-approved content, enabling us to show the most interesting posts to our community.
+2. It gives recognition to content creators for their hard work.
+3. It signals to other community members that a post is engaging, saving them time in finding valuable content.
 
 ## Downvoting in daily.dev 👎
 
-On the other hand, downvotes are used to indicate that a you didn't find a post helpful or interesting. Here's why downvoting is also important:
+Downvotes indicate that you didn’t find a post helpful or interesting. Here’s why downvoting is important:
 
-1. It provides critical feedback that helps improve our recommendation engine. The more accurate the recommendations, the better your experience on daily.dev.
-2. Even though the number of downvotes is private and not visible to anyone, each downvote still impacts the post's ranking in the feed.
-3. After downvoting, you can take follow-up actions such as [blocking the source or tags](../setting-up-your-feed/blocking-tags-sources.md) associated with the post or even reporting the post if you find it inappropriate or irrelevant.
-
+1. It provides feedback that enhances our recommendation engine, improving your experience on daily.dev.
+2. Although downvote counts are private and not visible to others, each downvote impacts the post’s ranking in the feed.
+3. After downvoting, you can take follow-up actions, such as [blocking the source or tags](../setting-up-your-feed/blocking-tags-sources.md) associated with the post or reporting it if you find it inappropriate or irrelevant.
 
 ## How to Upvote
 
-To upvote a post in daily.dev, simply click on the bottom-left button (1) on the post card. Your upvote will contribute to the community's feedback and appreciation for the content.
+To upvote a post in daily.dev, click the bottom-left button (1) on the post card. Your upvote will contribute to the community’s feedback, showing appreciation for quality content.
 
 ## How to Downvote
 
-To downvote a post, you can either do it from the post page itself or in the feed. Simply click on the more options menu for each card, and then select downvote. Once you downvote a post, you won't be able to upvote it.
+To downvote a post, you can do so either on the post page itself or in the feed. Click on the more options menu for each card, then select "downvote." Note that once you downvote a post, you won’t be able to upvote it.
 
-<img src="https://daily-now-res.cloudinary.com/image/upload/v1720176805/docs-v2/1b69468c-7118-437b-853d-a659d7935908.png" alt='Upvote and downvote pic' width="900" height="100%" />
-
+<img src="https://daily-now-res.cloudinary.com/image/upload/v1720176805/docs-v2/1b69468c-7118-437b-853d-a659d7935908.png" alt='Example of upvote and downvote options on a post card in daily.dev' width="900" height="100%" />

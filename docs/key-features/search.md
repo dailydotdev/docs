@@ -1,5 +1,6 @@
 ---
 sidebar_position: 2
+description: "Explore the daily.dev Search, a powerful AI-driven search engine designed specifically for developers to access relevant and accurate information."
 ---
 
 # Search
@@ -12,7 +13,7 @@ Welcome to the official guide for daily.dev Search, a powerful tool we made to s
 
 But what happens when you have a specific question, problem, or issue that requires immediate attention? That's where daily.dev Search comes in.
 
-Our AI-powered search engine is designed to answer your questions directly, pull in insights from a call over the web, and present them to you in a concise and actionable format. **This isn't just another search engine; it's a search engine that's both fine-tuned for developers and fully integrated into the daily.dev ecosystem**. 
+Our AI-powered search engine is designed to answer your questions directly, pull in insights from across the web, and present them to you in a concise and actionable format. **This isn't just another search engine; it's a search engine that's both fine-tuned for developers and fully integrated into the daily.dev ecosystem**. 
 
 :::info
 **Beta Access**: If you're wondering why you haven't seen this new daily.dev Search on your platform yet, it's because we're currently in the beta testing phase. Access to this feature is limited to a select group of users who are helping us fine-tune the experience. We appreciate your patience and can't wait to roll it out to everyone soon. If you can't wait and want to have access please email us at hi@daily.dev
@@ -62,7 +63,6 @@ daily.dev Search is designed to help you in a wide range of scenarios that devel
 | Non-Development Related        | Queries not directly related to software engineering, such as general knowledge or unrelated topics.  | Best coffee brands, How to grow houseplants | 🔴          |
 | Content Generation             | Queries aimed at creating original content, which is beyond the scope of this search engine as it relies on existing web data.| Generate marketing copy, Summarize this article for me | 🔴          |
 | Finding Specific Posts from daily.dev | Queries aimed at finding posts within the daily.dev platform. To search posts please use [Post finder](https://app.daily.dev/posts/finder) | "JavaScript", "Python" | 🔴           |
-
 
 :::info
 Explanation of Support Levels:
@@ -129,4 +129,4 @@ By putting these best practices to work, you can get the most out of daily.dev S
 
 ## The Fine Print
 
-Please note that while we've worked hard to make daily.dev Search as accurate and helpful as possible, it still utilizes AI and Large-Laguage Models (LLMs) at its core. That means it might not always get everything 100% right. If you find something that seems off or unclear, we encourage you to double-check with other trusted sources. Your feedback is invaluable to us, especially as we're still in the beta phase. Thank you for understanding and for being a part of our community!
+Please note that while we've worked hard to make daily.dev Search as accurate and helpful as possible, it still utilizes AI and Large-Language Models (LLMs) at its core. That means it might not always get everything 100% right. If you find something that seems off or unclear, we encourage you to double-check with other trusted sources. Your feedback is invaluable to us, especially as we're still in the beta phase. Thank you for understanding and for being a part of our community!

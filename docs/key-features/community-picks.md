@@ -1,5 +1,6 @@
 ---
 sidebar_position: 9
+description: "Discover how to submit Community Picks on daily.dev to share impactful content that supports the tech journey of the developer community."
 ---
 
 # Community Picks

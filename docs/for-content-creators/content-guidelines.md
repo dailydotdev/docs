@@ -1,101 +1,94 @@
 ---
 sidebar_position: 1
+description: "Explore daily.dev's content guidelines for quality, ethical standards, and platform policies for creators, developers, and enthusiasts."
 ---
 
-# Content guidelines
+# Content Guidelines for daily.dev
 
 ## Introduction
 
-Welcome to our content guidelines! This page is your comprehensive guide to understanding the core principles and standards that shape the content on our platform. Whether you're a content creator, developer, or enthusiast exploring the wide variety of resources on our platform, these guidelines serve as the blueprint for our commitment to quality, innovation, and ethics. As you plan to feature your content on daily.dev, we invite you to familiarize yourself with the [different ways to get your content on daily.dev](../for-content-creators/how-to-get-featured.md), alongside these guidelines.
+Welcome to our content guidelines! This document is your comprehensive guide to understanding the core principles and standards that shape content on our platform. Whether you’re a content creator, developer, or enthusiast, these guidelines reflect our commitment to quality, innovation, and ethics. To learn more about how to feature your content on daily.dev, see the [guide on getting featured](../for-content-creators/how-to-get-featured.md).
 
-In this document, we provide detailed guidance on what we look for in content, what we prioritize, and under what conditions we might remove content. These guidelines are not only a reference for anyone who creates or submits content to daily.dev, but also an insight into our dedication to maintaining a respectful, diverse, and valuable community.
+In this document, you’ll find detailed guidance on what content we look for, what we prioritize, and the conditions under which we might remove content. These guidelines provide a reference for anyone who creates or submits content to daily.dev and insight into our dedication to a respectful, diverse, and valuable community.
 
-Take a moment, dive in, and let's create an enriching and inspiring space together!
+Take a moment, dive in, and let's build an inspiring space together!
 
 :::tip
-These guidelines are key to your journey on our platform. By aligning your content with our standards, you not only enhance the quality of our community but also build your reputation as a trusted source of knowledge. Conversely, content that fails to comply may lead to a reduction in reputation points. The respect and trust you earn from our community are invaluable, so we encourage you to take these guidelines seriously. For more insights on how reputation works, please visit our [reputation guide](../your-profile/reputation.md)
+Aligning your content with our standards enhances our community’s quality and builds your reputation as a trusted source of knowledge. Non-compliance may lead to reduced reputation points. For more on reputation, see our [reputation guide](../your-profile/reputation.md).
 :::
 
-### What content are we looking for?
+### What Content Are We Looking For?
 
-✅ Relevant, fresh and up-to-date content for developers.
+✅ Relevant, fresh, and up-to-date content for developers.
 
 ✅ Professional and well-produced textual or video content.
 
-✅ Novel, innovative, and trending content that inspires developers.
+✅ Innovative, trending content that inspires developers.
 
-✅ Content that adheres to ethical publishing practices.
+✅ Content adhering to ethical publishing practices.
 
-✅ Content from sources that publish new content regularly.
+✅ Content from sources that publish regularly.
 
-✅ Content from sources that have published a substantial amount of content to date.
+✅ Content from established sources with substantial published material.
 
-✅ Content that clearly separates sponsored content, if any, from editorial content.
+✅ Clear distinction between sponsored and editorial content.
 
-✅ Good vibes ✌️
-
-:::info
-In our ongoing effort to maintain a balanced content inventory on the platform, we are temporarily giving higher priority to niche sources during our review process. This allows us to provide our developer community with a diverse range of topics and unique perspectives. As a result, we may apply more strict judgment on mainstream content. This is to ensure that our platform maintains a healthy mix of content and caters to various interests within the global developer community.
-:::
-
-### When will we reject, ban or remove content?
-
-❌ Content that is irrelevant for developers.
-
-❌ Content that is used only or primarily for self-promotion or any other type of promotion.
-
-❌ Content that is not in English.
-
-❌ Content from sources that were not active in the past three months or more.
-
-❌ Content that uses clickbait titles or persuasive tactics primarily aimed at getting people to click on it without delivering substantial value or relevant information.
-
-❌ Content from sources that don't provide an RSS feed or Atom feed available for public use.
-
-❌ Content about politically-oriented topics.
-
-❌ Content that is generated through programmatic SEO or any similar method to populate content. This includes publications that might not use programmatic SEO but can be perceived as doing so.
-
-❌ Content that fails to comply with standard SEO best practices. For more information, refer to this [SEO reference guide](https://developers.google.com/search/docs/fundamentals/seo-starter-guide#understand_your_content).
-
-❌ Content that is generated by artificial intelligence (AI), automated algorithms, or any form of automated content generation methods. This includes content that may not be directly generated by AI but exhibits characteristics typical of AI-generated content, such as overly generic information, lack of personal perspective, or noticeable patterns in language structure.
-
-❌ Content that is either illegal, pornographic (including mature in content or overtly sexual), racist, sexist (or otherwise offensive), grotesque (or obscene), inflammatory, and other inappropriate content.
-
-❌ Content that incites violence or hatred towards an individual or group based on race, religion, gender identity or expression, sex, ethnicity, nationality, sexual orientation, age, disability, or other characteristics associated with systemic discrimination or marginalization.
-
-❌ Content that violates privacy rights, including sharing or encouraging others to share someone's private information without their consent or is otherwise unlawful according to applicable laws. This includes any shortened URLs and Redirected URLs. 
-
-❌ Content that is unsuitable or harmful to the daily.dev's business reputation.
-
-❌ Content that infringes third-party rights, including copyrights, trademarks, or other intellectual property rights.
-
-✋ Personal or corporate blog? Additional terms apply. Keep reading. 
-
-### Additional guidelines for corporate blogs
+✅ Positive and professional vibes ✌️
 
 :::info
-[Update January 2024] Corporate blogs are no longer eligible to be added as sources on daily.dev. Instead, we encourage corporations to [open a Squad](../squads/creating-your-squad.md) on our platform to share their content. We recognize the legacy of existing corporate blogs on daily.dev and plan to gradually migrate these sources to Squads, ensuring a seamless transition while adhering to our updated guidelines.
-
-Learn [why we are discontinuing company sources and moving forward with Squads](https://daily.dev/blog/why-we-are-discontinuing-company-sources-and-moving-forward-with-squads)
+To maintain a balanced content inventory, we’re temporarily prioritizing niche sources. This helps us provide diverse and unique topics for our developer community. Mainstream content may be subject to more rigorous review to ensure a balanced mix.
 :::
 
-### Additional guidelines for personal blogs and indie content creators
+### When Will We Reject, Ban, or Remove Content?
+
+❌ Content irrelevant to developers.
+
+❌ Content used primarily for self-promotion.
+
+❌ Non-English content.
+
+❌ Content from inactive sources (three months or more without updates).
+
+❌ Clickbait or misleading content that lacks substantial value.
+
+❌ Content from sources without a publicly accessible RSS or Atom feed.
+
+❌ Politically-oriented content.
+
+❌ Content generated through programmatic SEO or methods that populate content automatically.
+
+❌ AI-generated content, automated algorithms, or content with characteristics typical of AI-generated material.
+
+❌ Content that is illegal, explicit, offensive, or incites discrimination or violence.
+
+❌ Content violating privacy rights or using shortened or redirected URLs.
+
+❌ Content unsuitable for daily.dev's business reputation.
+
+❌ Content infringing third-party rights, including copyright, trademarks, or other IP rights.
+
+✋ **For personal or corporate blogs:** Additional terms apply. See below for details.
+
+### Additional Guidelines for Corporate Blogs
 
 :::info
-[Update January 2024] As part of our ongoing platform evolution, personal blogs are no longer eligible to be added as sources on daily.dev as of January 2024. Personal bloggers and content creators are encouraged to [create a Squad](../squads/creating-your-squad.md) to share their content with our community. We acknowledge the presence of personal blogs that have historically been part of daily.dev, and we are committed to transitioning these sources to Squads in a gradual and considerate manner.
+[Update January 2024] Corporate blogs are no longer eligible as sources on daily.dev. We encourage corporations to [open a Squad](../squads/creating-your-squad.md) on our platform instead. We will gradually migrate existing corporate blogs to Squads to adhere to these guidelines.
+
+Learn more about [why we're transitioning company sources to Squads](https://daily.dev/blog/why-we-are-discontinuing-company-sources-and-moving-forward-with-squads).
 :::
 
-### Update regarding AI-generated content
+### Additional Guidelines for Personal Blogs and Indie Content Creators
 
-At daily.dev, we recognize the technological advancements and capabilities of artificial intelligence (AI) in generating content. However, our priority remains to spotlight and uphold content that is the product of human insight, expertise, and lived experiences.
+:::info
+[Update January 2024] Personal blogs are no longer eligible to be added as sources on daily.dev. Instead, personal bloggers and content creators are encouraged to [create a Squad](../squads/creating-your-squad.md) to share content with our community. We’ll transition existing personal blogs to Squads gradually.
+:::
 
-We believe that it is through this emphasis on human-created content that we can ensure the authenticity, validity, and reliability of the information shared across our platform. We value the unique perspectives, nuanced understanding, and the richness of thought that comes with human authorship.
+### Update Regarding AI-Generated Content
 
-While AI has demonstrated an ability to create increasingly convincing content, we believe it's important to maintain a clear distinction between human and AI-generated content to preserve the integrity and personal touch inherent in human writing. This stance aligns with our commitment to fostering a genuine, insightful, and engaging community.
+At daily.dev, we emphasize human insight, expertise, and lived experiences in content creation. We value the unique perspectives and nuanced understanding human authors bring, which strengthens the authenticity and quality of information on our platform. AI-generated content, while advancing in quality, doesn’t meet our standard for human insight, and we prioritize human-created content to maintain genuine engagement.
 
 We appreciate your understanding and adherence to this policy.
 
-## Some legal stuff...
+## Legal Information
 
-Please note that Daily Dev Ltd. does not assert ownership or copyright over any of the sources submitted to our platform. Our team vigilantly reviews all submitted content, either manually or through automated systems, to verify its adherence to our content guidelines. If a claim arises concerning a piece of content, such as alleged copyright infringement or a breach of our guidelines, we reserve the right to remove said content. The offending user may also face restrictions on future submissions. Further, any community found in violation of these guidelines may be suspended or terminated. All interactions with our platform, including content publication, are governed by our [Privacy Policy](https://daily.dev/privacy) and [Terms of Service](https://daily.dev/tos). We encourage our community members to report any content they believe infringes upon our policies at any time.
+Please note that Daily Dev Ltd. does not claim ownership or copyright over any submitted content. Our team reviews all content for guideline compliance. If a claim arises (e.g., copyright infringement or guideline violation), we may remove the content and restrict future submissions from the offending user. Any community found in violation of these guidelines may be suspended or terminated. All platform interactions, including content publication, are governed by our [Privacy Policy](https://daily.dev/privacy) and [Terms of Service](https://daily.dev/tos). You can report content that may infringe on our policies at any time.

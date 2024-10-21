@@ -1,32 +1,29 @@
 ---
 sidebar_position: 4
+description: "Learn how to get your Public Squad featured on the daily.dev Squads Directory. Increase visibility and engagement with editorial selection tips."
 ---
 
-# Getting featured on the Squads Directory
+# Getting Featured on the Squads Directory
 
-![image](https://github.com/user-attachments/assets/fb28a405-1c0d-45f8-a8a2-6cfa278ce84e)
+![Squads Directory Feature](https://github.com/user-attachments/assets/fb28a405-1c0d-45f8-a8a2-6cfa278ce84e)
 
-The [Public Squads Directory](https://app.daily.dev/squads) on daily.dev is a curated space where community members discover new and engaging Public Squads. Being featured here significantly enhances your Squad's visibility and traffic. If you have a Public Squad and wish to grow it even further, this is the place to be.
+The [Public Squads Directory](https://app.daily.dev/squads) on daily.dev is a curated space where community members can discover new and engaging Public Squads. Being featured here significantly boosts your Squad's visibility and membership. If you have a Public Squad and aim to expand its reach, the directory is the perfect place to grow.
 
-### Who is eligible to get featured on the directory?
+## Eligibility Criteria for Directory Feature
 
-To become eligible for the Public Squads Directory on daily.dev, your Squad must meet the following criteria:
+To be featured in the daily.dev Public Squads Directory, your Squad must meet the following criteria:
 
-1. **Public Status**: Only Squads that have successfully transitioned to public status are eligible. Private Squads and sources are not included in the directory.
-2. **Editorial Selection**: The featured Squads in the directory are handpicked by our editorial team, ensuring a selection of high-quality, engaging, and compliant Squads. See more tips below on how to increase your chances of being selected by our team.
+1. **Public Status**: Only Public Squads are eligible. Private Squads and non-public sources are not included in the directory.
+2. **Editorial Selection**: Featured Squads are handpicked by our editorial team, ensuring that they represent quality, engagement, and compliance. (See our tips below for enhancing your chances of being selected.)
 
-This focus on editorially curated content ensures that the Squads featured in the directory represent the best of what daily.dev's community has to offer, providing users with a diverse and enriching experience.
+This focus on editorially curated content ensures that Squads featured in the directory represent the best of daily.dev’s community, offering users a diverse and enriching experience.
 
-### How to get featured on the directory?
+## Tips to Increase Your Chances of Being Featured
 
-The selection of Public Squads to be featured in the directory is an editorial decision made by our team. This process ensures that only the most engaging, valuable, and compliant Squads are highlighted.
+The decision to feature a Public Squad in the directory is editorial. However, you can increase your chances by following these best practices:
 
-:::tip
-### How to increase your chances of getting featured on the Public Squads Directory
+1. **Post High-Quality Content Regularly**: Consistently sharing valuable content is the primary factor for being featured.
+2. **Foster Active Engagement**: A thriving community with active discussions and interactions boosts the appeal of your Squad.
+3. **Create Meaningful Interactions**: Regular posts and engaging discussions that resonate with your audience can elevate your Squad's appeal.
 
-1. **Consistently post exceptional content**: High-quality content is the primary criterion for being featured.
-2. **Foster a thriving community**: Active engagement and a growing member base can influence your Squad's inclusion in the directory.
-3. **Create impactful interactions**: Regular posts and discussions that resonate with your audience can elevate your Squad's appeal.
-:::
-
-If you have any further questions regarding Public Squads, don’t hesitate to reach out at [advocacy@daily.dev](mailto:advocacy@daily.dev).
+For any questions regarding Public Squads, feel free to contact us at [advocacy@daily.dev](mailto:advocacy@daily.dev).

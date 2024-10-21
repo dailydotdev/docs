@@ -1,5 +1,6 @@
 ---
 sidebar_position: 4
+description: "Engage in discussions on daily.dev to share insights, connect with other developers, and enhance your professional network."
 ---
 
 # Discussions

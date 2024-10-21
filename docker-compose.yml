@@ -1,8 +1,6 @@
-version: '3.8'
-
 services: 
   react-docker:
-    image: francescoxx/dailydev-docs:0.9.3
+    image: francescoxx/dailydev-docs:1.0.0
     build: 
       context: .
     ports: 

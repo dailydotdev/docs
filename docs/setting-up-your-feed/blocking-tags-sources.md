@@ -1,87 +1,82 @@
 ---
 sidebar_position: 3
+description: "Learn how to block tags and sources on daily.dev for a more personalized feed experience."
 ---
 
-# Blocking tags and sources
+# Blocking Tags and Sources
 
-Customizing your daily.dev feed has never been easier, but sometimes there are specific tags or sources that you simply don't want to see. That's where blocking comes in handy.
+Customizing your daily.dev feed is simple. When there are specific tags or sources you don’t want to see, blocking them comes in handy.
 
-Watch this quick overview video to quickly understand how to block sources and tags for a more tailored feed https://daily-now-res.cloudinary.com/image/upload/v1724395402/docs-v2/6834f2c7-0884-4ee0-8b07-2bea3fa8de99.pngexperience.
+Watch this quick overview video to see how to block sources and tags for a more tailored feed experience:
 
 <iframe width="700" height="400" src="https://www.youtube.com/embed/10ECCjEdHK4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-## How does blocking work?
+## How Does Blocking Work?
 
-Blocking empowers you to:
+Blocking enables you to:
 
-1. Remove all posts that contain a [specific tag](#blocking-tags) : Say goodbye to unwanted content by blocking specific tags that don't interest you.
-2. Remove all posts that come from a [specific source](#blocking-sources) : Keep your feed free from content from specific sources that you don't prefer.
+1. Remove all posts containing a [specific tag](#blocking-tags): Eliminate unwanted content by blocking tags that don’t match your interests.
+2. Remove all posts from a [specific source](#blocking-sources): Keep your feed free from sources you prefer not to follow.
 
 :::info
-Please note that blocking is only applied to posts displayed in your "My Feed" feed. It does not affect content in the Popular, Most Upvoted, or Best Discussions feeds.
+Blocking only applies to posts in your "My Feed." It does not affect content in the Popular, Most Upvoted, or Best Discussions feeds.
 
-To make the most out of the blocking features, be sure to set up your personal feed. Customize your daily.dev experience to suit your preferences and enjoy a curated feed tailored just for you.
+Set up your personal feed for optimal use of the blocking feature. Customize your daily.dev experience to suit your preferences and enjoy a curated feed.
 :::
 
-## Blocking tags and sources from the feed
+## Blocking Tags and Sources from the Feed
 
-Blocking tags and sources can be done directly from the feed. Whenever you see a post with a tag/source you wish to block, click on the more options button (⋮) (1)
+Blocking tags and sources can be done directly from the feed. Whenever you see a post with a tag or source you wish to block, click on the more options button (⋮) (1):
 
-<img src="https://daily-now-res.cloudinary.com/image/upload/v1724395638/docs-v2/eac26cd5-d610-4e8f-82c9-bc38a594879b.png" alt='Options button located top right of a post card (1)' width="900" height="900" />
+<img src="https://daily-now-res.cloudinary.com/image/upload/v1724395638/docs-v2/eac26cd5-d610-4e8f-82c9-bc38a594879b.png" alt='Options button located at the top right of a post card for blocking tags or sources' width="900" height="900" />
 
-- **To block a tag:** Choose “Not interested in (tag_name)“ (2)
+- **To block a tag:** Choose “Not interested in (tag_name)” (2)
 - **To block a source:** Choose "Don't show posts from (source_name)" (3)
 
-<img src="https://daily-now-res.cloudinary.com/image/upload/v1724395498/docs-v2/49192be8-73da-4f18-9c84-2609de45a7db.png" alt='Options menu open highlighting three "not interested in" tags (2) and one "Dont show posts from" (3)' width="900" height="900" />
+<img src="https://daily-now-res.cloudinary.com/image/upload/v1724395498/docs-v2/49192be8-73da-4f18-9c84-2609de45a7db.png" alt='Options menu showing options for blocking specific tags or sources' width="900" height="900" />
 
-Once clicked, the blocked tags and sources will be removed from your feed.
-
-You will also see a toast notification confirming you have blocked a tag or source. 
-
-If you have blocked a tag or source by mistake you can click "Undo" in the toast to reverse the action.
+Once selected, the blocked tags or sources will be removed from your feed. A toast notification will confirm your action, and you can click "Undo" in the toast to reverse it.
 
 :::tip
-If you can't find a post from a specific tag or source you wish to block, try using the [search feature](/docs/key-features/search). 
+Can’t find a post from a specific tag or source you wish to block? Use the [search feature](/docs/key-features/search).
 :::
 
-## Unblocking tags and sources
+## Unblocking Tags and Sources
 
-To unblock tags or sources in your daily.dev feed, follow these simple steps:
+To unblock tags or sources, follow these steps:
 
 1. Click on the "Feed settings" button to open the feed options menu.
-2. Click on "Blocked Items" in the options menu.
-3. You will see a list of all the blocked tags and sources that you currently have selected.
-4. Click on the "unblock" icon next to a blocked item to unblock it.
+2. Select "Blocked Items" in the options menu.
+3. You’ll see a list of all blocked tags and sources.
+4. Click on the "unblock" icon next to an item to unblock it.
 
-<img src="https://daily-now-res.cloudinary.com/image/upload/v1724395402/docs-v2/6834f2c7-0884-4ee0-8b07-2bea3fa8de99.png" alt='Options menu open highlighting three how to unblock items' width="900" height="900" />
+<img src="https://daily-now-res.cloudinary.com/image/upload/v1724395402/docs-v2/6834f2c7-0884-4ee0-8b07-2bea3fa8de99.png" alt='Blocked items list showing how to unblock specific tags or sources' width="900" height="900" />
 
-Items with the unblocked tag or source will start appearing in your feed again. With these easy steps, you can easily manage and customize your daily.dev feed to suit your preferences and interests.
+Unblocked items will reappear in your feed, letting you fully manage and customize your daily.dev experience.
 
-## Advanced information about how blocking works
+## Advanced Information About How Blocking Works
 
-### Blocking tags
+### Blocking Tags
 
 Tags can have the following states:
 * Following / Not following
-* Blocked 
-
+* Blocked
 
 | Tag A (State)     | Tag B (State)     | Will you see the post?     |
-| ---               | ---               | ---                           |
-| Following         | Following         | ✅ Yes                        |
-| Following         | Not following     | ✅ Yes                        |
-| Not following     | Not following     | ❌ No                         |
-| Not following     | Blocked           | ❌ No                         |
-| Following         | Blocked           | ❌ No                         |
+|-------------------|-------------------|----------------------------|
+| Following         | Following         | ✅ Yes                      |
+| Following         | Not following     | ✅ Yes                      |
+| Not following     | Not following     | ❌ No                       |
+| Not following     | Blocked           | ❌ No                       |
+| Following         | Blocked           | ❌ No                       |
 
-
-### Blocking sources
+### Blocking Sources
 
 A source can have the following states:
 * Following (default for all sources)
-* Blocked 
+* Blocked
 
 | Source (State)    | Will you see the post?     |
-| ---               | ---                           |
-| Following         | ✅ Yes                        |
-| Blocked           | ❌ No                         |
+|-------------------|----------------------------|
+| Following         | ✅ Yes                      |
+| Blocked           | ❌ No                       |
