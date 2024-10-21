@@ -5,6 +5,8 @@ description: "Customize your daily.dev experience with preferences like reading 
 
 # Preferences Settings on daily.dev
 
+!["Preferences"](https://daily-now-res.cloudinary.com/image/upload/v1724399519/docs-v2/699dcb1d-8bcc-481f-8ef3-3f2cbc80b15f.png)
+
 The preferences options allow you to fine-tune your **daily.dev** experience by toggling various features on or off. Currently, available options include:
 
 - Show reading streaks
