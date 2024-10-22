@@ -7,7 +7,8 @@ description: "Explore the activity stats on daily.dev to track your reading habi
 
 The activity stats on your daily.dev profile provide insights into your reading habits, favorite tags, badges earned from the weekly goal, as well as your posts and comments made on the platform. These stats help you track your progress, interests, and engagement on daily.dev.
 
-<img src="https://github.com/dailydotdev/docs/assets/18360871/c073ca35-e9f1-46df-9cd3-bbf68734ecd9" alt='Profile activity stats highlighting badges, reading matrix, favorite tags, posts, and comments' width="900" height="100%" />
+![Profile activity tab with reading streak and posts rea in the last year](https://github.com/user-attachments/assets/b414b6da-a901-4f1a-af7b-4c27782e7964)
+
 
 ## Badges from Weekly Goal
 
