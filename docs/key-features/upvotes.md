@@ -36,3 +36,7 @@ To upvote a post in daily.dev, click the bottom-left button (1) on the post card
 To downvote a post, you can do so either on the post page itself or in the feed. Click on the more options menu for each card, then select "downvote." Note that once you downvote a post, you won’t be able to upvote it.
 
 <img src="https://daily-now-res.cloudinary.com/image/upload/v1720176805/docs-v2/1b69468c-7118-437b-853d-a659d7935908.png" alt='Example of upvote and downvote options on a post card in daily.dev' width="900" height="100%" />
+
+## How to share a link
+
+Just click on the bottom on the left, with the 🔗 icon, and you will have the link in your clipboard!
