@@ -29,6 +29,7 @@ const FeatureList = [
       {url: "docs/key-features/discussions", text: "Discussions"},
       {url: "docs/key-features/bookmarks", text: "Bookmarks"},
       {url: "docs/key-features/search", text: "Search"},
+      {url: "docs/key-features/usersearch", text: "Users Search"},
       {url: "docs/key-features/pause-new-tab", text: "Pause New Tab (DND)"},
       {url: "docs/key-features/the-companion", text: "Companion Widget"},
       {url: "docs/key-features/community-picks", text: "Community Picks"},
