@@ -23,13 +23,13 @@ Participating in discussions can benefit you in several ways:
 
 Click on any post in the feed to see the post modal.
 
-Beneath the title, TLDR (Now powered by Open AI!) and post image you can see all the comments on the post.
+Beneath the title, TLDR (Now powered by Open AI!), and post image, you can see all the comments on the post.
 
-You can upvote (1), reply (2) to and share (3) individual comments. You can also see the number of upvotes a comment has on the right (4).
+You can upvote, downvote, comment, bookmark, and copy the link.
 
-<img src="https://daily-now-res.cloudinary.com/image/upload/v1663541915/docs-v2/discussions-1.jpg" alt='post modal with lower half highlighted. On one comment there is a highlight showing the upvote button (1), the comment button (2), the share button (3) and the number of upvotes (4)' width="990" height="1600" />
+You can also see the current number of upvotes and comments.
 
-Or you can add your own comment on the post itself.
+![Discussion example](https://github.com/user-attachments/assets/a4ce905a-bbaf-42f0-800b-50035386a161)
 
 ## Add a comment
 
