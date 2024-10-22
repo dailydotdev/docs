@@ -58,7 +58,8 @@ To be able to submit a Community Pick you need to have at least 250 reputation o
 
 If you do not have enough reputation to submit a link you will see a message telling you that you do not have enough reputation and the submit button will be disabled.
 
-![](https://daily-now-res.cloudinary.com/image/upload/v1657719512/cp-4-not-enough-permissions_zadogk.jpg)
+![not enough reputation for community links notification](https://github.com/user-attachments/assets/8a132a66-b4f5-4def-b314-a3f6dd999819)
+
 
 ### How to submit a link
 On the menu on the left you will see a section "Contribute" containing a button "Submit link".
