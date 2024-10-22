@@ -9,10 +9,6 @@ description: "Integrate Slack with daily.dev Squads to streamline updates and te
 
 Integrate your Slack workspace with daily.dev Squads to streamline communication and keep your team updated with the latest posts. This guide walks you through connecting your Slack workspace with a Squad, ensuring you never miss important updates.
 
-:::note
-This feature is currently in the experimental stage. It may undergo changes and improvements based on user feedback and testing. We appreciate your understanding and welcome any feedback to help us enhance this integration.
-:::
-
 ## Prerequisites
 
 To use the Slack integration, you must be an admin of a Squad or have an existing Squad on daily.dev. If you don't have a Squad yet, we recommend [creating one](/squads/creating-your-squad.md) to fully leverage the Slack integration.
