@@ -75,14 +75,14 @@ Explanation of Support Levels:
 
 Facing issues during searching your colleague or Ex-Boss or ex-Girlfriend here's some method to easily search them with optimized techniques:
 
-### 1. write their names with correct spelling
+### 1. Write names with correct spelling
 
 If you want to find the exact person try to make the spellings correct. Go to downside of search bar and can see easily who are more people with same names.
 
 🚫 **Not Recommended**: "Writing incorrect names."  
 ✅ **Recommended**: "Writing their correct names."
 
-### 2. User is using or not
+### 2. User Existence
 
 It is better that you know that they are using this platform or not, because only people who have made this profile are accessible.
 
