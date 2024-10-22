@@ -24,7 +24,7 @@ On the account settings page, you can edit various personal information, includi
 * **Social Media Accounts**: Add links to your Twitter, GitHub profile, etc.
 * **Website**: Add or edit your personal website or other relevant URLs.
 
-<img src="https://daily-now-res.cloudinary.com/image/upload/v1720176266/docs-v2/bfc45e6c-bbf2-4c46-99ec-c389d18f56b2.png" alt='Profile details menu screenshot' width="900" height="100%" />
+![Profile details menu screenshot](https://github.com/user-attachments/assets/53a4fe9e-a4c9-408d-9b75-9260a9153b11)
 
 ## Security Settings
 
@@ -36,7 +36,7 @@ At daily.dev, we prioritize the security of your account information. You have c
 4. **Set and Change Password**: Ensure your account is protected with a strong, unique password to prevent unauthorized access.
 5. **Delete Your Account**: If you wish to delete your account, this option permanently removes all associated data. [Learn more](/your-profile/deleting-your-profile.md).
 
-<img src="https://daily-now-res.cloudinary.com/image/upload/v1720176369/docs-v2/d41b06d5-ca06-40d9-a3f4-751714943442.png" alt='Security settings menu screenshot' width="900" height="100%" />
+![Security settings menu screenshot](https://github.com/user-attachments/assets/a2541edd-c1be-4081-aa05-4fbf4d5b07b5)
 
 ## Notification Settings
 
@@ -46,15 +46,21 @@ Customize notifications to stay informed about important updates:
 2. **Email Notifications**: Manage email notifications sent to your registered email, providing updates and important information.
 3. **Configure Email Notification Settings**: Choose specific types of notifications you’d like to receive.
 
-<img src="https://github.com/dailydotdev/docs/assets/18360871/5365118b-43b0-4346-a235-0cdc2a86cb72" alt='Notification settings menu screenshot' width="900" height="100%" />
+![Notification settings menu screenshot](https://github.com/user-attachments/assets/47eb837f-19b2-4cc6-a768-2f3490b58027)
+
+## Integration
+
+Here you can integrate daily.dev with other platforms. For now, you can connect it with Slack.
+
+![image](https://github.com/user-attachments/assets/455c59f4-5f0b-4fe7-a876-a31e61536c7f)
+
 
 ## Invite Friends
 
 Invite friends to daily.dev! Click the "Copy link" button and share it via email, messaging apps, or social media.
 
-<img src="https://daily-now-res.cloudinary.com/image/upload/v1720176317/docs-v2/6ee2202e-348c-4099-b3b8-e522062d7615.png" alt='Invite friends option screenshot' width="900" height="100%" />
+![Invite friends option screenshot](https://github.com/user-attachments/assets/b0f28c99-8284-44bc-9e04-4767d2eed3d9)
 
-## Other Settings
 
 daily.dev provides additional settings to manage your time zone and newsletter subscription.
 
