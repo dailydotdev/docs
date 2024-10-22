@@ -13,6 +13,8 @@ Here are the different types of content that you can find:
 - **Squad posts**: Read posts shared in one of our many squads. Some of them are public and some of them are private.
 - **Collections**: Collections are an AI-powered feature that groups together all the news that has come out on the same topic from multiple sources and creates a concise, complete summary of what’s going on.
 
+you can configure your content categories [here](https://docs.daily.dev/docs/setting-up-your-feed/advanced-filtering-options)
+
 ## Articles
 
 Articles have been the first type of content that daily.dev has supported: You can read articles from your favorite tech blogs and news sites.
