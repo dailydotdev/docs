@@ -83,7 +83,7 @@ A source can have the following states:
 
 ### Reporting Posts
 
-If you encounter a post that violates the [community guidelines](/docs/community-guidelines), you can report it. Click on the more options button (⋮) on the post card and select "Report" to notify the daily.dev team.
+If you encounter a post that violates the [community guidelines](https://docs.daily.dev/docs/for-content-creators/content-guidelines), you can report it. Click on the more options button (⋮) on the post card and select "Report" to notify the daily.dev team.
 
 ![Reporting post image](https://github.com/user-attachments/assets/5d544bf0-7e4d-466b-89f2-4f9e709eece1)
 
