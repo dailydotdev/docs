@@ -3,7 +3,7 @@ sidebar_position: 3
 description: "Learn how to block tags and sources on daily.dev for a more personalized feed experience."
 ---
 
-# Blocking Tags and Sources
+# Blocking and Report
 
 Customizing your daily.dev feed is simple. When there are specific tags or sources you don’t want to see, blocking them comes in handy.
 
@@ -80,3 +80,14 @@ A source can have the following states:
 |-------------------|----------------------------|
 | Following         | ✅ Yes                      |
 | Blocked           | ❌ No                       |
+
+### Reporting Posts
+
+If you encounter a post that violates the [community guidelines](/docs/community-guidelines), you can report it. Click on the more options button (⋮) on the post card and select "Report" to notify the daily.dev team.
+
+![Reporting post image](https://github.com/user-attachments/assets/5d544bf0-7e4d-466b-89f2-4f9e709eece1)
+
+Once you click on "Report," you’ll be asked to confirm your action and select the reason for reporting the post. The daily.dev team will review the report and take appropriate action.
+
+
+![Reporting reason image](https://github.com/user-attachments/assets/b274c1ca-e630-4eda-814f-cb730a60afd6)

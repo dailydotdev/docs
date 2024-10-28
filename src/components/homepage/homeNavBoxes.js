@@ -33,6 +33,7 @@ const FeatureList = [
       {url: "docs/key-features/pause-new-tab", text: "Pause New Tab (DND)"},
       {url: "docs/key-features/the-companion", text: "Companion Widget"},
       {url: "docs/key-features/community-picks", text: "Community Picks"},
+      {url: "docs/key-features/how-the-algo-works", text: "How the algorithm works"},
     ]
   },
   {
@@ -117,8 +118,6 @@ function Feature({title, icon, items }) {
     </article>
   );
 }
-
-
 
 
 
