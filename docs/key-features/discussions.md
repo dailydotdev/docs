@@ -64,6 +64,25 @@ Including:
 We only support pure markdown in comments, HTML will be converted to plain text.
 :::
 
+## Comment sorting (Enjoy comments periodically)
+![Sorting](https://res.cloudinary.com/daily-now/image/upload/s--iBD2ASDp--/f_auto/v1728388274/posts/GmJxoDsta)
+### See latest and oldest comments easily.
+
+Now it becomes easier to see which comment is the oldest and which are the newest to check the hotness of the discussion topic.
+
+daily.dev has introduced a new feature of sorting comments so that people can easily read any news easily.
+
+As going into the comment section and sorting comments as mentioned below.
+
+#### Sort by going to following button-
+![Sorting-comments](https://res.cloudinary.com/daily-now/image/upload/s--V2cVQiPx--/f_auto/v1728387391/ugc/content_6d1cce98-bfa4-463a-bd0a-738581fb534c)
+### See the newest or latest comment-
+![Newest-Comment-after-sorting](https://res.cloudinary.com/dw6ps7x9q/image/upload/v1730123621/Screenshot_2024-10-28_192132_xdeo7y.png)
+
+### For oldest comment just click on the button again:
+![Oldest-Comment](https://res.cloudinary.com/dw6ps7x9q/image/upload/v1730123622/Screenshot_2024-10-28_192121_jgewkq.png)
+
+
 ### @Mention people!
 
 You can @mention people in the comments! Simply type the <kbd>@</kbd> character and start writing the first few characters of their name.
