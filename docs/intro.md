@@ -1,24 +1,6 @@
 ---
 sidebar_position: 0
 sidebar_label: Introduction
----
-
-# Introduction
-
-daily.dev is a professional network for developers that provides the latest tech news and articles all in one place. 
-
-
-We curate posts from over 1300 tech news sources and present them in a single feed that you can customize to your interests using tags. Our platform helps you save time by finding high-quality posts, so you can stay up-to-date and stay ahead of the curve as a developer.
-
-<iframe width="700" height="400" src="https://www.youtube.com/embed/igZCEr3HwCg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-## Quick start guide
-
-We want you to get the most out of daily.dev, so we've put together this quick start guide to help you make the most of our platform and our community.
-
-### Step 1: Install 🚀---
-sidebar_position: 0
-sidebar_label: Introduction
 description: "daily.dev brings the latest tech news and articles to developers, curated from over 1300 sources with a customizable feed to stay ahead in tech."
 ---
 

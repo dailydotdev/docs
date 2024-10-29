@@ -71,7 +71,7 @@
 .homecard {
   background-color: #1c1f26;
   width: 330px;
-  height: 420px;
+  height: 470px;
   padding: 20px;
   position: relative;
   display: block;
@@ -83,7 +83,7 @@
 
 .homecard:hover {
   transform: translateY(-4px);
-  box-shadow: 0 12px 30px rgba(0, 0, 0, 0.5);
+  box-shadow: 0 12px 30px rgba(192, 41, 240, 0.5); /* Purple shadow on hover */
 }
 
 html[data-theme='light'] .homecard {
@@ -97,15 +97,19 @@ html[data-theme='dark'] .homecard {
 }
 
 html[data-theme='dark'] .homecard:hover {
-  box-shadow: 0 12px 30px rgba(255, 255, 255, 0.2);
+  box-shadow: 0 12px 30px rgba(192, 41, 240, 0.5); /* Purple shadow on hover for dark theme */
 }
 
 .homecard h2 {
+  display: flex;
+  align-items: center; /* Vertically align the icon and text */
+  justify-content: left; /* Center the icon and text horizontally */
   margin: 0 0 1rem;
   font-size: 1.5rem;
   line-height: 1.4;
   font-weight: 700;
   color: #222;
+  text-align: left; /* Ensure text itself is centered */
 }
 
 html[data-theme='dark'] .homecard h2 {
