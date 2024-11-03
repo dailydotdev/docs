@@ -1,11 +1,10 @@
 ---
 sidebar_position: 5
-description: "Celebrate your dedication by earning a "Top Reader" badge and gain recognition for your activity within specific categories.
-"
+description: "Celebrate your dedication by earning a Top Reader badge and gain recognition for your activity within specific categories."
 ---
 
 # Top Readers
-**Top Readers** rewards active readers with a badge that highlights their engagement in specific content categories. By encouraging continuous reading, this feature also enables users to share their achievements with others, boosting personal and community engagement across the platform.
+Top Readers rewards active readers with a badge that highlights their engagement in specific content categories. By encouraging continuous reading, this feature also enables users to share their achievements with others, boosting personal and community engagement across the platform
 
 ## Prerequisites
 To be eligible for a Top Reader badge, simply stay active on daily.dev and engage consistently with content in various categories. There’s no additional setup required to start earning badges.
