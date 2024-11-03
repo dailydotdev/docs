@@ -1,5 +1,5 @@
 ---
-sidebar_position: 7
+sidebar_position: 8
 description: "Learn how to permanently delete your daily.dev profile, including all associated content, bookmarks, posts, and comments. Important steps and considerations before proceeding."
 ---
 

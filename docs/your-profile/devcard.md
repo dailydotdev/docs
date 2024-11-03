@@ -1,5 +1,5 @@
 ---
-sidebar_position: 5
+sidebar_position: 6
 description: "Create and customize your daily.dev DevCard to showcase your activity, interests, and reputation. Learn how to generate, customize, and share your DevCard on social media, GitHub, and more."
 ---
 

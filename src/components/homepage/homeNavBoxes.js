@@ -45,6 +45,7 @@ const FeatureList = [
       {url: "docs/your-profile/reading-history", text: "Reading history"},
       {url: "docs/your-profile/reading-streak", text: "Reading streak"},
       {url: "docs/your-profile/verified-badge", text: "Company verified badge"},
+      {url: "docs/your-profile/top-readers", text: "Top readers"},
       {url: "docs/your-profile/devcard", text: "DevCard"},
       {url: "docs/your-profile/account-details", text: "Account settings"},
       {url: "docs/your-profile/deleting-your-profile", text: "Deleting your profile"},
