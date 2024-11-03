@@ -1,5 +1,5 @@
 ---
-sidebar_position: 10
+sidebar_position: 9
 description: "Explore the daily.dev leaderboard system, designed to recognize the most active and impactful users across various categories in the community."
 ---
 
@@ -9,7 +9,7 @@ The daily.dev [leaderboard system](https://app.daily.dev/users) is designed to r
 
 To see all the leaderboards, you can visit https://app.daily.dev/users
 
-[![Leaderboard on daily,dev](https://github.com/user-attachments/assets/3fb20698-75e0-4512-ab1d-4654ecb7ba3d)](https://app.daily.dev/users)
+[![Leaderboard on daily.dev](https://github.com/user-attachments/assets/3fb20698-75e0-4512-ab1d-4654ecb7ba3d)](https://app.daily.dev/users)
 
 ## Types of Leaderboards
 

@@ -1,5 +1,5 @@
 ---
-sidebar_position: 6
+sidebar_position: 7
 description: "Learn how to personalize your daily.dev profile, configure security settings, manage notifications, and invite friends. Set up your account for a tailored experience."
 ---
 
