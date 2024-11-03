@@ -1,3 +1,12 @@
+# [0.11.0](https://github.com/dailydotdev/docs/compare/v0.10.0...v0.11.0) (2024-11-03)
+
+
+### Features
+
+* new top readers doc ([#445](https://github.com/dailydotdev/docs/issues/445)) ([aabda8c](https://github.com/dailydotdev/docs/commit/aabda8cd92fe5ec8c29dd2536dd59a74cf801337))
+
+
+
 # [0.10.0](https://github.com/dailydotdev/docs/compare/v0.9.0...v0.10.0) (2024-09-09)
 
 
@@ -31,15 +40,6 @@
 ### Features
 
 * add instructions for connecting a private channel on Slack ([#357](https://github.com/dailydotdev/docs/issues/357)) ([48dab7c](https://github.com/dailydotdev/docs/commit/48dab7c3b57d85db178afa42a62633bab39f68e4))
-
-
-
-# [0.6.0](https://github.com/dailydotdev/docs/compare/v0.5.0...v0.6.0) (2024-08-07)
-
-
-### Features
-
-* add a Slack integration page ([#352](https://github.com/dailydotdev/docs/issues/352)) ([10b756e](https://github.com/dailydotdev/docs/commit/10b756ec05b953d577b4981acd7f0bc08b597ff2))
 
 
 
