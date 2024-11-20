@@ -57,13 +57,29 @@ Building your Squad starts with inviting other developers to join:
 Encourage members to invite peers who may be interested in your Squad’s topics to grow your community.
 :::
 
-## Apply to Become a Public Squad
+## The New Squads Directory
 
-As your Squad grows and gains activity, you might consider transitioning it to Public status to increase visibility and engagement within the daily.dev community:
+Public Squads are now automatically added to the [Squads Directory](https://app.daily.dev/squads), a curated space where developers can discover communities that align with their interests.  
 
-1. **Increased Exposure**: Public Squads are featured in the daily.dev feed, reaching a broader audience.
-2. **Community Building**: Public status enables you to connect with more developers and expand your community.
+### Categories in the Directory
 
-For guidance on making your Squad public, including benefits, steps, and tips, refer to our [guide on becoming a Public Squad](/squads/public-squads.md). This guide will provide you with the information you need to successfully transition to Public status.
+When creating a Public Squad, you must select a category that fits your Squad's theme. Categories include:  
+- **Featured**: Editor’s choice for top Squads on the platform.  
+- **Languages**: Programming language-specific communities.  
+- **Web, Mobile, DevOps & Cloud, AI, Games**: Development-focused categories.  
+- **DevTools**: Squads by or for developer tools companies.  
+- **Career**: Topics around career growth, leadership, and skills development.  
+- **Open Source, DevRel, Fun**: Specialized communities for unique developer interests.
 
-In the following pages, you’ll learn about tools for moderating your Squad, managing member roles, and adjusting privacy settings.
+### Tips for Gaining Visibility in the Directory
+
+To improve your chances of being featured in the directory:  
+1. **Optimize Your Metadata**: Add an engaging image, clear description, and select the most relevant category.  
+2. **Grow Membership**: Invite members to join and participate actively.  
+3. **Post Consistently**: Regular high-quality posts boost engagement and visibility.  
+
+## Building an Engaged Community
+
+An active Squad is key to growth. By regularly posting, approving member contributions, and sparking discussions, your Squad can become a vibrant hub for developers.
+
+Good luck with growing your Squad! 🚀
