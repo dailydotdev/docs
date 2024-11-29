@@ -13,23 +13,23 @@ Reputation is a metric that reflects the trust you earn from the community throu
 
 When you sign up for daily.dev, you start with **10 points**, celebrating your entry into the community. Reputation never falls below **0**, preventing negative scores.
 
-## Reputation Update
+<!-- ## Reputation Update
 
-Reputation is visible across the platform:
+Reputation is visible across the platform: -->
 
-- 👤 **Next to Your Profile**: See your reputation near your profile image.
-  ![Profile Reputation](https://daily-now-res.cloudinary.com/image/upload/v1724396491/docs-v2/5b31c20a-903e-4e42-8e26-70b45993a31e.png)
+<!-- - 👤 **Next to Your Profile**: See your reputation near your profile image. -->
+  <!-- ![Profile Reputation](https://daily-now-res.cloudinary.com/image/upload/v1724396491/docs-v2/5b31c20a-903e-4e42-8e26-70b45993a31e.png)
+   -->
+<!-- - 💬 **On Your Comments and Posts**: Reputation is highlighted on your interactions. -->
+  <!-- ![Comments and Posts Reputation](https://daily-now-res.cloudinary.com/image/upload/v1722605160/docs-v2/902c0367-6733-4f9a-bf9e-4f7e81fe9fbe.png) -->
   
-- 💬 **On Your Comments and Posts**: Reputation is highlighted on your interactions.
-  ![Comments and Posts Reputation](https://daily-now-res.cloudinary.com/image/upload/v1722605160/docs-v2/902c0367-6733-4f9a-bf9e-4f7e81fe9fbe.png)
-  
-- 🙎 **On Your Profile Page**: Showcases your overall reputation.
-  ![Profile Page Reputation](https://daily-now-res.cloudinary.com/image/upload/v1724396615/docs-v2/0572d900-1422-4b43-9cec-d9946d2768ba.png)
+<!-- - 🙎 **On Your Profile Page**: Showcases your overall reputation. -->
+  <!-- ![Profile Page Reputation](https://daily-now-res.cloudinary.com/image/upload/v1724396615/docs-v2/0572d900-1422-4b43-9cec-d9946d2768ba.png) -->
 
-- 🃏 **On Your DevCard**: Display reputation on your personalized DevCard.
-  ![DevCard Reputation](https://daily-now-res.cloudinary.com/image/upload/v1724396681/docs-v2/3710da78-bfa9-4572-803c-e0c40c327b2f.png)
+<!-- - 🃏 **On Your DevCard**: Display reputation on your personalized DevCard. -->
+  <!-- ![DevCard Reputation](https://daily-now-res.cloudinary.com/image/upload/v1724396681/docs-v2/3710da78-bfa9-4572-803c-e0c40c327b2f.png) -->
 
-You can now lose points, and only upvotes or downvotes from users with **250+ reputation** affect your score, ensuring fairness.
+<!-- You can now lose points, and only upvotes or downvotes from users with **250+ reputation** affect your score, ensuring fairness. -->
 
 ## How to Earn Reputation Points
 

@@ -55,7 +55,7 @@ html[data-theme='dark'] .docusaurus-highlight-code-line {
 }
 
 .header-github-link:hover {
-  opacity: 0.6;
+  /* opacity: 0.6; */
 }
 
 .header-github-link:before {
@@ -802,16 +802,16 @@ height: 85% !important;
   font-weight: 700; /* Bold for emphasis */
   line-height: 115%;
   text-align: center; /* Center the text */
-  background: linear-gradient(90deg, #c029f0, #ff00d4a5); /* Gradient from purple to blue */
+  /*background: linear-gradient(90deg, #c029f0, #ff00d4a5); /* Gradient from purple to blue */
   -webkit-background-clip: text; /* Clip gradient to text */
-  -webkit-text-fill-color: transparent; /* Make the text itself transparent */
+ /* -webkit-text-fill-color: transparent; /* Make the text itself transparent */
   text-shadow: 2px 2px 8px rgba(0, 0, 0, 0.2); /* Subtle shadow for depth */
   margin-top: 2rem;
   transition: transform 0.3s ease, text-shadow 0.3s ease; /* Smooth transition */
 }
 
 .hero__title:hover {
-  text-shadow: 4px 4px 15px rgba(192, 41, 240, 0.8); /* Stronger shadow on hover */
+  /*text-shadow: 4px 4px 15px rgba(192, 41, 240, 0.8); /* Stronger shadow on hover */
   /*transform: scale(1.05); /* Slight scale effect on hover */
 }
 
