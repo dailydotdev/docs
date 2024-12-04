@@ -3,7 +3,7 @@ sidebar_position: 0
 description: "Customize your daily.dev feed layout with Grid and List modes for an optimal reading experience across all devices."
 ---
 
-# Layout Options on daily.dev Feed
+# Layout Options 
 
 The layout option lets you select how posts are displayed on your **daily.dev feed**. Switch between **Grid mode** and **List mode** to suit your viewing preferences.
 

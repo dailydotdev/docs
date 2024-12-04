@@ -3,7 +3,7 @@ sidebar_position: 1
 description: "Customize your daily.dev experience by choosing between Dark, Light, and Auto theme settings for a personalized reading environment."
 ---
 
-# Theme Options on daily.dev
+# Theme Options
 
 The theme option allows you to change the look and feel of **daily.dev** by selecting from the available themes. Currently, you can choose from:
 

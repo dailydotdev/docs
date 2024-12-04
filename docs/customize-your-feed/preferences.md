@@ -3,7 +3,7 @@ sidebar_position: 3
 description: "Customize your daily.dev experience with preferences like reading streaks, link behavior, and companion widget for a personalized feed."
 ---
 
-# Preferences Settings on daily.dev
+# Preferences Settings
 
 !["Preferences"](https://daily-now-res.cloudinary.com/image/upload/v1724399519/docs-v2/699dcb1d-8bcc-481f-8ef3-3f2cbc80b15f.png)
 
