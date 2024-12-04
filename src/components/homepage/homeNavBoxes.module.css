@@ -43,13 +43,19 @@
   }
 }
 
+.listContainer ul {
+  padding-left: 0; /* Remove any left padding from the <ul> */
+  margin: 0; /* Reset default margin of <ul> */
+}
+
 .listContainer li {
-  list-style-type: none;
-  position: relative;
-  padding: 0.28rem;
-  font-size: 1rem;
-  color: #444;
-  transition: color 0.2s;
+  list-style-type: none; /* Keep list style removed */
+  position: relative; /* Retain existing position */
+  padding-left: 0.28rem; /* Ensure list items match the padding of <h2> */
+  padding-top: 0.5rem;
+  font-size: 1rem; /* Retain font size */
+  color: #444; /* Retain text color */
+  transition: color 0.2s; /* Retain hover transition */
 }
 
 .listContainer li:hover {
@@ -100,16 +106,18 @@ html[data-theme='dark'] .homecard:hover {
   /*box-shadow: 0 12px 30px rgba(192, 41, 240, 0.5); /* Purple shadow on hover for dark theme */
 }
 
+
+
 .homecard h2 {
-  display: flex;
-  align-items: center; /* Vertically align the icon and text */
-  justify-content: center; /* Center the icon and text horizontally */
-  margin: 0 0 1rem;
-  font-size: 1.5rem;
-  line-height: 1.4;
-  font-weight: 700;
-  color: #222;
-  text-align: left; /* Ensure text itself is centered */
+  margin: 0; /* Remove default margin */
+  padding-left: 0.28rem; /* Match the list items' padding */
+  font-size: 1.5rem; /* Retain existing font size */
+  line-height: 1.4; /* Retain line height */
+  font-weight: 700; /* Retain font weight */
+  color: #222; /* Retain text color */
+  text-align: left; /* Ensure the text is left-aligned */
+  padding-top: 0.5rem;
+  padding-bottom: 0.5rem;
 }
 
 html[data-theme='dark'] .homecard h2 {
