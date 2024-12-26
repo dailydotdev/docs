@@ -13,25 +13,18 @@ Reputation is a metric that reflects the trust you earn from the community throu
 
 When you sign up for daily.dev, you start with **10 points**, celebrating your entry into the community. Reputation never falls below **0**, preventing negative scores.
 
-<!-- ## Reputation Update
+Reputation is visible across the platform
 
-Reputation is visible across the platform: -->
-
-<!-- - 👤 **Next to Your Profile**: See your reputation near your profile image. -->
-  <!-- ![Profile Reputation](https://daily-now-res.cloudinary.com/image/upload/v1724396491/docs-v2/5b31c20a-903e-4e42-8e26-70b45993a31e.png)
-   -->
-<!-- - 💬 **On Your Comments and Posts**: Reputation is highlighted on your interactions. -->
-  <!-- ![Comments and Posts Reputation](https://daily-now-res.cloudinary.com/image/upload/v1722605160/docs-v2/902c0367-6733-4f9a-bf9e-4f7e81fe9fbe.png) -->
-  
-<!-- - 🙎 **On Your Profile Page**: Showcases your overall reputation. -->
-  <!-- ![Profile Page Reputation](https://daily-now-res.cloudinary.com/image/upload/v1724396615/docs-v2/0572d900-1422-4b43-9cec-d9946d2768ba.png) -->
-
-<!-- - 🃏 **On Your DevCard**: Display reputation on your personalized DevCard. -->
-  <!-- ![DevCard Reputation](https://daily-now-res.cloudinary.com/image/upload/v1724396681/docs-v2/3710da78-bfa9-4572-803c-e0c40c327b2f.png) -->
-
-<!-- You can now lose points, and only upvotes or downvotes from users with **250+ reputation** affect your score, ensuring fairness. -->
+* **On tha app's header**: See your reputation near your profile image.
+* **On your comments and posts**: Reputation is highlighted on your interactions. 
+* **On your public profile page**: Showcases your overall reputation.
+* **On your DevCard**: Reputation is also displayed on your personalized DevCard. 
 
 ## How to Earn Reputation Points
+
+:::info
+Reputation points are granted only when actions such as upvotes, downvotes, or other contributions come from users with 250 or more reputation points. For example, if a user with less than 250 reputation points upvotes your post or comment, it will not affect your reputation score. This ensures that reputation reflects feedback from established members of the community.
+:::
 
 Reputation points are gained or lost through specific actions, fostering accountability:
 
@@ -46,6 +39,10 @@ Reputation points are gained or lost through specific actions, fostering account
 | Approved source suggestion           | **+200**|
 
 > Last update: February 2024
+
+:::warning
+Engaging in reputation farming or any activities intended to manipulate reputation scores is strictly against our terms of service. Such behavior may result in penalties, including the loss of reputation points or even account suspension or banning. Always use the platform responsibly and adhere to the community guidelines.
+:::
 
 ## Privileges Unlocked with Reputation
 
@@ -74,4 +71,4 @@ Strive for respectful and constructive contributions, fostering a welcoming and 
 
 ## Reputation is Optional
 
-Reputation isn’t required to enjoy daily.dev essentials: read news, upvote, and comment freely.
+Reputation isn’t required to enjoy daily.dev essentials: read stuff, upvote, and comment freely.
