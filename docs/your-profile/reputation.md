@@ -15,7 +15,7 @@ When you sign up for daily.dev, you start with **10 points**, celebrating your e
 
 Reputation is visible across the platform
 
-* **On tha app's header**: See your reputation near your profile image.
+* **On the app's header**: See your reputation near your profile image.
 * **On your comments and posts**: Reputation is highlighted on your interactions. 
 * **On your public profile page**: Showcases your overall reputation.
 * **On your DevCard**: Reputation is also displayed on your personalized DevCard. 
