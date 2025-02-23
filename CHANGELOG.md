@@ -1,3 +1,12 @@
+# [0.12.0](https://github.com/dailydotdev/docs/compare/v0.11.0...v0.12.0) (2025-02-23)
+
+
+### Features
+
+* add docs for plus ([#454](https://github.com/dailydotdev/docs/issues/454)) ([20df046](https://github.com/dailydotdev/docs/commit/20df046cae314c80b7d34d3b15aad15023c20755))
+
+
+
 # [0.11.0](https://github.com/dailydotdev/docs/compare/v0.10.0...v0.11.0) (2024-11-03)
 
 
@@ -31,15 +40,6 @@
 ### Features
 
 * add company verification badge page ([#372](https://github.com/dailydotdev/docs/issues/372)) ([677c4d7](https://github.com/dailydotdev/docs/commit/677c4d7dfb59085dbaa64f3acb078d9aac284151))
-
-
-
-# [0.7.0](https://github.com/dailydotdev/docs/compare/v0.6.0...v0.7.0) (2024-08-14)
-
-
-### Features
-
-* add instructions for connecting a private channel on Slack ([#357](https://github.com/dailydotdev/docs/issues/357)) ([48dab7c](https://github.com/dailydotdev/docs/commit/48dab7c3b57d85db178afa42a62633bab39f68e4))
 
 
 
