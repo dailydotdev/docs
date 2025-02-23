@@ -65,7 +65,7 @@ const FeatureList = [
     title: 'Plus',
     icon: 'img/icons/plus.svg',
     items: [
-      {url: "docs/docs/plus/plus-overview.md", text: "Overview"},
+      {url: "docs/plus/plus-overview.md", text: "Overview"},
       {url: "docs/plus/smart-prompts.md", text: "Smart Promports"},
       {url: "docs/plus/custom-feeds.md", text: "Advanced Custom Feeds"},
       {url: "docs/plus/clickbait-shield.md", text: "Clickbait Shield"},
