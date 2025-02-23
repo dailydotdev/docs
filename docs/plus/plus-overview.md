@@ -3,7 +3,7 @@ sidebar_position: 0
 description: "Upgrade to daily.dev Plus for a distraction-free developer experience. Get AI-powered clean titles, custom feeds, bookmark folders, keyword filters, and an ad-free reading environment. Stay focused and streamline your learning."
 ---
 
-# daily.dev Plus ✧
+# Plus Overview
 
 ## What is daily.dev Plus?
 
@@ -19,7 +19,7 @@ Make any post interactive. Ask AI to simplify concepts, challenge ideas, compare
 - Think critically by testing different perspectives
 - Customize your learning with AI-driven insights
 
-👉 [Learn how to use smart prompts](./smart-prompts.md)
+👉 [Learn how to use smart prompts](plus/smart-prompts.md)
 
 ### Advanced custom feeds
 
@@ -29,7 +29,7 @@ Take control of your content with laser-focused feeds tailored to your interests
 - Stay ahead with a personalized stream of knowledge
 - Dive deep into niche topics without distractions
 
-👉 [Create your first custom feed](./custom-feeds.md)
+👉 [Create your first custom feed](plus/custom-feeds.md)
 
 ### Clickbait Sheild - AI-powered clean titles
 
@@ -39,7 +39,7 @@ No more clickbait or misleading headlines. AI rewrites titles so you see the rea
 - See accurate titles that reflect real content
 - Make informed choices before clicking
 
-👉 [See how clickbait shield works](clickbait-shield.md)
+👉 [See how clickbait shield works](plus/clickbait-shield.md)
 
 ### Bookmark folders
 
@@ -49,7 +49,7 @@ Save and organize your favorite posts into custom folders so you can always find
 - Quickly retrieve key resources for future reference
 - Build your own knowledge library
 
-👉 [Start organizing your bookmarks](./bookmark-folders.md)
+👉 [Start organizing your bookmarks](plus/bookmark-folders.md)
 
 ### Ad-free experience
 
@@ -67,7 +67,7 @@ Mute the buzzwords and topics you don’t care about. Customize your feed by aut
 - Reduce frustration by avoiding overhyped topics
 - Streamline your reading with tailored content
 
-👉 [Set up your keyword filters](keyword-filters.md)
+👉 [Set up your keyword filters](plus/keyword-filters.md)
 
 ### Auto-translate your feed (coming soon)
 
