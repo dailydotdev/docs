@@ -511,6 +511,9 @@ html[data-theme='light'] .menu__link:before {
 .theme-doc-sidebar-menu li:nth-child(6) .menu__link:before {
   background: url('../img/menu/squads.svg');
 }
+.theme-doc-sidebar-menu li:nth-child(6) .menu__link:before {
+  background: url('../img/menu/plus.svg');
+}
 .theme-doc-sidebar-menu li:nth-child(7) .menu__link:before {
   background: url('../img/menu/customization.svg');
 }
