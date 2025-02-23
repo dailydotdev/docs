@@ -62,7 +62,7 @@ const FeatureList = [
     ]
   },
   {
-    title: 'daily.dev Plus ✧',
+    title: 'Plus',
     icon: 'img/icons/plus.svg',
     items: [
       {url: "docs/docs/plus/plus-overview.md", text: "Overview"},
