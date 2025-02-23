@@ -5,6 +5,8 @@ description: "Advanced Custom Feeds on daily.dev give you complete control over 
 
 # Advanced Custom Feeds
 
+![custom feeds cover image](https://daily-now-res.cloudinary.com/image/upload/v1740315000/docs/8Y8Q6dhu2.jpg)
+
 ## What Are Advanced Custom Feeds?  
 
 **Advanced Custom Feeds** allow you to personalize your daily.dev experience like never before. Create multiple custom feeds, apply advanced filters, and curate content based on your specific interests. Available exclusively for **Plus** subscribers, this feature helps you **filter noise, refine your reading experience, and surface the most relevant content with precision**.  

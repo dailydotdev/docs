@@ -5,6 +5,8 @@ description: "Clickbait Shield on daily.dev uses AI to optimize post titles by r
 
 # Clickbait Shield
 
+![Clickbait Shield cover image](https://daily-now-res.cloudinary.com/image/upload/v1740315001/docs/jGrf9xJUD.jpg)
+
 ## What Is Clickbait Shield?  
 
 **Clickbait Shield** is an AI-powered feature that automatically optimizes post titles by removing clickbait, improving clarity, and eliminating overly promotional language. It refines titles across your feed so you can quickly identify the most relevant content—making your reading experience faster, clearer, and more trustworthy.  

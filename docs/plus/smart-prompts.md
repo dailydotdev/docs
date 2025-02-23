@@ -5,6 +5,8 @@ description: "Smart Prompts on daily.dev let you chat with posts using AI. Summa
 
 # Smart Prompts
 
+![Smart Prompts cover image](https://daily-now-res.cloudinary.com/image/upload/v1740315025/docs/IBaUq4yee.webp)
+
 ## What Are Smart Prompts?  
 
 **Smart Prompts** let you interact with posts using AI to extract insights, challenge ideas, and break down complex topics. Whether you need a **summary, practical steps, a comparison**, or want to **run your own custom prompt**, Smart Prompts help you **consume content more efficiently**.  
@@ -30,6 +32,8 @@ Available prompts include:
 - **Compare Alternatives** – See how the topic stacks up against similar concepts.  
 - ⚡️ **Run Your Own Prompt** – Type your own custom AI query.  
 
+![snippet](https://daily-now-res.cloudinary.com/image/upload/v1740315075/docs/content_e70d7a0b-fedc-491e-9aa1-91763f8077c6.webp)
+
 ### Custom Prompts  
 For more control, create **custom AI prompts** tailored to your needs.  
 Examples:  
@@ -48,6 +52,8 @@ Beyond just a **TL;DR summary**, Smart Prompts now allow you to **chat with post
 5. For **custom prompts**, click **"+"** and type your request.  
 
 Responses are **saved even if you reload the page**, so you won’t lose generated content.  
+
+![Example of how smart prompts look like inside a post page](https://daily-now-res.cloudinary.com/image/upload/v1740315076/docs/content_df37719d-03a8-4f1e-90e1-0355cd8d2ae6.webp)
 
 ## Free vs. Plus Access  
 
