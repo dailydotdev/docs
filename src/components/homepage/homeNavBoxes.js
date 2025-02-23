@@ -62,6 +62,18 @@ const FeatureList = [
     ]
   },
   {
+    title: 'Plus',
+    icon: 'img/icons/plus.svg',
+    items: [
+      {url: "docs/plus/plus-overview", text: "Overview"},
+      {url: "docs/plus/smart-prompts", text: "Smart Promports"},
+      {url: "docs/plus/custom-feeds", text: "Advanced Custom Feeds"},
+      {url: "docs/plus/clickbait-shield", text: "Clickbait Shield"},
+      {url: "docs/plus/bookmark-folders", text: "Bookmark Folders"},
+      {url: "docs/plus/keyword-filters", text: "Keyword Filters"},
+    ]
+  },
+  {
     title: 'Customization',
     icon: 'img/icons/customization.svg',
     items: [
