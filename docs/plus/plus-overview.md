@@ -5,6 +5,8 @@ description: "Upgrade to daily.dev Plus for a distraction-free developer experie
 
 # Plus Overview
 
+![daily.dev Plus cover image](https://daily-now-res.cloudinary.com/image/upload/v1740314886/docs/daily.dev_Plus_-_Default.png)
+
 ## What is daily.dev Plus?
 
 [daily.dev Plus](https://app.daily.dev/plus) is the premium upgrade for developers who want a cleaner, smarter, and more focused reading experience. Get advanced tools to filter distractions, personalize your feed, and streamline your learning—so you can spend less time sorting through content and more time gaining insights.
