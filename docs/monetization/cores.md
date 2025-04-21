@@ -15,7 +15,6 @@ Cores aren’t just symbolic, they’re a way to show appreciation that holds re
 Cores are not cash, crypto, or legal tender. They can’t be used outside daily.dev, and their value is entirely tied to the experiences and features we enable within the platform.
 :::
 
-
 ## Why Cores matter
 
 Likes are cheap. Cores aren’t.

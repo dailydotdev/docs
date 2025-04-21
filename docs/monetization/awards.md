@@ -19,16 +19,19 @@ Giving an Award sends a stronger signal that someone’s effort mattered. Awards
 - **Encourage great contributions** – Awards make creators feel seen and valued. That recognition leads to more thoughtful posts and comments.  
 - **Shape the ecosystem** – The more great content gets awarded, the better daily.dev becomes for everyone.
 
-![screenshot of the different aqard options](https://daily-now-res.cloudinary.com/image/upload/v1745238986/docs/Screenshot_2025-04-21_at_15.29.56.png)
+![screenshot of the different aaard options](https://daily-now-res.cloudinary.com/image/upload/v1745238986/docs/Screenshot_2025-04-21_at_15.29.56.png)
 
-## How Awards work  
+## How Awards work
+
 
 You can give Awards in a few simple steps:  
-1. Click the reward icon on a post, comment, or profile.  
+1. Click the award icon on a post, comment, or profile.  
 2. Choose a sticker. Some are **free** and usable right away. Others are **premium** and require [Cores](monetization/cores.md).  
 3. Add an optional note (recommended!).  
 4. Confirm the Award. If it's a premium one, your Cores will be deducted.  
 5. The recipient is notified, and your name appears as the supporter.
+
+![screenshot of how the award button looks like](https://daily-now-res.cloudinary.com/image/upload/v1745239254/docs/Screenshot_2025-04-21_at_15.39.59.png)
 
 :::info
 Awards are currently available in select regions and for eligible users only. You might not see the option to give Awards if:  
