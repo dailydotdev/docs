@@ -30,7 +30,7 @@ While today Cores are used mainly for rewarding content and creators, we’re ac
 
 ## What you can do with Cores
 
-- **[Award great content](monetization/awards)** – Highlight standout posts and comments with stickers that show appreciation
+- **[Award great content](monetization/awards.md)** – Highlight standout posts and comments with stickers that show appreciation
 - **Tip creators directly** – Visit any user’s profile and send Cores to thank them for their impact
 - **[Buy more Cores](https://app.daily.dev/cores)** – Choose from flexible bundles whenever you want to top up
 - **[Track your activity](https://app.daily.dev/wallet)** – See your balance, rewards earned, tips sent, and full transaction history
@@ -43,7 +43,7 @@ Whether you're here to contribute, support others, or both—Cores are your way 
 ## How to get Cores
 
 - **Buy them** – Instantly available in your [wallet](https://app.daily.dev/wallet) or during any reward action  
-- **Earn them** – Every time someone tips your profile or [awards your content](monetization/awards), you get Cores
+- **Earn them** – Every time someone tips your profile or [awards your content](monetization/awards.md), you get Cores
 - **Grants** – In some cases, daily.dev may offer Core grants to select creators or Squad admins to reward their communities
 
 :::info 
