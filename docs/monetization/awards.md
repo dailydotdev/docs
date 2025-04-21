@@ -19,6 +19,8 @@ Giving an Award sends a stronger signal that someone’s effort mattered. Awards
 - **Encourage great contributions** – Awards make creators feel seen and valued. That recognition leads to more thoughtful posts and comments.  
 - **Shape the ecosystem** – The more great content gets awarded, the better daily.dev becomes for everyone.
 
+![screenshot of the different aqard options](https://daily-now-res.cloudinary.com/image/upload/v1745238986/docs/Screenshot_2025-04-21_at_15.29.56.png)
+
 ## How Awards work  
 
 You can give Awards in a few simple steps:  
@@ -57,6 +59,8 @@ You can [buy Cores](https://app.daily.dev/cores) instantly using a credit card, 
 - **In comments** – Alongside replies and reactions.  
 - **On profiles** – A dedicated section that shows all Awards given and received.  
 - **In your Wallet** – Track all transactions via your [Wallet](https://app.daily.dev/wallet), including Awards you’ve sent or received.
+
+![screenshot of the transaction history](https://daily-now-res.cloudinary.com/image/upload/v1745238986/docs/Screenshot_2025-04-21_at_15.31.13.png)
 
 ## Who can see Awards  
 

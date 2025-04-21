@@ -36,6 +36,8 @@ While today Cores are used mainly for rewarding content and creators, we’re ac
 - **[Track your activity](https://app.daily.dev/wallet)** – See your balance, rewards earned, tips sent, and full transaction history
 - **Unlock upcoming features** – Some features will be Core-powered in the future, including post boosts and premium interactions
 
+![screenshot of the Cores wallet](https://daily-now-res.cloudinary.com/image/upload/v1745238986/docs/Screenshot_2025-04-21_at_15.32.14.png)
+
 *Note: A small payment processing fee may apply when buying Cores, and a 30% platform fee is applied when rewarding others. [Details](https://daily.dev/creators-terms)*
 
 Whether you're here to contribute, support others, or both—Cores are your way in.
