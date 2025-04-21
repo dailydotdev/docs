@@ -74,6 +74,14 @@ const FeatureList = [
     ]
   },
   {
+    title: 'Monetization (beta)',
+    icon: 'img/icons/cores.svg',
+    items: [
+      {url: "docs/monetization/cores", text: "Cores"},
+      {url: "docs/monetization/awards", text: "Awards"},
+    ]
+  },
+  {
     title: 'Customization',
     icon: 'img/icons/customization.svg',
     items: [
