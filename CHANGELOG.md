@@ -1,3 +1,12 @@
+# [0.13.0](https://github.com/dailydotdev/docs/compare/v0.12.0...v0.13.0) (2025-04-21)
+
+
+### Features
+
+* add monetization section ([#456](https://github.com/dailydotdev/docs/issues/456)) ([b76dd42](https://github.com/dailydotdev/docs/commit/b76dd42d9a5f3bbf6f48736371d81b1a279ebd32))
+
+
+
 # [0.12.0](https://github.com/dailydotdev/docs/compare/v0.11.0...v0.12.0) (2025-02-23)
 
 
@@ -31,15 +40,6 @@
 ### Features
 
 * add eligibility criteria ([#376](https://github.com/dailydotdev/docs/issues/376)) ([8720970](https://github.com/dailydotdev/docs/commit/872097004a63d76ec5929340a4bf13115b89b563))
-
-
-
-# [0.8.0](https://github.com/dailydotdev/docs/compare/v0.7.0...v0.8.0) (2024-08-27)
-
-
-### Features
-
-* add company verification badge page ([#372](https://github.com/dailydotdev/docs/issues/372)) ([677c4d7](https://github.com/dailydotdev/docs/commit/677c4d7dfb59085dbaa64f3acb078d9aac284151))
 
 
 
