@@ -27,6 +27,16 @@ For creators, this opens a new path: instead of chasing clicks, they can focus o
 While today Cores are used mainly for rewarding content and creators, we’re actively building new features around them—including post boosts, premium interactions, exclusive content, and more. Holding Cores today means you’re ready for everything we launch next.
 :::
 
+## How to get Cores
+
+- **Buy them** – Instantly available in your [wallet](https://app.daily.dev/wallet) or during any reward action  
+- **Earn them** – Every time someone tips your profile or [awards your content](monetization/awards.md), you get Cores
+- **Grants** – In some cases, daily.dev may offer Core grants to select creators or Squad admins to reward their communities
+
+:::info 
+All purchases of Cores are final. No refunds are provided. Double-check your bundle before purchasing. For full details, see the [Creators Terms of Service](https://daily.dev/creators-terms).
+:::
+
 ## What you can do with Cores
 
 - **[Award great content](monetization/awards.md)** – Highlight standout posts and comments with stickers that show appreciation
@@ -40,16 +50,6 @@ While today Cores are used mainly for rewarding content and creators, we’re ac
 *Note: A small payment processing fee may apply when buying Cores, and a 30% platform fee is applied when rewarding others. [Details](https://daily.dev/creators-terms)*
 
 Whether you're here to contribute, support others, or both—Cores are your way in.
-
-## How to get Cores
-
-- **Buy them** – Instantly available in your [wallet](https://app.daily.dev/wallet) or during any reward action  
-- **Earn them** – Every time someone tips your profile or [awards your content](monetization/awards.md), you get Cores
-- **Grants** – In some cases, daily.dev may offer Core grants to select creators or Squad admins to reward their communities
-
-:::info 
-All purchases of Cores are final. No refunds are provided. Double-check your bundle before purchasing. For full details, see the [Creators Terms of Service](https://daily.dev/creators-terms).
-:::
 
 ## Good to know
 
