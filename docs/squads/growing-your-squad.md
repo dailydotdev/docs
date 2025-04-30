@@ -1,23 +1,26 @@
 ---
 sidebar_position: 1
-description: "Learn effective strategies for growing your Squad on daily.dev, including post management, inviting members, and transitioning to Public status."
+description:
+  'Learn effective strategies for growing your Squad on daily.dev, including post management,
+  inviting members, and transitioning to Public status.'
 ---
 
 # Growing Your Squad
 
 ## Managing Posts
 
-In a Squad, posts are essential for sparking discussion and engagement. They provide a space for you and your members to share valuable content and initiate meaningful conversations.
+In a Squad, posts are essential for sparking discussion and engagement. They provide a space for you
+and your members to share valuable content and initiate meaningful conversations.
 
 ## Creating a Post
 
 1. **Create a New Post**: Inside your Squad, click on the "New Post" button.
-2. **Add Content**: Write a post from scratch or share links from the daily.dev feed or external sources. Add a title and description to give context to your members.
+2. **Add Content**: Write a post from scratch or share links from the daily.dev feed or external
+   sources. Add a title and description to give context to your members.
 3. **Post**: Click "Post" to share your content with the Squad.
 
-:::tip
-Both posts and comments support full Markdown, allowing you to format text, add code snippets, and more.
-:::
+:::tip Both posts and comments support full Markdown, allowing you to format text, add code
+snippets, and more. :::
 
 ## Sharing Posts from the Feed
 
@@ -31,19 +34,20 @@ Sharing interesting posts from the daily.dev feed to your Squad is a great way t
 4. Choose the Squad you want to share the post with.
 5. Add your commentary and hit "Post."
 
-:::tip 
-You can also use our 1-click share feature. When you're on the post page, you'll see all your Squads on the right side of the page. Click the Squad icon to share the post directly.
-:::
+:::tip You can also use our 1-click share feature. When you're on the post page, you'll see all your
+Squads on the right side of the page. Click the Squad icon to share the post directly. :::
 
 ## Commenting on a Post
 
 Keep the conversation going by adding comments to posts:
 
 1. **Select a Post**: Click on the post you want to comment on.
-2. **Write a Comment**: At the bottom of the post, you’ll find a comment box. Share your thoughts, questions, or insights.
+2. **Write a Comment**: At the bottom of the post, you’ll find a comment box. Share your thoughts,
+   questions, or insights.
 3. **Post Your Comment**: Click "Post Comment" to add your input to the discussion.
 
-By actively creating posts and engaging in discussions, you can cultivate an active and vibrant community in your Squad.
+By actively creating posts and engaging in discussions, you can cultivate an active and vibrant
+community in your Squad.
 
 ## Inviting People to Your Squad
 
@@ -53,33 +57,38 @@ Building your Squad starts with inviting other developers to join:
 2. **Invite Developers**: Click the "Copy invitation link" button to copy your invitation link.
 3. **Send Invitations**: Share your invitation link via email, messaging apps, or social media.
 
-:::info
-Encourage members to invite peers who may be interested in your Squad’s topics to grow your community.
-:::
+:::info Encourage members to invite peers who may be interested in your Squad’s topics to grow your
+community. :::
 
 ## The New Squads Directory
 
-Public Squads are now automatically added to the [Squads Directory](https://app.daily.dev/squads), a curated space where developers can discover communities that align with their interests.  
+Public Squads are now automatically added to the [Squads Directory](https://app.daily.dev/squads), a
+curated space where developers can discover communities that align with their interests.
 
 ### Categories in the Directory
 
-When creating a Public Squad, you must select a category that fits your Squad's theme. Categories include:  
-- **Featured**: Editor’s choice for top Squads on the platform.  
-- **Languages**: Programming language-specific communities.  
-- **Web, Mobile, DevOps & Cloud, AI, Games**: Development-focused categories.  
-- **DevTools**: Squads by or for developer tools companies.  
-- **Career**: Topics around career growth, leadership, and skills development.  
+When creating a Public Squad, you must select a category that fits your Squad's theme. Categories
+include:
+
+- **Featured**: Editor’s choice for top Squads on the platform.
+- **Languages**: Programming language-specific communities.
+- **Web, Mobile, DevOps & Cloud, AI, Games**: Development-focused categories.
+- **DevTools**: Squads by or for developer tools companies.
+- **Career**: Topics around career growth, leadership, and skills development.
 - **Open Source, DevRel, Fun**: Specialized communities for unique developer interests.
 
 ### Tips for Gaining Visibility in the Directory
 
-To improve your chances of being featured in the directory:  
-1. **Optimize Your Metadata**: Add an engaging image, clear description, and select the most relevant category.  
-2. **Grow Membership**: Invite members to join and participate actively.  
-3. **Post Consistently**: Regular high-quality posts boost engagement and visibility.  
+To improve your chances of being featured in the directory:
+
+1. **Optimize Your Metadata**: Add an engaging image, clear description, and select the most
+   relevant category.
+2. **Grow Membership**: Invite members to join and participate actively.
+3. **Post Consistently**: Regular high-quality posts boost engagement and visibility.
 
 ## Building an Engaged Community
 
-An active Squad is key to growth. By regularly posting, approving member contributions, and sparking discussions, your Squad can become a vibrant hub for developers.
+An active Squad is key to growth. By regularly posting, approving member contributions, and sparking
+discussions, your Squad can become a vibrant hub for developers.
 
 Good luck with growing your Squad! 🚀

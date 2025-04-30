@@ -1,6 +1,9 @@
 ---
 sidebar_position: 0
-description: "Upgrade to daily.dev Plus for a distraction-free developer experience. Get AI-powered clean titles, custom feeds, bookmark folders, keyword filters, and an ad-free reading environment. Stay focused and streamline your learning."
+description:
+  'Upgrade to daily.dev Plus for a distraction-free developer experience. Get AI-powered clean
+  titles, custom feeds, bookmark folders, keyword filters, and an ad-free reading environment. Stay
+  focused and streamline your learning.'
 ---
 
 # Plus Overview
@@ -9,13 +12,17 @@ description: "Upgrade to daily.dev Plus for a distraction-free developer experie
 
 ## What is daily.dev Plus?
 
-[daily.dev Plus](https://app.daily.dev/plus) is the premium upgrade for developers who want a cleaner, smarter, and more focused reading experience. Get advanced tools to filter distractions, personalize your feed, and streamline your learning—so you can spend less time sorting through content and more time gaining insights.
+[daily.dev Plus](https://app.daily.dev/plus) is the premium upgrade for developers who want a
+cleaner, smarter, and more focused reading experience. Get advanced tools to filter distractions,
+personalize your feed, and streamline your learning—so you can spend less time sorting through
+content and more time gaining insights.
 
 ## What's included?
 
 ### Smart Prompts - Run prompts on any post
 
-Make any post interactive. Ask AI to simplify concepts, challenge ideas, compare alternatives, or create custom prompts to explore topics from different angles.
+Make any post interactive. Ask AI to simplify concepts, challenge ideas, compare alternatives, or
+create custom prompts to explore topics from different angles.
 
 - Learn faster by breaking down complex ideas
 - Think critically by testing different perspectives
@@ -25,7 +32,9 @@ Make any post interactive. Ask AI to simplify concepts, challenge ideas, compare
 
 ### Advanced custom feeds
 
-Take control of your content with laser-focused feeds tailored to your interests. Whether you follow specific tools, languages, or topics, custom feeds help you surface what matters most—without the noise.
+Take control of your content with laser-focused feeds tailored to your interests. Whether you follow
+specific tools, languages, or topics, custom feeds help you surface what matters most—without the
+noise.
 
 - Save time by skipping irrelevant content
 - Stay ahead with a personalized stream of knowledge
@@ -35,7 +44,8 @@ Take control of your content with laser-focused feeds tailored to your interests
 
 ### Clickbait Sheild - AI-powered clean titles
 
-No more clickbait or misleading headlines. AI rewrites titles so you see the real story before clicking, making it easier to find high-value content without wasting time.
+No more clickbait or misleading headlines. AI rewrites titles so you see the real story before
+clicking, making it easier to find high-value content without wasting time.
 
 - Avoid distractions and focus on useful articles
 - See accurate titles that reflect real content
@@ -45,7 +55,8 @@ No more clickbait or misleading headlines. AI rewrites titles so you see the rea
 
 ### Bookmark folders
 
-Save and organize your favorite posts into custom folders so you can always find what you need, exactly when you need it.
+Save and organize your favorite posts into custom folders so you can always find what you need,
+exactly when you need it.
 
 - Effortlessly organize saved articles by topic
 - Quickly retrieve key resources for future reference
@@ -55,7 +66,8 @@ Save and organize your favorite posts into custom folders so you can always find
 
 ### Ad-free experience
 
-No ads. No clutter. Just pure content. Enjoy a cleaner, distraction-free feed where you can focus on learning and discovery.
+No ads. No clutter. Just pure content. Enjoy a cleaner, distraction-free feed where you can focus on
+learning and discovery.
 
 - Stay immersed without interruptions
 - Read faster without unnecessary clutter
@@ -63,7 +75,8 @@ No ads. No clutter. Just pure content. Enjoy a cleaner, distraction-free feed wh
 
 ### Keyword filters
 
-Mute the buzzwords and topics you don’t care about. Customize your feed by automatically filtering out content that isn’t relevant to you.
+Mute the buzzwords and topics you don’t care about. Customize your feed by automatically filtering
+out content that isn’t relevant to you.
 
 - Eliminate noise and focus on what matters
 - Reduce frustration by avoiding overhyped topics
@@ -73,7 +86,8 @@ Mute the buzzwords and topics you don’t care about. Customize your feed by aut
 
 ### Auto-translate your feed (coming soon)
 
-Read in your preferred language with automatic translations for post titles and summaries, making it easier to access global knowledge.
+Read in your preferred language with automatic translations for post titles and summaries, making it
+easier to access global knowledge.
 
 - Break language barriers and expand your learning
 - Discover new sources without limitations
@@ -81,6 +95,7 @@ Read in your preferred language with automatic translations for post titles and 
 
 ## Still not on Plus?
 
-daily.dev Plus gives you more control, clarity, and customization—so you can focus on what truly matters.
+daily.dev Plus gives you more control, clarity, and customization—so you can focus on what truly
+matters.
 
 👉 [Upgrade to daily.dev Plus](https://app.daily.dev/plus)

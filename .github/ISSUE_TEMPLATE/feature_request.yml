@@ -7,19 +7,16 @@ title: '[FEATURE] <description>'
 labels: ['⭐ goal: addition']
 
 body:
-
   - type: textarea
 
     id: description
 
     attributes:
-
       label: Description
 
       description: A brief description of the enhancement you propose, also include what you tried and what worked.
 
     validations:
-
       required: true
 
   - type: textarea
@@ -27,13 +24,11 @@ body:
     id: screenshots
 
     attributes:
-
       label: Screenshots
 
       description: Please add screenshots if applicable
 
     validations:
-
       required: false
 
   - type: textarea
@@ -41,18 +36,14 @@ body:
     id: extrainfo
 
     attributes:
-
       label: Additional information
 
       description: Is there anything else we should know about this idea?
 
     validations:
-
       required: false
 
   - type: markdown
 
     attributes:
-
-      value: 
-        Feel free to check out other cool repositories of the daily.dev Community [here](https://github.com/dailydotdev)
+      value: Feel free to check out other cool repositories of the daily.dev Community [here](https://github.com/dailydotdev)

@@ -6,7 +6,7 @@ const darkCodeTheme = require('prism-react-renderer').themes.dracula;
 const config = {
   title: 'daily.dev',
   tagline: 'Where developers suffer together',
-  url: 'https://docs.daily.dev/', 
+  url: 'https://docs.daily.dev/',
   baseUrl: '/',
   trailingSlash: false,
   onBrokenLinks: 'throw',
@@ -48,10 +48,10 @@ const config = {
     [
       '@docusaurus/plugin-ideal-image',
       {
-        quality: 70,   // Adjust the image quality level
-        max: 1024,     // Max resolution in pixels
-        min: 640,      // Min resolution in pixels
-        steps: 2,      // Resolutions generated
+        quality: 70, // Adjust the image quality level
+        max: 1024, // Max resolution in pixels
+        min: 640, // Min resolution in pixels
+        steps: 2, // Resolutions generated
         disableInDev: false,
       },
     ],
@@ -101,7 +101,10 @@ const config = {
             title: 'Product',
             items: [
               { label: 'Home', to: 'https://daily.dev/' },
-              { label: 'Chrome extension', to: 'https://chrome.google.com/webstore/detail/dailydev-the-homepage-dev/jlmpjdjjbgclbocgajdjefcidcncaied' },
+              {
+                label: 'Chrome extension',
+                to: 'https://chrome.google.com/webstore/detail/dailydev-the-homepage-dev/jlmpjdjjbgclbocgajdjefcidcncaied',
+              },
               { label: 'Web version', to: 'https://app.daily.dev/' },
               { label: 'Changelog', to: 'https://changelog.daily.dev/' },
             ],
@@ -109,9 +112,15 @@ const config = {
           {
             title: 'Community',
             items: [
-              { label: 'Open source', to: 'https://github.com/dailydotdev/.github/blob/master/CONTRIBUTING.md' },
+              {
+                label: 'Open source',
+                to: 'https://github.com/dailydotdev/.github/blob/master/CONTRIBUTING.md',
+              },
               { label: 'Feature requests', to: 'https://github.com/dailydotdev/daily/discussions' },
-              { label: 'Online events', to: 'https://www.meetup.com/the-monthly-dev-world-class-talks-by-expert-developers/' },
+              {
+                label: 'Online events',
+                to: 'https://www.meetup.com/the-monthly-dev-world-class-talks-by-expert-developers/',
+              },
               { label: 'Swag store', to: 'https://store.daily.dev/' },
             ],
           },
@@ -140,7 +149,8 @@ const config = {
       },
       announcementBar: {
         id: 'support_us',
-        content: 'Try daily.dev <a target="_blank" rel="noopener noreferrer" href="https://daily.dev"> now!</a>',
+        content:
+          'Try daily.dev <a target="_blank" rel="noopener noreferrer" href="https://daily.dev"> now!</a>',
         backgroundColor: '#fafbfc',
         textColor: '#091E42',
         isCloseable: true,

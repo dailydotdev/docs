@@ -1,7 +1,7 @@
-services: 
+services:
   react-docker:
     image: francescoxx/dailydev-docs:1.0.0
-    build: 
+    build:
       context: .
-    ports: 
-      - "3000:3000"
+    ports:
+      - '3000:3000'

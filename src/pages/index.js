@@ -10,7 +10,6 @@ import { Redirect } from '@docusaurus/router';
 function HomepageHeader() {
   const { siteConfig } = useDocusaurusContext();
   return (
-    
     <header className={clsx(styles.heroBanner)}>
       <div className="container">
         <h1 className="hero__title">daily.dev docs</h1>
@@ -26,7 +25,8 @@ export default function Home() {
   return (
     <Layout
       title={`Hello from ${siteConfig.title}`}
-      description="Description will go into a meta tag in <head />">
+      description="Description will go into a meta tag in <head />"
+    >
       <HomepageHeader />
       <main>
         <HomeNavBoxes />
