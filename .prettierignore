@@ -1,0 +1,10 @@
+build/
+.docusaurus/
+node_modules/
+target/
+.git/
+package-lock.json
+yarn.lock
+pnpm-lock.yaml
+*.min.js
+*.svg
