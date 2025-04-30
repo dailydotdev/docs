@@ -1,26 +1,34 @@
 ---
 sidebar_position: 5
-description: "Learn how to save, organize, and sync daily.dev bookmarks across devices and share them on GitHub for seamless access and integration."
+description:
+  'Learn how to save, organize, and sync daily.dev bookmarks across devices and share them on GitHub
+  for seamless access and integration.'
 ---
 
 # Bookmarks
 
 ## Importance of Bookmarks
 
-Bookmarks on **daily.dev** allow you to save and organize posts for later reading, helping you manage valuable content at your own pace.
+Bookmarks on **daily.dev** allow you to save and organize posts for later reading, helping you
+manage valuable content at your own pace.
 
 ### Benefits of Bookmarks
 
 1. **Save for Later**: Bookmark posts you can’t read immediately and access them when convenient.
-2. **Organize Reading List**: Categorize posts by interest, preference, or need using folders or tags for easy sorting.
-3. **Sync Across Devices**: Bookmarks on daily.dev sync across all devices linked to your account, enabling seamless reading transitions.
-4. **Personalized Content**: Create a tailored reading list with bookmarks relevant to your interests, enhancing focus and professional growth.
+2. **Organize Reading List**: Categorize posts by interest, preference, or need using folders or
+   tags for easy sorting.
+3. **Sync Across Devices**: Bookmarks on daily.dev sync across all devices linked to your account,
+   enabling seamless reading transitions.
+4. **Personalized Content**: Create a tailored reading list with bookmarks relevant to your
+   interests, enhancing focus and professional growth.
 
 ## Bookmarking a Post
 
 - **Via Bookmarks Button**: Click the **bookmark** button on the post.
-- **Companion Widget**: Use the [bookmark icon in the companion widget](https://app.daily.dev/posts/6IVMj7uuS) for quick saving.
-- **Post Discussion Page**: On the [action bar](https://app.daily.dev/posts/yc3ZVzfLY) of the post discussion page, click the bookmark button.
+- **Companion Widget**: Use the
+  [bookmark icon in the companion widget](https://app.daily.dev/posts/6IVMj7uuS) for quick saving.
+- **Post Discussion Page**: On the [action bar](https://app.daily.dev/posts/yc3ZVzfLY) of the post
+  discussion page, click the bookmark button.
 
 ![Highlight showing bookmarking feature in daily.dev](https://daily-now-res.cloudinary.com/image/upload/v1724398568/docs-v2/9ff96218-b88c-4c45-94b6-e087cf2d6810.png)
 
@@ -32,14 +40,15 @@ Once you bookmark a post, you might see it on your feed as a reminder to read it
 
 ![Bookmark reminder image](https://github.com/user-attachments/assets/30f793c0-a1d2-469f-9f5c-f0249c257676)
 
-
 ## Syncing Across Devices
 
 To sync bookmarks, simply log in with the same account on all your devices.
 
 ## Public Mode for Bookmarks
 
-Public mode creates a public RSS feed of your bookmarks for easy sharing or integration. For instance, you can integrate bookmarks with your GitHub README. Follow the tutorial below to set it up.
+Public mode creates a public RSS feed of your bookmarks for easy sharing or integration. For
+instance, you can integrate bookmarks with your GitHub README. Follow the tutorial below to set it
+up.
 
 ## [Tutorial] Share Bookmarks on GitHub
 
@@ -51,7 +60,7 @@ Public mode creates a public RSS feed of your bookmarks for easy sharing or inte
 - Create a `.github` folder, then add a `workflows` folder within it.
 - Add a file named `daily.dev-bookmarks.yml` with the following content:
 
-```yaml
+````yaml
 name: daily.dev Bookmarks
 on:
   schedule:
@@ -87,17 +96,19 @@ jobs:
 <!-- daily.dev BOOKMARKS:START -->
 <!-- daily.dev BOOKMARKS:END -->
 
-```
+````
+
 - Commit the Readme.md file
 - Check if the README file has been updated
 
-- Run the workflow  `daily-dev-bookmarks`
+- Run the workflow `daily-dev-bookmarks`
 
 ![Starting the daily.dev GitHub workflow](https://daily-now-res.cloudinary.com/image/upload/v1644219700/docs/bookmarksGithub9.png)
 
 ![GitHub README updated with daily.dev bookmarks](https://daily-now-res.cloudinary.com/image/upload/v1644219700/docs/bookmarksGithub11.png)
 
-The GitHub action is set to run every hour. You can adjust the frequency by modifying the cron setting in the `daily.dev-bookmarks.yml` file.
+The GitHub action is set to run every hour. You can adjust the frequency by modifying the cron
+setting in the `daily.dev-bookmarks.yml` file.
 
 ![Configuring the GitHub action schedule](https://daily-now-res.cloudinary.com/image/upload/v1644219700/docs/bookmarksGithub12.png)
 

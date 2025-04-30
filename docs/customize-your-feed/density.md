@@ -1,11 +1,14 @@
 ---
 sidebar_position: 2
-description: "Learn how to adjust content density on the daily.dev feed with Eco, Roomy, and Cozy settings for a personalized reading experience."
+description:
+  'Learn how to adjust content density on the daily.dev feed with Eco, Roomy, and Cozy settings for
+  a personalized reading experience.'
 ---
 
 # Density Settings
 
-The density option enables you to set the density of content on the **daily.dev feed**. Choose from **Eco**, **Roomy**, and **Cozy** options to personalize your reading experience.
+The density option enables you to set the density of content on the **daily.dev feed**. Choose from
+**Eco**, **Roomy**, and **Cozy** options to personalize your reading experience.
 
 ## Eco Density Setting
 

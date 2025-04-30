@@ -106,8 +106,6 @@ html[data-theme='dark'] .homecard:hover {
   /*box-shadow: 0 12px 30px rgba(192, 41, 240, 0.5); /* Purple shadow on hover for dark theme */
 }
 
-
-
 .homecard h2 {
   margin: 0; /* Remove default margin */
   padding-left: 0.28rem; /* Match the list items' padding */

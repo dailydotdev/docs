@@ -8,7 +8,8 @@ const FeatureList = [
     Svg: require('../../static/img/Boost.svg').default,
     description: (
       <>
-        Discover brand-new content as soon as its published. I can easily make you stand out as that developer who is always in-the-know about the latest buzzwords. Thank us later...
+        Discover brand-new content as soon as its published. I can easily make you stand out as that
+        developer who is always in-the-know about the latest buzzwords. Thank us later...
       </>
     ),
   },
@@ -17,7 +18,8 @@ const FeatureList = [
     Svg: require('../../static/img/Time.svg').default,
     description: (
       <>
-        Searching for content isn't a thing developers should do in 2021. daily.dev recommends tailor-made dev news so you can have something interesting to read anytime.
+        Searching for content isn't a thing developers should do in 2021. daily.dev recommends
+        tailor-made dev news so you can have something interesting to read anytime.
       </>
     ),
   },
@@ -26,7 +28,8 @@ const FeatureList = [
     Svg: require('../../static/img/test.svg').default,
     description: (
       <>
-        daily.dev is a community of developers getting together around discovering and exploring dev news. Join the movement to empower better software together.
+        daily.dev is a community of developers getting together around discovering and exploring dev
+        news. Join the movement to empower better software together.
       </>
     ),
   },
@@ -42,7 +45,6 @@ function Feature({ Svg, title, description }) {
         <h3>{title}</h3>
         <p>{description}</p>
       </div>
-      
     </div>
   );
 }

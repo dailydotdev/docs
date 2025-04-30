@@ -1,6 +1,8 @@
 ---
 sidebar_position: 1
-description: "Learn about the different feeds on daily.dev, including My Feed, Popular Feed, Most Upvoted Feed, and Best Discussions Feed, and how to customize them."
+description:
+  'Learn about the different feeds on daily.dev, including My Feed, Popular Feed, Most Upvoted Feed,
+  and Best Discussions Feed, and how to customize them.'
 ---
 
 # Feeds
@@ -8,7 +10,7 @@ description: "Learn about the different feeds on daily.dev, including My Feed, P
 There are four feeds on daily.dev, each with its own ranking logic:
 
 1. My feed
-2. Popular feed 
+2. Popular feed
 3. Most upvoted feed
 4. Best discussions feed
 
@@ -22,33 +24,43 @@ Your feed contains posts that are relevant to you and your interests (once you h
 
 ### Creating your personal feed
 
-If you are new to daily.dev, the first thing we strongly recommend is setting up filters on your feed. This will unlock the true power of daily.dev, showing posts that are relevant to your interests.
+If you are new to daily.dev, the first thing we strongly recommend is setting up filters on your
+feed. This will unlock the true power of daily.dev, showing posts that are relevant to your
+interests.
 
 There are three guides to help you get the most out of your feed:
+
 1. A detailed guide on how to [set up your feed](/docs/setting-up-your-feed/filtering-content-feed).
-2. A guide on how to [adjust the content types that appear in your feed](/docs/setting-up-your-feed/advanced-filtering-options).
-3. A guide on [blocking tags and sources](/docs/setting-up-your-feed/blocking-tags-sources) you do not wish to see in your feed.
+2. A guide on how to
+   [adjust the content types that appear in your feed](/docs/setting-up-your-feed/advanced-filtering-options).
+3. A guide on [blocking tags and sources](/docs/setting-up-your-feed/blocking-tags-sources) you do
+   not wish to see in your feed.
 
-Once you have followed the steps in these guides, you will have "My Feed" set up exactly to your preferences!
+Once you have followed the steps in these guides, you will have "My Feed" set up exactly to your
+preferences!
 
-## Popular feed 
+## Popular feed
 
-The popular feed uses our ranking algorithm to provide you with posts that are recent, gaining lots of traffic, and receiving positive responses from the daily.dev community (either via upvotes or positive comments).
+The popular feed uses our ranking algorithm to provide you with posts that are recent, gaining lots
+of traffic, and receiving positive responses from the daily.dev community (either via upvotes or
+positive comments).
 
 ### Ranking overview for the popular feed
 
 Once a post is featured on daily.dev, it begins to rank based on various factors, such as:
 
-* The number of unique reads the post has received
-* The number of upvotes the post has obtained from our community members
-* The freshness of the post, or how recently it was published
-* Other parameters related to content quality and engagement levels
+- The number of unique reads the post has received
+- The number of upvotes the post has obtained from our community members
+- The freshness of the post, or how recently it was published
+- Other parameters related to content quality and engagement levels
 
-By considering these factors, we aim to increase the likelihood of interesting and valuable posts surfacing to the top of the feed.
+By considering these factors, we aim to increase the likelihood of interesting and valuable posts
+surfacing to the top of the feed.
 
 ### Sorting by date
 
-There is a dropdown menu at "My feed" that allows you to change the order of the feed. If it is not activated on your profile, you can easily enable it by following these steps:
+There is a dropdown menu at "My feed" that allows you to change the order of the feed. If it is not
+activated on your profile, you can easily enable it by following these steps:
 
 1. Click the "Customize" button on the Profile menu at the top-right (1).
 
@@ -66,19 +78,27 @@ There is a dropdown menu at "My feed" that allows you to change the order of the
 
 ## Most upvoted feed
 
-In the "Most Upvoted" Feed, we feature the posts with the highest number of upvotes on the platform. The ranking in this feed is based on the number of upvotes over a given timescale. The higher the upvote count, the higher the post will be listed in the feed.
+In the "Most Upvoted" Feed, we feature the posts with the highest number of upvotes on the platform.
+The ranking in this feed is based on the number of upvotes over a given timescale. The higher the
+upvote count, the higher the post will be listed in the feed.
 
 ### Changing the date filter
 
-The default view is the most upvoted posts of the last 7 days. However, you can choose to filter it to a different time frame using the drop-down (5).
+The default view is the most upvoted posts of the last 7 days. However, you can choose to filter it
+to a different time frame using the drop-down (5).
 
 There are three options (6):
-* Last week
-* Last month
-* Last year
+
+- Last week
+- Last month
+- Last year
 
 <img src="https://daily-now-res.cloudinary.com/image/upload/v1663528971/docs-v2/feeds-4.jpg" alt='The drop-down located top right of the "Most upvoted" feed is highlighted (5). The drop-down is open showing "Last week", "Last month" and "Last year" as options (6)' width="900" height="900" />
 
 ## Best discussions feed
 
-In the "Best Discussions" feed, we showcase the most interesting discussions currently taking place on daily.dev. The ranking is determined by multiple factors, including the reputation levels of the people who commented, the freshness of the comments, and the number of upvotes on the comments, among others. This feed is designed to help you find engaging and interesting discussions that you can participate in!
+In the "Best Discussions" feed, we showcase the most interesting discussions currently taking place
+on daily.dev. The ranking is determined by multiple factors, including the reputation levels of the
+people who commented, the freshness of the comments, and the number of upvotes on the comments,
+among others. This feed is designed to help you find engaging and interesting discussions that you
+can participate in!

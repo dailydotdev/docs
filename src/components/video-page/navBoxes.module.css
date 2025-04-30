@@ -10,51 +10,50 @@
   width: 200px;
 }
 
-.grid3col{
+.grid3col {
   display: grid;
-  grid-template-columns: repeat(4,minmax(0,1fr));
-  gap:56px;
+  grid-template-columns: repeat(4, minmax(0, 1fr));
+  gap: 56px;
   margin: 0 auto;
 }
 @media screen and (max-width: 1680px) {
-  .grid3col{
+  .grid3col {
     display: grid;
-    grid-template-columns: repeat(3,minmax(0,1fr));
-    gap:56px;
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+    gap: 56px;
     margin: 0 auto;
   }
 }
 @media screen and (max-width: 1180px) {
-  .grid3col{
+  .grid3col {
     display: grid;
-    grid-template-columns: repeat(2,minmax(0,1fr));
-    gap:56px;
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    gap: 56px;
     margin: 0 auto;
   }
 }
 @media screen and (max-width: 768px) {
-  .grid3col{
+  .grid3col {
     display: grid;
-    grid-template-columns: repeat(1,minmax(0,1fr));
-    gap:56px 0px;
+    grid-template-columns: repeat(1, minmax(0, 1fr));
+    gap: 56px 0px;
     margin: 0 auto;
     padding: 0;
   }
 }
-.iframecontainer{
+.iframecontainer {
   position: relative;
   width: 100%;
   padding-bottom: 56.25%;
   aspect-ratio: 16/9;
-  border-radius: 16px; 
+  border-radius: 16px;
   overflow: hidden;
 }
 
 .iframecontainer img,
-.youTubeOverlay
-{
+.youTubeOverlay {
   width: 100%;
-  height: calc(12/9 * 100%);
+  height: calc(12 / 9 * 100%);
   position: absolute;
   left: 0;
   top: -16.5%;
@@ -62,7 +61,7 @@
   display: block;
 }
 
-.youTubeOverlay{
+.youTubeOverlay {
   top: 0;
   height: 100%;
   cursor: pointer;
@@ -81,19 +80,17 @@ background-position: center center;
 background-size: 3rem 3rem;
     z-index: 9999;
 } */
-.youTubeOverlayTime{
-   position: absolute;
-   bottom: 5px;
-   right: 5px;
-   background-color: #111;
-   color: white;
-   padding: 2px;
-   z-index: 1;
+.youTubeOverlayTime {
+  position: absolute;
+  bottom: 5px;
+  right: 5px;
+  background-color: #111;
+  color: white;
+  padding: 2px;
+  z-index: 1;
 }
 
-
-
-.iframecontainer iframe{
+.iframecontainer iframe {
   width: 100%;
   height: 100%;
   position: absolute;
@@ -101,12 +98,12 @@ background-size: 3rem 3rem;
   border-radius: 16px;
 }
 
-html[data-theme='light'] .vidcard{
+html[data-theme='light'] .vidcard {
   background-color: #fff;
   border: 1px solid #a8b3cf;
 }
 
-.vidcard{
+.vidcard {
   background-color: #1c1f26;
   width: 320px;
   padding: 8px;
@@ -116,23 +113,22 @@ html[data-theme='light'] .vidcard{
   border: 1px solid #a8b3cf33;
 }
 
-.vidcard h2{
+.vidcard h2 {
   margin: 8px 16px;
   min-height: 4.4rem;
   font-size: 1.25rem;
   line-height: 1.4;
 }
 
-
-.vidIcon{
+.vidIcon {
   width: 24px;
   margin: 12px 0 4px 16px;
 }
 
-html[data-theme='light'] .bottomText{
+html[data-theme='light'] .bottomText {
   color: var(--pepper40);
 }
-.bottomText{
+.bottomText {
   margin: 8px 16px;
   line-height: 30px;
   color: #a8b3cfa3;
