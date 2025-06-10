@@ -73,11 +73,19 @@ Your longest streak is displayed on your profile and your [DevCard](https://app.
 
 ## Restore Streak
 
-When you’re back from your holiday, or hospital stay, whatever your excuse is, you’ll get a message about your lost streak and an offer to restore it. You can restore it by “paying” 25 reputation points (no, we don’t monetize this, it’s just a way to be fair). The first restore is on us. What if I don’t have 25 points to restore? Tough cookie. Looks like you’re going to have to start over.
+Life happens — whether you're away on holiday, recovering from a busy week, or just missed a day, we’ve got your back. If you lose your streak, you’ll see a message prompting you to restore it.
 
-![Notification offering streak restoration with reputation points](https://github.com/user-attachments/assets/b9535d48-b778-4442-b51b-9ede3c81d0a6)
+You can now restore your streak using [**Cores**](https://docs.daily.dev/docs/monetization/cores), our in-app currency. 
 
-You can also configure your weekend days, so that it’s easier to keep your streak: just go to reading streak setting on the top right to configure your reading streak settings.
+![Streak restore notification using Cores](https://daily-now-res.cloudinary.com/image/upload/v1749564735/Core_Streak_restore_jeluea.png)
+
+And good news: **your first streak restore is free**. When you lose your streak for the first time, we’ll offer to restore it at no cost.
+
+![First streak restore free notification](https://daily-now-res.cloudinary.com/image/upload/v1749564735/First_Streak_restore_lnxuss.png)
+
+If you don’t have any Cores available, you’ll need to start your streak from scratch. You can earn more Cores through regular engagement, completing actions, or by supporting the platform.
+
+You can also configure your weekend days to match your schedule — this makes it easier to maintain your streak without worrying about your off days. Head to your Reading Streak settings via the icon in the top right to manage this.
 
 ![Settings to configure weekend reading preferences for streak maintenance](https://github.com/user-attachments/assets/21223960-bf13-47f0-81f9-3bd42baf6ffb)
 
