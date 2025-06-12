@@ -57,7 +57,7 @@ Compare the original and optimized versions of titles directly from your feed, s
 
 | Feature                  | Free Users        | Plus Subscribers |
 |--------------------------|-------------------|------------------|
-| Title Enhancements       | ❌                | Unlimited        |
+| Title Enhancements       | 5 times per month                | Unlimited        |
 | Automatic Title Updates  | ❌                | ✅               |
 | Original vs. Enhanced Comparison | ❌        | ✅               |
 | Customization Options    | ❌                | Full control     |
