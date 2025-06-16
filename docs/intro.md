@@ -6,44 +6,89 @@ description: "daily.dev brings the latest tech news and articles to developers, 
 
 # Introduction
 
-daily.dev is a professional network for developers that provides the latest tech news and articles all in one place. 
+**daily.dev** is the professional network for developers to discover top tech news, grow their knowledge, and connect with a global community—all in one place.
 
-We curate posts from over 1300 tech news sources and present them in a single feed that you can customize to your interests using tags. Our platform helps you save time by finding high-quality posts, so you can stay up-to-date and stay ahead of the curve as a developer.
+We aggregate content from **1300+ trusted sources**, organize it into a personalized feed, and help you stay ahead of the curve. From AI breakthroughs to web dev deep dives, daily.dev filters out the noise and surfaces what truly matters.
 
 <iframe width="700" height="400" src="https://www.youtube.com/embed/igZCEr3HwCg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen title="Introduction video for daily.dev"></iframe>
 
-## Quick start guide
+---
 
-We want you to get the most out of daily.dev, so we've put together this quick start guide to help you make the most of our platform and our community.
+## ✨ Why developers love daily.dev
 
-### Step 1: Install 🚀
+- ✨ **Hyper-personalized feed**: Our latest Feed Algorithm (v3.0) learns what you love and delivers relevant articles daily.
+- ✨ **Companion widget**: Upvote, comment, and bookmark directly on the article without switching tabs.
+- ✨ **OpenAI-powered summaries**: Quickly digest content with smart TL;DRs.
+- ✨ **Collaborative Squads**: Join topic-focused groups for niche discussions.
+- ✨ **Cross-platform**: Access daily.dev on browser, mobile, or PWA.
 
-You can use daily.dev as a [browser extension](/getting-started/browser-extension-installation.md) or as a [progressive web app (PWA)](/getting-started/pwa.md). 
+---
 
-Also available on the Google Play store as [Android app](https://play.google.com/store/apps/details?id=dev.daily).
+## 🧭 Quick start guide
 
-We recommend the browser extension, which sets your new tab to show daily.dev and helps you develop a good reading habit. But don't worry, you can always pause the new tab functionality if you need to focus!
+### 1. Install daily.dev 🚀
 
-### Step 2: Set up your feed 🎯
+Get daily.dev on your favorite platform and start exploring the latest in tech:
 
-Once you've installed the extension or accessed the web app, the next step is to [create your personal feed](/setting-up-your-feed/filtering-content-feed.md). This allows you to customize daily.dev to your preferences and interests, providing you with the most relevant tech and developer news.
+#### 🧩 Browser Extension (Recommended)
 
-### Step 3: Engage with other developers 👏
+Set daily.dev as your new tab and integrate it directly into your daily workflow:
 
-Check out some of our [key features](/key-features/feeds.md) and start engaging with other developers on our platform to help grow your professional network and make new connections.
+- [Install for Chrome](https://chrome.google.com/webstore/detail/dailydev-news-for-develope/hidbbfobdgdllahcipdbdgcjickpejkn)
+- [Install for Edge](https://microsoftedge.microsoft.com/addons/detail/dailydev-news-for-develo/hilgjjheifcmhkbipcnlmkdbjbhenlif)
 
-### Step 4: Build your presence 🦸
+#### 📱 Mobile Apps
 
-On daily.dev, you can [create a profile](/your-profile/activity.md). With a profile, you can comment on posts, upvote, bookmark useful posts, showcase your reading with our DevCard, and much more!
+Take daily.dev on the go—real-time updates and personalized news in your pocket.
 
-### Step 5: Customize the look and feel 🌈
+<div style={{ display: 'flex', gap: '1rem', marginTop: '0.75rem' }}>
+  <a href="https://apps.apple.com/us/app/daily-dev/id6460429054" target="_blank" rel="noopener noreferrer">
+    <img src="https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg" alt="Download on the App Store" height="40"/>
+  </a>
+  <a href="https://play.google.com/store/apps/details?id=dev.daily" target="_blank" rel="noopener noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg" alt="Get it on Google Play" height="40"/>
+  </a>
+</div>
 
-Make daily.dev look and feel the way you want! [Customize](/customize-your-feed/layout.md) the theme, layout, card density, and other cool preferences to personalize your experience.
+- [Download on iOS](https://apps.apple.com/us/app/daily-dev/id6460429054)
+- [Download on Android](https://play.google.com/store/apps/details?id=dev.daily)
 
+#### 💻 Progressive Web App (PWA)
 
-You can use daily.dev as a [browser extension](/getting-started/browser-extension-installation.md) or as a [progressive web app (PWA)](/getting-started/pwa.md). 
+Prefer a lightweight experience? Try our [Progressive Web App](/getting-started/pwa.md) for desktop or mobile use.
 
-Also available on the Google Play store as [Android app](https://play.google.com/store/apps/details?id=dev.daily)
+> :::tip
+> We recommend the browser extension to build a consistent reading habit. Need to focus? You can [pause new tab mode](/key-features/pause-new-tab.md) anytime.
+> :::
 
+---
 
-We recommend the browser extension, which sets your new tab to show daily.dev and helps you develop a good reading habit. But don't worry, you can always pause the new tab functionality if you need to focus!
+### 2. Set up your feed 🎯
+
+Tailor your experience by [filtering with tags](/setting-up-your-feed/filtering-content-feed.md). The more you engage, the better your recommendations become.
+
+---
+
+### 3. Engage with the community 👏
+
+Explore [key features](/key-features/feeds.md) like comments, upvotes, and article discussions. Mention other devs and grow your network.
+
+---
+
+### 4. Build your presence 🦸
+
+Create a [developer profile](/your-profile/activity.md) to:
+
+- Showcase your DevCard  
+- Track your reading and engagement  
+- Bookmark valuable insights  
+
+---
+
+### 5. Customize your experience 🌈
+
+Make daily.dev your own. [Tweak layout and design](/customize-your-feed/layout.md) to fit your reading style and workflow.
+
+---
+
+> Ready to upgrade your dev workflow? Get started with daily.dev today and never miss a beat. 🚀
