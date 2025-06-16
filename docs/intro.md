@@ -1,7 +1,7 @@
 ---
 sidebar_position: 0
 sidebar_label: Introduction
-description: "daily.dev brings the latest tech news and articles to developers, curated from over 1300 sources with a customizable feed to stay ahead in tech."
+description: "daily.dev brings the latest tech news and articles to developers, curated from over 1600 sources with a customizable feed to stay ahead in tech."
 ---
 
 # Introduction
