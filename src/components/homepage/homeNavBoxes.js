@@ -79,6 +79,7 @@ const FeatureList = [
     items: [
       {url: "docs/monetization/cores", text: "Cores"},
       {url: "docs/monetization/awards", text: "Awards"},
+      {url: "docs/monetization/boost", text: "Post boost"},
     ]
   },
   {
