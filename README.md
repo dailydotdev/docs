@@ -1,117 +1,170 @@
-# 📝 The official daily.dev Documentation
+<div align="center">
+  <h1>📚 daily.dev Documentation</h1>
+  <p>The official documentation site for daily.dev - built with Docusaurus 3</p>
+  
+  [![Website](https://img.shields.io/website?url=https%3A%2F%2Fdocs.daily.dev&label=docs.daily.dev)](https://docs.daily.dev)
+  [![License](https://img.shields.io/badge/license-AGPL--3.0-blue.svg)](https://github.com/dailydotdev/daily/blob/master/LICENSE)
+  [![Contributors](https://img.shields.io/github/contributors/dailydotdev/docs)](https://github.com/dailydotdev/docs/graphs/contributors)
+  [![Docker](https://img.shields.io/docker/v/francescoxx/dailydev-docs?label=docker)](https://hub.docker.com/r/francescoxx/dailydev-docs)
+</div>
 
-The [daily.dev docs](https://docs.daily.dev/) are designed to help our community members get the most out of the product. Hope you will find it useful! We welcome your contribution to help us make it better and up-to-date 💜
+## 🎯 Overview
 
-## 👨‍💻 Contributing
+This repository contains the comprehensive documentation for [daily.dev](https://daily.dev), designed to help our community members get the most out of the platform. The documentation covers everything from getting started to advanced features and contribution guidelines.
 
-- Contributions make the open source community such an amazing place to learn, inspire, and create.
-- Any contributions you make are **truly appreciated**
-- Provide clear documentation
-- Create descriptive pull requests
-- Test your changes
+### ✨ Key Features
 
-## 💻 Development
+- **📖 Comprehensive Guides**: Complete coverage of daily.dev features and functionality
+- **🔍 Algolia Search**: Fast, integrated search across all documentation
+- **🌙 Dark/Light Mode**: Theme toggle for comfortable reading
+- **📱 Responsive Design**: Optimized for all devices
+- **✏️ Edit Links**: Direct GitHub integration for community contributions
+- **🚀 Fast Performance**: Built with Docusaurus 3 for optimal speed
 
- 1. Fork the project: Click the gray `Fork` button in the top right of this page. This creates _your_ copy of the project and saves it as a new repository in your github account
-2. Click on the green `Code` button, then either the HTTPS or SSH option and, click the icon to copy the URL. Now you have a copy of the project. Thus, you can play around with it locally on your computer.
-3. Run the following commands into a terminal window (Command Prompt, Powershell, Terminal, Git Bash, ZSH): 
+## 🚀 Quick Start
 
-Do this to download the forked copy of this repository to your computer:
- 
+### Prerequisites
+
+- **Node.js**: v18.0 or higher
+- **npm**: v7.0 or higher (or yarn/pnpm equivalent)
+
+### Development Setup
+
 ```bash
+# Clone the repository
 git clone https://github.com/dailydotdev/docs.git
-```
-
-  Step into the directory:
-```bash
 cd docs
-```
 
-  Ensure you are on the correct node version:
-```bash
+# Use correct Node version (if using nvm)
 nvm use
+
+# Install dependencies
+npm install
+
+# Start development server
+npm start
 ```
 
-  Install the dependencies:
-```bash
-# with npm
-npm i
+The site will be available at `http://localhost:3000` with hot reload enabled.
 
-# or with yarn
-yarn
+## 📋 Available Scripts
 
-# or with pnpm
-pnpm i
-```
+| Command | Description |
+|---------|-------------|
+| `npm start` | Start development server |
+| `npm run build` | Build for production |
+| `npm run serve` | Serve built site locally |
+| `npm run clear` | Clear Docusaurus cache |
+| `npm run docker:compose` | Build and run with Docker Compose |
+| `npm run docker:run` | Run pre-built Docker image |
 
-  Run the local dev environment:
-```bash
-# with npm
-npm run start
+## 🐳 Docker Development
 
-# or with yarn
-yarn start
-
-# or with pnpm
-pnpm start
-```
-
- Now Visit:
-```
-http://localhost:3000
-```
-
-## 🚀 Deployment
-
-- Build the project:
-
-```bash
-# with npm
-npm run build
-
-# or with yarn
-yarn build
-
-# or with pnpm
-pnpm build
-```
-- Run the server:
-
-```bash
-# with npm
-npm run serve
-
-# or with yarn
-yarn serve
-
-# or with pnpm
-pnpm serve
-```
-The server is available by default on port `3000`.
-
-## 🐳 Deployment with Docker
-
-From the folder where the docker-compose.yml file is located, type:
-
+### Using Docker Compose
 ```bash
 docker compose up --build
 ```
-The server is available by default on port `3000`.
 
-## 🍿 Test
+### Using Pre-built Image
 ```bash
 docker run -p 3000:3000 francescoxx/dailydev-docs:0.9.3
 ```
 
-## 🙏 Thanks to all Contributors
-Thanks a lot for spending your time in helping daily.dev grow. Thanks a lot! ❤️
- <a href = "https://github.com/dailydotdev/docs/graphs/contributors">
-   <img src = "https://contrib.rocks/image?repo=dailydotdev/docs" alt="Contributors to daily.dev docs"/>
- </a>
+Both methods serve the site on `http://localhost:3000`.
 
-## 📑 License
-Licensed under [AGPL-3.0](https://github.com/dailydotdev/daily/blob/master/LICENSE).
+## 🏗️ Architecture
 
-## ⭐️ One more thing
+This documentation site is built using modern web technologies:
 
-Don't forget to leave us a star ⭐️
+- **[Docusaurus 3](https://docusaurus.io/)**: Static site generator with React-based theming
+- **[React 18](https://reactjs.org/)**: Component framework for interactive elements
+- **[MDX](https://mdxjs.com/)**: Markdown with JSX support for rich documentation
+- **[Algolia Search](https://www.algolia.com/)**: Fast, integrated search functionality
+
+### 📁 Project Structure
+
+```
+docs/
+├── docs/                   # Documentation content (Markdown files)
+├── src/
+│   ├── components/        # React components
+│   ├── pages/            # Custom pages
+│   └── css/              # Global styles
+├── static/               # Static assets (images, icons)
+├── docusaurus.config.js  # Site configuration
+└── sidebars.js          # Navigation structure
+```
+
+## 🤝 Contributing
+
+We welcome contributions from the community! Here's how you can help:
+
+### 📝 Documentation Contributions
+
+1. **Fork** the repository
+2. **Create** a new branch for your changes
+3. **Edit** or add documentation in the `docs/` directory
+4. **Test** your changes locally with `npm start`
+5. **Submit** a pull request with a clear description
+
+### 🐛 Bug Reports & Feature Requests
+
+- Use [GitHub Issues](https://github.com/dailydotdev/docs/issues) to report bugs or request features
+- Provide detailed information and steps to reproduce
+- Include screenshots when applicable
+
+### 📋 Contribution Guidelines
+
+- **Clear Documentation**: Write clear, concise, and helpful content
+- **Consistent Style**: Follow existing formatting and tone
+- **Test Changes**: Ensure your changes work locally before submitting
+- **Descriptive PRs**: Include meaningful commit messages and PR descriptions
+
+## 🔧 Troubleshooting
+
+### Common Issues
+
+**Node version conflicts:**
+```bash
+nvm use  # Use the version specified in .nvmrc
+```
+
+**Port already in use:**
+```bash
+npm start -- --port 3001  # Use a different port
+```
+
+**Build errors:**
+```bash
+npm run clear  # Clear Docusaurus cache
+npm install    # Reinstall dependencies
+```
+
+### Getting Help
+
+- Check existing [Issues](https://github.com/dailydotdev/docs/issues)
+- Join our [Discord community](https://discord.gg/daily-dev)
+- Visit [daily.dev](https://daily.dev) for general support
+
+## Thank you to our contributors!
+
+<div align="center">
+  <img src="https://contrib.rocks/image?repo=dailydotdev/docs" alt="Contributors" />
+</div>
+
+## 📄 License
+
+This project is licensed under the [AGPL-3.0 License](https://github.com/dailydotdev/daily/blob/master/LICENSE).
+
+---
+
+<div align="center">
+  <p>Made with ❤️ by the daily.dev team and community</p>
+  <p>
+    <a href="https://daily.dev">Website</a> • 
+    <a href="https://docs.daily.dev">Documentation</a> • 
+    <a href="https://twitter.com/dailydotdev">Twitter</a>
+  </p>
+  
+  **Don't forget to ⭐ this repository if you found it helpful!**
+</div>
