@@ -1,0 +1,9 @@
+User-agent: *
+Allow: /
+
+# Sitemap location
+Sitemap: https://docs.daily.dev/sitemap.xml
+
+# Block admin/build directories if they exist
+Disallow: /admin/
+Disallow: /build/

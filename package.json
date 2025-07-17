@@ -6,6 +6,7 @@
     "docusaurus": "docusaurus",
     "start": "docusaurus start",
     "build": "docusaurus build",
+    "build:optimized": "docusaurus build && node scripts/optimize-build.js",
     "swizzle": "docusaurus swizzle",
     "deploy": "docusaurus deploy",
     "clear": "docusaurus clear",
@@ -13,7 +14,9 @@
     "write-translations": "docusaurus write-translations",
     "write-heading-ids": "docusaurus write-heading-ids",
     "docker:compose": "docker compose up --build",
-    "docker:run": "docker run -p 3000:3000 francescoxx/dailydev-docs:0.9.3"
+    "docker:run": "docker run -p 3000:3000 francescoxx/dailydev-docs:0.9.3",
+    "analyze": "npm run build -- --bundle-analyzer",
+    "lighthouse": "lhci autorun"
   },
   "dependencies": {
     "@docusaurus/core": "^3.4.0",
@@ -42,5 +45,9 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "@docusaurus/plugin-pwa": "^3.5.2",
+    "esbuild-loader": "^4.3.0"
   }
 }

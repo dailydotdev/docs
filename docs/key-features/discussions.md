@@ -65,7 +65,7 @@ We only support pure markdown in comments, HTML will be converted to plain text.
 :::
 
 ## Comment sorting (Enjoy comments periodically)
-![Sorting](https://res.cloudinary.com/daily-now/image/upload/s--iBD2ASDp--/f_auto/v1728388274/posts/GmJxoDsta)
+![daily.dev comment sorting interface showing dropdown options for latest and oldest comments with sorting controls](https://res.cloudinary.com/daily-now/image/upload/s--iBD2ASDp--/f_auto/v1728388274/posts/GmJxoDsta)
 ### See latest and oldest comments easily.
 
 Now it becomes easier to see which comment is the oldest and which are the newest to check the hotness of the discussion topic.

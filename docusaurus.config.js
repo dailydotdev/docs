@@ -5,7 +5,7 @@ const darkCodeTheme = require('prism-react-renderer').themes.dracula;
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'daily.dev',
-  tagline: 'Where developers suffer together',
+  tagline: 'The complete guide to daily.dev for developers',
   url: 'https://docs.daily.dev/', 
   baseUrl: '/',
   trailingSlash: false,
@@ -15,6 +15,65 @@ const config = {
   favicon: 'img/favicon.ico',
   organizationName: 'dailydotdev', // Your GitHub org/user name
   projectName: 'docs', // Your repo name
+  
+  // SEO metadata
+  customFields: {
+    metadata: [
+      {name: 'keywords', content: 'daily.dev, developer tools, tech news, programming, documentation'},
+      {name: 'author', content: 'daily.dev'},
+      {name: 'robots', content: 'index, follow'},
+    ],
+    experimental_faster: true,
+  },
+
+  // Resource hints for external assets
+  headTags: [
+    {
+      tagName: 'link',
+      attributes: {
+        rel: 'preconnect',
+        href: 'https://fonts.googleapis.com',
+      },
+    },
+    {
+      tagName: 'link',
+      attributes: {
+        rel: 'preconnect',
+        href: 'https://fonts.gstatic.com',
+        crossorigin: 'anonymous',
+      },
+    },
+    {
+      tagName: 'link',
+      attributes: {
+        rel: 'dns-prefetch',
+        href: 'https://www.google-analytics.com',
+      },
+    },
+    {
+      tagName: 'link',
+      attributes: {
+        rel: 'dns-prefetch',
+        href: 'https://www.googletagmanager.com',
+      },
+    },
+    {
+      tagName: 'link',
+      attributes: {
+        rel: 'dns-prefetch',
+        href: 'https://OFOYRKZKKB-dsn.algolia.net',
+      },
+    },
+    {
+      tagName: 'link',
+      attributes: {
+        rel: 'preload',
+        href: '/img/logo.png',
+        as: 'image',
+        type: 'image/png',
+      },
+    },
+  ],
 
   presets: [
     [
@@ -32,12 +91,12 @@ const config = {
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
         },
-        gtag: {
-          trackingID: ['UA-109059578-7', 'G-Y94RMTGW0M'],
+        googleAnalytics: {
+          trackingID: 'UA-109059578-7',
           anonymizeIP: true,
         },
         sitemap: {
-          changefreq: 'weekly', // Sitemap configuration here
+          changefreq: 'weekly',
           priority: 0.5,
           filename: 'sitemap.xml',
         },
@@ -45,15 +104,30 @@ const config = {
     ],
   ],
 
+  // Performance optimizations
+  webpack: {
+    jsLoader: (isServer) => ({
+      loader: require.resolve('esbuild-loader'),
+      options: {
+        loader: 'tsx',
+        format: isServer ? 'cjs' : undefined,
+        target: isServer ? 'node12' : 'es2017',
+      },
+    }),
+  },
+  
+  // Bundle analyzer for optimization monitoring
+
   plugins: [
     [
       '@docusaurus/plugin-ideal-image',
       {
-        quality: 70,   // Adjust the image quality level
-        max: 1024,     // Max resolution in pixels
+        quality: 85,   // Increased quality for better visual experience
+        max: 1920,     // Higher max resolution for modern screens
         min: 640,      // Min resolution in pixels
-        steps: 2,      // Resolutions generated
+        steps: 4,      // More steps for better responsive images
         disableInDev: false,
+        name: '[name].[hash:8].[ext]', // Better caching with hashes
       },
     ],
     [

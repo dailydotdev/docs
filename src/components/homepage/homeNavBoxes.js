@@ -129,6 +129,9 @@ function Feature({title, icon, items }) {
           loading="eager"
           decoding="sync"
           alt={`${title} icon`}
+          width="48"
+          height="48"
+          style={{ aspectRatio: '1/1' }}
         />
         <h2>{title}</h2>
         <div className={styles.listContainer}>

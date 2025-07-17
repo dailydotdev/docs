@@ -52,7 +52,7 @@ Customize notifications to stay informed about important updates:
 
 Here you can integrate daily.dev with other platforms. For now, you can connect it with Slack.
 
-![image](https://github.com/user-attachments/assets/455c59f4-5f0b-4fe7-a876-a31e61536c7f)
+![daily.dev account integration settings showing Slack connection option with connect button](https://github.com/user-attachments/assets/455c59f4-5f0b-4fe7-a876-a31e61536c7f)
 
 
 ## Invite Friends
