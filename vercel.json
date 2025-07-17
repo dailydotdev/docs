@@ -1,47 +1,4 @@
 {
-  "redirects": [
-    { 
-      "source": "/docs/key-features/do-not-disturb", 
-      "destination": "/docs/key-features/pause-new-tab" 
-    },
-    { 
-      "source": "/docs/settingyourfeed", 
-      "destination": "/docs/setting-up-your-feed/filtering-content-feed" 
-    },
-    { 
-      "source": "/docs/settingyourfeed/filtering-content-feed", 
-      "destination": "/docs/setting-up-your-feed/filtering-content-feed" 
-    },
-    { 
-      "source": "/docs/settingyourfeed/advanced-filtering-options", 
-      "destination": "/docs/setting-up-your-feed/advanced-filtering-options" 
-    },
-    { 
-      "source": "/docs/settingyourfeed/blocking-tags-sources", 
-      "destination": "/docs/setting-up-your-feed/blocking-tags-sources" 
-    },
-    { 
-      "source": "/docs/how-does-daily-dev-work/reputation", 
-      "destination": "/docs/your-profile/reputation" 
-    },
-    { 
-      "source": "/docs/how-does-daily-dev-work/how-to-get-featured", 
-      "destination": "/docs/for-content-creators/how-to-get-featured" 
-    },
-    { 
-      "source": "/docs/key-features/default-feeds", 
-      "destination": "/docs/key-features/feeds" 
-    }
-  ],
-  "rewrites": [
-    {
-      "source": "/docs/(.*)",
-      "destination": "/docs/$1"
-    },
-    {
-      "source": "/(.*)",
-      "destination": "/index.html"
-    }
-  ],
+  "cleanUrls": true,
   "trailingSlash": false
 }

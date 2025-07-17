@@ -91,7 +91,7 @@ const config = {
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
         },
-        googleAnalytics: {
+        gtag: {
           trackingID: 'UA-109059578-7',
           anonymizeIP: true,
         },
@@ -167,15 +167,6 @@ const config = {
             to: '/docs/key-features/feeds' 
           }
         ],
-        createRedirects(existingPath) {
-          // Handle trailing slash normalization for client-side routing
-          if (existingPath.includes('/docs/') && !existingPath.endsWith('/')) {
-            return [
-              existingPath + '/',
-            ];
-          }
-          return undefined;
-        },
       },
     ],
   ],
