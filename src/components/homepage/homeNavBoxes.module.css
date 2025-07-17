@@ -134,30 +134,12 @@ html[data-theme='dark'] .homecard h2 {
   text-decoration: underline;
 }
 
-.listContainerLink {
-  display: block;
-  padding: 0.25rem 0;
-  border-radius: 4px;
-  transition: background-color 0.2s ease, color 0.2s ease;
-  text-decoration: none;
-  font-weight: 600;
-}
-
-.listContainerLink:hover {
-  background-color: rgba(0, 123, 255, 0.1);
-  text-decoration: none;
-}
-
 .homeIcon {
   width: 32px;
   height: 32px;
   border-radius: 0 !important;
   /* margin: 12px 0 4px 16px; */
   filter: brightness(0.9);
-  will-change: filter;
-  transition: filter 0.3s ease;
-  image-rendering: crisp-edges;
-  backface-visibility: hidden;
 }
 
 html[data-theme='light'] .homeIcon {
