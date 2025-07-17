@@ -1,5 +1,6 @@
-import React from 'react';
+import React, { useEffect } from 'react';
 import clsx from 'clsx';
+import Link from '@docusaurus/Link';
 import styles from './homeNavBoxes.module.css';
 
 const FeatureList = [
@@ -113,18 +114,22 @@ const FeatureList = [
 
 function FeatureItem({url, text}){
   return (
-    <li><a className={styles.listContainerLink} href={url}>{text}</a></li>
+    <li><Link className={styles.listContainerLink} to={url}>{text}</Link></li>
   );
 }
 
 
 function Feature({title, icon, items }) {
-
-
   return (
     <article className={clsx('col col--4')}>
       <div className={styles.homecard}>
-        <img src={icon} className={styles.homeIcon}></img>
+        <img 
+          src={icon} 
+          className={styles.homeIcon}
+          loading="eager"
+          decoding="sync"
+          alt={`${title} icon`}
+        />
         <h2>{title}</h2>
         <div className={styles.listContainer}>
         <ul>
@@ -134,7 +139,6 @@ function Feature({title, icon, items }) {
         </ul>
         </div>
       </div>
-
     </article>
   );
 }
@@ -142,6 +146,14 @@ function Feature({title, icon, items }) {
 
 
 export default function HomepageFeatures() {
+  useEffect(() => {
+    // Preload all images to prevent flashing during navigation
+    FeatureList.forEach(feature => {
+      const img = new Image();
+      img.src = feature.icon;
+    });
+  }, []);
+
   return (
     <section className={styles.features}>
         <ul className={styles.grid3col}>

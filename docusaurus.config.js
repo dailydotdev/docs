@@ -94,11 +94,10 @@ const config = {
           }
         ],
         createRedirects(existingPath) {
-          // Handle trailing slash normalization and ensure proper routing
-          if (existingPath.includes('/docs/')) {
+          // Handle trailing slash normalization for client-side routing
+          if (existingPath.includes('/docs/') && !existingPath.endsWith('/')) {
             return [
-              existingPath.replace('/docs/', '/docs'),
-              existingPath.replace('/docs', '/docs'),
+              existingPath + '/',
             ];
           }
           return undefined;
