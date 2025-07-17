@@ -52,7 +52,7 @@ All placements are labeled as *boosted* and respect the user experience.
 
 ## Performance tracking
 
-Tracking your boosted posts can be done using the ads dashbaord. To access it please click on your profile image and choose "Ads dashboard" from the dropdown menu.
+Tracking your boosted posts can be done using the ads dashboard. To access it please click on your profile image and choose "Ads dashboard" from the dropdown menu.
 
 Go to the **ads dashboard** to track:
 

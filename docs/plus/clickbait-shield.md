@@ -48,7 +48,7 @@ Compare the original and optimized versions of titles directly from your feed, s
 ## How It Works  
 
 ### For Plus Subscribers  
-1. Access **Feed Settings** , got to **AI Superpowers** and toggle **Clickbait Shield** on or off.  
+1. Access **Feed Settings**, go to **AI Superpowers** and toggle **Clickbait Shield** on or off.  
 2. See enhanced titles automatically applied across all posts.  
 3. Use the comparison feature to view original and optimized versions directly from the feed.  
 4. Enjoy unlimited title enhancements for a distraction-free reading experience.  

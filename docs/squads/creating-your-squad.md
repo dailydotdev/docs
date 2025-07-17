@@ -40,7 +40,7 @@ Starting a Squad is easy. Follow these steps:
 5. **Select a Category** *(Public Squads Only)*: Choose a category that best fits your Squad from options like Languages, Web, AI, Career, and more.
 
 :::tip
-The most active Squads have engaged members. Encourage contributions, discussions, and sharing. Leverage daily.dev’s netowrk to build a valuable developer community.
+The most active Squads have engaged members. Encourage contributions, discussions, and sharing. Leverage daily.dev's network to build a valuable developer community.
 :::
 
 ## Squad Visibility: Private vs. Public

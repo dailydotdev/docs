@@ -39,11 +39,3 @@ On daily.dev, you can [create a profile](/your-profile/activity.md). With a prof
 ### Step 5: Customize the look and feel 🌈
 
 Make daily.dev look and feel the way you want! [Customize](/customize-your-feed/layout.md) the theme, layout, card density, and other cool preferences to personalize your experience.
-
-
-You can use daily.dev as a [browser extension](/getting-started/browser-extension-installation.md) or as a [progressive web app (PWA)](/getting-started/pwa.md). 
-
-Also available on the Google Play store as [Android app](https://play.google.com/store/apps/details?id=dev.daily)
-
-
-We recommend the browser extension, which sets your new tab to show daily.dev and helps you develop a good reading habit. But don't worry, you can always pause the new tab functionality if you need to focus!
