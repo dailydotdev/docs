@@ -67,7 +67,7 @@ const FeatureList = [
     icon: 'img/icons/plus.svg',
     items: [
       {url: "docs/plus/plus-overview", text: "Overview"},
-      {url: "docs/plus/smart-prompts", text: "Smart Promports"},
+      {url: "docs/plus/smart-prompts", text: "Smart Prompts"},
       {url: "docs/plus/custom-feeds", text: "Advanced Custom Feeds"},
       {url: "docs/plus/clickbait-shield", text: "Clickbait Shield"},
       {url: "docs/plus/bookmark-folders", text: "Bookmark Folders"},
@@ -107,7 +107,7 @@ const FeatureList = [
     title: 'For OSS contributors',
     icon: 'img/icons/oss-contributors.svg',
     items: [
-      {url: "docs/for-oss-contributors/how-to%20contribute-to-daily-dev", text: "How to contribute to daily.dev"},
+      {url: "docs/for-oss-contributors/how-to-contribute-to-daily-dev", text: "How to contribute to daily.dev"},
     ]
   },
 ];
