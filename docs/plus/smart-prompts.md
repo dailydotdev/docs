@@ -32,7 +32,7 @@ Available prompts include:
 - **Compare Alternatives** – See how the topic stacks up against similar concepts.  
 - ⚡️ **Run Your Own Prompt** – Type your own custom AI query.  
 
-![snippet](https://daily-now-res.cloudinary.com/image/upload/v1740315075/docs/content_e70d7a0b-fedc-491e-9aa1-91763f8077c6.webp)
+![daily.dev smart prompts interface showing AI-powered content analysis options including summarize, actionable steps, skills needed, and compare alternatives](https://daily-now-res.cloudinary.com/image/upload/v1740315075/docs/content_e70d7a0b-fedc-491e-9aa1-91763f8077c6.webp)
 
 ### Custom Prompts  
 For more control, create **custom AI prompts** tailored to your needs.  

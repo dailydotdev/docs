@@ -85,9 +85,9 @@ A source can have the following states:
 
 If you encounter a post that violates the [community guidelines](https://docs.daily.dev/docs/for-content-creators/content-guidelines), you can report it. Click on the more options button (⋮) on the post card and select "Report" to notify the daily.dev team.
 
-![Reporting post image](https://github.com/user-attachments/assets/5d544bf0-7e4d-466b-89f2-4f9e709eece1)
+![daily.dev post card showing more options menu with report button highlighted for reporting inappropriate content](https://github.com/user-attachments/assets/5d544bf0-7e4d-466b-89f2-4f9e709eece1)
 
 Once you click on "Report," you’ll be asked to confirm your action and select the reason for reporting the post. The daily.dev team will review the report and take appropriate action.
 
 
-![Reporting reason image](https://github.com/user-attachments/assets/b274c1ca-e630-4eda-814f-cb730a60afd6)
+![daily.dev report confirmation dialog showing reason selection options for reporting posts that violate community guidelines](https://github.com/user-attachments/assets/b274c1ca-e630-4eda-814f-cb730a60afd6)

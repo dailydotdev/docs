@@ -19,7 +19,7 @@ Giving an Award sends a stronger signal that someone’s effort mattered. Awards
 - **Encourage great contributions** – Awards make creators feel seen and valued. That recognition leads to more thoughtful posts and comments.  
 - **Shape the ecosystem** – The more great content gets awarded, the better daily.dev becomes for everyone.
 
-![screenshot of the different aaard options](https://daily-now-res.cloudinary.com/image/upload/v1745238986/docs/Screenshot_2025-04-21_at_15.29.56.png)
+![daily.dev awards interface showing different award options including heart, trophy, and gem icons with pricing and descriptions](https://daily-now-res.cloudinary.com/image/upload/v1745238986/docs/Screenshot_2025-04-21_at_15.29.56.png)
 
 ## How Awards work
 

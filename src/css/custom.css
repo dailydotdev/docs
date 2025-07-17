@@ -416,7 +416,7 @@ img[src='/img/logo.png'] {
   /* menu */
   --ifm-menu-link-padding-vertical: 0.5rem;
 
-  --ifm-menu-link-sublist-icon: url('data:image/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg" width="16px" height="16px" viewBox="0 0 24 24"><path fill="currentcolor" d="M7.41 15.41L12 10.83l4.59 4.58L18 14l-6-6-6 6z"></path></svg>');
+  --ifm-menu-link-sublist-icon: url('data:image/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg" width="16px" height="16px" viewBox="0 0 24 24"><path fill="%23999" d="M7.41 15.41L12 10.83l4.59 4.58L18 14l-6-6-6 6z"></path></svg>');
   --ifm-menu-link-sublist-icon-before: url('../img/test.svg');
 
   /* table of contents */
@@ -549,6 +549,16 @@ html[data-theme='light'] .menu__link:before {
 .menu__link--sublist:after {
   background: var(--ifm-menu-link-sublist-icon) 50% / 1.75rem 1.75rem;
   opacity: 0.5;
+  transform: rotate(180deg);
+  transition: transform 0.3s ease;
+}
+
+.menu__link--sublist[aria-expanded="true"]:after {
+  transform: rotate(0deg);
+}
+
+.menu__link--sublist[aria-expanded="false"]:after {
+  transform: rotate(180deg);
 }
 
 /* side contents */
@@ -589,10 +599,15 @@ html[data-theme='light'] .menu__link:before {
 
 .main-wrapper {
   padding-bottom: 15%;
-  background-image: url('https://assets.website-files.com/5e0a5d9d743608d0f3ea6753/619650c123dedf5abe6feaa5_CTA%20Footer%20Circles.png');
+  /* Lazy load background image to improve Core Web Vitals */
   background-repeat: no-repeat;
   background-position: center bottom;
   background-size: contain;
+}
+
+/* Load background image after critical content */
+.main-wrapper.loaded {
+  background-image: url('https://assets.website-files.com/5e0a5d9d743608d0f3ea6753/619650c123dedf5abe6feaa5_CTA%20Footer%20Circles.png');
 }
 
 div[class^='announcementBar_'] {
