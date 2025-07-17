@@ -11,6 +11,7 @@ const config = {
   trailingSlash: false,
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
+  staticDirectories: ['static'],
   favicon: 'img/favicon.ico',
   organizationName: 'dailydotdev', // Your GitHub org/user name
   projectName: 'docs', // Your repo name
@@ -53,6 +54,55 @@ const config = {
         min: 640,      // Min resolution in pixels
         steps: 2,      // Resolutions generated
         disableInDev: false,
+      },
+    ],
+    [
+      '@docusaurus/plugin-client-redirects',
+      {
+        redirects: [
+          { 
+            from: '/docs/key-features/do-not-disturb', 
+            to: '/docs/key-features/pause-new-tab' 
+          },
+          { 
+            from: '/docs/settingyourfeed', 
+            to: '/docs/setting-up-your-feed/filtering-content-feed' 
+          },
+          { 
+            from: '/docs/settingyourfeed/filtering-content-feed', 
+            to: '/docs/setting-up-your-feed/filtering-content-feed' 
+          },
+          { 
+            from: '/docs/settingyourfeed/advanced-filtering-options', 
+            to: '/docs/setting-up-your-feed/advanced-filtering-options' 
+          },
+          { 
+            from: '/docs/settingyourfeed/blocking-tags-sources', 
+            to: '/docs/setting-up-your-feed/blocking-tags-sources' 
+          },
+          { 
+            from: '/docs/how-does-daily-dev-work/reputation', 
+            to: '/docs/your-profile/reputation' 
+          },
+          { 
+            from: '/docs/how-does-daily-dev-work/how-to-get-featured', 
+            to: '/docs/for-content-creators/how-to-get-featured' 
+          },
+          { 
+            from: '/docs/key-features/default-feeds', 
+            to: '/docs/key-features/feeds' 
+          }
+        ],
+        createRedirects(existingPath) {
+          // Handle trailing slash normalization and ensure proper routing
+          if (existingPath.includes('/docs/')) {
+            return [
+              existingPath.replace('/docs/', '/docs'),
+              existingPath.replace('/docs', '/docs'),
+            ];
+          }
+          return undefined;
+        },
       },
     ],
   ],
