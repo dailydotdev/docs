@@ -1,3 +1,12 @@
+# [0.18.0](https://github.com/dailydotdev/docs/compare/v0.17.0...v0.18.0) (2025-07-17)
+
+
+### Features
+
+* comprehensive accessibility audit report and improvements ([#470](https://github.com/dailydotdev/docs/issues/470)) ([a458219](https://github.com/dailydotdev/docs/commit/a458219daef3c927c9efafed182f2be177ccb8c8))
+
+
+
 # [0.17.0](https://github.com/dailydotdev/docs/compare/v0.16.0...v0.17.0) (2025-07-17)
 
 
@@ -31,15 +40,6 @@
 ### Features
 
 * add client redirects and static directory configuration ([#463](https://github.com/dailydotdev/docs/issues/463)) ([d74953f](https://github.com/dailydotdev/docs/commit/d74953f2336748b939c018e8b9f5732874d45bbb))
-
-
-
-## [0.13.1](https://github.com/dailydotdev/docs/compare/v0.13.0...v0.13.1) (2025-06-11)
-
-
-### Bug Fixes
-
-* homepage streak page link ([01f452a](https://github.com/dailydotdev/docs/commit/01f452a0fb4542bd58ffe5b1014f8e7beb70d9b6))
 
 
 
