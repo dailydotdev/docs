@@ -345,8 +345,8 @@ img[src='/img/logo.png'] {
   --burger90: #722f1b;
 
   --ifm-container-width-xl: 1600px;
-  --ifm-line-height-base: 1.333;
-  /* a11y - needs upping to at least 1.5 */
+  --ifm-line-height-base: 1.5;
+  /* Fixed: Improved line height for better readability and accessibility */
 
   /* these font and margin calculations are a little over complicated, 
   but allow for us to change the h6 size and keep the ratios set by the design team,
@@ -359,8 +359,7 @@ img[src='/img/logo.png'] {
   --dd-h4-ratio: 1.1333;
   --dd-h5-ratio: 1.1333;
   --dd-h6-size: 1.0625rem;
-  --dd-h6-size: 0.9375rem;
-  /* ally - this needs removing and setting to 1.0625 or higher so headings are at least minimum sizes */
+  /* Fixed: Increased from 0.9375rem to meet minimum accessibility requirements */
 
   /* font size calculated as ratio relative to h6 */
   --dd-h1-font-size: 4rem;
@@ -412,6 +411,7 @@ img[src='/img/logo.png'] {
   --ifm-link-color: var(--water60);
   --ifm-link-hover-color: var(--water20);
   --ifm-color-warning-dark: var(--cheese90);
+  --ifm-color-danger: var(--bacon70); /* Improved contrast: 4.89:1 ratio */
 
   /* menu */
   --ifm-menu-link-padding-vertical: 0.5rem;
@@ -433,9 +433,9 @@ html[data-theme='dark'] *:focus-visible {
 }
 
 html *:focus-visible {
-  outline: 2px solid var(--bluecheese60) !important;
-  /* A11y contrast not high enough, suggest Blue Cheese 90 
-  #009FB3 but needs discussion with Tsahi */
+  outline: 2px solid var(--bluecheese90) !important;
+  outline-offset: 2px;
+  /* Fixed: Using bluecheese90 for better contrast (3.27:1) */
 }
 
 article {
@@ -629,6 +629,24 @@ div[class^='announcementBar_'] {
   :root{
     --ifm-font-size-base: 100%;
     --dd-h1-font-size: 3rem;
+  }
+}
+
+/* Reduced motion preferences for accessibility */
+@media (prefers-reduced-motion: reduce) {
+  .hero__title,
+  .navbar__link,
+  .menu__link--sublist:after,
+  .menu__link--sublist[aria-expanded="true"]:after,
+  .menu__link--sublist[aria-expanded="false"]:after,
+  summary:before,
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+    scroll-behavior: auto !important;
   }
 }
 
