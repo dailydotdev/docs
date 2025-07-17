@@ -1,3 +1,12 @@
+# [0.15.0](https://github.com/dailydotdev/docs/compare/v0.14.0...v0.15.0) (2025-07-17)
+
+
+### Features
+
+* enhance homepage navigation and image loading ([29c6e82](https://github.com/dailydotdev/docs/commit/29c6e82fc47ccd396ebf29f90f92e6406e183326))
+
+
+
 # [0.14.0](https://github.com/dailydotdev/docs/compare/v0.13.1...v0.14.0) (2025-07-17)
 
 
@@ -31,15 +40,6 @@
 ### Features
 
 * add docs for plus ([#454](https://github.com/dailydotdev/docs/issues/454)) ([20df046](https://github.com/dailydotdev/docs/commit/20df046cae314c80b7d34d3b15aad15023c20755))
-
-
-
-# [0.11.0](https://github.com/dailydotdev/docs/compare/v0.10.0...v0.11.0) (2024-11-03)
-
-
-### Features
-
-* new top readers doc ([#445](https://github.com/dailydotdev/docs/issues/445)) ([aabda8c](https://github.com/dailydotdev/docs/commit/aabda8cd92fe5ec8c29dd2536dd59a74cf801337))
 
 
 
