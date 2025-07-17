@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg viewBox="0 0 28 15" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <title>getting started</title>
+<svg viewBox="0 0 28 15" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" role="img" aria-labelledby="getting-started-title">
+    <title id="getting-started-title">Getting started guide and onboarding icon for daily.dev</title>
     <g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
         <g fill="#A8B3CF">
             <g id="Secound" opacity="0.56" transform="translate(17.658700, 1.566667)">

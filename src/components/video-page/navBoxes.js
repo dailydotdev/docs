@@ -98,15 +98,40 @@ function Feature({title, url, type, duration }) {
     // Prevent the URL from redirecting users
     e.preventDefault();
   
-    // Get the video ID
+    // Get the video ID and title for better accessibility
     let id = link.getAttribute('data-youtube');
+    let videoTitle = title || 'Video';
   
-    // Create the player
+    // Create the player with improved accessibility
     let player = document.createElement('div');
-    player.innerHTML = `<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/${id}?autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>`;
+    player.innerHTML = `<iframe 
+      width="560" 
+      height="315" 
+      src="https://www.youtube-nocookie.com/embed/${id}" 
+      title="${videoTitle}" 
+      frameborder="0" 
+      allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+      allowfullscreen
+      role="application"
+      aria-label="YouTube video player for ${videoTitle}">
+    </iframe>`;
   
     // Inject the player into the UI
     link.replaceWith(player);
+    
+    // Focus the iframe after loading for keyboard users
+    const iframe = player.querySelector('iframe');
+    if (iframe) {
+      iframe.focus();
+    }
+  }
+
+  function handleKeyPress(e) {
+    // Support Enter and Space key activation
+    if (e.key === 'Enter' || e.key === ' ') {
+      e.preventDefault();
+      replaceVideo(e);
+    }
   }
 
 
@@ -116,9 +141,17 @@ function Feature({title, url, type, duration }) {
         <img src="img/logo.png" className={styles.vidIcon}></img>
         <h2>{title}</h2>
         <div className={styles.iframecontainer}>
-          <div className={styles.youTubeOverlay} onClick={replaceVideo} data-youtube={url}>
+          <div 
+            className={styles.youTubeOverlay} 
+            onClick={replaceVideo} 
+            onKeyDown={handleKeyPress}
+            data-youtube={url}
+            role="button"
+            tabIndex="0"
+            aria-label={`Play video: ${title}`}
+          >
           <div className={styles.youTubeOverlayTime}>{duration}</div>
-          <img className={styles.imgVid} width="340" height="180" alt="" src={"https://img.youtube.com/vi/" + url + "/0.jpg"}/>
+          <img className={styles.imgVid} width="340" height="180" alt={`Video thumbnail for ${title}`} src={"https://img.youtube.com/vi/" + url + "/0.jpg"}/>
           </div>
         </div>
         {/* <div className={styles.iframecontainer}>

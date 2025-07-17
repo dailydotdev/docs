@@ -120,26 +120,41 @@ function FeatureItem({url, text}){
 
 
 function Feature({title, icon, items }) {
+  const altTexts = {
+    'Getting Started': 'Navigate to getting started guides and tutorials',
+    'Setting up your feed': 'Customize and configure your content feed',
+    'Key features': 'Explore daily.dev core features and functionality',
+    'Your profile': 'Manage your profile settings and activity',
+    'Squads': 'Join and manage developer community squads',
+    'Plus': 'Discover premium features and subscriptions',
+    'Monetization (beta)': 'Learn about monetization and earning features',
+    'Customization': 'Personalize your daily.dev experience',
+    'For content creators': 'Resources for content creators and publishers',
+    'For OSS contributors': 'Open source contribution guidelines and resources'
+  };
+
   return (
-    <article className={clsx('col col--4')}>
+    <article className={clsx('col col--4')} role="region" aria-labelledby={`feature-${title.replace(/\s+/g, '-').toLowerCase()}`}>
       <div className={styles.homecard}>
         <img 
           src={icon} 
           className={styles.homeIcon}
           loading="eager"
           decoding="sync"
-          alt={`${title} icon`}
+          alt={altTexts[title] || `${title} icon`}
           width="48"
           height="48"
           style={{ aspectRatio: '1/1' }}
         />
-        <h2>{title}</h2>
+        <h2 id={`feature-${title.replace(/\s+/g, '-').toLowerCase()}`}>{title}</h2>
         <div className={styles.listContainer}>
-        <ul>
-          {items.map((props, idx) => (
-            <FeatureItem key={idx} {...props} />
-          ))}
-        </ul>
+        <nav aria-label={`${title} navigation`}>
+          <ul>
+            {items.map((props, idx) => (
+              <FeatureItem key={idx} {...props} />
+            ))}
+          </ul>
+        </nav>
         </div>
       </div>
     </article>
@@ -158,8 +173,8 @@ export default function HomepageFeatures() {
   }, []);
 
   return (
-    <section className={styles.features}>
-        <ul className={styles.grid3col}>
+    <section className={styles.features} aria-label="Daily.dev documentation sections">
+        <ul className={styles.grid3col} role="list">
           {FeatureList.map((props, idx) => (
             <Feature key={idx} {...props} />
           ))}
