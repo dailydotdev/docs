@@ -1,3 +1,12 @@
+# [0.16.0](https://github.com/dailydotdev/docs/compare/v0.15.0...v0.16.0) (2025-07-17)
+
+
+### Features
+
+* enhance documentation and performance optimizations ([#464](https://github.com/dailydotdev/docs/issues/464)) ([cae5a00](https://github.com/dailydotdev/docs/commit/cae5a0069460086193378fff2b581c0a390608f5))
+
+
+
 # [0.15.0](https://github.com/dailydotdev/docs/compare/v0.14.0...v0.15.0) (2025-07-17)
 
 
@@ -31,15 +40,6 @@
 ### Features
 
 * add monetization section ([#456](https://github.com/dailydotdev/docs/issues/456)) ([b76dd42](https://github.com/dailydotdev/docs/commit/b76dd42d9a5f3bbf6f48736371d81b1a279ebd32))
-
-
-
-# [0.12.0](https://github.com/dailydotdev/docs/compare/v0.11.0...v0.12.0) (2025-02-23)
-
-
-### Features
-
-* add docs for plus ([#454](https://github.com/dailydotdev/docs/issues/454)) ([20df046](https://github.com/dailydotdev/docs/commit/20df046cae314c80b7d34d3b15aad15023c20755))
 
 
 
