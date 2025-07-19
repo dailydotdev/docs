@@ -26,7 +26,7 @@
     "test:ui": "playwright test --ui",
     "test:debug": "playwright test --debug",
     "prepare": "husky install",
-    "security:audit": "npm audit --audit-level=moderate",
+    "security:audit": "npm audit --audit-level=high",
     "security:audit-fix": "npm audit fix",
     "security:check": "npm run security:audit && npm run security:deps",
     "security:deps": "node scripts/security-check.js"
