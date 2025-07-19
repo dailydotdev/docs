@@ -20,7 +20,24 @@
     "lint": "eslint src/ --ext .js,.jsx,.ts,.tsx",
     "lint:fix": "eslint src/ --ext .js,.jsx,.ts,.tsx --fix",
     "format": "prettier --write \"src/**/*.{js,jsx,ts,tsx,md,css,scss}\"",
-    "format:check": "prettier --check \"src/**/*.{js,jsx,ts,tsx,md,css,scss}\""
+    "format:check": "prettier --check \"src/**/*.{js,jsx,ts,tsx,md,css,scss}\"",
+    "test": "playwright test",
+    "test:headed": "playwright test --headed",
+    "test:ui": "playwright test --ui",
+    "test:debug": "playwright test --debug",
+    "prepare": "husky install"
+  },
+  "lint-staged": {
+    "src/**/*.{js,jsx,ts,tsx}": [
+      "eslint --fix",
+      "prettier --write"
+    ],
+    "src/**/*.{css,scss,md}": [
+      "prettier --write"
+    ],
+    "docs/**/*.md": [
+      "prettier --write"
+    ]
   },
   "dependencies": {
     "@docusaurus/core": "^3.4.0",
@@ -53,10 +70,13 @@
   "devDependencies": {
     "@docusaurus/eslint-plugin": "^3.4.0",
     "@docusaurus/plugin-pwa": "^3.5.2",
+    "@playwright/test": "^1.40.0",
     "esbuild-loader": "^4.3.0",
     "eslint": "^8.57.0",
     "eslint-plugin-jsx-a11y": "^6.8.0",
     "eslint-plugin-react": "^7.33.2",
+    "husky": "^8.0.3",
+    "lint-staged": "^15.2.0",
     "prettier": "^3.2.5"
   }
 }
