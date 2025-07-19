@@ -25,23 +25,7 @@
     "test:headed": "playwright test --headed",
     "test:ui": "playwright test --ui",
     "test:debug": "playwright test --debug",
-    "prepare": "husky install",
-    "security:audit": "npm audit --audit-level=high",
-    "security:audit-fix": "npm audit fix",
-    "security:check": "npm run security:audit && npm run security:deps",
-    "security:deps": "node scripts/security-check.js"
-  },
-  "lint-staged": {
-    "src/**/*.{js,jsx,ts,tsx}": [
-      "eslint --fix",
-      "prettier --write"
-    ],
-    "src/**/*.{css,scss,md}": [
-      "prettier --write"
-    ],
-    "docs/**/*.md": [
-      "prettier --write"
-    ]
+    "security:audit": "npm audit --audit-level=high"
   },
   "dependencies": {
     "@docusaurus/core": "^3.4.0",
@@ -73,15 +57,8 @@
   },
   "devDependencies": {
     "@docusaurus/eslint-plugin": "^3.4.0",
-    "@docusaurus/plugin-pwa": "^3.5.2",
     "@playwright/test": "^1.40.0",
-    "esbuild-loader": "^4.3.0",
     "eslint": "^8.57.0",
-    "eslint-plugin-jsx-a11y": "^6.8.0",
-    "eslint-plugin-react": "^7.33.2",
-    "husky": "^8.0.3",
-    "lint-staged": "^15.2.0",
-    "prettier": "^3.2.5",
-    "web-vitals": "^3.5.0"
+    "prettier": "^3.2.5"
   }
 }

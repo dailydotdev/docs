@@ -1,14 +1,11 @@
-import React, { Suspense, useEffect } from 'react';
+import React, { Suspense } from 'react';
 import clsx from 'clsx';
 import Layout from '@theme/Layout';
 import Link from '@docusaurus/Link';
 import useDocusaurusContext from '@docusaurus/useDocusaurusContext';
 import Head from '@docusaurus/Head';
 import styles from './video.module.css';
-// Temporarily disabled for SSR compatibility
-// import StructuredData from '../structured-data/schema';
 import { Redirect } from '@docusaurus/router';
-// import ErrorBoundary from '../components/ErrorBoundary';
 
 // Lazy load non-critical components
 const HomeNavBoxes = React.lazy(
