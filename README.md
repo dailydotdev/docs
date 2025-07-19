@@ -6,38 +6,66 @@
   [![License](https://img.shields.io/badge/license-AGPL--3.0-blue.svg)](https://github.com/dailydotdev/daily/blob/master/LICENSE)
   [![Contributors](https://img.shields.io/github/contributors/dailydotdev/docs)](https://github.com/dailydotdev/docs/graphs/contributors)
   [![Docker](https://img.shields.io/docker/v/francescoxx/dailydev-docs?label=docker)](https://hub.docker.com/r/francescoxx/dailydev-docs)
+  
+  [![React](https://img.shields.io/badge/React-18.3.1-61DAFB?style=flat&logo=react&logoColor=white)](https://reactjs.org/)
+  [![Docusaurus](https://img.shields.io/badge/Docusaurus-3.4.0-3ECC5F?style=flat&logo=facebook&logoColor=white)](https://docusaurus.io/)
+  [![Node.js](https://img.shields.io/badge/Node.js-20.12+-339933?style=flat&logo=node.js&logoColor=white)](https://nodejs.org/)
+  [![Playwright](https://img.shields.io/badge/Playwright-1.40.0-2EAD33?style=flat&logo=playwright&logoColor=white)](https://playwright.dev/)
+  [![ESLint](https://img.shields.io/badge/ESLint-8.57.0-4B32C3?style=flat&logo=eslint&logoColor=white)](https://eslint.org/)
+  [![Prettier](https://img.shields.io/badge/Prettier-3.2.5-F7B93E?style=flat&logo=prettier&logoColor=white)](https://prettier.io/)
+  
+  [![Build Status](https://img.shields.io/github/actions/workflow/status/dailydotdev/docs/ci.yml?branch=main&style=flat&logo=github)](https://github.com/dailydotdev/docs/actions)
+  [![Deployment](https://img.shields.io/github/deployments/dailydotdev/docs/production?style=flat&logo=vercel&label=deployment)](https://github.com/dailydotdev/docs/deployments)
+  [![Bundle Size](https://img.shields.io/bundlephobia/minzip/dailydev-docs?style=flat&logo=webpack&label=bundle%20size)](https://bundlephobia.com/package/dailydev-docs)
+  [![Code Quality](https://img.shields.io/codeclimate/maintainability/dailydotdev/docs?style=flat&logo=codeclimate)](https://codeclimate.com/github/dailydotdev/docs)
 </div>
 
 ## 🎯 Overview
 
 This repository contains the comprehensive documentation for [daily.dev](https://daily.dev), designed to help our community members get the most out of the platform. The documentation covers everything from getting started to advanced features and contribution guidelines.
 
+<div align="center">
+  <a href="https://docs.daily.dev" target="_blank">
+    <img src="https://img.shields.io/badge/🚀%20Try%20it%20Live-docs.daily.dev-blue?style=for-the-badge&logo=firefox&logoColor=white" alt="Try it Live" />
+  </a>
+  <a href="https://gitpod.io/#https://github.com/dailydotdev/docs" target="_blank">
+    <img src="https://img.shields.io/badge/🛠️%20Open%20in%20Gitpod-ready--to--code-908a85?style=for-the-badge&logo=gitpod" alt="Open in Gitpod" />
+  </a>
+</div>
+
 ### ✨ Key Features
 
-- **📖 Comprehensive Guides**: Complete coverage of daily.dev features and functionality
-- **🔍 Algolia Search**: Fast, integrated search across all documentation
-- **🌙 Dark/Light Mode**: Theme toggle for comfortable reading
-- **📱 Responsive Design**: Optimized for all devices
-- **✏️ Edit Links**: Direct GitHub integration for community contributions
-- **🚀 Fast Performance**: Built with Docusaurus 3 for optimal speed
+- **Comprehensive Guides**: Complete coverage of daily.dev features and functionality
+- **Algolia Search**: Fast, integrated search across all documentation
+- **Dark/Light Mode**: Theme toggle for comfortable reading
+- **Responsive Design**: Optimized for all devices
+- **Edit Links**: Direct GitHub integration for community contributions
+- **Fast Performance**: Built with Docusaurus 3 for optimal speed
 
 ## 📊 Performance Metrics
 
 Our documentation site is optimized for speed and performance:
 
-- **Build Time**: ~45 seconds (production build)
-- **Bundle Size**: ~2.1MB (gzipped: ~580KB)
-- **Lighthouse Scores**:
-  - 🚀 Performance: 95+
-  - ♿ Accessibility: 100
-  - 🔍 SEO: 100
-  - 💡 Best Practices: 100
+<div align="center">
+  
+  ![Build Time](https://img.shields.io/badge/Build%20Time-~45s-green?style=flat&logo=github-actions)
+  ![Bundle Size](https://img.shields.io/badge/Bundle%20Size-~2.1MB-blue?style=flat&logo=webpack)
+  ![Gzipped](https://img.shields.io/badge/Gzipped-~580KB-lightgreen?style=flat&logo=7zip)
+  
+  **🚀 Lighthouse Scores:**
+  
+  ![Performance](https://img.shields.io/badge/Performance-95+-brightgreen?style=flat&logo=lighthouse)
+  ![Accessibility](https://img.shields.io/badge/Accessibility-100-brightgreen?style=flat&logo=lighthouse)
+  ![SEO](https://img.shields.io/badge/SEO-100-brightgreen?style=flat&logo=lighthouse)
+  ![Best Practices](https://img.shields.io/badge/Best%20Practices-100-brightgreen?style=flat&logo=lighthouse)
+  
+</div>
 
 ## 🚀 Quick Start
 
 ### Prerequisites
 
-- **Node.js**: v18.0 or higher
+- **Node.js**: v20.12 or higher
 - **npm**: v7.0 or higher (or yarn/pnpm equivalent)
 
 ### Development Setup
@@ -59,16 +87,44 @@ npm start
 
 The site will be available at `http://localhost:3000` with hot reload enabled.
 
+### 🛠️ Developer Experience
+
+**One-Click Setup:**
+- [![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/dailydotdev/docs)
+- [![Open with CodeSandbox](https://assets.codesandbox.io/github/button-edit-lime.svg)](https://codesandbox.io/s/github/dailydotdev/docs)
+
+**VSCode Integration:**
+```bash
+# Recommended extensions are auto-suggested
+# Settings and tasks are pre-configured in .vscode/
+code .
+```
+
+**Development Tools:**
+- 🔥 Hot reload with instant feedback
+- 🔍 Built-in link validation
+- 📝 MDX syntax highlighting
+- 🎨 Real-time preview
+- 🧪 Integrated testing with Playwright
+
 ## 📋 Available Scripts
 
 | Command | Description |
 |---------|-------------|
 | `npm start` | Start development server |
 | `npm run build` | Build for production |
+| `npm run build:optimized` | Build with optimizations |
 | `npm run serve` | Serve built site locally |
 | `npm run clear` | Clear Docusaurus cache |
 | `npm run docker:compose` | Build and run with Docker Compose |
 | `npm run docker:run` | Run pre-built Docker image |
+| `npm test` | Run Playwright tests |
+| `npm run test:headed` | Run Playwright tests in headed mode |
+| `npm run test:ui` | Run Playwright tests with UI |
+| `npm run lint` | Run ESLint on source files |
+| `npm run lint:fix` | Run ESLint with auto-fix |
+| `npm run format` | Format code with Prettier |
+| `npm run format:check` | Check code formatting |
 
 ## 🐳 Docker Development
 
@@ -79,7 +135,7 @@ docker compose up --build
 
 ### Using Pre-built Image
 ```bash
-docker run -p 3000:3000 francescoxx/dailydev-docs:0.9.3
+docker run -p 3000:3000 francescoxx/dailydev-docs:0.19.0
 ```
 
 Both methods serve the site on `http://localhost:3000`.
@@ -88,17 +144,24 @@ Both methods serve the site on `http://localhost:3000`.
 
 ### Running Tests
 
-Currently, the project uses the following quality assurance processes:
+The project uses Playwright for end-to-end testing and additional quality assurance processes:
 
 ```bash
+# Run Playwright tests
+npm test
+
+# Run tests in headed mode (with browser UI)
+npm run test:headed
+
+# Run tests with Playwright UI
+npm run test:ui
+
 # Build test (validates all content can be built)
 npm run build
 
-# Link checking (validates all internal and external links)
-npm run build && npm run serve  # Manual verification recommended
-
-# Markdown linting (if configured)
-npm run lint  # Check for linting scripts in package.json
+# Code linting and formatting
+npm run lint
+npm run format:check
 ```
 
 ### Quality Checks
