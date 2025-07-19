@@ -16,18 +16,26 @@ const config = {
   organizationName: 'dailydotdev', // Your GitHub org/user name
   projectName: 'docs', // Your repo name
   
-  // SEO metadata
+  // Enhanced SEO metadata
   customFields: {
     metadata: [
-      {name: 'keywords', content: 'daily.dev, developer tools, tech news, programming, documentation'},
+      {name: 'keywords', content: 'daily.dev, developer tools, tech news, programming, documentation, developer feed, coding news, software development, tech articles, programming tutorials, developer community'},
       {name: 'author', content: 'daily.dev'},
-      {name: 'robots', content: 'index, follow'},
+      {name: 'robots', content: 'index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1'},
+      {name: 'description', content: 'Comprehensive documentation for daily.dev - the leading platform for developers to discover, read, and stay updated with the latest tech news, programming articles, and developer content.'},
+      {name: 'subject', content: 'Developer Tools Documentation'},
+      {name: 'rating', content: 'General'},
+      {name: 'revisit-after', content: '7 days'},
+      {name: 'distribution', content: 'global'},
+      {name: 'language', content: 'EN'},
+      {name: 'copyright', content: 'daily.dev'},
     ],
     experimental_faster: true,
   },
 
-  // Resource hints for external assets
+  // Enhanced SEO and performance tags
   headTags: [
+    // Performance optimization
     {
       tagName: 'link',
       attributes: {
@@ -71,6 +79,142 @@ const config = {
         href: '/img/logo.png',
         as: 'image',
         type: 'image/png',
+      },
+    },
+    // Open Graph metadata
+    {
+      tagName: 'meta',
+      attributes: {
+        property: 'og:type',
+        content: 'website',
+      },
+    },
+    {
+      tagName: 'meta',
+      attributes: {
+        property: 'og:site_name',
+        content: 'daily.dev Documentation',
+      },
+    },
+    {
+      tagName: 'meta',
+      attributes: {
+        property: 'og:title',
+        content: 'daily.dev Documentation - Complete Developer Guide',
+      },
+    },
+    {
+      tagName: 'meta',
+      attributes: {
+        property: 'og:description',
+        content: 'Comprehensive documentation for daily.dev - the leading platform for developers to discover, read, and stay updated with the latest tech news, programming articles, and developer content.',
+      },
+    },
+    {
+      tagName: 'meta',
+      attributes: {
+        property: 'og:url',
+        content: 'https://docs.daily.dev',
+      },
+    },
+    {
+      tagName: 'meta',
+      attributes: {
+        property: 'og:image',
+        content: 'https://docs.daily.dev/img/daily-cover-photo.png',
+      },
+    },
+    {
+      tagName: 'meta',
+      attributes: {
+        property: 'og:image:width',
+        content: '1200',
+      },
+    },
+    {
+      tagName: 'meta',
+      attributes: {
+        property: 'og:image:height',
+        content: '630',
+      },
+    },
+    {
+      tagName: 'meta',
+      attributes: {
+        property: 'og:image:alt',
+        content: 'daily.dev Documentation - Developer Platform Guide',
+      },
+    },
+    {
+      tagName: 'meta',
+      attributes: {
+        property: 'og:locale',
+        content: 'en_US',
+      },
+    },
+    // Twitter Card metadata
+    {
+      tagName: 'meta',
+      attributes: {
+        name: 'twitter:card',
+        content: 'summary_large_image',
+      },
+    },
+    {
+      tagName: 'meta',
+      attributes: {
+        name: 'twitter:site',
+        content: '@dailydotdev',
+      },
+    },
+    {
+      tagName: 'meta',
+      attributes: {
+        name: 'twitter:creator',
+        content: '@dailydotdev',
+      },
+    },
+    {
+      tagName: 'meta',
+      attributes: {
+        name: 'twitter:title',
+        content: 'daily.dev Documentation - Complete Developer Guide',
+      },
+    },
+    {
+      tagName: 'meta',
+      attributes: {
+        name: 'twitter:description',
+        content: 'Comprehensive documentation for daily.dev - the leading platform for developers to discover, read, and stay updated with the latest tech news, programming articles, and developer content.',
+      },
+    },
+    {
+      tagName: 'meta',
+      attributes: {
+        name: 'twitter:image',
+        content: 'https://docs.daily.dev/img/daily-cover-photo.png',
+      },
+    },
+    {
+      tagName: 'meta',
+      attributes: {
+        name: 'twitter:image:alt',
+        content: 'daily.dev Documentation - Developer Platform Guide',
+      },
+    },
+    // Additional SEO metadata
+    {
+      tagName: 'meta',
+      attributes: {
+        name: 'format-detection',
+        content: 'telephone=no',
+      },
+    },
+    {
+      tagName: 'link',
+      attributes: {
+        rel: 'canonical',
+        href: 'https://docs.daily.dev',
       },
     },
   ],
@@ -316,13 +460,13 @@ const config = {
             position: 'left',
           },
           {
-            label: 'Changelog',
+            label: "What's new?",
             href: 'https://app.daily.dev/sources/daily_updates',
             position: 'left',
           },
           {
             href: 'https://github.com/dailydotdev/docs',
-            label: 'GitHub',
+            label: 'Contribute',
             position: 'right',
           },
         ],

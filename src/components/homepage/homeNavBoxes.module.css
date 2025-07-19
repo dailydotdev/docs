@@ -11,6 +11,17 @@
   gap: 56px;
   margin: 0 auto;
   padding: 0;
+  list-style: none;
+}
+
+.grid3col li {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.grid3col li::marker {
+  display: none;
 }
 
 @media screen and (max-width: 1680px) {

@@ -1,0 +1,58 @@
+# daily.dev Documentation Site
+
+This is the official documentation website for daily.dev, built with Docusaurus 3.
+
+## About daily.dev
+daily.dev is a professional network for developers to stay updated with the latest tech news, discover new tools, and connect with peers. It aggregates content from hundreds of sources and uses AI to personalize feeds for each developer.
+
+## Project Structure
+
+### Framework & Technology
+- **Docusaurus 3**: Static site generator with React-based theming
+- **React 18**: Component framework for interactive elements
+- **MDX**: Markdown with JSX support for rich documentation
+- **Algolia**: Integrated search functionality
+- **Google Analytics**: User behavior tracking
+
+### Key Directories
+- `docs/`: All documentation markdown files organized by category
+- `src/components/`: React components for homepage and custom elements
+- `src/pages/`: Custom pages outside the docs structure
+- `static/`: Static assets including images, icons, and manifest files
+- `docusaurus.config.js`: Main site configuration
+- `sidebars.js`: Auto-generated sidebar structure
+
+### Content Categories
+The documentation covers:
+- Getting Started guides
+- Key Features explanation
+- Feed customization and setup
+- Squads (community groups) functionality
+- Plus subscription features
+- Monetization for content creators
+- Community guidelines
+- User profile management
+- Resources for OSS contributors
+
+### Development Commands
+- `npm start`: Development server (localhost:3000)
+- `npm run build`: Production build
+- `npm run serve`: Serve built site locally
+- `npm run clear`: Clear Docusaurus cache
+
+### Key Features
+- Dark mode by default with light mode toggle
+- Responsive design optimized for all devices
+- Image optimization with @docusaurus/plugin-ideal-image
+- Direct GitHub edit links for all documentation
+- PWA capabilities with offline support
+- SEO optimized with structured data
+
+### Target Audience
+- daily.dev users seeking to maximize platform features
+- Developers new to daily.dev
+- Content creators looking to monetize
+- Open source contributors
+- Community managers and squad leaders
+
+This documentation serves as the primary resource for understanding and effectively using the daily.dev platform.
