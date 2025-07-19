@@ -104,17 +104,7 @@ const config = {
     ],
   ],
 
-  // Performance optimizations
-  webpack: {
-    jsLoader: (isServer) => ({
-      loader: require.resolve('esbuild-loader'),
-      options: {
-        loader: 'tsx',
-        format: isServer ? 'cjs' : undefined,
-        target: isServer ? 'node12' : 'es2017',
-      },
-    }),
-  },
+  // Performance optimizations removed to fix deployment issues
   
   // Bundle analyzer for optimization monitoring
 
