@@ -63,7 +63,13 @@ function checkPackageJsonSecurity() {
   // Check for private registry indicators
   if (packageJson.publishConfig && packageJson.publishConfig.registry) {
     const registry = packageJson.publishConfig.registry;
-    if (!registry.includes('npmjs.org') && !registry.includes('npm.pkg.github.com')) {
+    // Use proper URL validation instead of substring matching
+    const allowedRegistries = [
+      /^https?:\/\/registry\.npmjs\.org\/?$/,
+      /^https?:\/\/npm\.pkg\.github\.com\/?$/
+    ];
+    
+    if (!allowedRegistries.some(pattern => pattern.test(registry))) {
       warnings.push(`Using non-standard registry: ${registry}`);
     }
   }
@@ -163,12 +169,19 @@ function checkDocusaurusConfig() {
       warnings.push('Found dangerouslySetInnerHTML usage - review for XSS vulnerabilities');
     }
     
-    // Check for HTTP URLs (should be HTTPS)
-    const httpUrls = config.match(/http:\/\/[^\s'"]+/g);
+    // Check for HTTP URLs (should be HTTPS) - use anchored regex
+    const httpUrls = config.match(/\bhttp:\/\/[^\s'"]+/g);
     if (httpUrls) {
-      const nonLocalUrls = httpUrls.filter(url => 
-        !url.includes('localhost') && !url.includes('127.0.0.1')
-      );
+      const nonLocalUrls = httpUrls.filter(url => {
+        try {
+          const parsedUrl = new URL(url);
+          // Only allow localhost and 127.0.0.1 as hostname
+          return parsedUrl.hostname !== 'localhost' && parsedUrl.hostname !== '127.0.0.1';
+        } catch (error) {
+          // If URL parsing fails, consider it non-local
+          return true;
+        }
+      });
       if (nonLocalUrls.length > 0) {
         warnings.push(`Found HTTP URLs (should be HTTPS): ${nonLocalUrls.join(', ')}`);
       }
