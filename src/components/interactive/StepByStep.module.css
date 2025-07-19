@@ -1,0 +1,254 @@
+.stepByStep {
+  border: 1px solid var(--ifm-color-emphasis-300);
+  border-radius: 12px;
+  overflow: hidden;
+  margin: 2rem 0;
+  background: var(--ifm-background-color);
+}
+
+.progressBar {
+  height: 4px;
+  background: var(--ifm-color-emphasis-200);
+  position: relative;
+}
+
+.progress {
+  height: 100%;
+  background: var(--ifm-color-primary);
+  transition: width 0.3s ease;
+}
+
+.stepNavigation {
+  display: flex;
+  overflow-x: auto;
+  background: var(--ifm-color-emphasis-100);
+  border-bottom: 1px solid var(--ifm-color-emphasis-300);
+}
+
+.stepButton {
+  flex: 1;
+  padding: 1rem;
+  border: none;
+  background: transparent;
+  cursor: pointer;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 0.5rem;
+  transition: all 0.3s ease;
+  min-width: 120px;
+  white-space: nowrap;
+}
+
+.stepButton:hover:not(:disabled) {
+  background: var(--ifm-color-emphasis-200);
+}
+
+.stepButton:disabled {
+  opacity: 0.5;
+  cursor: not-allowed;
+}
+
+.stepButton.active {
+  background: var(--ifm-color-primary);
+  color: white;
+}
+
+.stepButton.completed {
+  background: var(--ifm-color-success);
+  color: white;
+}
+
+.stepNumber {
+  width: 28px;
+  height: 28px;
+  border-radius: 50%;
+  background: var(--ifm-color-emphasis-300);
+  color: var(--ifm-color-content);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-weight: 600;
+  font-size: 0.9rem;
+}
+
+.stepButton.active .stepNumber,
+.stepButton.completed .stepNumber {
+  background: rgba(255, 255, 255, 0.2);
+  color: white;
+}
+
+.stepTitle {
+  font-size: 0.9rem;
+  font-weight: 500;
+}
+
+.stepContent {
+  padding: 2rem;
+}
+
+.stepHeader {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 1.5rem;
+}
+
+.stepHeader h3 {
+  margin: 0;
+  color: var(--ifm-color-content);
+}
+
+.duration {
+  background: var(--ifm-color-emphasis-200);
+  padding: 0.25rem 0.75rem;
+  border-radius: 20px;
+  font-size: 0.8rem;
+  color: var(--ifm-color-content-secondary);
+}
+
+.stepBody {
+  margin-bottom: 2rem;
+}
+
+.description {
+  color: var(--ifm-color-content-secondary);
+  line-height: 1.6;
+  margin-bottom: 1.5rem;
+}
+
+.content {
+  margin-bottom: 1.5rem;
+}
+
+.codeBlock {
+  background: var(--ifm-color-emphasis-100);
+  border-radius: 6px;
+  overflow: hidden;
+  margin: 1.5rem 0;
+}
+
+.codeBlock pre {
+  margin: 0;
+  padding: 1rem;
+}
+
+.codeBlock code {
+  font-family: var(--ifm-font-family-monospace);
+  font-size: 0.9rem;
+}
+
+.warning {
+  background: var(--ifm-color-warning-light);
+  color: var(--ifm-color-warning-dark);
+  padding: 1rem;
+  border-radius: 6px;
+  margin: 1rem 0;
+  border-left: 4px solid var(--ifm-color-warning);
+}
+
+.tip {
+  background: var(--ifm-color-info-light);
+  color: var(--ifm-color-info-dark);
+  padding: 1rem;
+  border-radius: 6px;
+  margin: 1rem 0;
+  border-left: 4px solid var(--ifm-color-info);
+}
+
+.stepActions {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 1rem;
+}
+
+.prevButton,
+.nextButton,
+.completeButton {
+  padding: 0.75rem 1.5rem;
+  border: none;
+  border-radius: 6px;
+  cursor: pointer;
+  font-weight: 500;
+  transition: all 0.3s ease;
+}
+
+.prevButton {
+  background: var(--ifm-color-emphasis-200);
+  color: var(--ifm-color-content);
+}
+
+.prevButton:hover:not(:disabled) {
+  background: var(--ifm-color-emphasis-300);
+}
+
+.prevButton:disabled {
+  opacity: 0.5;
+  cursor: not-allowed;
+}
+
+.nextButton {
+  background: var(--ifm-color-primary);
+  color: white;
+}
+
+.nextButton:hover:not(:disabled) {
+  background: var(--ifm-color-primary-dark);
+}
+
+.nextButton:disabled {
+  opacity: 0.5;
+  cursor: not-allowed;
+}
+
+.completeButton {
+  background: var(--ifm-color-success);
+  color: white;
+}
+
+.completeButton:hover {
+  background: var(--ifm-color-success-dark);
+}
+
+.error {
+  padding: 1rem;
+  background: var(--ifm-color-danger-light);
+  color: var(--ifm-color-danger-dark);
+  border-radius: 6px;
+  text-align: center;
+}
+
+@media (max-width: 768px) {
+  .stepContent {
+    padding: 1rem;
+  }
+  
+  .stepHeader {
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 0.5rem;
+  }
+  
+  .stepActions {
+    flex-direction: column;
+    gap: 0.75rem;
+  }
+  
+  .prevButton,
+  .nextButton,
+  .completeButton {
+    width: 100%;
+  }
+  
+  .stepNavigation {
+    flex-direction: column;
+  }
+  
+  .stepButton {
+    flex-direction: row;
+    justify-content: flex-start;
+    text-align: left;
+    min-width: auto;
+  }
+}
