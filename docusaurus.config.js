@@ -104,11 +104,22 @@ const config = {
     ],
   ],
 
-  // Performance optimizations removed to fix deployment issues
-  
   // Bundle analyzer for optimization monitoring
 
   plugins: [
+    // Custom webpack plugin for source maps
+    function webpackSourceMapsPlugin() {
+      return {
+        name: 'webpack-source-maps-plugin',
+        configureWebpack(config, isServer) {
+          if (!isServer) {
+            return {
+              devtool: 'source-map',
+            };
+          }
+        },
+      };
+    },
     [
       '@docusaurus/plugin-ideal-image',
       {

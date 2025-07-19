@@ -6,6 +6,7 @@ import useDocusaurusContext from '@docusaurus/useDocusaurusContext';
 import Head from '@docusaurus/Head';
 import styles from './video.module.css';
 import { Redirect } from '@docusaurus/router';
+import ErrorBoundary from '../components/ErrorBoundary';
 
 // Lazy load non-critical components
 const HomeNavBoxes = React.lazy(
@@ -86,22 +87,24 @@ export default function Home() {
       </Head>
       <HomepageHeader />
       <main>
-        <Suspense
-          fallback={
-            <div
-              style={{
-                minHeight: '400px',
-                display: 'flex',
-                alignItems: 'center',
-                justifyContent: 'center',
-              }}
-            >
-              Loading...
-            </div>
-          }
-        >
-          <HomeNavBoxes />
-        </Suspense>
+        <ErrorBoundary>
+          <Suspense
+            fallback={
+              <div
+                style={{
+                  minHeight: '400px',
+                  display: 'flex',
+                  alignItems: 'center',
+                  justifyContent: 'center',
+                }}
+              >
+                Loading...
+              </div>
+            }
+          >
+            <HomeNavBoxes />
+          </Suspense>
+        </ErrorBoundary>
       </main>
     </Layout>
   );

@@ -148,15 +148,15 @@
   .content {
     padding: 1rem;
   }
-  
+
   .title {
     font-size: 1.1rem;
   }
-  
+
   .actions {
     flex-direction: column;
   }
-  
+
   .action {
     justify-content: center;
   }

@@ -96,9 +96,8 @@ html[data-theme='dark'] .themedDocusaurus [fill='#FFFF50'] {
   fill: seagreen;
 }
 
-
 .navbar {
-  background-color:  #0e1217;
+  background-color: #0e1217;
 }
 
 html[data-theme='light'] .navbar {
@@ -512,11 +511,11 @@ html[data-theme='light'] .menu__link:before {
   transition: transform 0.3s ease;
 }
 
-.menu__link--sublist[aria-expanded="true"]:after {
+.menu__link--sublist[aria-expanded='true']:after {
   transform: rotate(0deg);
 }
 
-.menu__link--sublist[aria-expanded="false"]:after {
+.menu__link--sublist[aria-expanded='false']:after {
   transform: rotate(180deg);
 }
 
@@ -576,16 +575,16 @@ div[class^='announcementBar_'] {
 }
 
 @media screen and (max-width: 1200px) {
-  main .col--3{
+  main .col--3 {
     display: none;
   }
-  main .row > div{
-    max-width: 100%!important;
+  main .row > div {
+    max-width: 100% !important;
   }
 }
 
 @media screen and (max-width: 1000px) {
-  :root{
+  :root {
     --ifm-font-size-base: 100%;
     --dd-h1-font-size: 3rem;
   }
@@ -596,8 +595,8 @@ div[class^='announcementBar_'] {
   .hero__title,
   .navbar__link,
   .menu__link--sublist:after,
-  .menu__link--sublist[aria-expanded="true"]:after,
-  .menu__link--sublist[aria-expanded="false"]:after,
+  .menu__link--sublist[aria-expanded='true']:after,
+  .menu__link--sublist[aria-expanded='false']:after,
   summary:before,
   *,
   *::before,
@@ -608,7 +607,6 @@ div[class^='announcementBar_'] {
     scroll-behavior: auto !important;
   }
 }
-
 
 /* typography */
 
@@ -645,47 +643,45 @@ div[class^='announcementBar_'] {
 }
 
 /* readability and layout */
-.markdown *{
+.markdown * {
   line-height: 1.75em;
 }
 
 .markdown a,
 summary a,
-.alert a{
-  font-weight: bold;;
+.alert a {
+  font-weight: bold;
 }
 
 .markdown p + ul,
-.markdown p + ol{
+.markdown p + ol {
   margin-top: -1rem;
 }
 
-
-.markdown li{
+.markdown li {
   margin-bottom: 8px;
 }
 
-table{
+table {
   display: table;
   width: 100%;
 }
 
 /* alerts */
 
-div.alert{
+div.alert {
   margin-top: 2rem;
 }
 
-div.alert h5{
+div.alert h5 {
   margin: 0 0 0.25rem 0;
   font-size: 1.3rem;
   line-height: 1em;
 }
 
-div.alert ul{
+div.alert ul {
   margin-top: 0;
 }
-
 
 /* images and media */
 .theme-doc-markdown img {
@@ -726,7 +722,9 @@ details {
 }
 
 details:focus-within {
-  box-shadow: 0 0 0 4px #000, 0 0 0 6px #2cdce6;
+  box-shadow:
+    0 0 0 4px #000,
+    0 0 0 6px #2cdce6;
 }
 details > summary {
   list-style: none;
@@ -809,8 +807,8 @@ html[data-theme='dark'] .DocSearch-Logo svg {
 }
 
 /* Hide auto/system mode icon in theme toggle */
-.toggleIcon[data-theme-choice="null"],
-.toggleIcon[aria-label*="system"],
+.toggleIcon[data-theme-choice='null'],
+.toggleIcon[aria-label*='system'],
 .systemToggleIcon {
   display: none !important;
 }
@@ -827,7 +825,6 @@ html[data-theme='dark'] .DocSearch-Logo svg {
   }
 }
 
-
 .hero__title {
   font-family: 'Montserrat', sans-serif; /* Or your preferred font */
   font-size: 62px; /* Maintain headline size */
@@ -836,10 +833,12 @@ html[data-theme='dark'] .DocSearch-Logo svg {
   text-align: center; /* Center the text */
   /*background: linear-gradient(90deg, #c029f0, #ff00d4a5); /* Gradient from purple to blue */
   -webkit-background-clip: text; /* Clip gradient to text */
- /* -webkit-text-fill-color: transparent; /* Make the text itself transparent */
+  /* -webkit-text-fill-color: transparent; /* Make the text itself transparent */
   /*text-shadow: 2px 2px 8px rgba(0, 0, 0, 0.2); /* Subtle shadow for depth */
   margin-top: 2rem;
-  transition: transform 0.3s ease, text-shadow 0.3s ease; /* Smooth transition */
+  transition:
+    transform 0.3s ease,
+    text-shadow 0.3s ease; /* Smooth transition */
 }
 
 .hero__title:hover {

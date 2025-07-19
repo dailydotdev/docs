@@ -5,14 +5,17 @@ test.describe('Homepage', () => {
   test('should load homepage successfully', async ({ page }) => {
     await page.goto('/');
     
+    // Wait for page to load
+    await page.waitForLoadState('networkidle');
+    
     // Check that the page loads
     await expect(page).toHaveTitle(/daily\.dev/);
     
     // Check for main heading
     await expect(page.locator('h1')).toContainText('daily.dev docs');
     
-    // Check for navigation elements
-    await expect(page.locator('nav')).toBeVisible();
+    // Check for main navigation (not all nav elements)
+    await expect(page.locator('nav[aria-label="Main"]')).toBeVisible();
   });
 
   test('should have working navigation links', async ({ page }) => {
@@ -31,14 +34,17 @@ test.describe('Homepage', () => {
   test('should display feature cards', async ({ page }) => {
     await page.goto('/');
     
+    // Wait for page to load
+    await page.waitForLoadState('networkidle');
+    
     // Check for feature cards
     const featureCards = page.locator('article[role="region"]');
     await expect(featureCards).toHaveCount(10); // Based on the homeNavBoxes component
     
-    // Check specific feature categories
-    await expect(page.locator('text=Getting Started')).toBeVisible();
-    await expect(page.locator('text=Key features')).toBeVisible();
-    await expect(page.locator('text=Squads')).toBeVisible();
+    // Check specific feature categories using more specific selectors
+    await expect(page.locator('h2:has-text("Getting Started")')).toBeVisible();
+    await expect(page.locator('h2:has-text("Key features")')).toBeVisible();
+    await expect(page.locator('h2:has-text("Squads")')).toBeVisible();
   });
 
   test('should have accessible images', async ({ page }) => {
@@ -60,16 +66,22 @@ test.describe('Homepage', () => {
     await page.setViewportSize({ width: 375, height: 667 });
     await page.goto('/');
     
+    // Wait for page to load
+    await page.waitForLoadState('networkidle');
+    
     // Check that content is still visible and accessible
     await expect(page.locator('h1')).toBeVisible();
-    await expect(page.locator('nav')).toBeVisible();
+    await expect(page.locator('nav[aria-label="Main"]')).toBeVisible();
     
     // Test tablet viewport
     await page.setViewportSize({ width: 768, height: 1024 });
     await page.reload();
     
+    // Wait for page to load after reload
+    await page.waitForLoadState('networkidle');
+    
     // Check that content adapts
     await expect(page.locator('h1')).toBeVisible();
-    await expect(page.locator('nav')).toBeVisible();
+    await expect(page.locator('nav[aria-label="Main"]')).toBeVisible();
   });
 });
