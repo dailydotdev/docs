@@ -808,6 +808,13 @@ html[data-theme='dark'] .DocSearch-Logo svg {
   filter: grayscale(100%) contrast(150%) brightness(1.8) !important;
 }
 
+/* Hide auto/system mode icon in theme toggle */
+.toggleIcon[data-theme-choice="null"],
+.toggleIcon[aria-label*="system"],
+.systemToggleIcon {
+  display: none !important;
+}
+
 /* Make header search bar 50% wider */
 .navbar .DocSearch-Button {
   width: 300px !important;
