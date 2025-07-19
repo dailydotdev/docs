@@ -1,186 +1,54 @@
-/* Critical CSS for above-the-fold content */
-/* Only include styles needed for initial render */
+/* Critical CSS for above-the-fold content - inlined for performance */
 
-/* Essential variables */
-:root {
-  --site-primary-hue-saturation: 1, 1%;
-  --site-primary-hue-saturation-light: 167, 56%;
-  --ifm-font-size-base: 112.5%;
-  --ifm-font-family-base: system-ui, 'Segoe UI', Tahoma, sans-serif;
-  --ifm-color-primary: hsl(var(--site-primary-hue-saturation), 45%);
-  --ifm-color-primary-light: hsl(var(--site-primary-hue-saturation-light), 54%);
-  --ifm-link-color: var(--water60);
-  --ifm-link-hover-color: var(--water20);
-  --dd-background: var(--pepper90);
-  --ifm-container-width-xl: 1600px;
-  --ifm-line-height-base: 1.333;
-  --dd-h1-font-size: 4rem;
-  --dd-h2-font-size: 1.5rem;
-  --white: #ffffff;
-  --pepper90: #0e1217;
-  --pepper10: #525866;
-  --water60: #2556ed;
-  --water40: #427ef7;
-  --water20: #5c9bfa;
-  --onion40: #7147ed;
-  --bluecheese40: #2cdce6;
-  --bluecheese60: #08c0ce;
-}
-
-/* Dark theme essentials */
-html[data-theme='dark'] {
-  --ifm-color-feedback-background: #f0f8ff;
-  --ifm-background-color: #0e1217;
-  --ifm-menu-color: var(--white);
-  --ifm-link-color: var(--water40);
-}
-
-/* Layout fundamentals */
-* {
-  box-sizing: border-box;
-}
-
-body {
-  font-family: var(--ifm-font-family-base);
-  font-size: var(--ifm-font-size-base);
-  line-height: var(--ifm-line-height-base);
-  background-color: var(--ifm-background-color);
-  color: var(--ifm-font-color-base);
-  margin: 0;
-  padding: 0;
-}
-
-/* Navbar critical styles */
-.navbar {
-  background-color: #0e1217;
-  position: sticky;
-  top: 0;
-  z-index: 999;
-  padding: 0.5rem 1rem;
-  display: flex;
-  align-items: center;
-  min-height: 60px;
-}
-
-html[data-theme='light'] .navbar {
-  background-color: #fff;
-}
-
-.navbar__inner {
-  display: flex;
-  align-items: center;
-  justify-content: space-between;
-  width: 100%;
-  max-width: var(--ifm-container-width-xl);
-  margin: 0 auto;
-}
-
-.navbar__brand {
-  display: flex;
-  align-items: center;
-  text-decoration: none;
-  color: inherit;
-}
-
-.navbar__logo {
-  height: 32px;
-  margin-right: 0.5rem;
-}
-
-.navbar__logo img {
-  height: 100%;
-  width: auto;
-}
-
-.navbar__items {
-  display: flex;
-  align-items: center;
-  gap: 1rem;
-}
-
-.navbar__link {
-  color: inherit;
-  text-decoration: none;
-  padding: 0.5rem;
-  border-radius: 4px;
-  transition: background-color 0.2s ease;
-}
-
-.navbar__link:hover {
-  background-color: rgba(255, 255, 255, 0.1);
-}
-
-/* Hero section critical styles */
-.hero__title {
-  font-family: 'Montserrat', sans-serif;
-  font-size: 62px;
-  font-weight: 700;
-  line-height: 115%;
-  text-align: center;
-  margin: 2rem 0;
-  transition: transform 0.3s ease;
-}
-
+/* Hero banner styles */
 .heroBanner_KU2A {
-  padding: 4rem 0;
+  padding: 2rem 0 0 0;
   text-align: center;
-  background-color: var(--dd-background);
+  position: relative;
+  overflow: hidden;
 }
 
+/* Hero title optimization */
+.hero__title {
+  font-size: 3rem;
+  font-weight: 900;
+  line-height: 1.2;
+  margin-bottom: 0;
+  color: var(--ifm-font-color-base);
+}
+
+/* Container styles */
 .container {
-  max-width: var(--ifm-container-width-xl);
+  max-width: var(--ifm-container-width);
   margin: 0 auto;
-  padding: 0 1rem;
+  padding: 0 var(--ifm-spacing-horizontal);
 }
 
-/* Main layout */
+/* Critical navbar styles */
+.navbar {
+  background: var(--ifm-navbar-background-color);
+  box-shadow: var(--ifm-navbar-shadow);
+  height: var(--ifm-navbar-height);
+  padding: var(--ifm-navbar-padding-vertical) var(--ifm-navbar-padding-horizontal);
+}
+
+/* Critical layout styles */
 .main-wrapper {
-  min-height: 100vh;
   display: flex;
+  flex: 1 0 auto;
   flex-direction: column;
 }
 
-main {
-  flex: 1;
-}
-
-/* Responsive typography */
-@media screen and (max-width: 1000px) {
-  :root {
-    --ifm-font-size-base: 100%;
-    --dd-h1-font-size: 3rem;
+/* Mobile responsive for critical elements */
+@media screen and (max-width: 966px) {
+  .heroBanner_KU2A {
+    padding: 2rem;
   }
-}
-
-@media screen and (max-width: 768px) {
+  
   .hero__title {
-    font-size: 48px;
-  }
-
-  .navbar__items {
-    gap: 0.5rem;
+    font-size: 2rem;
   }
 }
 
-/* Focus styles for accessibility */
-*:focus-visible {
-  outline: 2px solid var(--bluecheese60) !important;
-  outline-offset: 2px;
-}
-
-html[data-theme='dark'] *:focus-visible {
-  outline: 2px solid var(--bluecheese40) !important;
-}
-
-/* Loading placeholder for images */
-img {
-  max-width: 100%;
-  height: auto;
-}
-
-/* Prevent layout shift */
-.homeIcon_ozDf {
-  width: 48px;
-  height: 48px;
-  display: block;
-}
+/* Critical font loading optimization */
+@font-display: swap;
