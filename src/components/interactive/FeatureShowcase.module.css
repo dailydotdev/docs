@@ -1,0 +1,129 @@
+.featureShowcase {
+  border: 1px solid var(--ifm-color-emphasis-300);
+  border-radius: 8px;
+  overflow: hidden;
+  margin: 2rem 0;
+  background: var(--ifm-background-color);
+}
+
+.featureTabs {
+  display: flex;
+  border-bottom: 1px solid var(--ifm-color-emphasis-300);
+  background: var(--ifm-color-emphasis-100);
+  overflow-x: auto;
+}
+
+.tab {
+  flex: 1;
+  padding: 1rem 1.5rem;
+  border: none;
+  background: transparent;
+  color: var(--ifm-color-content);
+  cursor: pointer;
+  transition: all 0.3s ease;
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  white-space: nowrap;
+  min-width: max-content;
+}
+
+.tab:hover {
+  background: var(--ifm-color-emphasis-200);
+}
+
+.tab.active {
+  background: var(--ifm-color-primary);
+  color: white;
+  font-weight: 600;
+}
+
+.icon {
+  font-size: 1.2em;
+}
+
+.featureContent {
+  padding: 2rem;
+  display: flex;
+  gap: 2rem;
+  align-items: flex-start;
+}
+
+.featureImage {
+  max-width: 300px;
+  border-radius: 6px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.contentText {
+  flex: 1;
+}
+
+.contentText h3 {
+  margin: 0 0 1rem 0;
+  color: var(--ifm-color-primary);
+}
+
+.contentText p {
+  margin: 0 0 1.5rem 0;
+  line-height: 1.6;
+  color: var(--ifm-color-content-secondary);
+}
+
+.learnMore {
+  display: inline-block;
+  padding: 0.5rem 1rem;
+  background: var(--ifm-color-primary);
+  color: white;
+  text-decoration: none;
+  border-radius: 4px;
+  transition: background 0.3s ease;
+  font-weight: 500;
+}
+
+.learnMore:hover {
+  background: var(--ifm-color-primary-dark);
+  color: white;
+  text-decoration: none;
+}
+
+.codeExample {
+  margin-top: 1rem;
+  background: var(--ifm-color-emphasis-100);
+  border-radius: 6px;
+  overflow: hidden;
+}
+
+.codeExample pre {
+  margin: 0;
+  padding: 1rem;
+}
+
+.codeExample code {
+  font-family: var(--ifm-font-family-monospace);
+  font-size: 0.9rem;
+}
+
+.error {
+  padding: 1rem;
+  background: var(--ifm-color-danger-light);
+  color: var(--ifm-color-danger-dark);
+  border-radius: 6px;
+  text-align: center;
+}
+
+@media (max-width: 768px) {
+  .featureContent {
+    flex-direction: column;
+    gap: 1rem;
+  }
+  
+  .featureImage {
+    max-width: 100%;
+  }
+  
+  .tab {
+    padding: 0.75rem 1rem;
+    font-size: 0.9rem;
+  }
+}

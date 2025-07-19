@@ -159,6 +159,66 @@ const config = {
         ],
       },
     ],
+    [
+      '@docusaurus/plugin-pwa',
+      {
+        debug: false,
+        offlineModeActivationStrategies: [
+          'appInstalled',
+          'standalone',
+          'queryString',
+        ],
+        pwaHead: [
+          {
+            tagName: 'link',
+            rel: 'icon',
+            href: '/img/logo.png',
+          },
+          {
+            tagName: 'link',
+            rel: 'manifest',
+            href: '/manifest.json',
+          },
+          {
+            tagName: 'meta',
+            name: 'theme-color',
+            content: '#25c2a0',
+          },
+          {
+            tagName: 'meta',
+            name: 'apple-mobile-web-app-capable',
+            content: 'yes',
+          },
+          {
+            tagName: 'meta',
+            name: 'apple-mobile-web-app-status-bar-style',
+            content: '#000',
+          },
+          {
+            tagName: 'link',
+            rel: 'apple-touch-icon',
+            href: '/img/logo.png',
+          },
+          {
+            tagName: 'link',
+            rel: 'mask-icon',
+            href: '/img/logo.png',
+            color: '#25c2a0',
+          },
+          {
+            tagName: 'meta',
+            name: 'msapplication-TileImage',
+            content: '/img/logo.png',
+          },
+          {
+            tagName: 'meta',
+            name: 'msapplication-TileColor',
+            content: '#000',
+          },
+        ],
+        swCustom: require.resolve('./src/registerSW.js'),
+      },
+    ],
   ],
 
   themeConfig:
@@ -168,11 +228,16 @@ const config = {
         appId: 'OFOYRKZKKB',
         apiKey: 'f70587b4279fabdac7fd30732de4e5de',
         indexName: 'docs-daily',
+        contextualSearch: true,
+        searchParameters: {
+          hitsPerPage: 25,
+        },
+        placeholder: 'Search documentation...',
       },
       colorMode: {
-        defaultMode: 'dark',
+        defaultMode: 'light',
         disableSwitch: false,
-        respectPrefersColorScheme: true,
+        respectPrefersColorScheme: false,
       },
       navbar: {
         logo: {
@@ -241,13 +306,6 @@ const config = {
           },
         ],
         copyright: `© ${new Date().getFullYear()} All rights reserved.`,
-      },
-      announcementBar: {
-        id: 'support_us',
-        content: 'Try daily.dev <a target="_blank" rel="noopener noreferrer" href="https://daily.dev"> now!</a>',
-        backgroundColor: '#fafbfc',
-        textColor: '#091E42',
-        isCloseable: true,
       },
       prism: {
         theme: lightCodeTheme,
