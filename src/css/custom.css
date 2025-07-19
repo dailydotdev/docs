@@ -149,6 +149,162 @@ img[src='/img/logo.png'] {
   border: none;
 }
 
+/* Footer optimization to prevent layout shifts */
+.theme-layout-footer {
+  min-height: 400px; /* Reserve space for footer content */
+  width: 100%;
+  overflow-x: hidden; /* Prevent horizontal overflow */
+}
+
+.theme-layout-footer .container {
+  max-width: var(--ifm-container-width);
+  margin: 0 auto;
+  padding: 0 var(--ifm-spacing-horizontal);
+}
+
+/* Footer link sections - prevent layout shift during loading */
+.footer__links {
+  min-height: 250px; /* Reserve space for link sections */
+}
+
+.footer__col {
+  min-height: 200px; /* Reserve space for each column */
+}
+
+/* Footer copyright section */
+.footer__bottom {
+  min-height: 50px; /* Reserve space for copyright */
+}
+
+/* Optimize footer rendering - prevent layout shifts */
+.footer__title {
+  margin-bottom: 1rem;
+  font-weight: bold;
+  line-height: 1.4;
+  min-height: 1.4em; /* Reserve height for title */
+}
+
+.footer__items {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.footer__item {
+  margin-bottom: 0.5rem;
+  min-height: 1.2em; /* Reserve height for each link */
+  line-height: 1.2;
+}
+
+.footer__link-item {
+  display: inline-block;
+  padding: 0.125rem 0;
+  text-decoration: none;
+  transition: color 0.2s ease;
+  min-height: 1.2em;
+  line-height: 1.2;
+}
+
+/* Prevent layout shift from hover effects */
+.footer__link-item:hover {
+  text-decoration: underline;
+}
+
+/* Ensure footer copyright has stable layout */
+.footer__copyright {
+  margin: 0;
+  padding: 1rem 0;
+  text-align: center;
+  min-height: 3rem;
+  line-height: 1.5;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+/* Desktop footer optimization */
+@media screen and (min-width: 997px) {
+  .theme-layout-footer {
+    min-height: 350px;
+  }
+  
+  .footer__links {
+    min-height: 200px;
+  }
+  
+  .footer__col {
+    min-height: 180px;
+  }
+}
+
+/* Tablet footer optimization */
+@media screen and (max-width: 996px) and (min-width: 768px) {
+  .theme-layout-footer {
+    min-height: 450px;
+  }
+  
+  .footer__links {
+    min-height: 300px;
+  }
+}
+
+/* Mobile footer optimization */
+@media screen and (max-width: 767px) {
+  .theme-layout-footer {
+    min-height: 600px;
+  }
+  
+  .footer__links {
+    min-height: 450px;
+  }
+  
+  .footer__col {
+    min-height: 100px;
+    margin-bottom: 2rem;
+  }
+}
+
+/* Additional layout stability optimizations */
+.main-wrapper {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+
+main {
+  flex: 1 0 auto;
+}
+
+.theme-layout-footer {
+  flex-shrink: 0;
+  margin-top: auto;
+}
+
+/* Prevent any potential layout shifts from loading states */
+.loading {
+  min-height: 200px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+/* Ensure homepage navigation cards maintain stable layout */
+.features_MPyf {
+  min-height: 400px; /* Reserve space for feature cards */
+}
+
+.homecard_uR3r {
+  min-height: 200px; /* Reserve space for each card */
+  display: flex;
+  flex-direction: column;
+}
+
+.homeIcon_ozDf {
+  width: 48px !important;
+  height: 48px !important;
+  flex-shrink: 0;
+}
+
 :root {
   --white: #ffffff;
   --black: #000000;
