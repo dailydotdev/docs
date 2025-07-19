@@ -59,6 +59,8 @@
     "@docusaurus/eslint-plugin": "^3.4.0",
     "@playwright/test": "^1.40.0",
     "eslint": "^8.57.0",
+    "eslint-plugin-react": "^7.33.2",
+    "eslint-plugin-jsx-a11y": "^6.8.0",
     "prettier": "^3.2.5"
   }
 }
