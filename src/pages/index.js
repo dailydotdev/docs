@@ -7,6 +7,7 @@ import Head from '@docusaurus/Head';
 import styles from './video.module.css';
 import { Redirect } from '@docusaurus/router';
 import ErrorBoundary from '../components/ErrorBoundary';
+import StructuredData from '../structured-data/schema';
 
 // Lazy load non-critical components
 const HomeNavBoxes = React.lazy(
@@ -100,6 +101,7 @@ export default function Home() {
           href="/docs/getting-started/browser-extension-installation"
         />
       </Head>
+      <StructuredData />
       <HomepageHeader />
       <main>
         <ErrorBoundary>
