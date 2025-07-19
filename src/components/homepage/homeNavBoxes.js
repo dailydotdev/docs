@@ -179,36 +179,38 @@ function Feature({ title, icon, items }) {
   };
 
   return (
-    <article
-      className={clsx('col col--4')}
-      role="region"
-      aria-labelledby={`feature-${title.replace(/\s+/g, '-').toLowerCase()}`}
-    >
-      <div className={styles.homecard}>
-        <img
-          src={icon}
-          className={styles.homeIcon}
-          loading="eager"
-          decoding="sync"
-          alt={altTexts[title] || `${title} icon`}
-          width="32"
-          height="32"
-          style={{ aspectRatio: '1/1' }}
-        />
-        <h2 id={`feature-${title.replace(/\s+/g, '-').toLowerCase()}`}>
-          {title}
-        </h2>
-        <div className={styles.listContainer}>
-          <nav aria-label={`${title} navigation`}>
-            <ul>
-              {items.map((props, idx) => (
-                <FeatureItem key={idx} {...props} />
-              ))}
-            </ul>
-          </nav>
+    <li role="listitem">
+      <article
+        className={clsx('col col--4')}
+        role="region"
+        aria-labelledby={`feature-${title.replace(/\s+/g, '-').toLowerCase()}`}
+      >
+        <div className={styles.homecard}>
+          <img
+            src={icon}
+            className={styles.homeIcon}
+            loading="eager"
+            decoding="sync"
+            alt={altTexts[title] || `${title} icon`}
+            width="32"
+            height="32"
+            style={{ aspectRatio: '1/1' }}
+          />
+          <h2 id={`feature-${title.replace(/\s+/g, '-').toLowerCase()}`}>
+            {title}
+          </h2>
+          <div className={styles.listContainer}>
+            <nav aria-label={`${title} navigation`}>
+              <ul>
+                {items.map((props, idx) => (
+                  <FeatureItem key={idx} {...props} />
+                ))}
+              </ul>
+            </nav>
+          </div>
         </div>
-      </div>
-    </article>
+      </article>
+    </li>
   );
 }
 

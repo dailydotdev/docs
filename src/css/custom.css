@@ -982,15 +982,76 @@ html[data-theme='dark'] .DocSearch-Logo svg {
   display: none !important;
 }
 
-/* Make header search bar 50% wider */
+/* Make header search bar 50% wider and improve contrast */
 .navbar .DocSearch-Button {
   width: 300px !important;
   max-width: none !important;
+  color: var(--ifm-font-color-base) !important;
+  border: 1px solid var(--ifm-color-emphasis-300) !important;
+}
+
+.navbar .DocSearch-Button-Placeholder {
+  color: var(--ifm-font-color-base) !important;
+  opacity: 0.8 !important;
+}
+
+.navbar .DocSearch-Button-Keys {
+  color: var(--ifm-font-color-base) !important;
+}
+
+.navbar .DocSearch-Button-Key {
+  color: var(--ifm-font-color-base) !important;
+  background: var(--ifm-color-emphasis-200) !important;
+  border: 1px solid var(--ifm-color-emphasis-300) !important;
+}
+
+/* Dark theme adjustments */
+html[data-theme='dark'] .navbar .DocSearch-Button {
+  background: var(--ifm-background-surface-color) !important;
+  color: var(--ifm-font-color-base) !important;
+}
+
+html[data-theme='dark'] .navbar .DocSearch-Button-Placeholder {
+  color: var(--ifm-font-color-base) !important;
+  opacity: 0.9 !important;
+}
+
+html[data-theme='dark'] .navbar .DocSearch-Button-Key {
+  background: var(--ifm-color-emphasis-300) !important;
+  color: var(--ifm-font-color-base) !important;
 }
 
 @media (max-width: 768px) {
   .navbar .DocSearch-Button {
-    width: 200px !important;
+    width: 36px !important;
+    height: 36px !important;
+    min-width: 36px !important;
+    max-width: 36px !important;
+    padding: 0 !important;
+    display: flex !important;
+    align-items: center !important;
+    justify-content: center !important;
+    border-radius: 6px !important;
+  }
+  
+  .navbar .DocSearch-Button-Container {
+    display: flex !important;
+    align-items: center !important;
+    justify-content: center !important;
+  }
+  
+  .navbar .DocSearch-Search-Icon {
+    width: 18px !important;
+    height: 18px !important;
+    flex-shrink: 0 !important;
+  }
+  
+  .navbar .DocSearch-Button-Placeholder {
+    display: none !important;
+  }
+  
+  .navbar .DocSearch-Button-Keys {
+    display: none !important;
   }
 }
 

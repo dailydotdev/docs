@@ -179,47 +179,49 @@ function Feature({ title, url, type, duration }) {
   const videoId = `video-${title.replace(/\s+/g, '-').toLowerCase()}`;
 
   return (
-    <article
-      className={clsx('col col--4')}
-      role="region"
-      aria-labelledby={videoId}
-    >
-      <div className={styles.vidcard}>
-        <img
-          src="img/logo.png"
-          className={styles.vidIcon}
-          alt="daily.dev logo"
-          loading="lazy"
-          width="48"
-          height="48"
-        />
-        <h2 id={videoId}>{title}</h2>
-        <div className={styles.iframecontainer}>
-          <div
-            className={styles.youTubeOverlay}
-            onClick={replaceVideo}
-            onKeyDown={handleKeyPress}
-            data-youtube={url}
-            role="button"
-            tabIndex="0"
-            aria-label={`Play video: ${title}`}
-          >
-            <div className={styles.youTubeOverlayTime}>{duration}</div>
-            <img
-              className={styles.imgVid}
-              width="340"
-              height="180"
-              alt={`Video thumbnail for ${title}`}
-              src={'https://img.youtube.com/vi/' + url + '/0.jpg'}
-            />
+    <li role="listitem">
+      <article
+        className={clsx('col col--4')}
+        role="region"
+        aria-labelledby={videoId}
+      >
+        <div className={styles.vidcard}>
+          <img
+            src="img/logo.png"
+            className={styles.vidIcon}
+            alt="daily.dev logo"
+            loading="lazy"
+            width="48"
+            height="48"
+          />
+          <h2 id={videoId}>{title}</h2>
+          <div className={styles.iframecontainer}>
+            <div
+              className={styles.youTubeOverlay}
+              onClick={replaceVideo}
+              onKeyDown={handleKeyPress}
+              data-youtube={url}
+              role="button"
+              tabIndex="0"
+              aria-label={`Play video: ${title}`}
+            >
+              <div className={styles.youTubeOverlayTime}>{duration}</div>
+              <img
+                className={styles.imgVid}
+                width="340"
+                height="180"
+                alt={`Video thumbnail for ${title}`}
+                src={'https://img.youtube.com/vi/' + url + '/0.jpg'}
+              />
+            </div>
           </div>
+          {/* <div className={styles.iframecontainer}>
+            <iframe width="340" height="180" src={"https://www.youtube-nocookie.com/embed/" + url} title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture, fullscreen" allowfullscreen="true"></iframe>
+          </div> */}
+          <div className={styles.bottomText}>{type}</div>
         </div>
-        {/* <div className={styles.iframecontainer}>
-          <iframe width="340" height="180" src={"https://www.youtube-nocookie.com/embed/" + url} title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture, fullscreen" allowfullscreen="true"></iframe>
-        </div> */}
-        <div className={styles.bottomText}>{type}</div>
-      </div>
-    </article>
+      </article>
+    </li>
   );
 }
 
