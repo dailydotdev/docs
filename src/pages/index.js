@@ -8,10 +8,6 @@ import styles from './video.module.css';
 import StructuredData from '../structured-data/schema';
 import { Redirect } from '@docusaurus/router';
 import ErrorBoundary from '../components/ErrorBoundary';
-import {
-  initializePerformanceMonitoring,
-  usePerformanceTracking,
-} from '../utils/performance';
 
 // Lazy load non-critical components
 const HomeNavBoxes = React.lazy(
@@ -20,12 +16,6 @@ const HomeNavBoxes = React.lazy(
 
 function HomepageHeader() {
   const { siteConfig } = useDocusaurusContext();
-  const { trackRender } = usePerformanceTracking('HomepageHeader');
-
-  useEffect(() => {
-    const tracker = trackRender();
-    return () => tracker.end();
-  }, [trackRender]);
 
   return (
     <header className={clsx(styles.heroBanner)}>
@@ -38,14 +28,6 @@ function HomepageHeader() {
 
 export default function Home() {
   const { siteConfig } = useDocusaurusContext();
-  const { trackRender } = usePerformanceTracking('HomePage');
-
-  // Initialize performance monitoring
-  useEffect(() => {
-    initializePerformanceMonitoring();
-    const tracker = trackRender();
-    return () => tracker.end();
-  }, [trackRender]);
 
   // return <Redirect to="/docs/intro" />;
   return (

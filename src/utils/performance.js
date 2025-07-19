@@ -4,6 +4,7 @@
  */
 
 import { getCLS, getFID, getFCP, getLCP, getTTFB } from 'web-vitals';
+import { useCallback } from 'react';
 
 // Performance thresholds based on Google's recommendations
 const THRESHOLDS = {
@@ -393,11 +394,14 @@ export function generatePerformanceReport() {
  * Hook for React components to track performance
  */
 export function usePerformanceTracking(componentName) {
+  // Skip performance tracking during SSR
   if (typeof window === 'undefined') {
     return { trackRender: () => ({ end: () => {} }) };
   }
 
-  return {
-    trackRender: () => trackComponentPerformance(componentName),
-  };
+  const trackRender = useCallback(() => {
+    return trackComponentPerformance(componentName);
+  }, [componentName]);
+
+  return { trackRender };
 }

@@ -1,15 +1,7 @@
 import React, { useMemo } from 'react';
 import Head from '@docusaurus/Head';
-import { usePerformanceTracking } from '../utils/performance';
 
 export default function StructuredData() {
-  const { trackRender } = usePerformanceTracking('StructuredData');
-
-  React.useEffect(() => {
-    const tracker = trackRender();
-    return () => tracker.end();
-  }, [trackRender]);
-
   const structuredData = useMemo(
     () => ({
       '@context': 'https://schema.org',
