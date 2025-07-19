@@ -25,7 +25,7 @@ test.describe('Homepage', () => {
     // Test GitHub link
     const githubLink = page.locator('a[href*="github.com"]').first();
     await expect(githubLink).toBeVisible();
-    await expect(githubLink).toHaveAttribute('href', /github\.com/);
+    await expect(githubLink).toHaveAttribute('href', /^https?:\/\/[^/]*github\.com\//);
   });
 
   test('should display feature cards', async ({ page }) => {

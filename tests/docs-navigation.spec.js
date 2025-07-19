@@ -65,7 +65,7 @@ test.describe('Documentation Navigation', () => {
     const editLink = page.locator('a[href*="github.com"][href*="/edit/"]').first();
     if (await editLink.count() > 0) {
       await expect(editLink).toBeVisible();
-      await expect(editLink).toHaveAttribute('href', /github\.com.*edit/);
+      await expect(editLink).toHaveAttribute('href', /^https?:\/\/[^/]*github\.com\/.*\/edit\//);
     }
   });
 
