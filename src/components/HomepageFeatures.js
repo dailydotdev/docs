@@ -17,7 +17,7 @@ const FeatureList = [
     Svg: require('../../static/img/Time.svg').default,
     description: (
       <>
-        Searching for content isn't a thing developers should do in 2021. daily.dev recommends tailor-made dev news so you can have something interesting to read anytime.
+        Searching for content isn't something developers should waste time on. daily.dev recommends tailor-made dev news so you can have something interesting to read anytime.
       </>
     ),
   },

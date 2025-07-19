@@ -14,9 +14,13 @@
     "write-translations": "docusaurus write-translations",
     "write-heading-ids": "docusaurus write-heading-ids",
     "docker:compose": "docker compose up --build",
-    "docker:run": "docker run -p 3000:3000 francescoxx/dailydev-docs:0.9.3",
+    "docker:run": "docker run -p 3000:3000 francescoxx/dailydev-docs:0.18.0",
     "analyze": "npm run build -- --bundle-analyzer",
-    "lighthouse": "lhci autorun"
+    "lighthouse": "lhci autorun",
+    "lint": "eslint src/ --ext .js,.jsx,.ts,.tsx",
+    "lint:fix": "eslint src/ --ext .js,.jsx,.ts,.tsx --fix",
+    "format": "prettier --write \"src/**/*.{js,jsx,ts,tsx,md,css,scss}\"",
+    "format:check": "prettier --check \"src/**/*.{js,jsx,ts,tsx,md,css,scss}\""
   },
   "dependencies": {
     "@docusaurus/core": "^3.4.0",
@@ -47,7 +51,12 @@
     ]
   },
   "devDependencies": {
+    "@docusaurus/eslint-plugin": "^3.4.0",
     "@docusaurus/plugin-pwa": "^3.5.2",
-    "esbuild-loader": "^4.3.0"
+    "esbuild-loader": "^4.3.0",
+    "eslint": "^8.57.0",
+    "eslint-plugin-jsx-a11y": "^6.8.0",
+    "eslint-plugin-react": "^7.33.2",
+    "prettier": "^3.2.5"
   }
 }
