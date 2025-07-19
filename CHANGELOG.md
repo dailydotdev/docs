@@ -1,3 +1,12 @@
+# [0.19.0](https://github.com/dailydotdev/docs/compare/v0.18.0...v0.19.0) (2025-07-19)
+
+
+### Features
+
+* implement PWA features and interactive components ([#472](https://github.com/dailydotdev/docs/issues/472)) ([8f64eb7](https://github.com/dailydotdev/docs/commit/8f64eb7b01b85f224b89672ef227a2b120ab8450))
+
+
+
 # [0.18.0](https://github.com/dailydotdev/docs/compare/v0.17.0...v0.18.0) (2025-07-17)
 
 
@@ -31,15 +40,6 @@
 ### Features
 
 * enhance homepage navigation and image loading ([29c6e82](https://github.com/dailydotdev/docs/commit/29c6e82fc47ccd396ebf29f90f92e6406e183326))
-
-
-
-# [0.14.0](https://github.com/dailydotdev/docs/compare/v0.13.1...v0.14.0) (2025-07-17)
-
-
-### Features
-
-* add client redirects and static directory configuration ([#463](https://github.com/dailydotdev/docs/issues/463)) ([d74953f](https://github.com/dailydotdev/docs/commit/d74953f2336748b939c018e8b9f5732874d45bbb))
 
 
 
