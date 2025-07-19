@@ -2,7 +2,8 @@ import React, { useCallback, useEffect } from 'react';
 import clsx from 'clsx';
 import styles from './navBoxes.module.css';
 import { useErrorHandler } from '../../hooks/useErrorHandler';
-import { usePerformanceTracking } from '../../utils/performance';
+// Temporarily disabled for SSR compatibility
+// import { usePerformanceTracking } from '../../utils/performance';
 
 const FeatureList = [
   {
@@ -93,12 +94,13 @@ const FeatureList = [
 
 function Feature({ title, url, type, duration }) {
   const { handleError } = useErrorHandler();
-  const { trackRender } = usePerformanceTracking('VideoFeature');
+  // Temporarily disabled for SSR compatibility
+  // const { trackRender } = usePerformanceTracking('VideoFeature');
 
-  useEffect(() => {
-    const tracker = trackRender();
-    return () => tracker.end();
-  }, [trackRender]);
+  // useEffect(() => {
+  //   const tracker = trackRender();
+  //   return () => tracker.end();
+  // }, [trackRender]);
 
   const replaceVideo = useCallback(
     (e) => {
@@ -222,12 +224,13 @@ function Feature({ title, url, type, duration }) {
 }
 
 export default function VideoFeatures() {
-  const { trackRender } = usePerformanceTracking('VideoFeatures');
+  // Temporarily disabled for SSR compatibility
+  // const { trackRender } = usePerformanceTracking('VideoFeatures');
 
-  useEffect(() => {
-    const tracker = trackRender();
-    return () => tracker.end();
-  }, [trackRender]);
+  // useEffect(() => {
+  //   const tracker = trackRender();
+  //   return () => tracker.end();
+  // }, [trackRender]);
 
   return (
     <section className={styles.features} aria-label="Daily.dev video tutorials">

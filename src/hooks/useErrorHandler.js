@@ -54,6 +54,9 @@ export function useErrorHandler() {
  */
 function reportError(error, context) {
   try {
+    // Skip reporting during SSR
+    if (typeof window === 'undefined') return;
+
     const errorReport = {
       message: error.message,
       stack: error.stack,

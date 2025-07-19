@@ -5,9 +5,10 @@ import Link from '@docusaurus/Link';
 import useDocusaurusContext from '@docusaurus/useDocusaurusContext';
 import Head from '@docusaurus/Head';
 import styles from './video.module.css';
-import StructuredData from '../structured-data/schema';
+// Temporarily disabled for SSR compatibility
+// import StructuredData from '../structured-data/schema';
 import { Redirect } from '@docusaurus/router';
-import ErrorBoundary from '../components/ErrorBoundary';
+// import ErrorBoundary from '../components/ErrorBoundary';
 
 // Lazy load non-critical components
 const HomeNavBoxes = React.lazy(
@@ -86,31 +87,24 @@ export default function Home() {
           href="/docs/getting-started/browser-extension-installation"
         />
       </Head>
-      <ErrorBoundary>
-        <StructuredData />
-      </ErrorBoundary>
-      <ErrorBoundary>
-        <HomepageHeader />
-      </ErrorBoundary>
+      <HomepageHeader />
       <main>
-        <ErrorBoundary>
-          <Suspense
-            fallback={
-              <div
-                style={{
-                  minHeight: '400px',
-                  display: 'flex',
-                  alignItems: 'center',
-                  justifyContent: 'center',
-                }}
-              >
-                Loading...
-              </div>
-            }
-          >
-            <HomeNavBoxes />
-          </Suspense>
-        </ErrorBoundary>
+        <Suspense
+          fallback={
+            <div
+              style={{
+                minHeight: '400px',
+                display: 'flex',
+                alignItems: 'center',
+                justifyContent: 'center',
+              }}
+            >
+              Loading...
+            </div>
+          }
+        >
+          <HomeNavBoxes />
+        </Suspense>
       </main>
     </Layout>
   );
