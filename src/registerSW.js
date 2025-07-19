@@ -97,6 +97,11 @@ function showUpdateNotification() {
 
 // Register service worker with comprehensive error handling
 export default function registerSW() {
+  // Only run on client side to avoid hydration issues
+  if (typeof window === 'undefined') {
+    return;
+  }
+
   if (!('serviceWorker' in navigator)) {
     if (process.env.NODE_ENV === 'development') {
       console.log('Service Worker not supported in this browser');

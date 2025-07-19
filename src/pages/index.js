@@ -6,6 +6,7 @@ import useDocusaurusContext from '@docusaurus/useDocusaurusContext';
 import Head from '@docusaurus/Head';
 import styles from './video.module.css';
 import { Redirect } from '@docusaurus/router';
+import ErrorBoundary from '../components/ErrorBoundary';
 
 // Lazy load non-critical components
 const HomeNavBoxes = React.lazy(
@@ -13,8 +14,6 @@ const HomeNavBoxes = React.lazy(
 );
 
 function HomepageHeader() {
-  const { siteConfig } = useDocusaurusContext();
-
   return (
     <header className={clsx(styles.heroBanner)}>
       <div className="container">
@@ -56,8 +55,14 @@ export default function Home() {
           content="https://docs.daily.dev/img/daily-cover-photo.png"
         />
 
-        {/* Preload critical resources */}
+        {/* Critical performance optimizations */}
         <link rel="preload" href="/img/logo.png" as="image" type="image/png" />
+        
+        {/* Preload critical fonts if any are used */}
+        <link rel="preconnect" href="https://fonts.googleapis.com" />
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossOrigin="anonymous" />
+        
+        {/* Preload critical icons for above-the-fold content */}
         <link
           rel="preload"
           href="/img/icons/getting-started.svg"
@@ -77,6 +82,17 @@ export default function Home() {
           type="image/svg+xml"
         />
 
+        {/* Inline critical CSS for above-the-fold content */}
+        <style>{`
+          .heroBanner_KU2A{padding:2rem 0 0 0;text-align:center;position:relative;overflow:hidden}
+          .hero__title{font-size:3rem;font-weight:900;line-height:1.2;margin-bottom:0;color:var(--ifm-font-color-base)}
+          .theme-layout-footer{min-height:350px}
+          .footer__links{min-height:200px}
+          .footer__col{min-height:180px}
+          .footer__bottom{min-height:50px}
+          @media screen and (max-width:966px){.heroBanner_KU2A{padding:2rem}.hero__title{font-size:2rem}.theme-layout-footer{min-height:600px}.footer__links{min-height:450px}.footer__col{min-height:100px}}
+        `}</style>
+
         {/* Prefetch important pages */}
         <link rel="prefetch" href="/docs/intro" />
         <link
@@ -86,22 +102,26 @@ export default function Home() {
       </Head>
       <HomepageHeader />
       <main>
-        <Suspense
-          fallback={
-            <div
-              style={{
-                minHeight: '400px',
-                display: 'flex',
-                alignItems: 'center',
-                justifyContent: 'center',
-              }}
-            >
-              Loading...
-            </div>
-          }
-        >
-          <HomeNavBoxes />
-        </Suspense>
+        <ErrorBoundary>
+          <Suspense
+            fallback={
+              <div
+                style={{
+                  minHeight: '200px',
+                  display: 'flex',
+                  alignItems: 'center',
+                  justifyContent: 'center',
+                  fontSize: '14px',
+                  color: 'var(--ifm-color-emphasis-600)',
+                }}
+              >
+                Loading navigation...
+              </div>
+            }
+          >
+            <HomeNavBoxes />
+          </Suspense>
+        </ErrorBoundary>
       </main>
     </Layout>
   );

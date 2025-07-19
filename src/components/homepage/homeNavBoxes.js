@@ -191,8 +191,8 @@ function Feature({ title, icon, items }) {
           loading="eager"
           decoding="sync"
           alt={altTexts[title] || `${title} icon`}
-          width="48"
-          height="48"
+          width="32"
+          height="32"
           style={{ aspectRatio: '1/1' }}
         />
         <h2 id={`feature-${title.replace(/\s+/g, '-').toLowerCase()}`}>

@@ -104,11 +104,73 @@ const config = {
     ],
   ],
 
-  // Performance optimizations removed to fix deployment issues
-  
   // Bundle analyzer for optimization monitoring
 
   plugins: [
+    // Custom webpack plugin for source maps and performance
+    function webpackOptimizationPlugin() {
+      return {
+        name: 'webpack-optimization-plugin',
+        configureWebpack(config, isServer) {
+          if (!isServer) {
+            return {
+              devtool: 'source-map',
+              optimization: {
+                splitChunks: {
+                  chunks: 'all',
+                  cacheGroups: {
+                    vendor: {
+                      test: /[\\/]node_modules[\\/]/,
+                      name: 'vendors',
+                      chunks: 'all',
+                      priority: 10,
+                    },
+                    common: {
+                      name: 'common',
+                      minChunks: 2,
+                      chunks: 'all',
+                      priority: 5,
+                      reuseExistingChunk: true,
+                    },
+                  },
+                },
+              },
+            };
+          }
+        },
+      };
+    },
+    // Performance optimization plugin
+    function performancePlugin() {
+      return {
+        name: 'performance-plugin',
+        injectHtmlTags() {
+          return {
+            headTags: [
+              {
+                tagName: 'script',
+                innerHTML: `
+                  (function() {
+                    var script = document.createElement('script');
+                    script.async = true;
+                    script.src = 'https://www.googletagmanager.com/gtag/js?id=UA-109059578-7';
+                    script.onload = function() {
+                      window.dataLayer = window.dataLayer || [];
+                      function gtag(){dataLayer.push(arguments);}
+                      gtag('js', new Date());
+                      gtag('config', 'UA-109059578-7', {anonymize_ip: true});
+                    };
+                    setTimeout(function() {
+                      document.head.appendChild(script);
+                    }, 3000);
+                  })();
+                `,
+              },
+            ],
+          };
+        },
+      };
+    },
     [
       '@docusaurus/plugin-ideal-image',
       {
@@ -243,6 +305,8 @@ const config = {
         logo: {
           alt: 'daily.dev Logo',
           src: 'img/logo.png',
+          width: 32,
+          height: 32,
         },
         items: [
           {

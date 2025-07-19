@@ -3,7 +3,7 @@ import styles from './FeatureShowcase.module.css';
 
 const FeatureShowcase = ({ features }) => {
   const [activeFeature, setActiveFeature] = useState(0);
-  
+
   if (!features || features.length === 0) {
     return <div className={styles.error}>No features provided</div>;
   }
@@ -12,20 +12,22 @@ const FeatureShowcase = ({ features }) => {
     <div className={styles.featureShowcase}>
       <div className={styles.featureTabs}>
         {features.map((feature, index) => (
-          <button 
+          <button
             key={index}
             className={`${styles.tab} ${activeFeature === index ? styles.active : ''}`}
             onClick={() => setActiveFeature(index)}
           >
-            {feature.icon && <span className={styles.icon}>{feature.icon}</span>}
+            {feature.icon && (
+              <span className={styles.icon}>{feature.icon}</span>
+            )}
             {feature.name}
           </button>
         ))}
       </div>
       <div className={styles.featureContent}>
         {features[activeFeature].image && (
-          <img 
-            src={features[activeFeature].image} 
+          <img
+            src={features[activeFeature].image}
             alt={features[activeFeature].name}
             className={styles.featureImage}
           />
@@ -34,8 +36,8 @@ const FeatureShowcase = ({ features }) => {
           <h3>{features[activeFeature].name}</h3>
           <p>{features[activeFeature].description}</p>
           {features[activeFeature].link && (
-            <a 
-              href={features[activeFeature].link} 
+            <a
+              href={features[activeFeature].link}
               className={styles.learnMore}
               target="_blank"
               rel="noopener noreferrer"
@@ -45,7 +47,9 @@ const FeatureShowcase = ({ features }) => {
           )}
           {features[activeFeature].code && (
             <div className={styles.codeExample}>
-              <pre><code>{features[activeFeature].code}</code></pre>
+              <pre>
+                <code>{features[activeFeature].code}</code>
+              </pre>
             </div>
           )}
         </div>

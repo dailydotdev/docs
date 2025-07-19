@@ -117,11 +117,11 @@
     flex-direction: column;
     gap: 1rem;
   }
-  
+
   .featureImage {
     max-width: 100%;
   }
-  
+
   .tab {
     padding: 0.75rem 1rem;
     font-size: 0.9rem;

@@ -6,14 +6,18 @@ const StepByStep = ({ steps, allowSkip = true, showProgress = true }) => {
   const [completedSteps, setCompletedSteps] = useState(new Set());
 
   const goToStep = (stepIndex) => {
-    if (allowSkip || stepIndex <= currentStep + 1 || completedSteps.has(stepIndex - 1)) {
+    if (
+      allowSkip ||
+      stepIndex <= currentStep + 1 ||
+      completedSteps.has(stepIndex - 1)
+    ) {
       setCurrentStep(stepIndex);
     }
   };
 
   const nextStep = () => {
     if (currentStep < steps.length - 1) {
-      setCompletedSteps(prev => new Set([...prev, currentStep]));
+      setCompletedSteps((prev) => new Set([...prev, currentStep]));
       setCurrentStep(currentStep + 1);
     }
   };
@@ -25,7 +29,7 @@ const StepByStep = ({ steps, allowSkip = true, showProgress = true }) => {
   };
 
   const markCompleted = () => {
-    setCompletedSteps(prev => new Set([...prev, currentStep]));
+    setCompletedSteps((prev) => new Set([...prev, currentStep]));
   };
 
   if (!steps || steps.length === 0) {
@@ -36,7 +40,7 @@ const StepByStep = ({ steps, allowSkip = true, showProgress = true }) => {
     <div className={styles.stepByStep}>
       {showProgress && (
         <div className={styles.progressBar}>
-          <div 
+          <div
             className={styles.progress}
             style={{ width: `${((currentStep + 1) / steps.length) * 100}%` }}
           />
@@ -49,11 +53,13 @@ const StepByStep = ({ steps, allowSkip = true, showProgress = true }) => {
             key={index}
             className={`${styles.stepButton} ${
               index === currentStep ? styles.active : ''
-            } ${
-              completedSteps.has(index) ? styles.completed : ''
-            }`}
+            } ${completedSteps.has(index) ? styles.completed : ''}`}
             onClick={() => goToStep(index)}
-            disabled={!allowSkip && index > currentStep + 1 && !completedSteps.has(index - 1)}
+            disabled={
+              !allowSkip &&
+              index > currentStep + 1 &&
+              !completedSteps.has(index - 1)
+            }
           >
             <span className={styles.stepNumber}>
               {completedSteps.has(index) ? '✓' : index + 1}
@@ -77,18 +83,20 @@ const StepByStep = ({ steps, allowSkip = true, showProgress = true }) => {
 
         <div className={styles.stepBody}>
           {steps[currentStep].description && (
-            <p className={styles.description}>{steps[currentStep].description}</p>
+            <p className={styles.description}>
+              {steps[currentStep].description}
+            </p>
           )}
-          
+
           {steps[currentStep].content && (
-            <div className={styles.content}>
-              {steps[currentStep].content}
-            </div>
+            <div className={styles.content}>{steps[currentStep].content}</div>
           )}
 
           {steps[currentStep].code && (
             <div className={styles.codeBlock}>
-              <pre><code>{steps[currentStep].code}</code></pre>
+              <pre>
+                <code>{steps[currentStep].code}</code>
+              </pre>
             </div>
           )}
 
@@ -99,14 +107,12 @@ const StepByStep = ({ steps, allowSkip = true, showProgress = true }) => {
           )}
 
           {steps[currentStep].tip && (
-            <div className={styles.tip}>
-              💡 {steps[currentStep].tip}
-            </div>
+            <div className={styles.tip}>💡 {steps[currentStep].tip}</div>
           )}
         </div>
 
         <div className={styles.stepActions}>
-          <button 
+          <button
             onClick={prevStep}
             disabled={currentStep === 0}
             className={styles.prevButton}
@@ -115,15 +121,12 @@ const StepByStep = ({ steps, allowSkip = true, showProgress = true }) => {
           </button>
 
           {!completedSteps.has(currentStep) && (
-            <button 
-              onClick={markCompleted}
-              className={styles.completeButton}
-            >
+            <button onClick={markCompleted} className={styles.completeButton}>
               Mark as Complete
             </button>
           )}
 
-          <button 
+          <button
             onClick={nextStep}
             disabled={currentStep === steps.length - 1}
             className={styles.nextButton}

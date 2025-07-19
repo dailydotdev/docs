@@ -5,26 +5,32 @@ test.describe('Documentation Navigation', () => {
   test('should navigate to intro page', async ({ page }) => {
     await page.goto('/docs/intro');
     
+    // Wait for page to load
+    await page.waitForLoadState('networkidle');
+    
     // Check page loads correctly
     await expect(page).toHaveTitle(/Introduction.*daily\.dev/);
     
     // Check main heading
-    await expect(page.locator('h1')).toContainText('Introduction');
+    await expect(page.locator('h1').first()).toContainText('Introduction');
     
     // Check sidebar is present
-    await expect(page.locator('[class*="sidebar"]')).toBeVisible();
+    await expect(page.locator('.theme-doc-sidebar-container')).toBeVisible();
   });
 
   test('should have working sidebar navigation', async ({ page }) => {
     await page.goto('/docs/intro');
     
+    // Wait for page to load
+    await page.waitForLoadState('networkidle');
+    
     // Wait for sidebar to load
-    const sidebar = page.locator('[class*="sidebar"]');
+    const sidebar = page.locator('.theme-doc-sidebar-container');
     await expect(sidebar).toBeVisible();
     
-    // Check for main categories
-    await expect(page.locator('text=Getting Started')).toBeVisible();
-    await expect(page.locator('text=Key Features')).toBeVisible();
+    // Check for main categories using more specific selectors
+    await expect(sidebar.locator('text=Getting Started')).toBeVisible();
+    await expect(sidebar.locator('text=Key Features')).toBeVisible();
     
     // Test navigation to another page
     await page.click('text=Browser extension installation');
@@ -48,14 +54,17 @@ test.describe('Documentation Navigation', () => {
   test('should display proper breadcrumbs', async ({ page }) => {
     await page.goto('/docs/getting-started/browser-extension-installation');
     
+    // Wait for page to load
+    await page.waitForLoadState('networkidle');
+    
     // Check for breadcrumb navigation
-    const breadcrumbs = page.locator('[class*="breadcrumb"]');
+    const breadcrumbs = page.locator('.theme-doc-breadcrumbs');
     if (await breadcrumbs.count() > 0) {
-      await expect(breadcrumbs).toBeVisible();
+      await expect(breadcrumbs.first()).toBeVisible();
     }
     
     // Check page title
-    await expect(page.locator('h1')).toContainText(/Browser|Extension|Installation/i);
+    await expect(page.locator('h1').first()).toContainText(/Browser|Extension|Installation/i);
   });
 
   test('should have edit page links', async ({ page }) => {
