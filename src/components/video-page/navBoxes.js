@@ -1,6 +1,8 @@
-import React from 'react';
+import React, { useCallback, useEffect } from 'react';
 import clsx from 'clsx';
 import styles from './navBoxes.module.css';
+import { useErrorHandler } from '../../hooks/useErrorHandler';
+import { usePerformanceTracking } from '../../utils/performance';
 
 const FeatureList = [
   {
@@ -90,58 +92,106 @@ const FeatureList = [
 ];
 
 function Feature({ title, url, type, duration }) {
-  function replaceVideo(e) {
-    const link = e.target.closest('[data-youtube]');
-    if (!link) return;
+  const { handleError } = useErrorHandler();
+  const { trackRender } = usePerformanceTracking('VideoFeature');
 
-    // Prevent the URL from redirecting users
-    e.preventDefault();
+  useEffect(() => {
+    const tracker = trackRender();
+    return () => tracker.end();
+  }, [trackRender]);
 
-    // Get the video ID and title for better accessibility
-    const id = link.getAttribute('data-youtube');
-    const videoTitle = title || 'Video';
+  const replaceVideo = useCallback(
+    (e) => {
+      try {
+        const link = e.target.closest('[data-youtube]');
+        if (!link) return;
 
-    // Create the player with improved accessibility
-    const player = document.createElement('div');
-    player.innerHTML = `<iframe 
-      width="560" 
-      height="315" 
-      src="https://www.youtube-nocookie.com/embed/${id}" 
-      title="${videoTitle}" 
-      frameborder="0" 
-      allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
-      allowfullscreen
-      role="application"
-      aria-label="YouTube video player for ${videoTitle}">
-    </iframe>`;
+        // Prevent the URL from redirecting users
+        e.preventDefault();
 
-    // Inject the player into the UI
-    link.replaceWith(player);
+        // Get the video ID and title for better accessibility
+        const id = link.getAttribute('data-youtube');
+        const videoTitle = title || 'Video';
 
-    // Focus the iframe after loading for keyboard users
-    const iframe = player.querySelector('iframe');
-    if (iframe) {
-      iframe.focus();
-    }
-  }
+        // Validate video ID
+        if (!id || id.length !== 11) {
+          throw new Error('Invalid YouTube video ID');
+        }
 
-  function handleKeyPress(e) {
-    // Support Enter and Space key activation
-    if (e.key === 'Enter' || e.key === ' ') {
-      e.preventDefault();
-      replaceVideo(e);
-    }
-  }
+        // Create the player with improved accessibility
+        const player = document.createElement('div');
+        player.innerHTML = `<iframe 
+        width="560" 
+        height="315" 
+        src="https://www.youtube-nocookie.com/embed/${id}" 
+        title="${videoTitle}" 
+        frameborder="0" 
+        allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+        allowfullscreen
+        role="application"
+        aria-label="YouTube video player for ${videoTitle}">
+      </iframe>`;
+
+        // Inject the player into the UI
+        link.replaceWith(player);
+
+        // Focus the iframe after loading for keyboard users
+        const iframe = player.querySelector('iframe');
+        if (iframe) {
+          iframe.focus();
+        }
+      } catch (error) {
+        handleError(error, {
+          component: 'VideoFeature',
+          action: 'replaceVideo',
+          title,
+        });
+        // Fallback: open video in new tab
+        if (url) {
+          window.open(`https://www.youtube.com/watch?v=${url}`, '_blank');
+        }
+      }
+    },
+    [title, url, handleError]
+  );
+
+  const handleKeyPress = useCallback(
+    (e) => {
+      try {
+        // Support Enter and Space key activation
+        if (e.key === 'Enter' || e.key === ' ') {
+          e.preventDefault();
+          replaceVideo(e);
+        }
+      } catch (error) {
+        handleError(error, {
+          component: 'VideoFeature',
+          action: 'handleKeyPress',
+          title,
+        });
+      }
+    },
+    [replaceVideo, handleError, title]
+  );
+
+  const videoId = `video-${title.replace(/\s+/g, '-').toLowerCase()}`;
 
   return (
-    <article className={clsx('col col--4')}>
+    <article
+      className={clsx('col col--4')}
+      role="region"
+      aria-labelledby={videoId}
+    >
       <div className={styles.vidcard}>
         <img
           src="img/logo.png"
           className={styles.vidIcon}
           alt="daily.dev logo"
-        ></img>
-        <h2>{title}</h2>
+          loading="lazy"
+          width="48"
+          height="48"
+        />
+        <h2 id={videoId}>{title}</h2>
         <div className={styles.iframecontainer}>
           <div
             className={styles.youTubeOverlay}
@@ -171,12 +221,19 @@ function Feature({ title, url, type, duration }) {
   );
 }
 
-export default function HomepageFeatures() {
+export default function VideoFeatures() {
+  const { trackRender } = usePerformanceTracking('VideoFeatures');
+
+  useEffect(() => {
+    const tracker = trackRender();
+    return () => tracker.end();
+  }, [trackRender]);
+
   return (
-    <section className={styles.features}>
-      <ul className={styles.grid3col}>
+    <section className={styles.features} aria-label="Daily.dev video tutorials">
+      <ul className={styles.grid3col} role="list">
         {FeatureList.map((props, idx) => (
-          <Feature key={idx} {...props} />
+          <Feature key={`video-${idx}`} {...props} />
         ))}
       </ul>
     </section>
