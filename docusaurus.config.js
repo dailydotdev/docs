@@ -235,10 +235,7 @@ const config = {
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
         },
-        gtag: {
-          trackingID: 'UA-109059578-7',
-          anonymizeIP: true,
-        },
+        // gtag disabled - using optimized custom loading in performancePlugin
         sitemap: {
           changefreq: 'weekly',
           priority: 0.5,
@@ -251,23 +248,45 @@ const config = {
   // Bundle analyzer for optimization monitoring
 
   plugins: [
-    // Custom webpack plugin for source maps and performance
+    // Enhanced webpack optimization plugin for better bundle splitting
     function webpackOptimizationPlugin() {
       return {
         name: 'webpack-optimization-plugin',
         configureWebpack(config, isServer) {
           if (!isServer) {
             return {
-              devtool: 'source-map',
+              devtool: process.env.NODE_ENV === 'production' ? false : 'source-map',
               optimization: {
                 splitChunks: {
                   chunks: 'all',
+                  maxInitialRequests: 5,
+                  maxAsyncRequests: 10,
                   cacheGroups: {
+                    // Separate heavy libraries
+                    algolia: {
+                      test: /[\\/]node_modules[\\/](@docsearch|algoliasearch)/,
+                      name: 'algolia',
+                      chunks: 'all',
+                      priority: 30,
+                    },
+                    prism: {
+                      test: /[\\/]node_modules[\\/]prismjs/,
+                      name: 'prism',
+                      chunks: 'async',
+                      priority: 25,
+                    },
+                    react: {
+                      test: /[\\/]node_modules[\\/](react|react-dom)/,
+                      name: 'react',
+                      chunks: 'all',
+                      priority: 20,
+                    },
                     vendor: {
                       test: /[\\/]node_modules[\\/]/,
                       name: 'vendors',
                       chunks: 'all',
                       priority: 10,
+                      maxSize: 200000, // Split large vendor chunks
                     },
                     common: {
                       name: 'common',
@@ -275,39 +294,173 @@ const config = {
                       chunks: 'all',
                       priority: 5,
                       reuseExistingChunk: true,
+                      maxSize: 100000,
                     },
                   },
                 },
+                usedExports: true,
+                sideEffects: false,
               },
             };
           }
         },
       };
     },
-    // Performance optimization plugin
+    // Enhanced performance optimization plugin
     function performancePlugin() {
       return {
         name: 'performance-plugin',
         injectHtmlTags() {
           return {
             headTags: [
+              // Critical CSS inlining hint
+              {
+                tagName: 'script',
+                innerHTML: `
+                  // Optimize font loading
+                  if ('fonts' in document) {
+                    document.fonts.ready.then(() => {
+                      document.documentElement.classList.add('fonts-loaded');
+                    });
+                  }
+                `,
+              },
+              // Optimized analytics loading
               {
                 tagName: 'script',
                 innerHTML: `
                   (function() {
-                    var script = document.createElement('script');
-                    script.async = true;
-                    script.src = 'https://www.googletagmanager.com/gtag/js?id=UA-109059578-7';
-                    script.onload = function() {
-                      window.dataLayer = window.dataLayer || [];
-                      function gtag(){dataLayer.push(arguments);}
-                      gtag('js', new Date());
-                      gtag('config', 'UA-109059578-7', {anonymize_ip: true});
-                    };
-                    setTimeout(function() {
+                    // Only load analytics after user interaction or page idle
+                    var loaded = false;
+                    function loadGA() {
+                      if (loaded) return;
+                      loaded = true;
+                      
+                      var script = document.createElement('script');
+                      script.async = true;
+                      script.src = 'https://www.googletagmanager.com/gtag/js?id=UA-109059578-7';
+                      script.onload = function() {
+                        window.dataLayer = window.dataLayer || [];
+                        function gtag(){dataLayer.push(arguments);}
+                        gtag('js', new Date());
+                        gtag('config', 'UA-109059578-7', {
+                          anonymize_ip: true,
+                          send_page_view: false // Prevent duplicate page views
+                        });
+                        // Send initial page view
+                        gtag('event', 'page_view', {
+                          page_title: document.title,
+                          page_location: window.location.href
+                        });
+                      };
                       document.head.appendChild(script);
-                    }, 3000);
+                    }
+                    
+                    // Load on user interaction
+                    ['mousedown', 'mousemove', 'keypress', 'scroll', 'touchstart', 'click'].forEach(function(event) {
+                      window.addEventListener(event, loadGA, {once: true, passive: true});
+                    });
+                    
+                    // Fallback: load after 5 seconds
+                    setTimeout(loadGA, 5000);
                   })();
+                `,
+              },
+            ],
+          };
+        },
+      };
+    },
+    // Critical CSS optimization plugin
+    function criticalCSSPlugin() {
+      return {
+        name: 'critical-css-plugin',
+        injectHtmlTags() {
+          return {
+            headTags: [
+              // Critical CSS inlining
+              {
+                tagName: 'style',
+                innerHTML: `
+                  /* Critical above-the-fold styles */
+                  :root {
+                    --ifm-color-primary: #25c2a0;
+                    --ifm-color-primary-dark: #21af90;
+                    --ifm-color-primary-darker: #1fa588;
+                    --ifm-color-primary-darkest: #1a8870;
+                    --ifm-color-primary-light: #29d5b0;
+                    --ifm-color-primary-lighter: #32d8b4;
+                    --ifm-color-primary-lightest: #4fddbf;
+                    --ifm-code-font-size: 95%;
+                  }
+                  
+                  /* Critical layout styles */
+                  html { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', sans-serif; }
+                  body { margin: 0; background: #fff; color: #1c1e21; }
+                  .navbar { background: #fff; box-shadow: 0 1px 2px 0 rgba(0,0,0,0.1); }
+                  .main-wrapper { display: flex; flex: 1 0 auto; }
+                  
+                  /* Loading state optimization */
+                  .theme-doc-sidebar-container { will-change: transform; }
+                  .pagination-nav { will-change: transform; }
+                  
+                  /* Font display optimization */
+                  @font-face {
+                    font-family: system-ui;
+                    font-display: swap;
+                  }
+                `,
+              },
+              // Preload critical fonts
+              {
+                tagName: 'link',
+                attributes: {
+                  rel: 'preload',
+                  href: 'data:font/woff2;charset=utf-8;base64,',
+                  as: 'font',
+                  type: 'font/woff2',
+                  crossorigin: 'anonymous',
+                },
+              },
+            ],
+            postBodyTags: [
+              // Defer non-critical CSS with dynamic hash detection
+              {
+                tagName: 'script',
+                innerHTML: `
+                  // Load non-critical CSS asynchronously
+                  (function() {
+                    // Find the actual CSS file name dynamically
+                    var cssFiles = document.querySelectorAll('link[rel="stylesheet"]');
+                    var mainCssFile = null;
+                    cssFiles.forEach(function(css) {
+                      if (css.href.includes('/assets/css/styles.') && css.href.includes('.css')) {
+                        mainCssFile = css.href;
+                        css.media = 'print'; // Initially load as print to avoid blocking
+                      }
+                    });
+                    
+                    if (mainCssFile) {
+                      // Load after critical content is painted
+                      setTimeout(function() {
+                        cssFiles.forEach(function(css) {
+                          if (css.href === mainCssFile) {
+                            css.media = 'all';
+                          }
+                        });
+                      }, 100);
+                    }
+                  })();
+                  
+                  // Load background image after everything else
+                  window.addEventListener('load', function() {
+                    setTimeout(function() {
+                      var mainWrapper = document.querySelector('.main-wrapper');
+                      if (mainWrapper) {
+                        mainWrapper.classList.add('bg-loaded');
+                      }
+                    }, 1000);
+                  });
                 `,
               },
             ],
