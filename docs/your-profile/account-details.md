@@ -3,66 +3,166 @@ sidebar_position: 7
 description: "Learn how to personalize your daily.dev profile, configure security settings, manage notifications, and invite friends. Set up your account for a tailored experience."
 ---
 
-# Account Settings
+# ⚙️ Account Settings
 
-## Profile Details
+Customize your daily.dev experience with comprehensive account settings that control your profile, security, notifications, and platform integrations.
 
-You have the option to personalize your daily.dev profile by editing your account information. To do this, follow these simple steps:
+## Key Features
 
-1. Log in to your daily.dev account.
-2. Click on your profile picture or avatar at the top right corner of the page to access the account dropdown menu.
-3. Select "Account details" from the dropdown menu to navigate to the profile tab.
+- **Profile customization** - Personalize your public developer profile
+- **Security management** - Control authentication and account access  
+- **Notification control** - Customize how and when you receive updates
+- **Platform integrations** - Connect with Slack and other tools
+- **Friend invitations** - Grow the daily.dev community
+- **Privacy settings** - Manage your data and visibility preferences
 
-On the account settings page, you can edit various personal information, including:
+## Profile Personalization
 
-* **Name**: Update your name to display on your daily.dev profile.
-* **Username**: Change your username, the unique identifier associated with your daily.dev account.
-* **Profile Picture**: Click on the profile picture to upload a new image from your device.
-* **Bio**: Add or edit a brief bio to be displayed on your profile.
-* **Company**: Edit the name of the company you work for.
-* **Job Title**: Add or edit your job title.
-* **Social Media Accounts**: Add links to your Twitter, GitHub profile, etc.
-* **Website**: Add or edit your personal website or other relevant URLs.
+### Accessing Profile Settings
+
+1. **Click your profile picture** in the top-right corner
+2. **Select "Account Details"** from the dropdown menu  
+3. **Navigate through tabs** to customize different aspects of your account
 
 ![Profile details menu screenshot](https://github.com/user-attachments/assets/53a4fe9e-a4c9-408d-9b75-9260a9153b11)
 
-## Security Settings
+### Profile Information
 
-At daily.dev, we prioritize the security of your account information. You have control over various security features that allow you to safeguard your profile. Here are some available security options:
+**Basic Details**
+- **Name** - Display name shown across the platform
+- **Username** - Unique identifier for your daily.dev profile
+- **Bio** - Brief description of your background and interests
+- **Profile Picture** - Upload a custom avatar from your device
 
-1. **Change Email Address**: Update the email associated with your account to receive important notifications and updates.
-2. **Connect Social Media Auth Providers**: Connect additional social media authentication providers for added security and easy login.
-3. **Remove Authorized Login Providers**: Disconnect any previously authorized login providers, giving you control over your authentication methods.
-4. **Set and Change Password**: Ensure your account is protected with a strong, unique password to prevent unauthorized access.
-5. **Delete Your Account**: If you wish to delete your account, this option permanently removes all associated data. [Learn more](/your-profile/deleting-your-profile.md).
+**Professional Information**  
+- **Company** - Current employer or organization
+- **Job Title** - Your professional role or position
+- **Website** - Personal website, portfolio, or relevant URLs
+
+**Social Connections**
+- **GitHub** - Connect your developer profile
+- **Twitter/X** - Link your social media presence  
+- **Other platforms** - Additional professional or social links
+
+:::tip
+A complete profile helps you connect with like-minded developers and build credibility in the community.
+:::
+
+## Security & Privacy
+
+Protect your account with robust security controls and privacy options designed for developer-focused users.
 
 ![Security settings menu screenshot](https://github.com/user-attachments/assets/a2541edd-c1be-4081-aa05-4fbf4d5b07b5)
 
-## Notification Settings
+### Account Security
 
-Customize notifications to stay informed about important updates:
+**Email Management**
+- **Update email address** to receive important notifications and updates
+- **Email verification** for secure account recovery options
+- **Notification routing** for platform communications
 
-1. **Push Notifications**: Toggle push notifications to receive alerts on your device for replies, mentions, updates, and more.
-2. **Email Notifications**: Manage email notifications sent to your registered email, providing updates and important information.
-3. **Configure Email Notification Settings**: Choose specific types of notifications you’d like to receive.
+**Authentication Control**
+- **Password management** - Set and update strong, unique passwords
+- **Social login providers** - Connect or remove GitHub, Google, and other auth methods
+- **Multi-provider security** - Use multiple authentication options for enhanced access control
+- **Session management** - Control active login sessions across devices
+
+**Account Protection**
+- **Security monitoring** for unusual account activity
+- **Two-factor authentication** options where supported by providers
+- **Account recovery** settings for secure password reset
+
+:::caution
+**Danger Zone**: Account deletion permanently removes all data and cannot be reversed. [Learn more about account deletion](/your-profile/deleting-your-profile.md).
+:::
+
+## Notification Management
+
+Stay connected with customized notification settings that respect your preferences and workflow.
 
 ![Notification settings menu screenshot](https://github.com/user-attachments/assets/47eb837f-19b2-4cc6-a768-2f3490b58027)
 
-## Integration
+### Notification Types
 
-Here you can integrate daily.dev with other platforms. For now, you can connect it with Slack.
+**Push Notifications**
+- **Real-time alerts** on your devices for immediate updates
+- **Reply notifications** when someone responds to your comments
+- **Mention alerts** when other users reference you
+- **Activity updates** for posts and community interactions
+
+**Email Communications**
+- **Weekly digest** of trending content and community highlights  
+- **Security alerts** for account changes and login activity
+- **Feature announcements** for new daily.dev capabilities
+- **Community updates** from Squads and followed topics
+
+### Customization Options
+
+- **Selective notifications** - Choose exactly which types to receive
+- **Frequency control** - Adjust timing and batching preferences  
+- **Channel preferences** - Separate settings for push vs email
+- **Do not disturb** periods for focused work time
+
+:::info
+**Smart defaults**: Notifications are pre-configured for optimal developer experience but can be fully customized to match your workflow.
+:::
+
+## Platform Integrations
+
+Connect daily.dev with your existing developer workflow through seamless platform integrations.
 
 ![daily.dev account integration settings showing Slack connection option with connect button](https://github.com/user-attachments/assets/455c59f4-5f0b-4fe7-a876-a31e61536c7f)
 
+### Available Integrations
 
-## Invite Friends
+**Slack Integration**
+- **Team notifications** for Squad activity and content updates
+- **Workspace sync** for seamless communication flow
+- **Channel routing** to specific Slack channels
+- **Real-time updates** when new posts are shared in your Squads
 
-Invite friends to daily.dev! Click the "Copy link" button and share it via email, messaging apps, or social media.
+:::tip
+More integrations are coming soon! We're actively working on connections with Discord, Microsoft Teams, and other developer tools.
+:::
+
+## Community Growth
+
+Help expand the daily.dev community by inviting fellow developers and colleagues.
 
 ![Invite friends option screenshot](https://github.com/user-attachments/assets/b0f28c99-8284-44bc-9e04-4767d2eed3d9)
 
+### Invitation Features
 
-daily.dev provides additional settings to manage your time zone and newsletter subscription.
+**Easy Sharing**
+- **One-click copy** of your personal invitation link
+- **Multiple channels** - email, messaging apps, social media
+- **Personalized links** that track successful invitations
+- **Community building** to grow your professional network
 
-1. **Time Zone**: Adjust your time zone to align weekly goal cycles and other time-based stats with your local time.
-2. **Newsletter Subscription**: Manage your subscription to the daily.dev newsletter, which offers curated content, updates, and news for the developer community.
+**Benefits of Inviting**
+- **Strengthen your network** by bringing colleagues to the platform
+- **Enhanced discussions** with people you know and trust
+- **Squad building** with team members and collaborators  
+- **Knowledge sharing** in your professional circles
+
+## Additional Settings
+
+### Personalization Options
+
+**Time Zone Configuration**
+- **Local time alignment** for streak tracking and goal cycles
+- **Notification timing** optimized for your schedule
+- **Content timing** that matches your reading habits
+- **Community activity** synchronized to your timezone
+
+**Newsletter Management**
+- **Curated content** delivered to your inbox
+- **Developer community updates** and platform news
+- **Feature announcements** for new capabilities
+- **Subscription control** with easy opt-out options
+
+:::info
+**Pro tip**: Setting your correct timezone ensures that Reading Streaks, notifications, and community activity align perfectly with your daily routine.
+:::
+
+Transform your daily.dev experience into a fully personalized developer hub that integrates seamlessly with your workflow, connects you with your professional network, and keeps you informed about the topics and technologies that matter most to your career growth.

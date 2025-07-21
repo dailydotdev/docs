@@ -5,25 +5,66 @@ description: "Access your daily.dev reading history to revisit posts, bookmark, 
 
 # Reading History
 
+Never lose track of valuable content with daily.dev's Reading History feature. Access every post you've read, even after it disappears from your feed.
+
 <img src="https://daily-now-res.cloudinary.com/image/upload/v1724396491/docs-v2/5b31c20a-903e-4e42-8e26-70b45993a31e.png" alt='Access and track your daily.dev reading history' width="900" height="900" />
 
-## How Does Reading History Work?
+## Key Features
 
-At daily.dev, we understand the challenge of keeping up with engaging content in a constantly changing feed. The **Reading History** feature lets you track every post you've read, so you never lose sight of valuable content. When you read a post, it may disappear from your feed after a few minutes due to the feed algorithm. With Reading History, you can easily revisit any post, even if it's no longer in your feed.
+- **Complete reading log** - Track every post you've read with timestamps
+- **Post management** - Bookmark, upvote, or share directly from history
+- **Easy access** - Multiple ways to reach your reading history
+- **Content recovery** - Find posts that have disappeared from your feed
+- **History cleanup** - Remove posts you no longer want to track
 
-Additional options available within reading history:
-- Save the post in your bookmarks.
-- Upvote or downvote the post.
-- Share the post.
-- Remove the post from your reading history.
+## How Reading History Works
 
-## How to Access Your Reading History
+Daily.dev's dynamic feed algorithm constantly updates to show you the most relevant content. When you read a post, it may disappear from your main feed within minutes. **Reading History** solves this problem by maintaining a permanent record of everything you've consumed.
 
-Accessing your reading history on daily.dev is straightforward. Here’s how:
+### What You Can Do
 
-1. **Direct URL Access**: Visit your reading history directly at [https://app.daily.dev/history](https://app.daily.dev/history). This page lists all the posts you’ve read, organized by date and time.
-2. **Sidebar Access**: Click the **"History"** button in the sidebar. This brings you instantly to your reading history page, where you can view all previously read posts.
+Once you've read a post, it automatically appears in your reading history where you can:
+
+- **Bookmark** the post for future reference
+- **Upvote or downvote** to influence the algorithm
+- **Share** with your network or on social media
+- **Remove** from your reading history if no longer relevant
+- **Revisit** the full content anytime
+
+:::tip
+Reading History helps you build a personal knowledge base by tracking your learning journey over time.
+:::
+
+## Accessing Your Reading History
+
+### Quick Access Methods
+
+**Sidebar Navigation**
+Click the **"History"** button in the left sidebar for instant access to all your previously read posts.
 
 <img src="https://daily-now-res.cloudinary.com/image/upload/v1724396047/docs-v2/56849ac9-ba34-4c92-9f67-5ac48635a040.png" alt='Access your reading history directly from the sidebar' width="900" height="900" />
 
-With Reading History, you can effortlessly revisit valuable content, track your learning journey, and stay organized on daily.dev. Say goodbye to losing track of posts you’ve read—access them anytime from your profile!
+**Direct URL**
+Navigate directly to [https://app.daily.dev/history](https://app.daily.dev/history) to view your complete reading history, organized chronologically.
+
+## Organizing Your History
+
+Your reading history automatically organizes posts by:
+
+- **Date and time** - See exactly when you read each post
+- **Chronological order** - Most recent reads appear first
+- **Complete metadata** - Source, author, and engagement stats
+- **Action buttons** - Quick access to bookmark, share, and vote
+
+:::info
+**Pro tip:** Use Reading History as a reference library for articles you might want to revisit during projects or when sharing knowledge with colleagues.
+:::
+
+## Privacy and Data
+
+- Your reading history is private and only visible to you
+- Posts are automatically added when you click "Read post"
+- You can remove individual posts from your history anytime
+- History data helps personalize your feed recommendations
+
+Transform your reading experience from fleeting consumption to organized knowledge building with Reading History—your personal archive of developer insights and learning resources.

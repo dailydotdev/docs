@@ -5,83 +5,154 @@ description: "Learn how to add a verified company badge on daily.dev to showcase
 
 # Verified Company Badge
 
+Showcase your professional affiliation with a verified company badge that displays your company's name and logo across daily.dev.
+
 ![Verified Company Badge cover image showing badge display on profile](https://daily-now-res.cloudinary.com/image/upload/v1724771209/docs/Change_log.png)
 
-Add a verified company badge to your daily.dev profile to showcase your professional affiliation. This badge includes your company's name and logo and is displayed on your public profile and next to your name whenever you post or comment on the platform.
-
-:::note
-We’re currently experiencing a high volume of requests for company verification. We appreciate your patience as we work to process your request as quickly as possible. Thank you for your understanding.
+:::info
+We're experiencing high volume for company verification requests. We appreciate your patience as we process requests as quickly as possible.
 :::
+
+## Key Features
+
+- **Professional credibility** - Verified badge confirms your employment status
+- **Company branding** - Display your company's name and logo
+- **Visible recognition** - Badge appears on profile and next to comments/posts  
+- **Trust building** - Establish legitimacy in community discussions
+- **Professional networking** - Connect with colleagues and industry peers
+
+## Benefits of Verification
+
+### Professional Recognition
+- **Enhanced credibility** in discussions and comments
+- **Company representation** with official logo and name display
+- **Industry networking** opportunities with verified professionals
+- **Trust signals** for community interactions
+
+### Visibility Features  
+- Badge appears on your **public profile**
+- Displays next to your name on **all posts and comments**
+- Shows **company logo and name** for instant recognition
+- **Persistent verification** across all platform interactions
 
 ## Prerequisites
 
-To get a verified company badge, you need access to your work email. Make sure you can receive emails at this address, as you’ll need to verify it during the process.
+To qualify for a verified company badge, you need:
+- **Valid work email** - Access to your official company email address
+- **Email verification** - Ability to receive and respond to verification codes
+- **Company eligibility** - Your employer must meet our verification criteria
 
-## Benefits of the Verified Company Badge
+## Eligibility Criteria
 
-- Showcase your professional affiliation directly on your profile.
-- Build credibility by displaying a verified badge that confirms your employment.
-- Stand out in discussions with a badge that appears next to your name whenever you post or comment.
+### ✅ Eligible Companies and Roles
 
-## Verified Company Badge Eligibility
+**Employee Types**
+- Full-time employees with company email addresses
+- Part-time employees with official company domains
+- Contractors using employer-provided email addresses
+- Employees of non-profits, charities, and government entities
 
-To ensure that only legitimate and relevant companies receive a verified company badge, we've outlined the eligibility criteria below.
+**Company Requirements**
+- Recognized company domains (not generic providers)
+- Legitimate business operations
+- Accessible, secure company websites (HTTPS)
+- Complete company information (About page, contact details, services)
 
-### Who is eligible for a Verified Company Badge?
+### ❌ Not Currently Eligible
 
-✅ Employees with a valid work email from a recognized company domain.
+**Organization Types**
+- Universities or academic institutions
+- Personal portfolio sites or individual domains
+- Companies with insecure websites (no HTTPS)
+- Organizations with incomplete web presence
 
-✅ Full-time and part-time employees working directly for a company.
+**Email Types**
+- Personal freelancer addresses
+- Temporary or disposable email services
+- Generic shared emails (info@, admin@, support@)
+- Unverifiable company domains
 
-✅ Contractors working through a company email provided by the employer.
+**Website Issues**
+- Broken or inaccessible company websites
+- "Under construction" or placeholder sites
+- 403 errors or access restrictions
+- Missing essential company information
 
-✅ Non-commercial organizations, such as non-profits, charities, or government entities.
+:::caution
+All company websites undergo verification to confirm legitimacy. Sites that cannot be properly verified will not qualify for badge approval.
+:::
 
-### Who is not eligible for a Verified Company Badge (for now)?
+## Verification Process
 
-❌ University or academic institution emails.
+### Step-by-Step Setup
 
-❌ Freelancers, even if using a unique domain, are not eligible.
+1. **Access Account Settings**  
+   Navigate to your profile and open [Account Details](https://app.daily.dev/account/profile#verified-company-badge)
 
-❌ Personal portfolio sites, regardless of the domain used.
+2. **Enter Work Email**  
+   Scroll to "Verified Company Badge" section and input your company email address
 
-❌ Companies with websites that are not secured (e.g., lacking HTTPS).
+3. **Request Verification Code**  
+   Click the arrow button to trigger a 6-digit verification code sent to your email
 
-❌ Companies with websites that fail to provide basic information like contact details, an “About Us” page, and details about their services or products.
+4. **Complete Verification**  
+   Enter the received code on daily.dev to complete the process
 
-❌ Temporary or disposable email addresses.
-
-❌ Shared domain emails (e.g., info@domain.com, admin@domain.com).
-
-❌ Companies with official websites that cannot be accessed for any reason, including broken links, 403 errors, non-secured domains, "under construction" pages, or any other issues that prevent verification of the company's existence.
-
-## How to Get Your Verified Company Badge
-
-1. Go to your profile and [navigate to Account Details](https://app.daily.dev/account/profile#verified-company-badge).
-2. Scroll down to "Verified Company Badge" and enter your work email.
-3. Click the arrow button and check your email for the 6-digit verification code.
-4. Enter the 6-digit code on daily.dev. If your company is in our database, your badge will be activated automatically. Otherwise, your request will be reviewed and manually approved by our team.
+5. **Badge Activation**  
+   - **Automatic**: If your company is in our database, the badge activates instantly
+   - **Manual Review**: New companies undergo team review and approval
 
 ![Screenshot from account settings showing where to enter the verification code](https://daily-now-res.cloudinary.com/image/upload/v1724771522/docs/SCR-20240827-pwqt.png)
 
+:::tip
+Check your spam/junk folder if you don't receive the verification code within a few minutes.
+:::
+
+## Managing Your Badge
+
+### Updating Information
+- **Change email** anytime in Account Details settings
+- **Re-verify** updated email addresses to maintain badge status
+- **Remove badge** if you no longer want company association displayed
+
+### Badge Display Locations
+- **Public profile** page with company logo and name
+- **Posts and comments** with badge indicator next to username
+- **Community interactions** showing verified professional status
+
 ## Troubleshooting
 
-If you encounter any issues while verifying your email or getting your badge, consider the following:
+### Common Issues and Solutions
 
-- Ensure your work email is correct and check your spam/junk folder if you didn’t receive the verification code.
-- Double-check the verification code for accuracy. If it’s incorrect, request a new code.
-- If your company isn’t recognized, your request will be reviewed by our team. This process may take several days.
-- You can update or remove your work email anytime from the "Verified Company Badge" section in your Account Details.
+**Verification Code Issues**
+- Check spam/junk folders for the verification email
+- Ensure email address is typed correctly
+- Request a new code if the current one expires or fails
+
+**Company Recognition**  
+- New companies require manual review (may take several days)
+- Ensure your company meets all eligibility criteria
+- Contact support if your legitimate company is incorrectly rejected
+
+**Badge Display Problems**
+- Refresh your profile page after successful verification
+- Clear browser cache if badge doesn't appear
+- Allow up to 24 hours for badge to appear across all platform areas
+
+:::info
+**Need Help?** Contact our support team at [support@daily.dev](mailto:support@daily.dev) for verification assistance or eligibility questions.
+:::
 
 ## Frequently Asked Questions
 
-**Where will my Verified Company Badge be displayed?**  
-Your badge will be visible on your public profile and next to your name wherever you post or comment on daily.dev.
+**Q: Where will my badge be displayed?**  
+A: Your verified badge appears on your public profile and next to your name on all posts and comments.
 
-**Can I change the email used for verification later?**  
-Yes, you can update your work email in the Account Details section and re-verify it to update your badge.
+**Q: Can I change my verification email later?**  
+A: Yes, update your work email in Account Details and complete re-verification to maintain your badge.
 
-**What happens if my company isn’t in the database?**  
-If your company isn’t recognized, your request will go through a brief review process.
+**Q: What happens if my company isn't in the database?**  
+A: New companies undergo manual review by our team. This process may take several days to complete.
 
-For further assistance, please contact our support team at [support@daily.dev](mailto:support@daily.dev).
+**Q: Is there a cost for company verification?**  
+A: No, company verification badges are free for eligible employees and organizations.

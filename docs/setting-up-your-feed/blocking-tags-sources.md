@@ -3,56 +3,54 @@ sidebar_position: 3
 description: "Learn how to block tags and sources on daily.dev for a more personalized feed experience."
 ---
 
-# Blocking and Report
+# Blocking Content & Reporting
 
-Customizing your daily.dev feed is simple. When there are specific tags or sources you don’t want to see, blocking them comes in handy.
+Customize your daily.dev experience by blocking unwanted tags and sources, or report content that violates community guidelines. Create a feed that matches your exact interests.
 
-Watch this quick overview video to see how to block sources and tags for a more tailored feed experience:
+:::tip
+Watch this overview video to see blocking in action:
+:::
 
 <iframe width="700" height="400" src="https://www.youtube.com/embed/10ECCjEdHK4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-## How Does Blocking Work?
+## How Blocking Works
 
-Blocking enables you to:
+✨ **Tag blocking** - Remove all posts containing specific technology tags or topics
 
-1. Remove all posts containing a [specific tag](#blocking-tags): Eliminate unwanted content by blocking tags that don’t match your interests.
-2. Remove all posts from a [specific source](#blocking-sources): Keep your feed free from sources you prefer not to follow.
+✨ **Source blocking** - Hide all content from specific websites, blogs, or publications
+
+✨ **My Feed only** - Blocking affects your personalized feed but not Popular, Most Upvoted, or Best Discussions
 
 :::info
-Blocking only applies to posts in your "My Feed." It does not affect content in the Popular, Most Upvoted, or Best Discussions feeds.
-
-Set up your personal feed for optimal use of the blocking feature. Customize your daily.dev experience to suit your preferences and enjoy a curated feed.
+Blocking works best with a configured [personal feed](setting-up-your-feed/filtering-content-feed.md) to ensure maximum customization control.
 :::
 
-## Blocking Tags and Sources from the Feed
+## Quick Blocking from Feed
 
-Blocking tags and sources can be done directly from the feed. Whenever you see a post with a tag or source you wish to block, click on the more options button (⋮) (1):
+Block content directly from any post using the more options menu (⋮):
 
 <img src="https://daily-now-res.cloudinary.com/image/upload/v1724395638/docs-v2/eac26cd5-d610-4e8f-82c9-bc38a594879b.png" alt='Options button located at the top right of a post card for blocking tags or sources' width="900" height="900" />
 
-- **To block a tag:** Choose “Not interested in (tag_name)” (2)
-- **To block a source:** Choose "Don't show posts from (source_name)" (3)
+**Block tag**: "Not interested in (tag_name)"  
+**Block source**: "Don't show posts from (source_name)"
 
-<img src="https://daily-now-res.cloudinary.com/image/upload/v1724395498/docs-v2/49192be8-73da-4f18-9c84-2609de45a7db.png" alt='Options menu showing options for blocking specific tags or sources' width="900" height="900" />
+<img src="https://daily-now-res.cloudinary.com/image/upload/v1724395498/docs-v2/49192be8-73da-4f18-9c84-2609de45a7db.png" alt='Blocking options in post menu' width="900" height="900" />
 
-Once selected, the blocked tags or sources will be removed from your feed. A toast notification will confirm your action, and you can click "Undo" in the toast to reverse it.
+Blocked content disappears immediately with a confirmation toast. Click **Undo** in the notification to reverse the action.
 
 :::tip
-Can’t find a post from a specific tag or source you wish to block? Use the [search feature](/docs/key-features/search).
+Need to block specific content not currently in your feed? Use [Search](key-features/search.md) to find and block it.
 :::
 
-## Unblocking Tags and Sources
+## Managing Blocked Items
 
-To unblock tags or sources, follow these steps:
+**Unblock content** through **Feed Settings > Blocked Items**:
 
-1. Click on the "Feed settings" button to open the feed options menu.
-2. Select "Blocked Items" in the options menu.
-3. You’ll see a list of all blocked tags and sources.
-4. Click on the "unblock" icon next to an item to unblock it.
+1. Access the blocked items list  
+2. Click the unblock icon next to any item  
+3. Content reappears in your feed instantly
 
-<img src="https://daily-now-res.cloudinary.com/image/upload/v1724395402/docs-v2/6834f2c7-0884-4ee0-8b07-2bea3fa8de99.png" alt='Blocked items list showing how to unblock specific tags or sources' width="900" height="900" />
-
-Unblocked items will reappear in your feed, letting you fully manage and customize your daily.dev experience.
+<img src="https://daily-now-res.cloudinary.com/image/upload/v1724395402/docs-v2/6834f2c7-0884-4ee0-8b07-2bea3fa8de99.png" alt='Blocked items management interface' width="900" height="900" />
 
 ## Advanced Information About How Blocking Works
 

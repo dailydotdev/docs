@@ -1,29 +1,41 @@
 ---
 sidebar_position: 100
+description: "Connect with the daily.dev developer community across social platforms, events, and feedback channels. Stay updated with the latest product news and join discussions."
 ---
+
 # Community
-Welcome to the daily.dev community! Join us on our various social media channels to stay updated with the latest news, events, educational content, giveaways, and more related to daily.dev.
 
-## Changelog
-Stay up-to-date with the latest changes and updates on daily.dev by checking out our [changelog](https://app.daily.dev/squads/daily_updates) .
+Connect with thousands of developers in the daily.dev community! Follow us across multiple channels for product updates, educational content, developer events, and engaging discussions.
 
-## Twitter
-Follow us on Twitter [@dailydotdev](https://twitter.com/dailydotdev) for the latest news, updates, educational content, giveaways, and engaging discussions related to daily.dev.
+:::tip
+The best way to engage with our community is through [Squads](squads/creating-your-squad.md) on daily.dev itself. Join existing developer communities or create your own around the topics you care about most.
+:::
 
-## YouTube
-Subscribe to our official [YouTube channel](https://www.youtube.com/c/dailydev) for a wealth of content, including Monthly Dev events with world-class talks, cool intro videos, tutorials, and more! Stay updated with new releases, educational content, giveaways, and behind-the-scenes glimpses.
+## Official Channels
 
-## LinkedIn
-Connect with us on LinkedIn at [daily.dev](https://www.linkedin.com/company/dailydotdev) to stay in the loop with our latest updates, announcements, and educational content, as well as engage with our community.
+### Product Updates
+Stay current with platform changes and new features:
+- **[Changelog](https://app.daily.dev/squads/daily_updates)** - Real-time product updates and feature releases
+- **[Feedback Portal](https://daily.dev/feedback)** - Submit feature requests, bug reports, and suggestions
 
-## TikTok
-Join us on TikTok [@daily.dev](https://www.tiktok.com/@dailydotdev) for fun and engaging content related to daily.dev, including coding tips, behind-the-scenes glimpses, updates, and giveaways.
+### Social Media
+Follow us for news, developer content, and community highlights:
 
-## Instagram
-In case you're into short-form videos make sure you don't miss our [Instagram profile](https://www.instagram.com/dailydotdev)! 
+- **[Twitter (@dailydotdev)](https://twitter.com/dailydotdev)** - Product announcements, developer tips, and community discussions
+- **[LinkedIn](https://www.linkedin.com/company/dailydotdev)** - Professional updates and company news
+- **[TikTok (@daily.dev)](https://www.tiktok.com/@dailydotdev)** - Quick coding tips and behind-the-scenes content
+- **[Instagram](https://www.instagram.com/dailydotdev)** - Visual content and platform highlights
 
-## Meetup
-Join our meetup group to stay informed about our monthly events featuring inspiring talks from expert developers, and updates on new releases, educational content, and giveaways. [Join here](https://www.meetup.com/the-monthly-dev-world-class-talks-by-expert-developers/)
+### Video Content
+Learn and grow with our educational content:
 
-## Feedback
-Have feedback, questions, or feature requests? [Submit it here](https://daily.dev/feedback) and let us know how we can improve your daily.dev experience!
+- **[YouTube Channel](https://www.youtube.com/c/dailydev)** - Monthly Dev events featuring world-class talks from expert developers, tutorials, and product demos
+
+### Events
+Join live developer events and networking opportunities:
+
+- **[Monthly Dev Meetup](https://www.meetup.com/the-monthly-dev-world-class-talks-by-expert-developers/)** - Regular meetups with inspiring talks from expert developers
+
+:::info
+Have questions or need support? Our community is here to help. Reach out through our [feedback portal](https://daily.dev/feedback) for direct assistance.
+:::

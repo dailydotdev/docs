@@ -9,7 +9,11 @@ description: "Advanced Custom Feeds on daily.dev give you complete control over 
 
 ## What Are Advanced Custom Feeds?  
 
-**Advanced Custom Feeds** allow you to personalize your daily.dev experience like never before. Create multiple custom feeds, apply advanced filters, and curate content based on your specific interests. Available exclusively for **Plus** subscribers, this feature helps you **filter noise, refine your reading experience, and surface the most relevant content with precision**.  
+Transform your content consumption with laser-focused feeds tailored to your exact interests. Advanced Custom Feeds give developers unprecedented control over their daily.dev experience through unlimited feed creation, intelligent filtering, and AI-powered content curation.
+
+:::tip Plus Exclusive Power
+Advanced Custom Feeds with unlimited creation and professional filtering are available exclusively to Plus subscribers.
+:::  
 
 ## Why Use Advanced Custom Feeds?  
 

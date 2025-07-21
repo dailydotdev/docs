@@ -3,7 +3,7 @@ sidebar_position: 1
 description: "Learn how reputation works on daily.dev, how to earn points, unlock privileges, and gain more exposure on the platform. Discover ways to grow your reputation and contribute meaningfully to the community."  
 ---
 
-# Reputation Explained  
+# Reputation System  
 
 ## What is Reputation?  
 

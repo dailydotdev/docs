@@ -3,7 +3,7 @@ sidebar_position: 0
 description: "Upgrade to daily.dev Plus for a distraction-free developer experience. Get AI-powered clean titles, custom feeds, bookmark folders, keyword filters, and an ad-free reading environment. Stay focused and streamline your learning."
 ---
 
-# Plus Overview
+# daily.dev Plus
 
 ![daily.dev Plus cover image](https://daily-now-res.cloudinary.com/image/upload/v1740314886/docs/daily.dev_Plus_-_Default.png)
 
