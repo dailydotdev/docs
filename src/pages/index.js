@@ -87,11 +87,15 @@ export default function Home() {
         <style>{`
           .heroBanner_KU2A{padding:2rem 0 0 0;text-align:center;position:relative;overflow:hidden}
           .hero__title{font-size:62px;font-weight:700;line-height:115%;margin-bottom:0;color:var(--ifm-font-color-base);font-family:'Montserrat',sans-serif;margin-top:2rem}
+          main section{min-height:2100px;padding:2rem 0}
           .theme-layout-footer{min-height:350px}
           .footer__links{min-height:200px}
           .footer__col{min-height:180px}
           .footer__bottom{min-height:50px}
+          @media screen and (max-width:1680px){main section{min-height:1900px}}
+          @media screen and (max-width:1180px){main section{min-height:3200px}}
           @media screen and (max-width:966px){.heroBanner_KU2A{padding:2rem}.hero__title{font-size:48px}.theme-layout-footer{min-height:600px}.footer__links{min-height:450px}.footer__col{min-height:100px}}
+          @media screen and (max-width:768px){main section{min-height:4800px}}
         `}</style>
 
         {/* Prefetch important pages */}
@@ -109,12 +113,13 @@ export default function Home() {
             fallback={
               <div
                 style={{
-                  minHeight: '200px',
+                  minHeight: '2100px',
                   display: 'flex',
                   alignItems: 'center',
                   justifyContent: 'center',
                   fontSize: '14px',
                   color: 'var(--ifm-color-emphasis-600)',
+                  padding: '2rem 0',
                 }}
               >
                 Loading navigation...
