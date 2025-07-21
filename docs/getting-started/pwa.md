@@ -3,33 +3,48 @@ sidebar_position: 1
 description: "Explore the daily.dev Progressive Web App (PWA) for a seamless, cross-platform developer news experience. Learn to add daily.dev to your home screen on iOS and Android."
 ---
 
-# Progressive Web App (PWA) for daily.dev
+# Progressive Web App (PWA)
 
-Experience daily.dev like never before with our fully responsive and user-friendly **progressive web app (PWA)**! Stay up-to-date with the latest developer news, tips, and insights on any device, anytime, anywhere. Read on to learn how you can add a shortcut to your home screen on iOS and Android for quick access to the daily.dev PWA!
+The daily.dev Progressive Web App delivers the full platform experience directly in your browser. Access all daily.dev features on any device without installing a native app.
 
-All you need to do is visit [this URL to access daily.dev on any device](https://app.daily.dev).
+**Access URL**: [app.daily.dev](https://app.daily.dev)
 
-## Key Advantages of Using the daily.dev PWA
+:::info
+The PWA is perfect for browsers that don't support our extension, including Safari, Firefox, Brave, Opera, and Vivaldi.
+:::
 
-- **Cross-Platform Compatibility**: Access daily.dev on any device with a web browser, including desktops, laptops, smartphones, and tablets.
-- **App-Like Experience**: Enjoy a responsive, app-like experience with smooth performance and easy navigation on the daily.dev PWA.
-- **Easy Installation**: Adding the daily.dev PWA to your home screen on iOS and Android is quick and simple, offering one-tap access to your developer news.
-- **Regular Updates**: The daily.dev PWA continuously receives updates with new features and improvements, ensuring a top-notch experience every time.
+## Key Features
 
-## Adding daily.dev to Your Home Screen on iPhone, iPad, and Mac
+**Cross-platform compatibility** - Works on desktops, laptops, smartphones, and tablets
 
-To add a shortcut to the daily.dev PWA on iOS, iPadOS, or macOS:
+**Native app experience** - Responsive design with smooth performance and intuitive navigation
 
-1. Open the daily.dev web app on the Safari browser.
-2. Tap the **Share** button, then select **Add to Home Screen**.
-3. Follow the prompts to add the shortcut to your device's home screen for quick access.
+**Offline support** - Continue reading saved content even without internet connection
 
-For more information, refer to the [official Apple guide on adding shortcuts to your home screen](https://support.apple.com/en-il/guide/iphone/iph42ab2f3a7/ios).
+**Automatic updates** - Always get the latest features and improvements without manual updates
 
-## Adding daily.dev to Your Home Screen on Android
+**Home screen installation** - Add to your device's home screen for quick access
 
-On Android, there are two options to add daily.dev to your mobile home screen:
+## Installation Guide
 
-1. **Install the daily.dev Android App**: Get it directly from [Google Play](https://play.google.com/store/apps/details?id=dev.daily).
-2. **Manually Add the PWA to Your Home Screen**: Follow the [Google guide for adding web apps to Android home screens](https://support.google.com/chrome/answer/9658361?hl=en&co=GENIE.Platform%3DAndroid).
+### iOS, iPadOS, and macOS (Safari)
+
+1. Navigate to [app.daily.dev](https://app.daily.dev) in Safari
+2. Tap the **Share** button
+3. Select **Add to Home Screen**
+4. Confirm to add the shortcut
+
+[View Apple's official guide →](https://support.apple.com/en-il/guide/iphone/iph42ab2f3a7/ios)
+
+### Android
+
+**Option 1: Native App (Recommended)**
+- Install the [daily.dev Android app](https://play.google.com/store/apps/details?id=dev.daily) from Google Play Store
+
+**Option 2: PWA Installation**
+- Follow [Google's guide for adding web apps to Android](https://support.google.com/chrome/answer/9658361?hl=en&co=GENIE.Platform%3DAndroid)
+
+:::tip
+The native Android app provides the best mobile experience with push notifications and deeper system integration.
+:::
 

@@ -5,58 +5,56 @@ description: "Discover how to submit Community Picks on daily.dev to share impac
 
 # Community Picks
 
-Community Picks are posts that are sourced by the community. 
+Community Picks allows developers to submit high-quality content from across the web to share with the daily.dev community. Help surface excellent posts that made a real impact on your tech journey.
 
-We want you to submit posts that made a real difference to your tech journey. Whether these are in-depth tutorials, interesting perspectives on tech problems, or well thought out and high-effort entertainment pieces aimed at developers. Above all, we want posts that you believe need more exposure, from creators you admire, that you think will benefit the daily.dev developer community. 
+:::tip
+Submit content that needs more exposure - in-depth tutorials, thoughtful technical perspectives, or well-crafted developer entertainment from creators you admire.
+::: 
 
-:::caution
-Before you embark on submitting your Community Picks, it's crucial to familiarize yourself with our [content guidelines](../for-content-creators/content-guidelines.md). These principles are the cornerstone of our content review process and they ensure that our platform maintains its standard of high-quality, relevant, and ethical content. So, take a moment to read through these guidelines thoroughly. Doing so will increase your understanding of what we look for and improve the likelihood of your content being accepted. Your informed contribution can help make our platform an even more enriching resource for our community.
-:::
+## Requirements
 
-## Quick Overview Video
+✨ **Scout privilege required** - Earn 250+ [reputation points](your-profile/reputation.md) to unlock submission access
+
+✨ **Daily limit** - Maximum 5 submissions per day
+
+✨ **Quality focus** - Review our [content guidelines](for-content-creators/content-guidelines.md) before submitting
 
 :::info
-To get access to this feature you first need to earn the Scout privilege (min. 250 reputation points). Only people with the Scout privilege can submit links and are limited to 5 submissions per day. Learn more about [how to gain reputation points](../your-profile/reputation.md)
+Watch the overview video below to understand how Community Picks works.
 :::
 
 <iframe width="700" height="400"  src="https://www.youtube-nocookie.com/embed/JlBlTIMfrGM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-## Community Picks in the daily.dev feed
+## Finding Community Picks
 
-Community Picks are posts that are added to the daily.dev feed by our community members. These posts can be from nearly any website / online publication, not just from our pre-qualified sources.
+Community Picks appear throughout daily.dev alongside content from our curated sources. They're sourced from any website or publication - not limited to our pre-qualified sources.
 
-### How can I spot a community pick?
-On a card in the feed there is always an icon showing the source in the top left.
+### Identification
+Look for the Community Picks icon in the top-left corner of post cards. Click this icon to access the dedicated Community Picks feed.
 
-![screenshot showing the community picks icon on the top left of a card](https://daily-now-res.cloudinary.com/image/upload/v1724397565/docs-v2/f531e2b3-a052-44d2-8bac-311df72e906d.png)
+![Community Picks icon example](https://daily-now-res.cloudinary.com/image/upload/v1724397565/docs-v2/f531e2b3-a052-44d2-8bac-311df72e906d.png)
 
-Clicking on this icon will take you to the community picks feed.
-
-### Community Picks feed
-All of the posts submitted by the community are available in the [Community Picks feed.](https://app.daily.dev/sources/community)
+### Dedicated Feed
+Browse all community-submitted content in the [Community Picks feed](https://app.daily.dev/sources/community).
 
 ![community picks page](https://daily-now-res.cloudinary.com/image/upload/v1724397631/docs-v2/03d6da9c-7a30-44aa-9d7d-96e345b5df36.png)
 
 
-## Submitting / Scouting a Community Pick
-We want you to submit posts that made a real difference to your tech journey. Whether they are in-depth tutorials, interesting perspectives on tech problems, or well thought out and high effort entertainment pieces aimed at developers.
+## How to Submit
 
-Above all, we want posts that you believe need more exposure, from authors you admire, that you believe will benefit the daily.dev developer community.
+Access Community Picks submission through the **Submit Link** button in the Contribute section of the left sidebar.
 
-Low effort, poor quality and (self) promotional content will be removed to ensure a high standard on the platform.
+### Submission Process
 
-:::info
-Before submitting a Community Pick, you should read the [**content guidelines**](../for-content-creators/content-guidelines.md) to ensure your post is suitable for the feed.
+1. **Find the Submit Link button** in the left sidebar under "Contribute"
+2. **Paste the post URL** in the submission modal
+3. **Click Submit** to queue for review
+
+![Submit link modal interface](https://daily-now-res.cloudinary.com/image/upload/v1724397819/docs-v2/e8d2da79-6da6-47b8-9b1a-d974f512df6b.png)
+
+:::caution
+**Self-promotion is not allowed.** Submit excellent content from other authors you've enjoyed. For your own content, see our [How to get featured guide](for-content-creators/how-to-get-featured.md).
 :::
-
-### Reputation Requirements
-To be able to submit a Community Pick you need to have at least 250 reputation on daily.dev. Once you reach this threshold you will earn the Scout privilege.
-
-:::tip
-[Learn how to gain reputation](../your-profile/reputation.md) and how reputation works.
-:::
-
-If you do not have enough reputation to submit a link you will see a message telling you that you do not have enough reputation and the submit button will be disabled.
 
 ![not enough reputation for community links notification](https://github.com/user-attachments/assets/8a132a66-b4f5-4def-b314-a3f6dd999819)
 

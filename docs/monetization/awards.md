@@ -5,84 +5,194 @@ description: "Discover how Awards on daily.dev let you recognize and support val
 
 # Awards
 
-## What are Awards  
+Recognize exceptional contributions and support valuable creators through daily.dev's Awards system that celebrates quality content and meaningful community engagement.
 
-Awards let you recognize top-tier contributions on daily.dev. They’re powered by our in-app currency called [Cores](monetization/cores.md) and help spotlight content that’s helpful, insightful, or just straight-up great. Whether it's a killer post, a sharp comment, or someone consistently showing up—you can now say “this is worth it” in a meaningful way.
+## Key Features
 
-## Why Awards matter  
+- **Recognition system** - Highlight exceptional posts, comments, and creators
+- **Dual award types** - Free stickers and premium Core-powered awards
+- **Creator support** - Direct financial appreciation for valuable content
+- **Community building** - Foster culture of appreciation and quality
+- **Visibility boost** - Increase reach for outstanding contributors
+- **Personal messaging** - Add meaningful context to your recognition
 
-Giving an Award sends a stronger signal that someone’s effort mattered. Awards help elevate the best content, encourage thoughtful participation, and build a culture where effort gets recognized and rewarded. They also unlock visibility for creators—great for reputation, motivation, and discovery.
+## What Are Awards?
 
-## Why give Awards?  
+Awards represent a powerful recognition system that goes beyond simple upvotes to provide meaningful appreciation for top-tier contributions across daily.dev. Powered by [Cores](monetization/cores.md), our in-app currency, Awards create a direct connection between content value and creator recognition.
 
-- **Support what matters** – Show appreciation for content that taught you something, saved you time, or sparked new ideas.  
-- **Encourage great contributions** – Awards make creators feel seen and valued. That recognition leads to more thoughtful posts and comments.  
-- **Shape the ecosystem** – The more great content gets awarded, the better daily.dev becomes for everyone.
+### The Power of Recognition
+
+**Stronger Signals Than Upvotes**
+Awards communicate that content genuinely impacted you—whether it taught something new, saved time, or sparked innovative thinking. This deeper level of appreciation motivates creators to maintain high standards and continue valuable contributions.
+
+**Community Culture Building**
+- **Elevate exceptional content** above the noise of standard engagement
+- **Encourage thoughtful participation** through meaningful recognition
+- **Reward consistent quality** from dedicated community contributors
+- **Build appreciation culture** where effort receives appropriate acknowledgment
 
 ![daily.dev awards interface showing different award options including heart, trophy, and gem icons with pricing and descriptions](https://daily-now-res.cloudinary.com/image/upload/v1745238986/docs/Screenshot_2025-04-21_at_15.29.56.png)
 
-## How Awards work
+## Why Give Awards?
 
+Transform passive content consumption into active community participation through strategic recognition that benefits creators, recipients, and the broader daily.dev ecosystem.
 
-You can give Awards in a few simple steps:  
-1. Click the award icon on a post, comment, or profile.  
-2. Choose a sticker. Some are **free** and usable right away. Others are **premium** and require [Cores](monetization/cores.md).  
-3. Add an optional note (recommended!).  
-4. Confirm the Award. If it's a premium one, your Cores will be deducted.  
-5. The recipient is notified, and your name appears as the supporter.
+### Support Exceptional Value
+
+**Content That Deserves Recognition**
+- **Educational content** that teaches new concepts or clarifies complex topics
+- **Time-saving solutions** that solve common development problems efficiently
+- **Innovative insights** that introduce fresh perspectives or approaches
+- **Community contributions** that help other developers grow and succeed
+
+### Motivate Quality Contributions
+
+**Creator Motivation System**
+- **Visible appreciation** makes creators feel valued for their expertise and effort
+- **Quality incentives** encourage more thoughtful, well-researched content
+- **Recognition feedback loop** drives continuous improvement in content quality
+- **Community engagement** fosters deeper connections between creators and readers
+
+### Ecosystem Enhancement
+
+**Platform-Wide Benefits**
+- **Quality elevation** - More awards on great content improves overall platform quality
+- **Discovery mechanism** - Awards help surface exceptional content for other users
+- **Creator retention** - Recognition keeps valuable contributors active and engaged
+- **Community standards** - Awards establish and reinforce quality expectations
+
+## How the Awards System Works
+
+Experience seamless recognition through our intuitive Awards process designed for meaningful creator support and community engagement.
+
+### Simple Award Process
+
+**Step-by-Step Recognition**
+
+1. **Locate award icon** - Find the award button on posts, comments, or creator profiles
+2. **Select award type** - Choose from free stickers or premium Core-powered awards
+3. **Personalize your message** - Add meaningful context explaining your appreciation (highly recommended)
+4. **Confirm and send** - Complete the award process with automatic Core deduction for premium awards
+5. **Recipient notification** - Creator receives notification with your recognition and message
 
 ![screenshot of how the award button looks like](https://daily-now-res.cloudinary.com/image/upload/v1745239254/docs/Screenshot_2025-04-21_at_15.39.59.png)
 
+### Award Accessibility
+
+**Regional and User Availability**
+Awards are expanding globally with current availability determined by:
+
+**Creator Eligibility**
+- **Program participation** - Not all creators are enrolled in the Awards program yet
+- **Geographic location** - Awards must be supported in both giver and recipient regions  
+- **Account standing** - Active, compliant community members in good standing
+- **Platform integration** - Technical requirements for secure monetary transactions
+
+**Expansion Progress**
+We're actively rolling out Awards access to more regions and users. If Awards aren't currently available for your account or target creators, additional access will be granted as the program expands.
+
 :::info
-Awards are currently available in select regions and for eligible users only. You might not see the option to give Awards if:  
-- The creator isn’t part of the program yet  
-- Awards aren’t supported in your country or theirs  
-We're actively expanding access—so if it’s not live for you yet, stay tuned.
+**Program expansion**: Awards availability depends on creator enrollment, geographic support, and technical integration. We're continuously expanding access to more users and regions.
 :::
 
-## What you can do with Awards  
+## Comprehensive Award Applications
 
-- **Appreciate helpful content** – Drop a sticker on anything valuable: posts, comments, discussions.  
-- **Add a personal message** – Say why it stood out. Optional, but adds meaning.  
-- **Reward from profiles** – Support a creator directly from their profile, even if you’re not on a specific post.  
-- **Build credibility** – Awards are public and show up across the platform—on content, profiles, and wallets.
+Maximize the impact of Awards through strategic recognition across multiple platform touchpoints and community interaction scenarios.
 
-## Free vs. paid Awards  
+### Content Recognition
 
-- **Free stickers** – Available to everyone. Use them anytime to show support.  
-- **Paid stickers** – Premium designs that require Cores to send. Prices vary per sticker.  
+**Multi-Context Awards**
+- **Post appreciation** - Recognize valuable articles, tutorials, and educational content
+- **Comment rewards** - Highlight insightful discussions and helpful responses
+- **Profile support** - Direct creator appreciation regardless of specific content
+- **Discussion enhancement** - Encourage quality participation in community conversations
+
+**Personal Message Integration**
+Adding context to Awards transforms simple recognition into meaningful feedback:
+- **Explain impact** - Share how the content helped or inspired you
+- **Specific value** - Highlight particular insights or solutions that stood out
+- **Encouragement** - Motivate creators to continue producing quality content
+- **Community building** - Foster deeper connections through personal appreciation
+
+### Award Types and Economics
+
+**Free Recognition Options**
+- **Universal access** - Available to all community members without cost
+- **Immediate gratitude** - Express appreciation instantly without monetary commitment
+- **Community engagement** - Encourage participation through accessible recognition
+- **Foundation building** - Start with free awards before investing in premium options
+
+**Premium Core-Powered Awards**
+- **Enhanced appreciation** - Premium designs that signal stronger recognition
+- **Creator support** - Direct financial appreciation for valuable contributions
+- **Variable pricing** - Different sticker values allow appropriate recognition levels
+- **Quality signaling** - Premium awards indicate exceptional content value
 
 :::tip
-You can [buy Cores](https://app.daily.dev/cores) instantly using a credit card, PayPal, or local payment options.
+**Flexible payment options**: Purchase Cores instantly through [multiple payment methods](https://app.daily.dev/cores) including credit cards, PayPal, and local payment systems.
 :::
 
-## Where Awards show up  
+## Award Visibility and Impact
 
-- **On posts** – Next to likes and other actions.  
-- **In comments** – Alongside replies and reactions.  
-- **On profiles** – A dedicated section that shows all Awards given and received.  
-- **In your Wallet** – Track all transactions via your [Wallet](https://app.daily.dev/wallet), including Awards you’ve sent or received.
+### Platform Integration
+
+**Comprehensive Display System**
+Awards appear across multiple platform areas to maximize visibility and impact:
+
+**Content Integration**
+- **Post visibility** - Awards display prominently alongside likes and engagement metrics
+- **Comment recognition** - Awards highlight valuable discussion contributions
+- **Feed prominence** - Awarded content gains enhanced visibility in user feeds
+- **Search enhancement** - Awards contribute to content quality signals for discovery
+
+**Profile and Wallet Integration**
+- **Profile showcase** - Dedicated Awards section highlighting recognition given and received
+- **Transaction tracking** - Complete award history via [Wallet dashboard](https://app.daily.dev/wallet)
+- **Community reputation** - Award patterns contribute to overall profile credibility
+- **Creator analytics** - Recipients can track award patterns and community appreciation
 
 ![screenshot of the transaction history](https://daily-now-res.cloudinary.com/image/upload/v1745238986/docs/Screenshot_2025-04-21_at_15.31.13.png)
 
-## Who can see Awards  
+### Transparency and Community Trust
 
-Awards are public. Everyone can see:  
-- Who gave the Award  
-- Which sticker was used  
-- Any attached message  
-- Where it was given  
+**Public Recognition System**
+Awards operate with full transparency to build trust and accountability:
 
-This transparency helps build trust and reputation across the community.
+**Visible Information**
+- **Giver identity** - Your profile is associated with awards you give
+- **Award details** - Sticker type and value are publicly displayed
+- **Personal messages** - Optional context messages are visible to recipients and community
+- **Attribution tracking** - Clear connection between awards and their sources
 
-## Can I give anonymously? 
+**Community Benefits**
+- **Trust building** - Transparency prevents manipulation and builds confidence
+- **Reputation signals** - Award patterns help identify valuable community contributors
+- **Quality standards** - Public awards establish community expectations for content quality
+- **Network effects** - Visible appreciation encourages more recognition across the platform
 
-Not at the moment. When you give an Award, your profile will be shown as the supporter. We believe recognition is stronger when it’s personal—but we’re open to anonymous options in the future based on feedback.
+:::info
+**Anonymous awards**: Currently, all awards display giver identity to ensure transparency and prevent abuse. Anonymous options may be considered based on community feedback and platform evolution.
+:::
 
-## Report misuse  
+## Community Standards and Support
 
-If you notice someone abusing the Awards system, [report it here](https://daily.dev/feedback). Our team reviews reports to keep the platform fair and constructive.
+### Award System Integrity
 
-## Try it now 
+**Preventing Misuse**
+- **Community reporting** - Report inappropriate award usage through [feedback system](https://daily.dev/feedback)
+- **Moderation review** - Our team investigates reports to maintain system integrity
+- **Fair usage policies** - Clear guidelines ensure awards serve their intended recognition purpose
+- **Account protection** - Systems prevent manipulation while supporting genuine appreciation
 
-Found a post that helped you out? A comment that nailed it? Head to your [feed](https:/app.daily.dev) and give your first Award. Start with a free sticker—you might make someone’s day.
+### Getting Started with Awards
+
+**Begin Your Recognition Journey**
+Ready to start recognizing exceptional contributions? Here's how to begin:
+
+1. **Browse your [daily.dev feed](https://app.daily.dev)** for content that genuinely helped or inspired you
+2. **Start with free stickers** to experience the award system without cost
+3. **Add meaningful messages** to transform simple recognition into valuable feedback
+4. **Consider premium awards** for content that provided exceptional value
+5. **Track your impact** through wallet history and creator responses
+
+Transform your passive content consumption into active community participation through Awards—because exceptional contributions deserve exceptional recognition.

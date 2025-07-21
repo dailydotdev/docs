@@ -5,28 +5,67 @@ description: "Learn how to permanently delete your daily.dev profile, including 
 
 # Deleting Your Profile
 
+Permanently delete your daily.dev account when you no longer wish to use the platform. This action removes all your data and cannot be reversed.
+
+:::danger
+**Important:** Account deletion is **permanent and irreversible**. Once deleted, your profile and all associated data cannot be recovered.
+:::
+
+## Key Features
+
+- ✨ **Complete data removal** - All profile data, content, and associations are permanently deleted
+- ✨ **Username availability** - Your username becomes available for other users
+- ✨ **Authentication cleanup** - All connected social accounts are disconnected
+- ✨ **Content removal** - Posts, comments, bookmarks, and votes are permanently deleted
+
 ## How to Delete Your Profile
 
-If you wish to delete your account on daily.dev, please follow these steps:
+Follow these steps to permanently delete your daily.dev account:
 
-1. Go to your profile by clicking on your profile icon.
-2. Click on "Account Details" in the profile menu.
-3. Click on the "Security" section.
-4. Scroll down until you reach the "Danger zone" section.
-5. Click on the "Delete account" button.
+1. **Navigate to your profile** by clicking your profile icon in the top navigation
+2. **Open Account Details** from the profile dropdown menu
+3. **Go to Security section** in the account settings
+4. **Find the "Danger Zone"** at the bottom of the security settings
+5. **Click "Delete account"** and confirm the action in the dialog
 
 ![Profile deletion button in danger zone](https://github.com/user-attachments/assets/9c569cf9-ddfb-4932-a73e-5ba6b11fe27c)
 
-:::danger
-**Important:** Deleting your account is **unrecoverable and cannot be undone**.
+## What Gets Deleted
+
+When you delete your account, all of the following data is permanently removed:
+
+### Profile Data
+- Your profile information and bio
+- Profile picture and customizations
+- All authentication associations (Google, GitHub, etc.)
+- Account preferences and settings
+
+### Content and Activity
+- All posts you've created or shared
+- Comments and replies
+- Bookmarks and saved content
+- Upvotes and downvotes
+- Reading history and streaks
+- Squad memberships and created Squads
+
+### Account Access
+- Your username becomes available to other users
+- All active sessions are terminated
+- API keys and integrations are revoked
+
+:::info
+**Need help?** If you have questions about account deletion or need assistance with your account, contact our support team at [support@daily.dev](mailto:support@daily.dev) before proceeding.
 :::
 
-## What Will Be Deleted?
+## Before You Delete
 
-When you delete your account, the following actions will occur:
+Consider these alternatives before permanently deleting your account:
 
-1. Your profile, along with your authentication associations, will be permanently deleted.
-2. All your content, including posts, bookmarks, comments, upvotes, etc., will be permanently removed.
-3. Your username will become available to other users.
+- **Take a break** - Simply stop using the platform without deleting
+- **Update privacy settings** - Adjust what information is visible to others  
+- **Export your data** - Save bookmarks or content you want to keep
+- **Contact support** - Resolve any issues that might be driving your decision
 
-For any questions or assistance, feel free to contact [support@daily.dev](mailto:support@daily.dev), and our team members will be glad to help. Please remember, deleting your account is a permanent action, so proceed with caution.
+:::tip
+Remember that deleting your account is a permanent action. Make sure you've considered all alternatives and backed up any data you want to preserve.
+:::

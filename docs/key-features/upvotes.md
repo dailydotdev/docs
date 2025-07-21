@@ -5,38 +5,36 @@ description: "Learn about the Upvote and Downvote system on daily.dev, designed 
 
 # Upvotes & Downvotes
 
-Upvotes and downvotes are essential tools in community-driven products, allowing users to express approval or disapproval for a post. This voting system promotes quality content, pushing the best to the forefront, while helping daily.dev refine its recommendation engine to serve users better.
+The voting system on daily.dev empowers the community to surface quality content while providing feedback to improve the platform's recommendation engine. Vote to help other developers discover valuable content.
 
 :::info
-Keep in mind that you can only select either upvote or downvote for a post—not both. This ensures the integrity and accuracy of our voting system.
+You can vote either up or down on each post, but not both. This ensures voting integrity and accurate community signals.
 :::
 
-## Upvoting in daily.dev 👍
+## Why Voting Matters
 
-On daily.dev, upvotes are a fantastic way to acknowledge the quality of posts, show support, and express appreciation for the work of others. Here’s why upvoting is highly encouraged:
+**Algorithm feedback** - Help the recommendation engine surface the most valuable content for the community
 
-1. It helps the feed algorithm understand community-approved content, enabling us to show the most interesting posts to our community.
-2. It gives recognition to content creators for their hard work.
-3. It signals to other community members that a post is engaging, saving them time in finding valuable content.
+**Creator recognition** - Acknowledge authors and content creators for their excellent work
 
-## Downvoting in daily.dev 👎
+**Community curation** - Signal to other developers which content is worth their time
 
-Downvotes indicate that you didn’t find a post helpful or interesting. Here’s why downvoting is important:
+**Personalized experience** - Downvotes privately improve your feed while upvotes boost content visibility
 
-1. It provides feedback that enhances our recommendation engine, improving your experience on daily.dev.
-2. Although downvote counts are private and not visible to others, each downvote impacts the post’s ranking in the feed.
-3. After downvoting, you can take follow-up actions, such as [blocking the source or tags](../setting-up-your-feed/blocking-tags-sources.md) associated with the post or reporting it if you find it inappropriate or irrelevant.
+## How to Vote
 
-## How to Upvote
+### Upvoting
+Click the **upvote button** (bottom-left of post cards) to show appreciation for quality content. Your vote helps surface valuable posts to the community.
 
-To upvote a post in daily.dev, click the bottom-left button (1) on the post card. Your upvote will contribute to the community’s feedback, showing appreciation for quality content.
+### Downvoting  
+Access downvote through the **more options menu** on any post card. Select "downvote" to privately signal content that didn't add value to your experience.
 
-## How to Downvote
+<img src="https://daily-now-res.cloudinary.com/image/upload/v1720176805/docs-v2/1b69468c-7118-437b-853d-a659d7935908.png" alt='Upvote and downvote options on post card' width="900" height="100%" />
 
-To downvote a post, you can do so either on the post page itself or in the feed. Click on the more options menu for each card, then select "downvote." Note that once you downvote a post, you won’t be able to upvote it.
+:::tip
+After downvoting, consider [blocking the source or tags](setting-up-your-feed/blocking-tags-sources.md) if the content consistently doesn't match your interests.
+:::
 
-<img src="https://daily-now-res.cloudinary.com/image/upload/v1720176805/docs-v2/1b69468c-7118-437b-853d-a659d7935908.png" alt='Example of upvote and downvote options on a post card in daily.dev' width="900" height="100%" />
+## Additional Actions
 
-## How to share a link
-
-Just click on the bottom on the left, with the 🔗 icon, and you will have the link in your clipboard!
+**Share Posts** - Click the 🔗 link icon to copy the post URL to your clipboard for easy sharing.

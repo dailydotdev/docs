@@ -7,9 +7,11 @@ description: "Keyword Filters on daily.dev let you block posts containing specif
 
 ## What Are Keyword Filters?  
 
-**Keyword Filters** allow you to block posts containing specific words or phrases, giving you complete control over the content in your daily.dev feed. This feature helps you eliminate irrelevant, repetitive, or distracting topics, making your feed more focused and personalized.  
+Eliminate content noise with surgical precision. Keyword Filters automatically hide articles containing specific terms, buzzwords, or topics you want to avoid, creating a cleaner and more focused developer feed.
 
-Available exclusively for **Plus** subscribers, Keyword Filters let you customize your reading experience and remove unnecessary noise—so you can concentrate on content that truly matters.  
+:::tip Plus Power Feature
+Keyword Filters with unlimited blocking capabilities are exclusive to daily.dev Plus subscribers.
+:::  
 
 ## Why Use Keyword Filters?  
 

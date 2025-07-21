@@ -5,80 +5,69 @@ description: "Learn about the different feeds on daily.dev, including My Feed, P
 
 # Feeds
 
-There are four feeds on daily.dev, each with its own ranking logic:
+daily.dev offers four distinct feeds, each tailored to different content discovery preferences:
 
-1. My feed
-2. Popular feed 
-3. Most upvoted feed
-4. Best discussions feed
+✨ **My Feed** - Personalized content based on your interests and preferences  
+✨ **Popular Feed** - Trending posts with high community engagement  
+✨ **Most Upvoted** - Highest-rated content ranked by developer votes  
+✨ **Best Discussions** - Posts generating the most engaging conversations  
 
-Prefer a video version? Check out this 6-minute video that explains each feed in detail:
+:::tip
+Watch this [6-minute video walkthrough](https://www.youtube.com/embed/-NIuN8m5Pe8) for a detailed explanation of each feed type.
+:::
 
 <iframe width="700" height="400" src="https://www.youtube.com/embed/-NIuN8m5Pe8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-## My feed
+## My Feed
 
-Your feed contains posts that are relevant to you and your interests (once you have set it up).
+Your personalized feed displays content tailored to your interests and technical preferences. Setting up filters unlocks the full power of daily.dev's recommendation engine.
 
-### Creating your personal feed
+### Setup Guide
 
-If you are new to daily.dev, the first thing we strongly recommend is setting up filters on your feed. This will unlock the true power of daily.dev, showing posts that are relevant to your interests.
+Configure your feed for maximum relevance:
 
-There are three guides to help you get the most out of your feed:
-1. A detailed guide on how to [set up your feed](/docs/setting-up-your-feed/filtering-content-feed).
-2. A guide on how to [adjust the content types that appear in your feed](/docs/setting-up-your-feed/advanced-filtering-options).
-3. A guide on [blocking tags and sources](/docs/setting-up-your-feed/blocking-tags-sources) you do not wish to see in your feed.
+1. **[Filter by interests](setting-up-your-feed/filtering-content-feed.md)** - Select technologies and topics that match your focus
+2. **[Adjust content types](setting-up-your-feed/advanced-filtering-options.md)** - Control what types of posts appear in your feed  
+3. **[Block unwanted content](setting-up-your-feed/blocking-tags-sources.md)** - Remove irrelevant tags and sources
 
-Once you have followed the steps in these guides, you will have "My Feed" set up exactly to your preferences!
+:::info
+The more you interact with content (upvotes, bookmarks, comments), the better your personalized feed becomes.
+:::
 
-## Popular feed 
+## Popular Feed
 
-The popular feed uses our ranking algorithm to provide you with posts that are recent, gaining lots of traffic, and receiving positive responses from the daily.dev community (either via upvotes or positive comments).
+The Popular feed showcases trending content using our ranking algorithm that balances recency, traffic, and community engagement.
 
-### Ranking overview for the popular feed
+### Ranking Factors
 
-Once a post is featured on daily.dev, it begins to rank based on various factors, such as:
+Posts are ranked based on multiple signals:
 
-* The number of unique reads the post has received
-* The number of upvotes the post has obtained from our community members
-* The freshness of the post, or how recently it was published
-* Other parameters related to content quality and engagement levels
+- **Unique reads** - How many developers have viewed the content
+- **Community engagement** - Upvotes and positive comment interactions
+- **Freshness** - How recently the content was published  
+- **Quality metrics** - Engagement rates and content assessment scores
 
-By considering these factors, we aim to increase the likelihood of interesting and valuable posts surfacing to the top of the feed.
+This algorithm surfaces the most valuable and timely content for the developer community.
 
-### Sorting by date
+### Feed Sorting
 
-There is a dropdown menu at "My feed" that allows you to change the order of the feed. If it is not activated on your profile, you can easily enable it by following these steps:
+Enable feed sorting to customize how content is ordered:
 
-1. Click the "Customize" button on the Profile menu at the top-right (1).
+1. Click **Customize** in your profile menu
+2. Toggle on **Show feed sorting menu** in [preferences](customize-your-feed/preferences.md)
+3. Choose between **By Date** or **Recommended** sorting
 
-<img src="https://daily-now-res.cloudinary.com/image/upload/v1726554463/docs-v2/5804a634-0191-4ecb-9706-c05f5195d020.png" alt='Profile menu with the "Customize" button highlighted, last item in the main menu section (1)' width="900" height="900" />
+## Most Upvoted Feed
 
-2. Switch on the toggle, ["Show feed sorting menu"](/docs/customize-your-feed/preferences)
+Discover the highest-rated content as voted by the developer community. Posts are ranked purely by upvote count within your selected timeframe.
 
-<img src="https://daily-now-res.cloudinary.com/image/upload/v1663528971/docs-v2/feeds-2.jpg" alt='Customize modal with the "Show feed sorting menu" toggle highlighted (2)' width="900" height="900" />
+**Time filters available:**
+- Last week (default)
+- Last month  
+- Last year
 
-3. Go back to the feed, and you should see a new sorting option in the upper left corner (3).
+## Best Discussions Feed
 
-4. You can then choose to change the feed to sort either "By Date" or by "Recommended" (4).
+Find the most engaging conversations happening on daily.dev. Content is ranked by discussion quality, including commenter reputation, comment freshness, and community engagement levels.
 
-<img src="https://github.com/dailydotdev/docs/assets/18360871/6a0a39fc-0843-4763-ada9-dbe8ed2a10bd" alt='Customize modal with the "Show feed sorting menu" toggle highlighted (2)' width="900"/>
-
-## Most upvoted feed
-
-In the "Most Upvoted" Feed, we feature the posts with the highest number of upvotes on the platform. The ranking in this feed is based on the number of upvotes over a given timescale. The higher the upvote count, the higher the post will be listed in the feed.
-
-### Changing the date filter
-
-The default view is the most upvoted posts of the last 7 days. However, you can choose to filter it to a different time frame using the drop-down (5).
-
-There are three options (6):
-* Last week
-* Last month
-* Last year
-
-<img src="https://daily-now-res.cloudinary.com/image/upload/v1663528971/docs-v2/feeds-4.jpg" alt='The drop-down located top right of the "Most upvoted" feed is highlighted (5). The drop-down is open showing "Last week", "Last month" and "Last year" as options (6)' width="900" height="900" />
-
-## Best discussions feed
-
-In the "Best Discussions" feed, we showcase the most interesting discussions currently taking place on daily.dev. The ranking is determined by multiple factors, including the reputation levels of the people who commented, the freshness of the comments, and the number of upvotes on the comments, among others. This feed is designed to help you find engaging and interesting discussions that you can participate in!
+Perfect for developers looking to participate in meaningful technical discussions and knowledge sharing.

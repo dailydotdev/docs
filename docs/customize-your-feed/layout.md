@@ -1,28 +1,44 @@
 ---
 sidebar_position: 0
-description: "Customize your daily.dev feed layout with Grid and List modes for an optimal reading experience across all devices."
+description: "Switch between Grid and List layouts to optimize your content consumption. Choose the perfect viewing mode for your screen size and reading style."
 ---
 
-# Layout Options 
+# Feed Layout Options
 
-The layout option lets you select how posts are displayed on your **daily.dev feed**. Switch between **Grid mode** and **List mode** to suit your viewing preferences.
+Choose how your content is displayed with two powerful layout modes designed for different reading preferences and device types.
 
-To switch between Grid and List mode, click on the **customize** option from the top-right profile menu, as shown below:
+:::tip Layout Quick Switch
+Toggle between Grid and List modes instantly through the customize option in your top-right profile menu.
+:::
+
+**To switch layouts:**
 
 ![Switch from List to Grid mode on daily.dev](https://daily-now-res.cloudinary.com/image/upload/v1724400818/docs-v2/a57d8ba8-dbfb-4407-9759-fbf9dc1154a6.png)
 
-## Grid Mode for Content Display
+## Grid Mode - Visual Content Discovery
 
-The **Grid mode** displays posts as cards arranged in a grid format, as seen in the image below:
+Grid mode displays articles as visually rich cards in a responsive grid layout, maximizing content discovery and visual engagement.
 
 ![Grid mode view for daily.dev feed](https://daily-now-res.cloudinary.com/image/upload/v1724400852/docs-v2/a6b59df0-78b5-431a-8719-1efb654f9ef4.png)
 
-In Grid mode, posts are positioned both vertically and horizontally, making it easy to scan and interact with the content. Grid mode adapts seamlessly to various viewports and orientations, providing consistency across different platforms and screen sizes.
+**Grid mode benefits:**
+- **Visual browsing** - Rich previews with cover images and source branding
+- **Responsive design** - Adapts seamlessly to any screen size or orientation
+- **Quick scanning** - Efficiently browse multiple articles simultaneously
+- **Enhanced engagement** - Visual cues help identify interesting content faster
 
-## List Mode for Simplified Layout
+## List Mode - Streamlined Reading
 
-In **List mode**, posts are stacked vertically in a list, as shown below:
+List mode presents articles in a clean, vertical stack that prioritizes text content and reading efficiency over visual elements.
 
 ![List mode view for daily.dev feed](https://daily-now-res.cloudinary.com/image/upload/v1724400878/docs-v2/5ff46522-dfc3-401b-9aff-12819a91f4c4.png)
 
-List mode displays posts in a simple, stacked format, showing only source images without cover images. This option is ideal if you prefer a shorter feed with fewer visuals.
+**List mode benefits:**
+- **Text-focused** - Emphasizes titles and metadata for faster content assessment
+- **Performance optimized** - Faster loading with minimal visual elements
+- **Familiar format** - Traditional list layout similar to news aggregators
+- **Data efficient** - Uses less bandwidth by loading fewer images
+
+:::info Choosing Your Layout
+**Grid mode** is perfect for visual learners and content discovery, while **List mode** excels for focused reading and bandwidth conservation.
+:::
