@@ -86,12 +86,12 @@ export default function Home() {
         {/* Inline critical CSS for above-the-fold content */}
         <style>{`
           .heroBanner_KU2A{padding:2rem 0 0 0;text-align:center;position:relative;overflow:hidden}
-          .hero__title{font-size:3rem;font-weight:900;line-height:1.2;margin-bottom:0;color:var(--ifm-font-color-base)}
+          .hero__title{font-size:62px;font-weight:700;line-height:115%;margin-bottom:0;color:var(--ifm-font-color-base);font-family:'Montserrat',sans-serif;margin-top:2rem}
           .theme-layout-footer{min-height:350px}
           .footer__links{min-height:200px}
           .footer__col{min-height:180px}
           .footer__bottom{min-height:50px}
-          @media screen and (max-width:966px){.heroBanner_KU2A{padding:2rem}.hero__title{font-size:2rem}.theme-layout-footer{min-height:600px}.footer__links{min-height:450px}.footer__col{min-height:100px}}
+          @media screen and (max-width:966px){.heroBanner_KU2A{padding:2rem}.hero__title{font-size:48px}.theme-layout-footer{min-height:600px}.footer__links{min-height:450px}.footer__col{min-height:100px}}
         `}</style>
 
         {/* Prefetch important pages */}
