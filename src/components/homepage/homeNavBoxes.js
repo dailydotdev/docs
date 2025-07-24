@@ -154,16 +154,6 @@ const FeatureList = [
       },
     ],
   },
-  {
-    title: 'For OSS contributors',
-    icon: 'img/icons/oss-contributors.svg',
-    items: [
-      {
-        url: 'docs/for-oss-contributors/how-to-contribute-to-daily-dev',
-        text: 'How to contribute to daily.dev',
-      },
-    ],
-  },
 ];
 
 function FeatureItem({ url, text }) {
@@ -188,7 +178,6 @@ function Feature({ title, icon, items }) {
     'Monetization (beta)': 'Learn about monetization and earning features',
     Customization: 'Personalize your daily.dev experience',
     'For content creators': 'Resources for content creators and publishers',
-    'For OSS contributors': 'Open source contribution guidelines and resources',
   };
 
   return (
