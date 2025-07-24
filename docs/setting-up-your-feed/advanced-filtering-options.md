@@ -33,7 +33,7 @@ Once in the menu, you’ll find several on/off toggle switches that let you fine
 
 | Category            | Description                                                                                                                                                                                                                                   |
 |---------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Community Picks     | Community-sourced posts that are often high-quality or entertaining. [Learn more](/docs/key-features/community-picks)                                                                                   |
+| Community Picks     | Community-contributed content (Note: Community Picks mechanism was sunset in 2025 - content is now contributed directly via "New Post"). [Learn more](../key-features/community-picks.md)                |
 | Comparisons         | Posts comparing libraries or tools to aid decision-making.                                                                                                                                             |
 | Listicles           | Posts containing lists, such as "10 best libraries for X" or "5 ways to improve Y".                                                                                                                    |
 | Memes               | Humorous posts or memes.                                                                                                                                                                               |

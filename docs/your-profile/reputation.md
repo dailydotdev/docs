@@ -64,7 +64,7 @@ Reputation growth brings special privileges:
 |----------------------|------------|  
 | 250+                 | Upvotes contribute to others' reputation |  
 | 250+                 | Can [suggest new sources](../for-content-creators/suggest-new-source.md) for the feed |  
-| 250+                 | Eligible to submit links via [Community Picks](../key-features/community-picks.md) |  
+| 250+                 | Can contribute content directly via "New Post" (Community Picks was sunset in 2025) |  
 | Various Points       | Unlock exclusive themes for your [DevCard](/your-profile/devcard.md) |  
 | More Reputation      | Increases your content’s reach and visibility on daily.dev |  
 
