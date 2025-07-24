@@ -102,6 +102,18 @@ const FeatureList = [
     ],
   },
   {
+    title: 'Organizations',
+    icon: 'img/icons/organizations.svg',
+    items: [
+      { url: 'docs/organizations/overview', text: 'Overview' },
+      { url: 'docs/organizations/creating-organization', text: 'Creating an Organization' },
+      { url: 'docs/organizations/inviting-members', text: 'Inviting Members' },
+      { url: 'docs/organizations/managing-members', text: 'Managing Members' },
+      { url: 'docs/organizations/billing-management', text: 'Billing & Seats' },
+      { url: 'docs/organizations/managing-organization', text: 'Organization Settings' },
+    ],
+  },
+  {
     title: 'Monetization (beta)',
     icon: 'img/icons/cores.svg',
     items: [
@@ -172,6 +184,7 @@ function Feature({ title, icon, items }) {
     'Your profile': 'Manage your profile settings and activity',
     Squads: 'Join and manage developer community squads',
     Plus: 'Discover premium features and subscriptions',
+    Organizations: 'Manage team subscriptions and organization settings',
     'Monetization (beta)': 'Learn about monetization and earning features',
     Customization: 'Personalize your daily.dev experience',
     'For content creators': 'Resources for content creators and publishers',
