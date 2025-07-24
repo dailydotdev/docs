@@ -1,3 +1,8 @@
+---
+sidebar_position: 2
+description: "Step-by-step guide to creating an organization on daily.dev during Plus checkout or from your profile settings to manage team subscriptions."
+---
+
 # Creating an Organization
 
 Creating an organization on daily.dev allows you to manage Plus subscriptions for your entire team. You can create an organization during the Plus checkout process or from your profile settings.

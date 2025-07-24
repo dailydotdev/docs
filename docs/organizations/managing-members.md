@@ -1,3 +1,8 @@
+---
+sidebar_position: 4
+description: "Complete guide to managing organization members on daily.dev including role management, Plus assignment, member actions, and permission controls for owners and admins."
+---
+
 # Managing Organization Members
 
 As an organization owner or admin, you can manage team members, assign roles, and control Plus access. This guide covers all aspects of member management within your organization.

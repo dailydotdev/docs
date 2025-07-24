@@ -1,3 +1,8 @@
+---
+sidebar_position: 1
+description: "Learn about Organizations on daily.dev - team accounts that allow companies to purchase and manage multiple Plus subscriptions centrally with role-based access control."
+---
+
 # Organizations Overview
 
 Organizations on daily.dev allow companies and teams to purchase and manage multiple Plus subscriptions for their members. This feature enables centralized management of Plus benefits, making it easier for teams to access premium features together.

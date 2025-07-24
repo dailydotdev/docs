@@ -1,3 +1,8 @@
+---
+sidebar_position: 5
+description: "Organization owners' guide to billing management, seat allocation, subscription control, and cost optimization for daily.dev team Plus subscriptions."
+---
+
 # Billing and Seat Management
 
 Organization owners have full control over billing, subscription management, and seat allocation. This guide covers all aspects of managing your organization's Plus subscription.

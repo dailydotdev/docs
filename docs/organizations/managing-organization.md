@@ -1,3 +1,8 @@
+---
+sidebar_position: 6
+description: "Learn how to manage organization settings on daily.dev including name, image, branding, and organization deletion with proper permissions and access control."
+---
+
 # Managing Organization Settings
 
 Organization admins and owners can customize their organization's appearance and manage general settings. This guide covers all aspects of organization management and configuration.

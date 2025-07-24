@@ -1,3 +1,8 @@
+---
+sidebar_position: 3
+description: "Learn how to invite team members to your daily.dev organization using unique invite links and manage seat availability for automatic Plus assignment."
+---
+
 # Inviting Members to Your Organization
 
 Organization admins and owners can invite team members to join their organization and receive Plus benefits. This guide covers the invitation process and best practices.
