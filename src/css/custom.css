@@ -642,32 +642,20 @@ html[data-theme='light'] .menu__link:before {
   background: url('../img/menu/plus.svg');
 }
 .theme-doc-sidebar-menu li:nth-child(8) .menu__link:before {
-  background: url('../img/menu/cores.svg');
+  background: url('../img/menu/organizations.svg');
 }
 .theme-doc-sidebar-menu li:nth-child(9) .menu__link:before {
-  background: url('../img/menu/customization.svg');
+  background: url('../img/menu/cores.svg');
 }
 
 .theme-doc-sidebar-menu li:nth-child(10) .menu__link:before {
-  background: url('../img/menu/useful-guides.svg');
+  background: url('../img/menu/customization.svg');
 }
 
 .theme-doc-sidebar-menu li:nth-child(11) .menu__link:before {
   background: url('../img/menu/content-creator.svg');
 }
 
-.theme-doc-sidebar-menu li:nth-child(12) .menu__link:before {
-  background: url('../img/menu/oss-contributors.svg');
-}
-.theme-doc-sidebar-menu li:nth-child(13) .menu__link:before {
-  background: url('../img/menu/community.svg');
-}
-
-.theme-doc-sidebar-menu li:nth-child(13) .menu__link {
-  position: relative;
-  margin-left: 0rem;
-  padding-left: 2.3rem;
-}
 
 .theme-doc-sidebar-item-link-level-2 > .menu__link:before {
   background: none !important;
