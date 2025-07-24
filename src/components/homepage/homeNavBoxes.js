@@ -44,7 +44,7 @@ const FeatureList = [
       { url: 'docs/key-features/search', text: 'Search' },
       { url: 'docs/key-features/pause-new-tab', text: 'Pause New Tab (DND)' },
       { url: 'docs/key-features/the-companion', text: 'Companion Widget' },
-      { url: 'docs/key-features/community-picks', text: 'Community Picks' },
+      { url: 'docs/key-features/community-picks', text: 'Community Picks (Sunset)' },
     ],
   },
   {
