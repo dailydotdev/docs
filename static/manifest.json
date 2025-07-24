@@ -153,18 +153,6 @@
           "sizes": "96x96"
         }
       ]
-    },
-    {
-      "name": "Community",
-      "short_name": "Community",
-      "description": "Join the daily.dev community",
-      "url": "/docs/community",
-      "icons": [
-        {
-          "src": "/img/menu/community.svg",
-          "sizes": "96x96"
-        }
-      ]
     }
   ],
   "related_applications": [

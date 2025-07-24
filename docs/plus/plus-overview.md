@@ -79,6 +79,17 @@ Read in your preferred language with automatic translations for post titles and 
 - Discover new sources without limitations
 - Stay informed no matter the language
 
+## Team Subscriptions
+
+Need Plus for your entire team? Organizations allow companies to purchase and manage multiple Plus subscriptions centrally:
+
+- **Bulk Purchasing**: Buy Plus seats for your whole team
+- **Centralized Management**: Admins can assign and manage Plus benefits
+- **Flexible Scaling**: Add or remove seats as your team grows
+- **Role-Based Access**: Owners, admins, and members with different permissions
+
+👉 [Learn about Organizations](../organizations/overview.md)
+
 ## Still not on Plus?
 
 daily.dev Plus gives you more control, clarity, and customization—so you can focus on what truly matters.
