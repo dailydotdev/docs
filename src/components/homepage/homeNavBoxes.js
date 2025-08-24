@@ -94,6 +94,7 @@ const FeatureList = [
     icon: 'img/icons/plus.svg',
     items: [
       { url: 'docs/plus/plus-overview', text: 'Overview' },
+      { url: 'docs/plus/presidential-briefing', text: 'Presidential Briefing' },
       { url: 'docs/plus/smart-prompts', text: 'Smart Prompts' },
       { url: 'docs/plus/custom-feeds', text: 'Advanced Custom Feeds' },
       { url: 'docs/plus/clickbait-shield', text: 'Clickbait Shield' },

@@ -23,6 +23,17 @@ Make any post interactive. Ask AI to simplify concepts, challenge ideas, compare
 
 👉 [Learn how to use smart prompts](plus/smart-prompts.md)
 
+### Presidential Briefing - AI-powered personalized updates
+
+Your personal AI agent that scans hundreds of posts, videos, Squad threads, changelogs, and releases to deliver a personalized, high-impact briefing in 3–5 minutes. Adapts to your reading style and interests.
+
+- Save hours of catching up with a personalized daily digest
+- Get must-know updates, horizon-expanding content, and bullshit detection
+- Auto-saved briefings stored in your bookmarks for later reference
+- Customize frequency and delivery channels (Plus only)
+
+👉 [Learn about Presidential Briefing](plus/presidential-briefing.md)
+
 ### Advanced custom feeds
 
 Take control of your content with laser-focused feeds tailored to your interests. Whether you follow specific tools, languages, or topics, custom feeds help you surface what matters most—without the noise.
