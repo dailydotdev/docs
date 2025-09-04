@@ -78,6 +78,29 @@ To improve your chances of being featured in the directory:
 2. **Grow Membership**: Invite members to join and participate actively.  
 3. **Post Consistently**: Regular high-quality posts boost engagement and visibility.  
 
+## Accelerate Growth with Boost
+
+Ready to fast-track your Squad's growth? **Boost** gives admins and moderators powerful tools to reach more developers and grow faster.
+
+### Squad Boost
+Promote your entire Squad to attract new members:
+- **Targeted exposure**: Your Squad appears as dedicated cards in the main feed and Squad directory
+- **Smart targeting**: Automatically shown to developers interested in your Squad's topics
+- **Full control**: Set your budget in [cores](/docs/monetization/cores) and track new members in real-time
+- **Requirements**: Squad must be public with description, profile image, and cover image
+
+### Post Boost  
+Amplify your Squad's best content:
+- **Boost Squad posts**: Promote high-quality posts from your Squad to reach more developers
+- **Increase engagement**: Get more views, upvotes, and comments on important content
+- **Cross-promotion**: Boosted Squad posts can attract users to join your community
+
+:::tip
+Combine both strategies: Use Squad Boost for member acquisition and Post Boost to showcase your best content. Members can also support your Squad by giving [Awards](/docs/monetization/cores#awards), which transfer cores directly to admins and moderators for future boosts.
+:::
+
+**Ready to boost?** Visit your Squad page and click "Boost" or learn more in our [Boost documentation](/docs/monetization/boost).
+
 ## Building an Engaged Community
 
 An active Squad is key to growth. By regularly posting, approving member contributions, and sparking discussions, your Squad can become a vibrant hub for developers.
