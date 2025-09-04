@@ -3,7 +3,7 @@
   "trailingSlash": false,
   "functions": {
     "app/**": {
-      "runtime": "nodejs22.x"
+      "runtime": "@vercel/node@3.0.7"
     }
   }
 }
