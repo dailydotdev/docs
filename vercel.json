@@ -1,4 +1,9 @@
 {
   "cleanUrls": true,
-  "trailingSlash": false
+  "trailingSlash": false,
+  "functions": {
+    "app/**": {
+      "runtime": "nodejs22.x"
+    }
+  }
 }
