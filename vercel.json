@@ -1,9 +1,4 @@
 {
   "cleanUrls": true,
-  "trailingSlash": false,
-  "functions": {
-    "app/**": {
-      "runtime": "@vercel/node@3.0.7"
-    }
-  }
+  "trailingSlash": false
 }
