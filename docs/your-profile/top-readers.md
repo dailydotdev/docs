@@ -3,513 +3,529 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Kicengan - La Frontera de la IA</title>
-    <link href="https://fonts.googleapis.com/css2?family=Orbitron:wght@400;700&family=Montserrat:wght@300;400;600&display=swap" rel="stylesheet">
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+    <title>Corporativo Internacional Xicotencatl - Soluciones Estratégicas</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;700&family=Lato:wght@300;400;700&display=swap" rel="stylesheet">
     <style>
+        /* Variables y Estilos Generales */
         :root {
-            --color-bg-dark: #000000;
-            --color-bg-medium: #0f0f0f;
-            --color-mint-primary: #66ffcc; /* Menta vibrante */
-            --color-white-accent: #ffffff; /* Blanco puro */
-            --color-blue-secondary: #80e6ff; /* Azul cielo suave */
-            --color-text-light: #e0f7fa;
-            --color-text-dim: #a7d9f7;
-            --gradient-bg: linear-gradient(135deg, #0f0f0f, #1a1a1a, #0f0f0f);
-            --gradient-mint-blue: linear-gradient(45deg, var(--color-mint-primary), var(--color-blue-secondary));
-            --gradient-mint-white: linear-gradient(45deg, var(--color-mint-primary), var(--color-white-accent));
+            --color-primary: #002D62; /* Azul marino profundo */
+            --color-secondary: #C8A35B; /* Dorado */
+            --color-text-dark: #333;
+            --color-text-light: #f4f4f4;
+            --color-bg-light: #ffffff;
+            --color-bg-dark: #f0f2f5;
+            --font-serif: 'Playfair Display', serif;
+            --font-sans: 'Lato', sans-serif;
         }
 
         body {
-            font-family: 'Montserrat', sans-serif;
+            font-family: var(--font-sans);
+            line-height: 1.6;
+            color: var(--color-text-dark);
             margin: 0;
             padding: 0;
-            background: var(--color-bg-dark);
-            color: var(--color-text-light);
-            line-height: 1.8;
+            background-color: var(--color-bg-light);
             overflow-x: hidden;
-            position: relative;
-        }
-
-        body::before {
-            content: '';
-            position: fixed;
-            top: 0;
-            left: 0;
-            width: 100%;
-            height: 100%;
-            background: var(--gradient-bg); /* Fondo más sutil */
-            background-size: 400% 400%;
-            animation: gradientShift 18s ease infinite;
-            z-index: -2;
-            opacity: 0.3;
-        }
-
-        @keyframes gradientShift {
-            0% { background-position: 0% 50%; }
-            50% { background-position: 100% 50%; }
-            100% { background-position: 0% 50%; }
         }
 
         .container {
-            width: 90%;
-            max-width: 1400px;
-            margin: 40px auto;
-            background-color: var(--color-bg-medium);
-            border-radius: 20px;
-            box-shadow: 0 15px 30px rgba(0, 0, 0, 0.7);
-            padding: 40px;
-            text-align: center;
-            position: relative;
-            z-index: 1;
-            overflow: hidden;
-        }
-
-        h1, h2 {
-            font-family: 'Orbitron', sans-serif;
-            color: var(--color-mint-primary);
-            text-shadow: 0 0 15px var(--color-mint-primary), 0 0 30px rgba(102, 255, 204, 0.5);
-            margin-bottom: 30px;
-            font-size: 3.5em;
-            letter-spacing: 2px;
-            animation: fadeInScale 1.5s ease-out, glowMint 2s ease-in-out infinite alternate;
-        }
-
-        h2 {
-            font-size: 2.5em;
-            margin-top: 60px;
-            color: var(--color-blue-secondary);
-            text-shadow: 0 0 12px var(--color-blue-secondary), 0 0 24px rgba(128, 230, 255, 0.4);
-            animation: fadeInScale 1.5s ease-out, glowBlue 2s ease-in-out infinite alternate;
-        }
-
-        p {
-            font-size: 1.2em;
-            color: var(--color-text-light);
-            margin-bottom: 35px;
-            max-width: 900px;
-            margin-left: auto;
-            margin-right: auto;
-            animation: fadeIn 2s ease-out;
-        }
-
-        .main-image-container {
-            margin-bottom: 50px;
-            position: relative;
-            overflow: hidden;
-            border-radius: 15px;
-            box-shadow: 0 0 30px rgba(102, 255, 204, 0.8), 0 0 60px rgba(102, 255, 204, 0.3);
-            transition: box-shadow 0.4s ease;
-        }
-
-        .main-image {
-            width: 100%;
-            max-width: 1000px;
-            height: auto;
-            border-radius: 15px;
-            display: block;
+            max-width: 1100px;
             margin: 0 auto;
-            transition: transform 0.6s cubic-bezier(0.25, 0.46, 0.45, 0.94);
-            filter: brightness(1.1) saturate(1.2);
+            padding: 20px;
         }
 
-        .main-image-container::before {
-            content: '';
-            position: absolute;
-            top: 0;
-            left: -75%;
-            width: 50%;
-            height: 100%;
-            background: linear-gradient(90deg, transparent, rgba(255, 255, 255, 0.2), transparent);
-            transform: skewX(-20deg);
-            transition: left 0.7s ease-in-out;
+        /* --- Encabezado --- */
+        header {
+            background-color: var(--color-primary);
+            color: var(--color-text-light);
+            padding: 1.5em 0;
+            text-align: center;
+            box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+        }
+        header .logo {
+            font-family: var(--font-serif);
+            font-size: 2em;
+            letter-spacing: 2px;
+            text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.2);
         }
 
-        .main-image-container:hover .main-image {
-            transform: scale(1.03);
-        }
-        
-        .main-image-container:hover::before {
-            left: 125%;
-        }
-
-        .secondary-gallery {
-            display: grid;
-            grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
-            gap: 35px;
-            margin-top: 50px;
-        }
-
-        .gallery-item {
+        /* --- Hero Section --- */
+        .hero-section {
+            background: linear-gradient(rgba(0, 45, 98, 0.7), rgba(0, 45, 98, 0.7)), url("https://images.unsplash.com/photo-1542744095-fcf48d80b0fd?q=80&w=1740&auto=format&fit=crop");
+            background-size: cover;
+            background-position: center;
+            height: 80vh;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            text-align: center;
+            color: var(--color-text-light);
             position: relative;
-            overflow: hidden;
-            border-radius: 12px;
-            box-shadow: 0 8px 20px rgba(0, 0, 0, 0.6);
-            cursor: pointer;
-            transition: transform 0.4s cubic-bezier(0.68, -0.55, 0.27, 1.55), box-shadow 0.4s ease;
         }
-        
-        .gallery-item:hover {
-            transform: translateY(-15px) scale(1.05);
-            box-shadow: 0 15px 35px rgba(128, 230, 255, 0.8), 0 0 50px rgba(128, 230, 255, 0.4);
-            z-index: 2;
-        }
-
-        .gallery-item img {
-            width: 100%;
-            height: 220px;
-            object-fit: cover;
-            border-radius: 12px;
-            display: block;
-            filter: grayscale(0.2) brightness(0.9);
-            transition: filter 0.4s ease;
-        }
-
-        .gallery-item:hover img {
-            filter: grayscale(0) brightness(1.1);
-        }
-
-        .gallery-overlay {
-            position: absolute;
-            bottom: 0;
-            left: 0;
-            right: 0;
-            background: linear-gradient(transparent, rgba(0,0,0,0.8));
-            color: var(--color-white-accent);
-            padding: 15px;
-            transform: translateY(100%);
-            transition: transform 0.4s ease-out;
-            border-bottom-left-radius: 12px;
-            border-bottom-right-radius: 12px;
-            text-align: left;
-            font-size: 0.9em;
-            opacity: 0;
-        }
-
-        .gallery-item:hover .gallery-overlay {
-            transform: translateY(0);
-            opacity: 1;
-        }
-
-        .gallery-overlay h3 {
-            margin: 0 0 5px 0;
-            font-family: 'Orbitron', sans-serif;
-            color: var(--color-mint-primary);
-            font-size: 1.1em;
-            text-shadow: none; /* Desactivar glow extra para overlays */
-        }
-        .gallery-overlay p {
+        .hero-section h1 {
+            font-family: var(--font-serif);
+            font-size: 3.5em;
             margin: 0;
-            font-size: 0.85em;
-            color: var(--color-text-dim);
+            letter-spacing: 2px;
+            animation: fadeInDown 1s ease-out;
+        }
+        .hero-section p {
+            font-size: 1.5em;
+            margin-top: 10px;
+            max-width: 800px;
+            animation: fadeInUp 1s ease-out;
         }
 
-        .map-section {
-            margin-top: 70px;
-            margin-bottom: 50px;
+        /* --- Secciones Generales --- */
+        section {
+            padding: 60px 0;
+            opacity: 0;
+            transform: translateY(30px);
+            transition: opacity 0.6s ease-out, transform 0.6s ease-out;
+        }
+        section.animated {
+            opacity: 1;
+            transform: translateY(0);
+        }
+        .section-heading {
+            font-family: var(--font-serif);
+            font-size: 2.5em;
+            text-align: center;
+            margin-bottom: 20px;
+            color: var(--color-primary);
+        }
+        .section-subheading {
+            text-align: center;
+            color: #666;
+            margin-bottom: 40px;
+            font-size: 1.1em;
+        }
+
+        /* --- Propuesta de Valor --- */
+        .value-prop-grid {
+            display: flex;
+            justify-content: space-around;
+            gap: 40px;
+            text-align: center;
+            flex-wrap: wrap;
+        }
+        .value-prop-item {
+            flex-basis: 300px;
+        }
+        .value-prop-item h3 {
+            font-family: var(--font-serif);
+            color: var(--color-primary);
+            font-size: 1.5em;
+            border-bottom: 2px solid var(--color-secondary);
+            display: inline-block;
+            padding-bottom: 5px;
+            margin-bottom: 15px;
+        }
+
+        /* --- Servicios (Cards) --- */
+        .services-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+            gap: 30px;
+        }
+        .service-card {
+            background-color: var(--color-bg-dark);
+            border-left: 5px solid var(--color-secondary);
+            padding: 30px;
+            box-shadow: 0 4px 15px rgba(0, 0, 0, 0.08);
+            transition: transform 0.3s ease, box-shadow 0.3s ease;
+        }
+        .service-card:hover {
+            transform: translateY(-10px);
+            box-shadow: 0 10px 25px rgba(0, 0, 0, 0.15);
+        }
+        .service-card h3 {
+            font-family: var(--font-serif);
+            color: var(--color-primary);
+            font-size: 1.4em;
+            margin-top: 0;
+            text-align: left;
+        }
+        .service-card p {
+            text-align: left;
+            font-size: 0.95em;
+        }
+
+        /* --- Confianza y CTA --- */
+        .trust-section {
+            background-color: var(--color-primary);
+            color: var(--color-text-light);
+            padding: 80px 0;
             text-align: center;
         }
-
-        .map-container {
-            position: relative;
-            width: 100%;
-            height: 500px;
-            overflow: hidden;
-            border-radius: 15px;
-            box-shadow: 0 0 20px var(--color-blue-secondary);
-            border: 2px solid var(--color-blue-secondary);
+        .trust-section .section-heading, .trust-section .section-subheading {
+            color: var(--color-text-light);
         }
-
-        .map-container iframe {
-            width: 100%;
-            height: 100%;
-            border: none;
-            filter: grayscale(0.6) invert(0.1);
-            transition: filter 0.5s ease-in-out;
+        .cta-button {
+            display: inline-block;
+            background-color: var(--color-secondary);
+            color: var(--color-primary);
+            font-family: var(--font-sans);
+            font-weight: bold;
+            text-decoration: none;
+            padding: 15px 40px;
+            border-radius: 5px;
+            margin-top: 30px;
+            box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
+            transition: transform 0.3s ease, background-color 0.3s ease;
         }
-        
-        .map-container:hover iframe {
-            filter: grayscale(0) invert(0);
+        .cta-button:hover {
+            transform: translateY(-3px);
+            background-color: #d1b473; /* Tono más claro de dorado */
         }
-
-        .social-links {
-            margin-top: 50px;
-            margin-bottom: 30px;
+        .logos-section {
+            padding: 40px 0;
+        }
+        .logos-section .logos {
             display: flex;
             justify-content: center;
             align-items: center;
             flex-wrap: wrap;
-            gap: 25px;
+            gap: 50px;
+        }
+        .logos img {
+            height: 50px;
+            filter: grayscale(100%);
+            transition: filter 0.3s ease;
+        }
+        .logos img:hover {
+            filter: grayscale(0%);
         }
 
-        .social-links a {
-            color: var(--color-blue-secondary);
-            font-size: 2.2em;
+        /* --- Pie de Página --- */
+        footer {
+            background-color: var(--color-primary);
+            color: var(--color-text-light);
+            text-align: center;
+            padding: 30px 0;
+        }
+        footer p {
+            margin: 0;
+            font-size: 0.9em;
+        }
+        footer a {
+            color: var(--color-secondary);
             text-decoration: none;
-            transition: color 0.3s ease, transform 0.3s ease, text-shadow 0.3s ease;
-            position: relative;
+            transition: color 0.3s ease;
         }
-
-        .social-links a:hover {
-            color: var(--color-mint-primary);
-            transform: scale(1.2) rotate(5deg);
-            text-shadow: 0 0 15px var(--color-mint-primary), 0 0 25px var(--color-mint-primary);
+        footer a:hover {
+            color: var(--color-text-light);
         }
         
-        .social-links a::before {
-            content: '';
+        /* --- Nueva sección de pilares --- */
+        .pilares-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+            gap: 30px;
+            text-align: center;
+        }
+
+        .pilar-card {
+            background-color: var(--color-bg-dark);
+            border-top: 4px solid var(--color-secondary);
+            padding: 30px;
+            box-shadow: 0 2px 10px rgba(0, 0, 0, 0.05);
+            transition: transform 0.3s ease, box-shadow 0.3s ease;
+        }
+
+        .pilar-card:hover {
+            transform: translateY(-5px);
+            box-shadow: 0 8px 20px rgba(0, 0, 0, 0.1);
+        }
+
+        .pilar-card h4 {
+            font-family: var(--font-serif);
+            color: var(--color-primary);
+            font-size: 1.3em;
+            margin-top: 0;
+            margin-bottom: 10px;
+        }
+        .pilar-card p {
+            font-size: 0.9em;
+            color: #555;
+        }
+
+        /* --- Video Section Specific Styles --- */
+        .video-section {
+            background-color: var(--color-bg-dark);
+            text-align: center;
+            padding: 80px 0;
+        }
+        .video-wrapper {
+            position: relative;
+            padding-bottom: 56.25%; /* 16:9 Aspect Ratio */
+            height: 0;
+            overflow: hidden;
+            max-width: 900px;
+            margin: 40px auto;
+            box-shadow: 0 8px 20px rgba(0, 0, 0, 0.2);
+        }
+        .video-wrapper iframe {
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            border: 0;
+        }
+        .video-section .section-heading {
+            margin-bottom: 15px;
+        }
+        .video-section .section-subheading {
+            margin-bottom: 20px;
+            max-width: 900px;
+            margin-left: auto;
+            margin-right: auto;
+        }
+        .play-button {
             position: absolute;
             top: 50%;
             left: 50%;
             transform: translate(-50%, -50%);
-            width: 80%;
-            height: 80%;
-            border-radius: 50%;
-            background: var(--color-blue-secondary);
-            opacity: 0.1;
-            filter: blur(8px);
-            z-index: -1;
-            transition: opacity 0.3s ease, background 0.3s ease;
-        }
-        .social-links a:hover::before {
-            opacity: 0.3;
-            background: var(--color-mint-primary);
-        }
-
-        .footer {
-            margin-top: 70px;
-            font-size: 0.95em;
-            color: var(--color-text-dim);
-            padding-top: 30px;
-            border-top: 1px solid rgba(102, 255, 204, 0.2);
-            animation: fadeIn 3s ease-out;
-        }
-
-        .footer p {
-            margin-bottom: 5px;
-        }
-
-        .audio-control-button {
-            position: fixed;
-            bottom: 30px;
-            right: 30px;
-            background: var(--gradient-mint-white);
-            color: var(--color-bg-dark);
+            background-color: var(--color-secondary);
+            color: var(--color-primary);
             border: none;
             border-radius: 50%;
-            width: 55px;
-            height: 55px;
+            width: 80px;
+            height: 80px;
             font-size: 1.5em;
+            cursor: pointer;
+            transition: transform 0.3s ease, background-color 0.3s ease;
+            z-index: 10;
             display: flex;
             justify-content: center;
             align-items: center;
-            cursor: pointer;
-            box-shadow: 0 0 15px var(--color-mint-primary), 0 0 25px rgba(102, 255, 204, 0.5);
-            transition: transform 0.3s ease, box-shadow 0.3s ease;
-            z-index: 1000;
+        }
+        .play-button:hover {
+            transform: translate(-50%, -50%) scale(1.1);
+            background-color: #d1b473;
         }
 
-        .audio-control-button:hover {
-            transform: scale(1.1);
-            box-shadow: 0 0 15px var(--color-blue-secondary), 0 0 25px rgba(128, 230, 255, 0.5);
-        }
-
-        @keyframes fadeIn {
-            from { opacity: 0; transform: translateY(20px); }
+        /* Animaciones */
+        @keyframes fadeInDown {
+            from { opacity: 0; transform: translateY(-20px); }
             to { opacity: 1; transform: translateY(0); }
         }
-
-        @keyframes fadeInScale {
-            from { opacity: 0; transform: scale(0.9); }
-            to { opacity: 1; transform: scale(1); }
-        }
-
-        @keyframes glowMint {
-            from { text-shadow: 0 0 15px var(--color-mint-primary), 0 0 30px rgba(102, 255, 204, 0.5); }
-            to { text-shadow: 0 0 20px var(--color-mint-primary), 0 0 40px rgba(102, 255, 204, 0.7); }
-        }
-
-        @keyframes glowBlue {
-            from { text-shadow: 0 0 12px var(--color-blue-secondary), 0 0 24px rgba(128, 230, 255, 0.4); }
-            to { text-shadow: 0 0 18px var(--color-blue-secondary), 0 0 36px rgba(128, 230, 255, 0.6); }
-        }
-
-        @media (max-width: 768px) {
-            h1 {
-                font-size: 2.5em;
-            }
-            h2 {
-                font-size: 2em;
-            }
-            p {
-                font-size: 1em;
-            }
-            .container {
-                padding: 20px;
-                margin: 20px auto;
-            }
-            .secondary-gallery {
-                grid-template-columns: 1fr;
-            }
-            .gallery-item {
-                height: auto;
-            }
-            .gallery-item img {
-                height: 200px;
-            }
-            .map-container {
-                height: 300px;
-            }
-            .social-links {
-                gap: 15px;
-            }
-            .social-links a {
-                font-size: 1.8em;
-            }
-            .audio-control-button {
-                bottom: 20px;
-                right: 20px;
-                width: 45px;
-                height: 45px;
-                font-size: 1.2em;
-            }
+        @keyframes fadeInUp {
+            from { opacity: 0; transform: translateY(20px); }
+            to { opacity: 1; transform: translateY(0); }
         }
     </style>
 </head>
 <body>
-    <audio id="background-audio" loop muted>
-        <source src="https://assets.mixkit.co/sfx/preview/mixkit-futuristic-software-ambience-1563.mp3" type="audio/mpeg">
-        <source src="https://assets.mixkit.co/sfx/preview/mixkit-futuristic-software-ambience-1563.ogg" type="audio/ogg">
-    </audio>
 
-    <audio id="sfx-hover" src="https://assets.mixkit.co/sfx/preview/mixkit-sci-fi-click-1144.mp3"></audio>
-    <audio id="sfx-click" src="https://assets.mixkit.co/sfx/preview/mixkit-tech-machine-power-on-1798.mp3"></audio>
-    <audio id="sfx-toggle" src="https://assets.mixkit.co/sfx/preview/mixkit-game-futuristic-coin-receive-2292.mp3"></audio>
-
-    <button id="audio-toggle" class="audio-control-button">
-        <i class="fas fa-volume-mute"></i>
-    </button>
-
-    <div class="container">
-        <h1>Kicengan - Pioneros en la Frontera de la IA</h1>
-        <p>Adéntrate en una experiencia sin precedentes que define la próxima era de la Inteligencia Artificial. En Kicengan, no solo imaginamos el futuro, lo construimos. Explora las visiones más audaces donde la tecnología y la cognición humana convergen, creando realidades que desafían los límites de lo posible.</p>
-        
-        <div class="main-image-container interactive">
-            <img class="main-image" src="https://images.unsplash.com/photo-1596541223130-5d31a73f876b?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80" alt="Visión futurista de la interacción humano-IA en Kicengan">
+    <header>
+        <div class="container">
+            <span class="logo">Corporativo Internacional Xicotencatl</span>
         </div>
-        
-        <h2>Nuestra Galería: Ecosistemas de Innovación</h2>
-        <p>Cada imagen es una ventana a la innovación, una instantánea de los algoritmos que respiran, las redes neuronales que evolucionan y las interfaces que conectan mundos. Una celebración visual de la inteligencia artificial más allá de la comprensión convencional.</p>
+    </header>
 
-        <div class="secondary-gallery">
-            <div class="gallery-item interactive">
-                <img src="https://images.unsplash.com/photo-1601614741344-9989b5c2a30d?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80" alt="Interconexión Neural de la IA">
-                <div class="gallery-overlay">
-                    <h3>Interconexión Neural</h3>
-                    <p>Visualización de la complejidad de una red neuronal de IA.</p>
-                </div>
-            </div>
-            <div class="gallery-item interactive">
-                <img src="https://images.unsplash.com/photo-1620712948332-909249052b66?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80" alt="Arquitectura de Datos">
-                <div class="gallery-overlay">
-                    <h3>Arquitectura de Datos</h3>
-                    <p>La base de conocimiento que impulsa la IA de Kicengan.</p>
-                </div>
-            </div>
-            <div class="gallery-item interactive">
-                <img src="https://images.unsplash.com/photo-1582218084534-11488c531d05?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80" alt="Realidad Aumentada y Colaboración Asistida por IA">
-                <div class="gallery-overlay">
-                    <h3>Realidad Aumentada</h3>
-                    <p>Colaboración humana-IA en entornos inmersivos y virtuales.</p>
-                </div>
-            </div>
-            <div class="gallery-item interactive">
-                <img src="https://images.unsplash.com/photo-1549492167-f4e9a38f45a0?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80" alt="Consciencia Artificial y Formas Sintéticas">
-                <div class="gallery-overlay">
-                    <h3>Consciencia Sintética</h3>
-                    <p>La IA tomando forma, un paso hacia la autoconsciencia.</p>
-                </div>
-            </div>
-            <div class="gallery-item interactive">
-                <img src="https://images.unsplash.com/photo-1563200782-b7e28989f660?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80" alt="El Corazón Pensante de la Máquina">
-                <div class="gallery-overlay">
-                    <h3>El Corazón de la IA</h3>
-                    <p>Representación de un cerebro de IA, el motor de la innovación.</p>
-                </div>
-            </div>
-            <div class="gallery-item interactive">
-                <img src="https://images.unsplash.com/photo-1605786884635-f09b2e753066?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80" alt="Visión Robótica y Análisis de Datos Avanzado">
-                <div class="gallery-overlay">
-                    <h3>Visión Robótica</h3>
-                    <p>Máquinas que ven, procesan y aprenden del entorno.</p>
-                </div>
-            </div>
-            <div class="gallery-item interactive">
-                <img src="https://images.unsplash.com/photo-1596956247920-5696c6020786?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80" alt="Arquitectura Cerebral de la IA">
-                <div class="npx shadcn@latest add "https://animateicons.vercel.app/icons/copy.json"
-                
-                
-                gallery-overlay">
-                    <h3>Arquitectura Cerebral</h3>
-                    <p>Un vistazo a la estructura interna de la inteligencia artificial.</p>
-                </div>
-            </div>
-            <div class="gallery-item interactive">
-                <img src="https://images.unsplash.com/photo-1581093557921-26c7104b281f?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80" alt="Sinergia entre Lógica y Creatividad IA">
-                <div class="gallery-overlay">
-                    <h3>Sinergia Lógica</h3>
-                    <p>La convergencia de algoritmos y pensamiento creativo.</p>
-                </div>
-            </div>
+    <div class="hero-section">
+        <div>
+            <h1>Soluciones Estratégicas para la Era Digital</h1>
+            <p>Transformamos su visión de negocio en resultados tangibles mediante la integración de inteligencia artificial y análisis de datos de vanguardia.</p>
         </div>
+    </div>
 
-        <div class="map-section interactive">
-            <h2>Encuéntranos en el Epicentro de la Innovación</h2>
-            
-            <p>Nuestra sede en Cuautitlán Izcalli es el corazón de nuestras operaciones. Visítanos y descubre el lugar donde las ideas del futuro se materializan.</p>
-            <div class="map-container">
-                <iframe src="http://googleusercontent.com/maps.google.com/1" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+    <main>
+        <section class="video-section animated">
+            <div class="container">
+                <h2 class="section-heading">Corporativo Internacional Xicotencatl: La Creación de un Legado Digital</h2>
+                <p class="section-subheading">Inspirados en la esencia de la creación y la armonía, forjamos el futuro digital. Así como los Ainur dieron forma al mundo a través del sonido, nosotros construimos realidades innovadoras mediante la sinfonía de la tecnología y la estrategia.</p>
+                <div class="video-wrapper">
+                    <iframe id="intro-video" src="" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+                    <button class="play-button" id="play-btn">
+                        ▶
+                    </button>
+                </div>
             </div>
-        </div>
+        </section>
+
+        <section class="container">
+            <h2 class="section-heading">Nuestra Propuesta de Valor</h2>
+            <p class="section-subheading">Más que tecnología, ofrecemos una visión que impulsa el crecimiento y la eficiencia de su empresa.</p>
+            <div class="value-prop-grid">
+                <div class="value-prop-item">
+                    <h3>Visión Estratégica</h3>
+                    <p>Fusionamos el análisis de datos con la inteligencia artificial para identificar oportunidades únicas y diseñar estrategias que le den una ventaja competitiva sostenible.</p>
+                </div>
+                <div class="value-prop-item">
+                    <h3>Excelencia Operativa</h3>
+                    <p>Optimizamos sus procesos internos, automatizamos tareas repetitivas y reducimos costos operativos, permitiendo a su equipo enfocarse en lo que realmente importa.</p>
+                </div>
+                <div class="value-prop-item">
+                    <h3>Partnership a Largo Plazo</h3>
+                    <p>Establecemos una relación de colaboración con usted, adaptando nuestras soluciones a la evolución de sus necesidades de negocio para asegurar un éxito continuo.</p>
+                </div>
+            </div>
+        </section>
+
+        <section class="container" style="background-color: var(--color-bg-dark);">
+            <h2 class="section-heading">Nuestros Servicios Estratégicos</h2>
+            <p class="section-subheading">Ofrecemos un portafolio de soluciones diseñadas para catapultar su negocio hacia el futuro.</p>
+            <div class="services-grid">
+                <div class="service-card">
+                    <h3>Consultoría de IA</h3>
+                    <p>Análisis de viabilidad y hoja de ruta para la implementación de soluciones de inteligencia artificial que generen un retorno de inversión claro y medible.</p>
+                </div>
+                <div class="service-card">
+                    <h3>Análisis de Big Data</h3>
+                    <p>Convertimos volúmenes masivos de datos en insights accionables, permitiéndole tomar decisiones fundamentadas y anticipar las tendencias del mercado.</p>
+                </div>
+                <div class="service-card">
+                    <h3>Optimización de Procesos</h3>
+                    <p>Implementación de herramientas de automatización robótica (RPA) y machine learning para aumentar la eficiencia y reducir los errores humanos.</p>
+                </div>
+                <div class="service-card">
+                    <h3>Ciberseguridad Inteligente</h3>
+                    <p>Protección proactiva de sus activos digitales con sistemas de seguridad basados en IA que detectan y neutralizan amenazas antes de que se materialicen.</p>
+                </div>
+            </div>
+        </section>
+
+        <section class="container">
+            <h2 class="section-heading">Xicotencatl Marketing Digitalizado: Estrategias de Impacto</h2>
+            <p class="section-subheading">A través de Xicotencatl Marketing Digitalizado, ampliamos su alcance y construimos su marca con estrategias digitales que resuenan y convierten.</p>
+            <div class="services-grid">
+                <div class="service-card">
+                    <h3>SEO y Estrategia de Contenido</h3>
+                    <p>Mejoramos su visibilidad en buscadores para atraer tráfico orgánico de alta calidad. Creamos contenido valioso que resuena con su audiencia y establece su autoridad en la industria.</p>
+                </div>
+                <div class="service-card">
+                    <h3>Marketing en Redes Sociales</h3>
+                    <p>Gestionamos sus perfiles para construir una comunidad fuerte y comprometida. Desarrollamos campañas que aumentan el reconocimiento de marca y generan interacciones significativas.</p>
+                </div>
+                <div class="service-card">
+                    <h3>Publicidad Digital (SEM)</h3>
+                    <p>Diseñamos y optimizamos campañas de publicidad pagada en Google Ads, Meta Ads y otras plataformas, asegurando un uso eficiente de su presupuesto y un retorno de inversión máximo.</p>
+                </div>
+                <div class="service-card">
+                    <h3>Email Marketing y Automatización</h3>
+                    <p>Creamos campañas de email personalizadas para nutrir leads y retener clientes. Implementamos secuencias automatizadas que simplifican sus procesos de comunicación.</p>
+                </div>
+            </div>
+        </section>
         
-        <div class="social-links">
-            <p>Conecta con nuestro universo de IA:</p>
-            <a href="http://googleusercontent.com/youtube.com/2" target="_blank" title="YouTube Kicengan" data-sfx="true" data-hover-sfx="true"><i class="fab fa-youtube"></i></a>
-            <a href="http://googleusercontent.com/twitter.com/3" target="_blank" title="Twitter Kicengan" data-sfx="true" data-hover-sfx="true"><i class="fab fa-twitter"></i></a>
-            <a href="
-            ---
-sidebar_position: 5
-description: "Celebrate your dedication by earning a Top Reader badge and gain recognition for your activity within specific categories."
----
+        <section class="container" style="background-color: var(--color-bg-dark);">
+            <h2 class="section-heading">Servicios de Hosting</h2>
+            <p class="section-subheading">Asegure la disponibilidad y el rendimiento de su plataforma con nuestro hosting de alta disponibilidad.</p>
+            <div class="services-grid">
+                <div class="service-card">
+                    <h3>Rendimiento Óptimo</h3>
+                    <p>Servidores ultra-rápidos optimizados para IA y aplicaciones web complejas, garantizando una experiencia de usuario fluida y sin interrupciones.</p>
+                </div>
+                <div class="service-card">
+                    <h3>Seguridad Avanzada</h3>
+                    <p>Protección integral con monitoreo 24/7, firewalls avanzados y copias de seguridad automáticas para resguardar sus datos y los de sus clientes.</p>
+                </div>
+                <div class="service-card">
+                    <h3>Soporte 24/7</h3>
+                    <p>Acceso a un equipo de expertos que resolverá cualquier incidencia técnica de forma rápida y eficiente, sin importar la hora o el día.</p>
+                </div>
+                <div class="service-card">
+                    <h3>Escalabilidad Flexible</h3>
+                    <p>Infraestructura que crece con su negocio. Aumente recursos (CPU, RAM, almacenamiento) fácilmente a medida que sus necesidades evolucionan.</p>
+                </div>
+            </div>
+        </section>
 
-# Top Readers
-Top Readers rewards active readers with a badge that highlights their engagement in specific content categories. By encouraging continuous reading, this feature also enables users to share their achievements with others, boosting personal and community engagement across the platform
+        <section class="container">
+            <h2 class="section-heading">Creación de NPCs: Personalidades Digitales</h2>
+            <p class="section-subheading">Desarrollamos asistentes y personajes inteligentes que interactúan de manera autónoma, mejorando la experiencia del cliente y la eficiencia interna.</p>
+            <div class="services-grid">
+                <div class="service-card">
+                    <h3>Asistentes Virtuales (Chatbots)</h3>
+                    <p>Diseñamos e implementamos chatbots que brindan atención al cliente 24/7, responden preguntas frecuentes y automatizan procesos de soporte, liberando a su equipo para tareas más complejas.</p>
+                </div>
+                <div class="service-card">
+                    <h3>Personajes para Gamificación</h3>
+                    <p>Creamos personajes con IA para videojuegos y aplicaciones interactivas, capaces de generar diálogos dinámicos y comportamientos complejos para una experiencia de usuario más inmersiva.</p>
+                </div>
+                <div class="service-card">
+                    <h3>NPCs para Simulación y Formación</h3>
+                    <p>Desarrollamos personajes virtuales inteligentes que participan en simulaciones de entrenamiento, escenarios de seguridad o pruebas de productos, ofreciendo un entorno de aprendizaje seguro y realista.</p>
+                </div>
+            </div>
+        </section>
 
-## Prerequisites
-To be eligible for a Top Reader badge, simply stay active on daily.dev and engage consistently with content in various categories. There’s no additional setup required to start earning badges.
+        <section class="trust-section">
+            <div class="container">
+                <h2 class="section-heading">Impulse su Empresa con la Inteligencia de Xicotencatl</h2>
+                <p class="section-subheading">Únase a los líderes de la industria que ya confían en nuestras soluciones para transformar su futuro. Dé el primer paso hoy.</p>
+                <a href="#" class="cta-button">Conozca Nuestras Soluciones</a>
+            </div>
+        </section>
 
-## Benefits of the Top Readers Feature
-- **Recognition**: Stand out in the community with a visible badge on your profile.
-- **Motivation**: Track and celebrate your reading habits to stay engaged with topics you love.
-- **Community**: Share your badge with friends and colleagues to encourage others to dive deeper into relevant content.
+        <section class="logos-section">
+            <div class="container">
+                <h2 class="section-heading">Confían en Nosotros</h2>
+                <p class="section-subheading">Hemos colaborado con empresas que son referentes en su sector, ayudándoles a alcanzar sus metas digitales.</p>
+                <div class="logos">
+                    <img src="https://via.placeholder.com/150x50.png?text=Empresa+A" alt="Empresa A logo">
+                    <img src="https://via.placeholder.com/150x50.png?text=Empresa+B" alt="Empresa B logo">
+                    <img src="https://via.placeholder.com/150x50.png?text=Empresa+C" alt="Empresa C logo">
+                    <img src="https://via.placeholder.com/150x50.png?text=Empresa+D" alt="Empresa D logo">
+                </div>
+            </div>
+        </section>
+    </main>
 
-![top readers displayed on profile page](https://daily-now-res.cloudinary.com/image/upload/v1730663961/docs/SCR-20241103-szmp.png)
+    <footer>
+        <div class="container">
+            <p>© 2025 Corporativo Internacional Xicotencatl. Todos los derechos reservados.</p>
+            <p>Hecho con <a href="#">pasión</a> y <a href="#">visión</a> en México.</p>
+        </div>
+    </footer>
 
-## How to Earn a Top Reader Badge
-Here's how you can become a Top Reader:
+    <script>
+        document.addEventListener('DOMContentLoaded', function() {
+            // Script para animar las secciones al hacer scroll
+            const sections = document.querySelectorAll('section');
+            const observerOptions = {
+                root: null,
+                rootMargin: '0px',
+                threshold: 0.2
+            };
 
-1. **Read consistently**: Spend time engaging with posts in specific content categories. Categories with higher engagement across the platform are eligible for the Top Reader badge.
-2. **Monthly evaluation**: Every month, daily.dev evaluates reading days for each category. Based on engagement, certain high-activity tags are "whitelisted" for badge eligibility.
-3. **Notification**: If you're among the top readers for a category, you’ll receive both an in-app notification and an email letting you know you’ve earned the Top Reader badge.
-4. **Display on profile**: Once awarded, your badge will display on your profile, showcasing the number of times you've earned this recognition and the specific categories where you excel.
+            const observer = new IntersectionObserver((entries, observer) => {
+                entries.forEach(entry => {
+                    if (entry.isIntersecting) {
+                        entry.target.classList.add('animated');
+                        observer.unobserve(entry.target);
+                    }
+                });
+            }, observerOptions);
 
-## Badge Frequency and Display
-- **Monthly updates**: Badges are awarded each month based on the previous month’s activity. Stay consistent to earn badges across multiple categories!
-- **Profile display**: Your Top Reader badge will show on your profile page, highlighting the number of times you've earned it and the categories associated with your achievements.
-- **Badge download**: Download your badge from the in-app notification to share your accomplishment outside of daily.dev.
+            sections.forEach(section => {
+                observer.observe(section);
+            });
 
-## Troubleshooting
-If your badge isn’t displaying correctly or if you don’t receive a notification after significant activity in a category:
-- Verify your reading days and make sure you’re engaging consistently in high-activity categories.
-- Refresh your profile page after receiving the in-app notification.
-- For further support, reach out to [support@daily.dev](mailto:support@daily.dev).
+            // Script para el botón de reproducción del video
+            const video = document.getElementById('intro-video');
+            const playButton = document.getElementById('play-btn');
+
+            if (playButton && video) {
+                playButton.addEventListener('click', function() {
+                    // **IMPORTANTE:** Reemplaza 'TU_VIDEO_ID' con el ID real de tu video de YouTube.
+                    // Ejemplo: para https://www.youtube.com/watch?v=dQw4w9WgXcQ, el ID es dQw4w9WgXcQ
+                    const videoId = 'dQw4w9WgXcQ'; 
+
+                    // Construye la URL de inserción de YouTube
+                    video.src = `https://www.youtube.com/embed/${videoId}?autoplay=1`;
+                    
+                    // Oculta el botón de reproducción
+                    playButton.style.display = 'none';
+                });
+            }
+        });
+    </script>
+
+</body>
+</html>
