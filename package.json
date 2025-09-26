@@ -28,18 +28,18 @@
     "security:audit": "npm audit --audit-level=high"
   },
   "dependencies": {
-    "@docusaurus/core": "^3.4.0",
-    "@docusaurus/plugin-client-redirects": "^3.5.2",
-    "@docusaurus/plugin-ideal-image": "^3.5.2",
-    "@docusaurus/plugin-pwa": "^3.8.1",
-    "@docusaurus/plugin-sitemap": "^3.5.2",
-    "@docusaurus/preset-classic": "^3.4.0",
-    "@docusaurus/theme-search-algolia": "^3.4.0",
-    "@mdx-js/react": "^3.0.1",
+    "@docusaurus/core": "^3.9.0",
+    "@docusaurus/plugin-client-redirects": "^3.9.0",
+    "@docusaurus/plugin-ideal-image": "^3.9.0",
+    "@docusaurus/plugin-pwa": "^3.9.0",
+    "@docusaurus/plugin-sitemap": "^3.9.0",
+    "@docusaurus/preset-classic": "^3.9.0",
+    "@docusaurus/theme-search-algolia": "^3.9.0",
+    "@mdx-js/react": "^3.1.1",
     "@svgr/webpack": "^8.1.0",
     "clsx": "^2.1.1",
     "file-loader": "^6.2.0",
-    "prism-react-renderer": "^2.3.1",
+    "prism-react-renderer": "^2.4.1",
     "react": "^18.3.1",
     "react-dom": "^18.3.1",
     "url-loader": "^4.1.1"
@@ -60,8 +60,8 @@
     ]
   },
   "devDependencies": {
-    "@docusaurus/eslint-plugin": "^3.4.0",
-    "@playwright/test": "^1.40.0",
+    "@docusaurus/eslint-plugin": "^3.9.0",
+    "@playwright/test": "^1.55.1",
     "eslint": "^8.57.0",
     "eslint-plugin-jsx-a11y": "^6.8.0",
     "eslint-plugin-react": "^7.33.2",
