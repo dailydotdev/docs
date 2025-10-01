@@ -50,7 +50,7 @@ Learn more about [how feeds work](key-features/feeds).
 Build your presence and connect with other developers through our vibrant community features:
 
 - **Create a profile**: Set up your [developer profile](your-profile/activity) to participate fully
-- **Engage with content**: [Upvote](key-features/upvotes), comment, and [bookmark](key-features/bookmarks) posts
+- **Engage with content**: [Upvote](key-features/upvotes), comment, [create polls](key-features/polls), and [bookmark](key-features/bookmarks) posts
 - **Join developer Squads**: Discover and join [Squads](squads/creating-your-squad) - specialized communities focused on specific technologies, topics, or interests
 - **Create your own Squad**: Start your own developer community around your expertise or interests
 - **Share your activity**: Generate and share your [DevCard](your-profile/devcard) to showcase your interests and reading habits
@@ -70,6 +70,7 @@ Make daily.dev work exactly how you want:
 
 - 🔍 **[Search](key-features/search)**: Find specific content across all sources
 - 💬 **[Discussions](key-features/discussions)**: Engage in meaningful conversations
+- 🗳️ **[Polls](key-features/polls)**: Gather community opinions with interactive voting
 - 👥 **[Squads](squads/creating-your-squad)**: Join or create developer communities around shared interests - the heart of daily.dev's community experience with specialized groups for technologies like React, AI, DevOps, and more
 - 📱 **[The Companion](key-features/the-companion)**: Quick access widget for seamless browsing
 

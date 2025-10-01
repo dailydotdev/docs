@@ -1,5 +1,5 @@
 ---
-sidebar_position: 9
+sidebar_position: 10
 description: "Learn about Community Picks on daily.dev and how content contribution has evolved with the new direct posting feature."
 ---
 

@@ -11,6 +11,10 @@ Discussions are a valuable way to engage with the professional developer communi
 
 As a professional network for developers, we highly value the opportunity for our community members to participate in public discussions. Discussions allow you to share your thoughts, insights, and experiences related to a post or topic and contribute to the community's collective knowledge.
 
+:::tip Looking for lighter engagement?
+Check out [Polls](/docs/key-features/polls) - a quick way to gather community opinions and spark discussions with just one click!
+:::
+
 Participating in discussions can benefit you in several ways:
 1. Gain insights from others: Discussions provide an opportunity to learn from other experienced developers who have read the post. You can gain additional insights, perspectives, and tips to enhance your understanding of the topic.
 

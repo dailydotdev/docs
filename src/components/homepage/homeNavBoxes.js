@@ -40,6 +40,7 @@ const FeatureList = [
       { url: 'docs/key-features/feeds', text: 'Feeds' },
       { url: 'docs/key-features/upvotes', text: 'Upvotes & Downvotes' },
       { url: 'docs/key-features/discussions', text: 'Discussions' },
+      { url: 'docs/key-features/polls', text: 'Polls' },
       { url: 'docs/key-features/bookmarks', text: 'Bookmarks' },
       { url: 'docs/key-features/search', text: 'Search' },
       { url: 'docs/key-features/pause-new-tab', text: 'Pause New Tab (DND)' },

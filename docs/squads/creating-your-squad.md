@@ -23,7 +23,7 @@ Squads offer several interactive features to create an engaging experience:
 
 ✨ **Invite Members**: Bring in developers to discuss, share resources, and collaborate.
 
-✨ **Post & Share Content**: Depending on settings, posting can be open to everyone or restricted to moderators. Enjoy full Markdown compatibility for rich discussions.
+✨ **Post & Share Content**: Depending on settings, posting can be open to everyone or restricted to moderators. Share articles, create [polls](/docs/key-features/polls) to gather squad opinions, and enjoy full Markdown compatibility for rich discussions.
 
 ✨ **Moderation Tools**: As an admin, you have tools to manage posts, comments, and member interactions. 
 

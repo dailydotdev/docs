@@ -1,5 +1,5 @@
 ---
-sidebar_position: 8
+sidebar_position: 9
 description: "Learn about the daily.dev Companion Widget, its features, activation process, and how it enhances user engagement directly on post pages."
 ---
 
