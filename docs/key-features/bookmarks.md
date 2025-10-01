@@ -1,5 +1,5 @@
 ---
-sidebar_position: 5
+sidebar_position: 6
 description: "Learn how to save, organize, and sync daily.dev bookmarks across devices and share them on GitHub for seamless access and integration."
 ---
 
