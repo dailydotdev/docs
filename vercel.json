@@ -1,5 +1,5 @@
 {
   "cleanUrls": true,
   "trailingSlash": false,
-  "framework": "docusaurus"
+  "framework": "docusaurus-2"
 }
