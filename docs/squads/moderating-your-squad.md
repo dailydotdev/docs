@@ -15,15 +15,15 @@ Note: The tools described here are foundational for Squad management. We’re ac
 
 ## Key Moderation Features
 
-✨ **Post Approval**: Public Squads allow all members to post by default, but admins and moderators must approve posts before they go live. This ensures content aligns with your Squad’s code of conduct and quality expectations.  
+**Post Approval**: Public Squads allow all members to post by default, but admins and moderators must approve posts before they go live. This ensures content aligns with your Squad's code of conduct and quality expectations.
 
-✨ **Content Moderation**: Admins can delete posts and comments that violate guidelines to maintain a healthy discussion environment.  
+**Content Moderation**: Admins can delete posts and comments that violate guidelines to maintain a healthy discussion environment.
 
-✨ **User Management**: Block users who repeatedly violate guidelines, and reverse the action if necessary.  
+**User Management**: Block users who repeatedly violate guidelines, and reverse the action if necessary.
 
-✨ **Role Assignments**: Assign roles such as moderators or admins to trusted members to distribute management responsibilities.
+**Role Assignments**: Assign roles such as moderators or admins to trusted members to distribute management responsibilities.
 
-✨ **Reporting and Feedback**: Members can now report inappropriate Squads or posts. Reported content is reviewed by the daily.dev moderation team to maintain a safe and inclusive platform.
+**Reporting and Feedback**: Members can now report inappropriate Squads or posts. Reported content is reviewed by the daily.dev moderation team to maintain a safe and inclusive platform.
 
 ## Managing Posts
 
@@ -84,4 +84,4 @@ Public Squads must comply with daily.dev’s content guidelines to maintain thei
 - Assign trusted members as moderators to share the workload.  
 - Regularly engage with members to foster a sense of community.
 
-Effective moderation is key to growing a vibrant, respectful, and valuable Squad. 🚀
+Effective moderation supports community growth and maintains quality standards.

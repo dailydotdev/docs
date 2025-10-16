@@ -5,10 +5,10 @@ description: "Learn how to search for content, users, tags, squads, and sources 
 
 # Search
 
-daily.dev’s search is your go-to way to explore the platform. Whether you’re looking for a specific post, a trusted source, trending tags, or other developers — it’s all just a few keystrokes away.
+daily.dev's search enables you to explore the platform efficiently. Whether you're looking for a specific post, a trusted source, trending tags, or other developers — it's all just a few keystrokes away.
 
 :::info
-We’ve sunset our AI-powered search due to low adoption. Like any good startup experiment, it taught us a lot. We're using those learnings to build even better experiences ahead — stay tuned.
+We've sunset our AI-powered search due to low adoption. We retired this feature based on usage data and user feedback. We're using those learnings to build even better experiences ahead — stay tuned.
 :::
 
 ## What you can search for

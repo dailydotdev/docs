@@ -19,15 +19,15 @@ A Squad can be **Public** or **Private**:
 
 Squads offer several interactive features to create an engaging experience:
 
-✨ **Create a Squad**: Customize your Squad with a unique name, handle, image, description, and select a category for Public Squads.
+**Create a Squad**: Customize your Squad with a unique name, handle, image, description, and select a category for Public Squads.
 
-✨ **Invite Members**: Bring in developers to discuss, share resources, and collaborate.
+**Invite Members**: Bring in developers to discuss, share resources, and collaborate.
 
-✨ **Post & Share Content**: Depending on settings, posting can be open to everyone or restricted to moderators. Share articles, create [polls](/docs/key-features/polls) to gather squad opinions, and enjoy full Markdown compatibility for rich discussions.
+**Post & Share Content**: Depending on settings, posting can be open to everyone or restricted to moderators. Share articles, create [polls](/docs/key-features/polls) to gather squad opinions, and enjoy full Markdown compatibility for rich discussions.
 
-✨ **Moderation Tools**: As an admin, you have tools to manage posts, comments, and member interactions. 
+**Moderation Tools**: As an admin, you have tools to manage posts, comments, and member interactions.
 
-✨ **Integrate with Work Tools**: Kickstart collaboration by integrating your Squad with work-related tools, such as Slack. This makes setup seamless and enables stronger team alignment.
+**Integrate with Work Tools**: Kickstart collaboration by integrating your Squad with work-related tools, such as Slack. This makes setup seamless and enables stronger team alignment.
 
 ## How to Create a Squad
 
@@ -52,4 +52,4 @@ When creating a Squad, select the desired visibility:
 
 Public Squads must select a category during setup. Categories like Web, Mobile, AI, and Fun help users discover Squads that align with their interests.
 
-Good luck! We can’t wait to see your community thrive ✨
+For additional guidance, see our Squad moderation documentation.

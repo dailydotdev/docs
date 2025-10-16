@@ -7,7 +7,7 @@ description: "Learn how to create and manage a Public Squad on daily.dev to boos
 
 ## Introduction to Public Squads
 
-Building a developer community is tough. That’s why we built daily.dev Squads—to make it easier to create a thriving developer community from day one. With Public Squads, you can start building your community while tapping into the global daily.dev ecosystem, where developers are already active and engaged.
+daily.dev Squads provide tools to build and grow developer communities effectively. With Public Squads, you can start building your community while tapping into the global daily.dev ecosystem, where developers are already active and engaged.
 
 Public Squads are the best way to feature your content and gain organic exposure on daily.dev. These Squads are open to everyone and discoverable in the [Squads Directory](https://app.daily.dev/squads). They help you connect with developers who share your interests, making it easier to create a vibrant, active community.
 
@@ -17,17 +17,17 @@ Public Squads are the best way to feature your content and gain organic exposure
 
 What makes Public Squads special?
 
-✨ **Discoverability**: Public Squads are integrated into the daily.dev ecosystem, making them visible to a global network of developers already active on the platform.
+**Discoverability**: Public Squads are integrated into the daily.dev ecosystem, making them visible to a global network of developers already active on the platform.
 
-✨ **High Engagement**: Developers on daily.dev are engaged and ready to talk, so you won’t have to struggle to keep conversations alive. Public Squads foster meaningful interactions and discussions.
+**High Engagement**: Developers on daily.dev are engaged and ready to talk, so you won't have to struggle to keep conversations alive. Public Squads foster meaningful interactions and discussions.
 
-✨ **Content Curation**: As a Squad leader, you can curate articles, tutorials, and videos that resonate with your community, keeping members engaged and informed.
+**Content Curation**: As a Squad leader, you can curate articles, tutorials, and videos that resonate with your community, keeping members engaged and informed.
 
-✨ **Immediate Visibility**: There’s no longer a need for manual review to become a public Squad. Simply set your Squad to Public during creation, and you're good to go.  
+**Immediate Visibility**: There's no longer a need for manual review to become a public Squad. Simply set your Squad to Public during creation, and you're good to go.
 
-✨ **Community Interaction**: Public Squads allow for open engagement, and by default, all members can post (with admin approval required) and invite others to join.  
+**Community Interaction**: Public Squads allow for open engagement, and by default, all members can post (with admin approval required) and invite others to join.
 
-✨ **Reporting and Moderation**: Admins and moderators of a Squad get various tools to ensure the community stays safe and healthy.
+**Reporting and Moderation**: Admins and moderators of a Squad get various tools to ensure the community stays safe and healthy.
 
 ## Benefits of Being a Public Squad
 
@@ -69,4 +69,4 @@ To maximize your impact as a Public Squad:
 **Public Status is Revocable**: Non-compliance with content guidelines or misuse of the platform may result in losing Public status. Use this privilege responsibly.
 :::
 
-With Public Squads, you get a head start in building a thriving developer community. Let’s build some amazing communities together! 🚀
+Public Squads provide enhanced visibility and tools to grow your developer community effectively.

@@ -17,11 +17,11 @@ Cores are not cash, crypto, or legal tender. They can’t be used outside daily.
 
 ## Why Cores matter
 
-Likes are cheap. Cores aren’t.
+Cores provide a meaningful way to reward valuable contributions beyond simple likes.
 
-They let you reward contributions that actually help you—whether it’s a great answer, a sharp insight, or a post that made you rethink something. The more Cores circulate, the stronger our community becomes.
+They let you reward contributions that actually help you—whether it's a great answer, a sharp insight, or a post that made you rethink something. The more Cores circulate, the stronger our community becomes.
 
-For creators, this opens a new path: instead of chasing clicks, they can focus on creating value—and get rewarded for it.
+Cores enable creators to focus on producing valuable content while receiving direct community support.
 
 :::tip
 While today Cores are used mainly for rewarding content and creators, we’re actively building new features around them—including post boosts, premium interactions, exclusive content, and more. Holding Cores today means you’re ready for everything we launch next.

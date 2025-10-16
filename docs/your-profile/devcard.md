@@ -7,7 +7,7 @@ description: "Create and customize your daily.dev DevCard to showcase your activ
 
 ## Show Off Your daily.dev Activity!
 
-The DevCard is a fun way to showcase your daily.dev activity and share your dev interests and commitment with others. It shows info on how many posts you’ve read on daily.dev, how many reputation points you have, the sources and tags you read, and Squads you’ve joined. It’s been a while since we released the DevCard, and we’re excited to update it and make it cooler. You can generate your own DevCard, customize it, and share it with the hashtag #DevCard to flex with friends and colleagues.
+The DevCard displays your daily.dev activity and statistics, including the number of posts you've read, your reputation points, the sources and tags you follow, and Squads you've joined. You can generate your own DevCard, customize it, and share your activity with your network using the hashtag #DevCard.
 
 <img src="https://daily-now-res.cloudinary.com/image/upload/v1708250583/docs/2_5.jpg" alt='Highlight of the DevCard showcasing daily.dev user activity' width="900" height="100%" />
 

@@ -7,25 +7,21 @@ description: "Discover special features for content creators on daily.dev, inclu
 
 ## Who is This Guide For?
 
-✏️ Do you write blog posts for developers?
+Do you write blog posts for developers?
 
-🔭 Have you seen your blog post picked up by the daily.dev feed?
+Have you seen your blog post picked up by the daily.dev feed?
 
-🚗 Are you curious about how much traffic your post received through daily.dev?
+Are you curious about how much traffic your post received through daily.dev?
 
-👽 Do you believe in UFOs? Just kidding.
-
-If you answered yes to the first three questions, this guide is for you!
+If you answered yes to these questions, this guide is for you!
 
 ## Introducing New Features for Content Creators
 
-In this guide, we will cover:
+This guide covers:
 
-1. Why claim ownership of posts you’ve written?
-2. How to claim ownership of your posts.
-3. How to get your content featured on daily.dev.
-
-Let’s get started! 🚀
+1. Why claim ownership of posts you've written
+2. How to claim ownership of your posts
+3. How to get your content featured on daily.dev
 
 ## Why Claim Ownership of a Post You Wrote?
 

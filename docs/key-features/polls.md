@@ -16,7 +16,7 @@ Each poll includes:
 - 7-day active voting period
 - Full integration with daily.dev's commenting, upvoting, and sharing features
 
-Polls bridge the gap between passive consumption and active participation, offering a middle ground for users who want to contribute meaningfully without writing lengthy comments.
+Polls enable quick participation without requiring detailed written responses.
 
 **[See a live poll in action →](https://app.daily.dev/posts/can-you-guess-which-feature-we-just-shipped--cpg33xsvg)**
 
@@ -39,7 +39,7 @@ Polls offer several benefits for community engagement:
 3. Fill in the required information:
    - **Question**: Write your poll question (be clear and specific)
    - **Answer options**: Add 2–4 possible answers
-   - **Audience**: Choose to post to everyone or a specific Squad
+- **Audience**: Choose to post to everyone or a specific Squad
 
 ### Poll creation tips
 

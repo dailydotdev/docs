@@ -5,7 +5,7 @@ description: "Explore the daily.dev Progressive Web App (PWA) for a seamless, cr
 
 # Progressive Web App (PWA) for daily.dev
 
-Experience daily.dev like never before with our fully responsive and user-friendly **progressive web app (PWA)**! Stay up-to-date with the latest developer news, tips, and insights on any device, anytime, anywhere. Read on to learn how you can add a shortcut to your home screen on iOS and Android for quick access to the daily.dev PWA!
+Access daily.dev through our fully responsive and user-friendly **progressive web app (PWA)**. Stay up-to-date with the latest developer news, tips, and insights on any device, anytime, anywhere. This guide explains how to add a shortcut to your home screen on iOS and Android for quick access to the daily.dev PWA.
 
 All you need to do is visit [this URL to access daily.dev on any device](https://app.daily.dev).
 

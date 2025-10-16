@@ -5,13 +5,13 @@ description: "Meet the Presidential Briefing - your personal AI agent that scans
 
 # Presidential Briefing
 
-Meet the Presidential Briefing 🤝 Your personal AI agent that does the impossible so you don't have to.
+Meet the Presidential Briefing. Your personal AI agent that does the impossible so you don't have to.
 
-Every day, it scans hundreds of posts, videos, Squad threads, changelogs, and releases across the dev world. It reads and watches everything (yes… it's sick. We know). Then it compresses the signal into a personalized, high-impact post, written just for you.
+The system scans hundreds of posts, videos, Squad threads, changelogs, and releases daily across the developer ecosystem. It processes all of this content and delivers a personalized, high-impact briefing written just for you.
 
 This isn't a fancy summary. It's a fully autonomous system that works behind the scenes to keep you effortlessly in the know. It adapts to your habits, your reading style, and your pace. The result? A briefing so sharp, it could save you hundreds of hours over time and keep you ahead of everyone else.
 
-No templates. No fluff. Just 3–5 minutes that make you feel caught up, not buried.
+Each briefing provides essential updates in 3–5 minutes.
 
 ## Why you'll love it
 
@@ -34,9 +34,9 @@ The critical stuff. A couple of high-signal highlights the agent believes you mu
 
 Stories and updates that broaden your perspective. Not everything here is tailored to your usual taste, but it's all relevant and worth your time. Think of it as curated horizon-expansion.
 
-### Bullshit Police 💀
+### Critical Analysis
 
-Welcome to your built-in bullshit detector. We call out the biggest pieces of hype, misinformation, or plain nonsense circulating in the dev world. It's your shield against fake news and your secret weapon in any watercooler debate.
+Welcome to your built-in content verification system. We identify the biggest pieces of hype, misinformation, or misleading information circulating in the developer world. It's your shield against unreliable information and your tool for critical thinking.
 
 ## Access and Availability
 

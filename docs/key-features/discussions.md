@@ -7,7 +7,7 @@ description: "Engage in discussions on daily.dev to share insights, connect with
 
 ## What is a discussion?
 
-Discussions are a valuable way to engage with the professional developer community on daily.dev and share insights on various topics!
+Discussions are a valuable way to engage with the professional developer community on daily.dev and share insights on various topics.
 
 As a professional network for developers, we highly value the opportunity for our community members to participate in public discussions. Discussions allow you to share your thoughts, insights, and experiences related to a post or topic and contribute to the community's collective knowledge.
 
@@ -27,7 +27,7 @@ Participating in discussions can benefit you in several ways:
 
 Click on any post in the feed to see the post modal.
 
-Beneath the title, TLDR (Now powered by Open AI!), and post image, you can see all the comments on the post.
+Beneath the title, TLDR (powered by OpenAI), and post image, you can see all the comments on the post.
 
 You can upvote, downvote, comment, bookmark, and copy the link.
 
@@ -51,7 +51,7 @@ You can then leave a comment [using markdown](#writing-comments-in-markdown) in 
 
 ### Writing comments in markdown
 
-You can [use markdown](https://www.markdownguide.org/cheat-sheet/) when commenting on posts 🎉 
+You can [use markdown](https://www.markdownguide.org/cheat-sheet/) when commenting on posts. 
 
 Including: 
 * Headings (using `#` for a h1 through to `######` for a h6 ) 

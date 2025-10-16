@@ -11,15 +11,15 @@ Grow your reach on daily.dev with our Boost tools. Promote your posts to get mor
 
 ## Key features
 
-✨ **Automated targeting**: Our recommendation engine promotes your content to the right developers based on tags, reading habits, and engagement signals. No setup needed.
+**Automated targeting**: Our recommendation engine promotes your content to the right developers based on tags, reading habits, and engagement signals. No setup needed.
 
-✨ **Flexible budget control**: Set your daily budget in cores and choose how long your boost runs. You're always in control.
+**Flexible budget control**: Set your daily budget in cores and choose how long your boost runs. You're always in control.
 
-✨ **Native placements**: Boosted content shows up in the feed, Squad directory, and discovery areas clearly labeled but fully integrated.
+**Native placements**: Boosted content shows up in the feed, Squad directory, and discovery areas clearly labeled but fully integrated.
 
-✨ **Real-time insights**: Track spend, impressions, clicks, engagement, and growth metrics in the ads dashboard.
+**Real-time insights**: Track spend, impressions, clicks, engagement, and growth metrics in the ads dashboard.
 
-✨ **Two boost types**: Promote individual posts for engagement or boost entire Squads to attract new members.
+**Two boost types**: Promote individual posts for engagement or boost entire Squads to attract new members.
 
 ## Boost types
 

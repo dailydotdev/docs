@@ -18,11 +18,11 @@ Prefer a video version? Check out this 6-minute video that explains each feed in
 
 ## My feed
 
-Your feed contains posts that are relevant to you and your interests (once you have set it up).
+Your feed contains posts that are relevant to your interests after you configure your preferences.
 
 ### Creating your personal feed
 
-If you are new to daily.dev, the first thing we strongly recommend is setting up filters on your feed. This will unlock the true power of daily.dev, showing posts that are relevant to your interests.
+For new users, we recommend configuring feed filters to personalize your content. This enables personalized content recommendations based on your interests.
 
 There are three guides to help you get the most out of your feed:
 1. A detailed guide on how to [set up your feed](/docs/setting-up-your-feed/filtering-content-feed).
@@ -81,4 +81,4 @@ There are three options (6):
 
 ## Best discussions feed
 
-In the "Best Discussions" feed, we showcase the most interesting discussions currently taking place on daily.dev. The ranking is determined by multiple factors, including the reputation levels of the people who commented, the freshness of the comments, and the number of upvotes on the comments, among others. This feed is designed to help you find engaging and interesting discussions that you can participate in!
+In the "Best Discussions" feed, we showcase the most interesting discussions currently taking place on daily.dev. The ranking is determined by multiple factors, including the reputation levels of the people who commented, the freshness of the comments, and the number of upvotes on the comments, among others. This feed is designed to help you find engaging and interesting discussions that you can participate in.
