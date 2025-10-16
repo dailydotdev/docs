@@ -11,15 +11,15 @@ Upvotes and downvotes are essential tools in community-driven products, allowing
 Keep in mind that you can only select either upvote or downvote for a post—not both. This ensures the integrity and accuracy of our voting system.
 :::
 
-## Upvoting in daily.dev 👍
+## Upvoting in daily.dev
 
-On daily.dev, upvotes are a fantastic way to acknowledge the quality of posts, show support, and express appreciation for the work of others. Here’s why upvoting is highly encouraged:
+On daily.dev, upvotes acknowledge the quality of posts, show support, and express appreciation for the work of others. Here's why upvoting is highly encouraged:
 
 1. It helps the feed algorithm understand community-approved content, enabling us to show the most interesting posts to our community.
 2. It gives recognition to content creators for their hard work.
 3. It signals to other community members that a post is engaging, saving them time in finding valuable content.
 
-## Downvoting in daily.dev 👎
+## Downvoting in daily.dev
 
 Downvotes indicate that you didn’t find a post helpful or interesting. Here’s why downvoting is important:
 
@@ -39,4 +39,4 @@ To downvote a post, you can do so either on the post page itself or in the feed.
 
 ## How to share a link
 
-Just click on the bottom on the left, with the 🔗 icon, and you will have the link in your clipboard!
+Click the link icon in the bottom left to copy the link to your clipboard.

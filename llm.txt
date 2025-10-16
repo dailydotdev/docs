@@ -1,0 +1,289 @@
+# daily.dev Documentation
+
+> Official documentation site for daily.dev - A professional network for developers
+> Built with Docusaurus 3, React 18, and MDX
+> URL: https://docs.daily.dev
+> Repository: https://github.com/dailydotdev/docs
+
+## Project Overview
+
+This is the comprehensive documentation site for daily.dev, a platform that aggregates tech news and provides community features for developers. The documentation covers all aspects of the platform including getting started guides, feature explanations, customization options, and community guidelines.
+
+**Key Information:**
+- Framework: Docusaurus 3.9.0
+- Frontend: React 18.3.1
+- Content Format: MDX (Markdown with JSX)
+- Search: Algolia Search integration
+- Node Version: 22.x
+- License: AGPL-3.0
+
+## Project Structure
+
+```
+/
+├── docs/                           # Main documentation content (MDX/Markdown)
+│   ├── intro.md                   # Introduction and quick start guide
+│   ├── getting-started/           # Platform installation guides
+│   │   ├── browser-extension-installation.md
+│   │   └── pwa.md
+│   ├── key-features/              # Core feature documentation
+│   │   ├── feeds.md
+│   │   ├── search.md
+│   │   ├── upvotes.md
+│   │   ├── bookmarks.md
+│   │   ├── discussions.md
+│   │   ├── polls.md
+│   │   ├── pause-new-tab.md
+│   │   ├── the-companion.md
+│   │   └── community-picks.md
+│   ├── customize-your-feed/       # Feed customization options
+│   │   ├── layout.md
+│   │   ├── density.md
+│   │   ├── theme.md
+│   │   └── preferences.md
+│   ├── setting-up-your-feed/      # Feed configuration guides
+│   │   ├── filtering-content-feed.md
+│   │   ├── advanced-filtering-options.md
+│   │   └── blocking-tags-sources.md
+│   ├── squads/                    # Community features documentation
+│   │   ├── creating-your-squad.md
+│   │   ├── growing-your-squad.md
+│   │   ├── moderating-your-squad.md
+│   │   ├── public-squads.md
+│   │   ├── featured-squads.md
+│   │   └── slack-integration.md
+│   ├── plus/                      # Premium features documentation
+│   │   ├── plus-overview.md
+│   │   ├── smart-prompts.md
+│   │   ├── presidential-briefing.md
+│   │   ├── clickbait-shield.md
+│   │   ├── custom-feeds.md
+│   │   ├── bookmark-folders.md
+│   │   └── keyword-filters.md
+│   ├── monetization/              # Platform monetization features
+│   │   ├── cores.md
+│   │   ├── awards.md
+│   │   └── boost.md
+│   ├── organizations/             # Team/enterprise features
+│   │   ├── overview.md
+│   │   ├── creating-organization.md
+│   │   ├── managing-organization.md
+│   │   ├── inviting-members.md
+│   │   ├── managing-members.md
+│   │   └── billing-management.md
+│   ├── your-profile/              # User profile documentation
+│   │   ├── account-details.md
+│   │   ├── activity.md
+│   │   ├── devcard.md
+│   │   ├── reputation.md
+│   │   ├── reading-history.md
+│   │   ├── top-readers.md
+│   │   ├── weekly-goal.md
+│   │   ├── verified-badge.md
+│   │   └── deleting-your-profile.md
+│   └── for-content-creators/      # Content creator resources
+│       ├── content-guidelines.md
+│       ├── how-to-get-featured.md
+│       ├── claiming-ownership-on-article.md
+│       └── suggest-new-source.md
+├── src/                           # React components and custom pages
+│   ├── components/                # Reusable React components
+│   │   └── homepage/              # Homepage-specific components
+│   ├── pages/                     # Custom pages (non-docs)
+│   │   └── index.js               # Homepage component
+│   └── css/                       # Global stylesheets
+│       └── custom.css             # Theme customization
+├── static/                        # Static assets
+│   └── img/                       # Images and icons
+├── docusaurus.config.js          # Main site configuration
+├── sidebars.js                   # Documentation sidebar structure
+├── CLAUDE.md                     # Claude Code instructions
+├── README.md                     # Project README
+└── package.json                  # Dependencies and scripts
+```
+
+## Key Configuration Files
+
+### docusaurus.config.js
+- Site metadata and configuration
+- Navbar and footer configuration
+- Plugin settings (search, PWA, sitemap, etc.)
+- Theme configuration
+- Deployment settings
+
+### sidebars.js
+- Auto-generates sidebar from docs/ folder structure
+- Uses _category_.json files in subdirectories for metadata
+
+### CLAUDE.md
+- Instructions for AI assistants working with this codebase
+- Project-specific conventions and preferences
+- Development workflow guidance
+
+## Documentation Categories
+
+The documentation is organized into these main sections:
+
+1. **Getting Started** - Installation and initial setup
+2. **Key Features** - Core platform functionality
+3. **Setting Up Your Feed** - Feed configuration and filtering
+4. **Customization** - Visual and preference customization
+5. **Squads** - Community and collaboration features
+6. **Plus Features** - Premium subscription features
+7. **Monetization** - Cores, awards, and boost system
+8. **Organizations** - Team subscriptions and management
+9. **Your Profile** - Personal profile and statistics
+10. **For Content Creators** - Guidelines and tools for creators
+
+## Technology Stack
+
+### Core Framework
+- **Docusaurus 3.9.0**: Static site generator with built-in React support
+- **React 18.3.1**: UI component library
+- **MDX 3.1.1**: Markdown with JSX component support
+- **Node.js 22.x**: Runtime environment
+
+### Key Dependencies
+- **@docusaurus/preset-classic**: Default Docusaurus plugin bundle
+- **@docusaurus/theme-search-algolia**: Algolia search integration
+- **@docusaurus/plugin-ideal-image**: Responsive image optimization
+- **@docusaurus/plugin-pwa**: Progressive Web App support
+- **prism-react-renderer**: Code syntax highlighting
+
+### Development Tools
+- **ESLint**: Code linting
+- **Prettier**: Code formatting
+- **Playwright**: End-to-end testing
+- **Lighthouse CI**: Performance monitoring
+
+## Development Workflow
+
+### Local Development
+```bash
+npm start          # Start dev server at localhost:3000
+npm run build      # Build for production
+npm run serve      # Serve built site locally
+npm run clear      # Clear Docusaurus cache
+```
+
+### Code Quality
+```bash
+npm run lint       # Run ESLint
+npm run format     # Format with Prettier
+npm test           # Run Playwright tests
+```
+
+### Docker
+```bash
+npm run docker:compose  # Build and run with Docker Compose
+npm run docker:run      # Run pre-built image
+```
+
+## Content Guidelines
+
+When working with documentation:
+
+1. **File Format**: Use Markdown (.md) or MDX (.mdx) for documentation
+2. **Frontmatter**: Include sidebar_position and description in YAML frontmatter
+3. **Links**: Use relative paths for internal links
+4. **Images**: Store in static/img/ directory
+5. **Components**: Can embed React components in MDX files
+6. **Tone**: Professional, developer-friendly, clear and concise
+7. **Structure**: Use proper heading hierarchy (H1 > H2 > H3)
+
+## Important Conventions
+
+### Documentation Style
+- Remove unnecessary emojis (per CLAUDE.md guidelines)
+- Use professional language without excessive marketing tone
+- Prefer technical clarity over promotional content
+- Keep exclamation marks to a minimum
+- Avoid slang and overly casual language
+
+### File Organization
+- Each main category has its own directory
+- Use _category_.json for category metadata
+- Sidebar is auto-generated from folder structure
+- Maintain consistent naming (kebab-case for files)
+
+### Links and References
+- Use relative paths: `[link text](../category/page.md)`
+- For in-page anchors: `[link text](#section-id)`
+- For external links: `[link text](https://example.com)`
+
+## Search and Discovery
+
+The site uses Algolia DocSearch for search functionality:
+- Automatically indexes all content
+- Provides instant search results
+- Supports keyboard shortcuts (Cmd/Ctrl + K)
+- Configuration in docusaurus.config.js
+
+## Deployment
+
+The site is deployed to production at https://docs.daily.dev:
+- Automated deployment via Vercel
+- Builds triggered on push to main branch
+- Preview deployments for pull requests
+- Configuration in vercel.json
+
+## Key Features Documentation
+
+### For Users
+- Browser extension installation and PWA setup
+- Feed customization and filtering
+- Community features (Squads, discussions, polls)
+- Profile management and reputation system
+- Bookmarks and reading history
+
+### For Content Creators
+- Content submission guidelines
+- Claiming article ownership
+- Getting featured on the platform
+- Source suggestion process
+
+### Premium Features (Plus)
+- Smart Prompts for AI-powered content interaction
+- Presidential Briefing for personalized summaries
+- Clickbait Shield for clean titles
+- Custom feeds and bookmark folders
+- Keyword filters and ad-free experience
+
+### Monetization
+- Cores: In-app currency system
+- Awards: Recognition system for content
+- Boost: Content and Squad promotion
+
+## Testing and Quality
+
+- **Automated Testing**: Playwright tests for critical user flows
+- **Build Validation**: All content validated during build
+- **Link Checking**: Internal links verified
+- **Performance**: Lighthouse CI monitoring
+- **Accessibility**: WCAG compliance checks
+
+## Getting Help
+
+For issues or questions:
+- Check existing documentation in docs/
+- Review CLAUDE.md for project-specific guidance
+- Check README.md for setup instructions
+- Review docusaurus.config.js for configuration
+- Consult Docusaurus docs: https://docusaurus.io/docs
+
+## Contributing
+
+When contributing to documentation:
+1. Follow existing structure and naming conventions
+2. Maintain professional tone (see CLAUDE.md)
+3. Test changes locally before submitting
+4. Ensure all links work correctly
+5. Add appropriate frontmatter to new pages
+6. Use relative paths for internal references
+
+## Related Resources
+
+- Main Platform: https://app.daily.dev
+- API Documentation: (if available)
+- GitHub Repository: https://github.com/dailydotdev/docs
+- Docusaurus Documentation: https://docusaurus.io/docs

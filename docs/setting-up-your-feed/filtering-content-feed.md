@@ -5,11 +5,11 @@ description: "Create a personalized feed on daily.dev, tailored to your interest
 
 # Creating a Personal Feed
 
-Welcome to daily.dev's personal feed feature called "My Feed"! With our personal feed, you can customize the content you see, making sure it's tailored to your interests. Here's a simple guide on how to create your own personal feed.
+daily.dev's personal feed feature, "My Feed," allows you to customize the content you see based on your interests. This guide explains how to create your own personal feed.
 
 ## Step 1: Choose Tag Categories
 
-Tag categories are the building blocks of your personal feed. They help you specify the topics and types of content you want to see in your feed. During the onboarding process, you'll be prompted to choose from a list of tag categories that might be relevant to your interests. Don't worry if you're not sure what tags to choose initially, as you can always fine-tune them later.
+Tag categories are the building blocks of your personal feed. They help you specify the topics and types of content you want to see in your feed. During the onboarding process, you'll be prompted to choose from a list of tag categories that might be relevant to your interests. You can adjust your tag selections at any time after the initial setup.
 
 <img src="https://daily-now-res.cloudinary.com/image/upload/v1681287811/docs/Update%20April%202023/Screenshot_2023-04-12_at_11.22.43.png" alt='Tag selection interface during onboarding, highlighting options for content customization' width="900" height="100%" />
 

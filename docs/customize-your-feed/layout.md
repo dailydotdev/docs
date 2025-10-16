@@ -11,7 +11,7 @@ To switch between Grid and List mode, click on the **customize** option from the
 
 ![Switch from List to Grid mode on daily.dev](https://daily-now-res.cloudinary.com/image/upload/v1724400818/docs-v2/a57d8ba8-dbfb-4407-9759-fbf9dc1154a6.png)
 
-## Grid Mode for Content Display
+## Grid Mode
 
 The **Grid mode** displays posts as cards arranged in a grid format, as seen in the image below:
 
@@ -19,7 +19,7 @@ The **Grid mode** displays posts as cards arranged in a grid format, as seen in 
 
 In Grid mode, posts are positioned both vertically and horizontally, making it easy to scan and interact with the content. Grid mode adapts seamlessly to various viewports and orientations, providing consistency across different platforms and screen sizes.
 
-## List Mode for Simplified Layout
+## List Mode
 
 In **List mode**, posts are stacked vertically in a list, as shown below:
 

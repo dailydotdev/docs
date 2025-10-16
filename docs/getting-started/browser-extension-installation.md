@@ -5,7 +5,7 @@ description: "Install the daily.dev browser extension for a seamless browsing ex
 
 # Browser Extension Installation Guide for daily.dev
 
-The daily.dev browser extension is a powerful tool to enhance your daily.dev experience. It allows daily.dev to show up in a new tab, helping you develop a daily reading habit. Don't worry, you can easily [pause the new tab behavior on daily.dev](/key-features/pause-new-tab.md) whenever you want! Additionally, the extension provides access to [the companion widget for daily.dev](/key-features/the-companion.md) for added convenience.
+The daily.dev browser extension is a powerful tool to enhance your daily.dev experience. It allows daily.dev to show up in a new tab, helping you develop a daily reading habit. You can [pause the new tab behavior on daily.dev](/key-features/pause-new-tab.md) at any time. Additionally, the extension provides access to [the companion widget for daily.dev](/key-features/the-companion.md) for added convenience.
 
 ## Supported Browsers for daily.dev
 
@@ -19,7 +19,7 @@ You can install the daily.dev extension on the following browsers:
 We’ve had to temporarily remove the Firefox extension from the store due to the Mozilla review team’s decision to enforce certain terms. These terms include changes that are partially non-feasible and not reasonable for any app developer to implement, affecting our ability to operate and monetize the app. As a result, Mozilla reverted our extension to an outdated version, making it unusable. We are actively working to find a resolution and appreciate your understanding and patience.
 :::
 
-Just install the extension, open a new tab, and you're all set!
+Install the extension and open a new tab to begin.
 
 ## Using Alternative Browsers?
 

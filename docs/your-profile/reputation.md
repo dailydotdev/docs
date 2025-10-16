@@ -9,7 +9,7 @@ description: "Learn how reputation works on daily.dev, how to earn points, unloc
 
 Reputation is a metric that reflects the trust you earn from the community through positive and meaningful interactions. It's a measure of your contributions' impact, visible on your profile. Higher reputation unlocks more privileges, reflecting your role in shaping our community.  
 
-Starting in 2025, **higher reputation also increases your exposure and reach**. this means that your posts and comments have a greater chance of being seen by more developers on the platform.
+Starting in 2025, **higher reputation increases your content's visibility**. Posts and comments from high-reputation users receive priority in ranking algorithms.
 
 ## Reputation Basics  
 

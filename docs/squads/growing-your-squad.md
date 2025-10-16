@@ -105,4 +105,4 @@ Combine both strategies: Use Squad Boost for member acquisition and Post Boost t
 
 An active Squad is key to growth. By regularly posting, approving member contributions, and sparking discussions, your Squad can become a vibrant hub for developers.
 
-Good luck with growing your Squad! 🚀
+For additional support, contact our team at support@daily.dev.

@@ -5,7 +5,7 @@ description: "Learn how to save, organize, and sync daily.dev bookmarks across d
 
 # Bookmarks
 
-## Importance of Bookmarks
+## Overview
 
 Bookmarks on **daily.dev** allow you to save and organize posts for later reading, helping you manage valuable content at your own pace.
 
@@ -28,7 +28,7 @@ These methods ensure a seamless bookmarking experience in daily.dev.
 
 ## Bookmark reminder
 
-Once you bookmark a post, you might see it on your feed as a reminder to read it!
+Once you bookmark a post, you may see it in your feed as a reminder to read it.
 
 ![Bookmark reminder image](https://github.com/user-attachments/assets/30f793c0-a1d2-469f-9f5c-f0249c257676)
 

@@ -7,7 +7,7 @@ description: "Discover how Awards on daily.dev let you recognize and support val
 
 ## What are Awards  
 
-Awards let you recognize top-tier contributions on daily.dev. They’re powered by our in-app currency called [Cores](monetization/cores.md) and help spotlight content that’s helpful, insightful, or just straight-up great. Whether it's a killer post, a sharp comment, or someone consistently showing up—you can now say “this is worth it” in a meaningful way.
+Awards let you recognize top-tier contributions on daily.dev. They're powered by our in-app currency called [Cores](monetization/cores.md) and help spotlight content that's helpful, insightful, or just straight-up great. Whether it's an excellent post, an insightful comment, or consistent valuable contributions—you can now say "this is worth it" in a meaningful way.
 
 ## Why Awards matter  
 
@@ -15,8 +15,8 @@ Giving an Award sends a stronger signal that someone’s effort mattered. Awards
 
 ## Why give Awards?  
 
-- **Support what matters** – Show appreciation for content that taught you something, saved you time, or sparked new ideas.  
-- **Encourage great contributions** – Awards make creators feel seen and valued. That recognition leads to more thoughtful posts and comments.  
+- **Support what matters** – Show appreciation for content that taught you something, saved you time, or sparked new ideas.
+- **Encourage great contributions** – Awards provide recognition for quality contributions. That recognition leads to more thoughtful posts and comments.
 - **Shape the ecosystem** – The more great content gets awarded, the better daily.dev becomes for everyone.
 
 ![daily.dev awards interface showing different award options including heart, trophy, and gem icons with pricing and descriptions](https://daily-now-res.cloudinary.com/image/upload/v1745238986/docs/Screenshot_2025-04-21_at_15.29.56.png)

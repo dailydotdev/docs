@@ -33,7 +33,7 @@ Aligning your content with our standards enhances our community’s quality and 
 
 ✅ Clear distinction between sponsored and editorial content.
 
-✅ Positive and professional vibes ✌️
+✅ Professional and constructive content
 
 :::info
 To maintain a balanced content inventory, we’re temporarily prioritizing niche sources. This helps us provide diverse and unique topics for our developer community. Mainstream content may be subject to more rigorous review to ensure a balanced mix.

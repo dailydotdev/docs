@@ -44,7 +44,7 @@ Take control of your content with laser-focused feeds tailored to your interests
 
 👉 [Create your first custom feed](plus/custom-feeds.md)
 
-### Clickbait Sheild - AI-powered clean titles
+### Clickbait Shield - AI-powered clean titles
 
 No more clickbait or misleading headlines. AI rewrites titles so you see the real story before clicking, making it easier to find high-value content without wasting time.
 
