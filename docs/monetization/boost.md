@@ -57,8 +57,8 @@ Promote your entire Squad to attract new members and grow your community.
 
 ## Budget and duration
 
-- **Daily budget**:  
-  - Minimum: 1,000 cores  
+- **Daily budget**:
+  - Minimum: 5,000 cores
   - Maximum: 100,000 cores  
 - **Duration**: 1–30 days  
 - **Total spend**: `daily budget × number of days`
