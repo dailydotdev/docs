@@ -25,21 +25,22 @@ Reputation is visible across the platform:
 ## How to Earn Reputation Points  
 
 :::info  
-Reputation points are granted only when actions such as upvotes, downvotes, or other contributions come from users with **250 or more reputation points**. For example, if a user with less than 250 reputation points upvotes your post or comment, it will not affect your reputation score. This ensures that reputation reflects feedback from established members of the community.  
+Reputation changes like upvotes and dovnvotes occur when they come from users with **250 or more reputation points**. Contributions from users below this threshold do not affect your reputation. This ensures reputation reflects feedback from established community members.
 :::  
 
 Reputation points are gained or lost through specific actions, fostering accountability:  
 
 | Activity                             | Points  |  
 |--------------------------------------|---------|  
-| Post upvoted                         | **+10** |  
-| Post downvoted                       | **-10** |  
-| Post banned or removed               | **-100**|  
-| Comment upvoted                      | **+50** |  
-| Comment downvoted                    | **-50** |  
-| Report results in post removal       | **+100**|  
+| Post upvoted *                       | **+10** |  
+| Post downvoted *                     | **-10** |  
+| Comment upvoted *                    | **+50** |  
+| Comment downvoted *                  | **-50** |
+| Report on post accepted              | **+100**|  
+| Post removed in moderation           | **-100**|  
 | Approved source suggestion           | **+200**|  
 
+\* Applied only when the action is performed by a user with 250+ reputation points.
 > Last update: February 2024  
 
 :::warning  
