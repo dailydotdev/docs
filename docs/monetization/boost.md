@@ -30,7 +30,7 @@ Promote individual posts to increase views, engagement, and reach.
 **How to boost a post:**
 1. **Publish** your post (on your profile or in a Squad).
 2. Click **Boost**.
-3. Set your **daily budget** (in [Cores](monetization/cores.md)).
+3. Set your **daily budget** (in [Cores](cores.md)).
 4. Choose the **number of days** to run the promotion.
 5. Confirm the boost and let it run.
 
@@ -43,7 +43,7 @@ Promote your entire Squad to attract new members and grow your community.
 **How to boost a Squad:**
 1. Go to your **Squad page** (you must be an admin or moderator).
 2. Click **Boost**.
-3. Set your **daily budget** (in [Cores](monetization/cores.md)).
+3. Set your **daily budget** (in [Cores](cores.md)).
 4. Choose the **number of days** to run the promotion.
 5. Confirm the boost and let it run.
 

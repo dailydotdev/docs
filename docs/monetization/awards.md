@@ -7,7 +7,7 @@ description: "Discover how Awards on daily.dev let you recognize and support val
 
 ## What are Awards  
 
-Awards let you recognize top-tier contributions on daily.dev. They're powered by our in-app currency called [Cores](monetization/cores.md) and help spotlight content that's helpful, insightful, or just straight-up great. Whether it's an excellent post, an insightful comment, or consistent valuable contributions—you can now say "this is worth it" in a meaningful way.
+Awards let you recognize top-tier contributions on daily.dev. They're powered by our in-app currency called [Cores](cores.md) and help spotlight content that's helpful, insightful, or just straight-up great. Whether it's an excellent post, an insightful comment, or consistent valuable contributions—you can now say "this is worth it" in a meaningful way.
 
 ## Why Awards matter  
 
@@ -26,7 +26,7 @@ Giving an Award sends a stronger signal that someone’s effort mattered. Awards
 
 You can give Awards in a few simple steps:  
 1. Click the award icon on a post, comment, or profile.  
-2. Choose a sticker. Some are **free** and usable right away. Others are **premium** and require [Cores](monetization/cores.md).  
+2. Choose a sticker. Some are **free** and usable right away. Others are **premium** and require [Cores](cores.md).  
 3. Add an optional note (recommended!).  
 4. Confirm the Award. If it's a premium one, your Cores will be deducted.  
 5. The recipient is notified, and your name appears as the supporter.
