@@ -3,6 +3,37 @@ sidebar_position: 0
 description: "Install the daily.dev browser extension for a seamless browsing experience. Get daily.dev in your new tab to build a reading habit and explore key features like the companion widget."
 ---
 
+import HowToSchema from '@site/src/components/HowToSchema';
+
+<HowToSchema
+  name="How to Install daily.dev Browser Extension"
+  description="Step-by-step guide to installing the daily.dev extension for Chrome and Edge browsers to get personalized developer news in your new tab"
+  totalTime="PT3M"
+  pageUrl="https://docs.daily.dev/docs/getting-started/browser-extension-installation"
+  steps={[
+    {
+      name: "Choose Your Browser",
+      text: "Select the appropriate extension for your browser. daily.dev is available for Google Chrome and Microsoft Edge. Visit the Chrome Web Store or Microsoft Edge Add-ons page.",
+      url: "https://docs.daily.dev/docs/getting-started/browser-extension-installation#supported-browsers-for-dailydev"
+    },
+    {
+      name: "Install the Extension",
+      text: "Click 'Add to Chrome' or 'Get' button on the extension page. Your browser will download and install the daily.dev extension automatically.",
+      url: "https://docs.daily.dev/docs/getting-started/browser-extension-installation"
+    },
+    {
+      name: "Open a New Tab",
+      text: "After installation, open a new tab in your browser. daily.dev will now appear as your new tab page, showing personalized developer news and content.",
+      url: "https://docs.daily.dev/docs/getting-started/browser-extension-installation"
+    },
+    {
+      name: "Optional: Restore Bookmarks Bar",
+      text: "If needed, restore your bookmarks bar by pressing CTRL+SHIFT+B (Windows) or CMD+SHIFT+B (Mac), or through Chrome's settings menu under Bookmarks > Show Bookmarks Bar.",
+      url: "https://docs.daily.dev/docs/getting-started/browser-extension-installation#how-to-restore-chromes-bookmarks-bar"
+    }
+  ]}
+/>
+
 # Browser Extension Installation Guide for daily.dev
 
 The daily.dev browser extension is a powerful tool to enhance your daily.dev experience. It allows daily.dev to show up in a new tab, helping you develop a daily reading habit. You can [pause the new tab behavior on daily.dev](/key-features/pause-new-tab.md) at any time. Additionally, the extension provides access to [the companion widget for daily.dev](/key-features/the-companion.md) for added convenience.

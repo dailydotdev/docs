@@ -645,14 +645,17 @@ html[data-theme='light'] .menu__link:before {
   background: url('../img/menu/organizations.svg');
 }
 .theme-doc-sidebar-menu li:nth-child(9) .menu__link:before {
+  background: url('../img/menu/career-mode.svg');
+}
+.theme-doc-sidebar-menu li:nth-child(10) .menu__link:before {
   background: url('../img/menu/cores.svg');
 }
 
-.theme-doc-sidebar-menu li:nth-child(10) .menu__link:before {
+.theme-doc-sidebar-menu li:nth-child(11) .menu__link:before {
   background: url('../img/menu/customization.svg');
 }
 
-.theme-doc-sidebar-menu li:nth-child(11) .menu__link:before {
+.theme-doc-sidebar-menu li:nth-child(12) .menu__link:before {
   background: url('../img/menu/content-creator.svg');
 }
 

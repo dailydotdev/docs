@@ -116,6 +116,20 @@ const FeatureList = [
     ],
   },
   {
+    title: 'Career Mode',
+    icon: 'img/icons/career-mode.svg',
+    items: [
+      { url: 'docs/career-mode/overview', text: 'Overview' },
+      { url: 'docs/career-mode/getting-started', text: 'Getting Started' },
+      { url: 'docs/career-mode/job-preferences', text: 'Job Preferences' },
+      { url: 'docs/career-mode/profile-setup', text: 'Profile Setup' },
+      { url: 'docs/career-mode/how-matching-works', text: 'How Matching Works' },
+      { url: 'docs/career-mode/reviewing-opportunities', text: 'Reviewing Opportunities' },
+      { url: 'docs/career-mode/privacy-and-trust', text: 'Privacy & Trust' },
+      { url: 'docs/career-mode/faq', text: 'FAQ' },
+    ],
+  },
+  {
     title: 'Monetization (beta)',
     icon: 'img/icons/cores.svg',
     items: [
@@ -177,6 +191,7 @@ function Feature({ title, icon, items }) {
     Squads: 'Join and manage developer community squads',
     Plus: 'Discover premium features and subscriptions',
     Organizations: 'Manage team subscriptions and organization settings',
+    'Career Mode': 'Get hired on your own terms with developer-first hiring',
     'Monetization (beta)': 'Learn about monetization and earning features',
     Customization: 'Personalize your daily.dev experience',
     'For content creators': 'Resources for content creators and publishers',

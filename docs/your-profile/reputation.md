@@ -82,6 +82,14 @@ Maximize your reputation through thoughtful engagement:
 
 Strive for respectful and constructive contributions, fostering a welcoming and informative environment on daily.dev.  
 
-## Reputation is Optional  
+## Reputation and Career Opportunities
 
-Reputation isn’t required to enjoy daily.dev essentials: read, upvote, and comment freely.  
+Building reputation and demonstrating your expertise on daily.dev can also benefit you through [Career Mode](../career-mode/overview.md). Your reputation, contributions, and community engagement showcase your knowledge and credibility—qualities that help us match you with relevant job opportunities that align with your expertise.
+
+Active, high-reputation members signal their depth of knowledge in specific areas, making them attractive candidates for roles in those domains.
+
+[Discover Career Mode →](../career-mode/overview.md)
+
+## Reputation is Optional
+
+Reputation isn't required to enjoy daily.dev essentials: read, upvote, and comment freely.  

@@ -3,6 +3,17 @@ sidebar_position: 0
 description: "Upgrade to daily.dev Plus for a distraction-free developer experience. Get AI-powered clean titles, custom feeds, bookmark folders, keyword filters, and an ad-free reading environment. Stay focused and streamline your learning."
 ---
 
+import OfferSchema from '@site/src/components/OfferSchema';
+
+<OfferSchema
+  name="daily.dev Plus"
+  description="Premium upgrade for developers with AI-powered features, custom feeds, bookmark folders, keyword filters, and ad-free experience"
+  price="5.00"
+  priceCurrency="USD"
+  url="https://app.daily.dev/plus"
+  pageUrl="https://docs.daily.dev/docs/plus/plus-overview"
+/>
+
 # Plus Overview
 
 ![daily.dev Plus cover image](https://daily-now-res.cloudinary.com/image/upload/v1740314886/docs/daily.dev_Plus_-_Default.png)
@@ -100,6 +111,14 @@ Need Plus for your entire team? Organizations allow companies to purchase and ma
 - **Role-Based Access**: Owners, admins, and members with different permissions
 
 👉 [Learn about Organizations](../organizations/overview.md)
+
+## Career Mode - Free for All Developers
+
+Looking to take the next step in your career? [Career Mode](../career-mode/overview.md) is our developer-first hiring experience that helps you land your next dream job—completely free, forever.
+
+Unlike Plus, which enhances your learning experience, Career Mode helps you leverage everything you do on daily.dev to discover high-quality job opportunities that match your skills and interests. No recruiter spam, private by default, with curated matches just for you.
+
+👉 [Explore Career Mode](../career-mode/overview.md)
 
 ## Still not on Plus?
 

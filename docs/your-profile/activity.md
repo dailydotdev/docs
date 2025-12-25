@@ -27,3 +27,9 @@ The favorite tags section displays the tags you’ve engaged with the most, base
 The posts and comments section shows your contributions to the daily.dev community, including the number of posts and comments you’ve made. This feature enables you to track your activity and showcase your expertise and interests, allowing others to see your engagement within the community.
 
 Overall, the activity stats on your daily.dev profile provide valuable insights into your reading habits, engagement, and contributions. They help you track your progress, stay motivated, and highlight your achievements. Explore your activity stats to enhance your learning and networking experience on daily.dev!
+
+## Activity and Career Opportunities
+
+Your activity and engagement on daily.dev can help you discover career opportunities through [Career Mode](../career-mode/overview.md). Your reading habits, favorite tags, and community contributions help us understand your interests and skills, enabling us to match you with relevant job opportunities that align with your expertise and career goals.
+
+[Learn more about Career Mode →](../career-mode/overview.md)
