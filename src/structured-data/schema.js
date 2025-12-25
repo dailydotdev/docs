@@ -11,7 +11,7 @@ export default function StructuredData() {
           '@id': 'https://docs.daily.dev/#website',
           url: 'https://docs.daily.dev',
           name: 'daily.dev Documentation',
-          description: 'Comprehensive documentation for daily.dev - the leading platform for developers to discover, read, and stay updated with the latest tech news, programming articles, and developer content.',
+          description: 'Comprehensive documentation for daily.dev - the leading platform for developers to discover tech news, engage with communities, and find their next job through Career Mode.',
           publisher: {
             '@id': 'https://daily.dev/#organization'
           },
@@ -51,14 +51,14 @@ export default function StructuredData() {
             'https://www.tiktok.com/@dailydotdev'
           ],
           foundingDate: '2020-01-01',
-          description: 'The leading platform for developers to discover, read, and stay updated with the latest tech news, programming articles, and developer content.'
+          description: 'The leading platform for developers to discover tech news, engage with communities, and advance their careers through our developer-first hiring platform, Career Mode.'
         },
         {
           '@type': 'TechArticle',
           '@id': 'https://docs.daily.dev/#article',
           headline: 'daily.dev Documentation - Complete Developer Guide',
           name: 'daily.dev Documentation',
-          description: 'Comprehensive documentation for daily.dev - the leading platform for developers to discover, read, and stay updated with the latest tech news, programming articles, and developer content.',
+          description: 'Comprehensive documentation for daily.dev - the leading platform for developers to discover tech news, engage with communities, and find their next job through Career Mode.',
           url: 'https://docs.daily.dev',
           mainEntityOfPage: {
             '@type': 'WebPage',
@@ -85,6 +85,11 @@ export default function StructuredData() {
               '@type': 'Thing',
               name: 'Tech News',
               description: 'Latest technology news and updates for developers'
+            },
+            {
+              '@type': 'Thing',
+              name: 'Career Mode',
+              description: 'Developer-first hiring platform helping developers find their next job on their own terms'
             }
           ],
           audience: {
@@ -109,7 +114,13 @@ export default function StructuredData() {
             'developer community',
             'RSS feed',
             'developer platform',
-            'tech aggregator'
+            'tech aggregator',
+            'career mode',
+            'developer jobs',
+            'developer hiring',
+            'tech jobs',
+            'remote developer jobs',
+            'software engineer jobs'
           ],
           datePublished: '2024-01-01T00:00:00Z',
           dateModified: new Date().toISOString(),
@@ -146,7 +157,7 @@ export default function StructuredData() {
           },
           datePublished: '2024-01-01T00:00:00Z',
           dateModified: new Date().toISOString(),
-          description: 'Comprehensive documentation for daily.dev - the leading platform for developers to discover, read, and stay updated with the latest tech news, programming articles, and developer content.',
+          description: 'Comprehensive documentation for daily.dev - the leading platform for developers to discover tech news, engage with communities, and find their next job through Career Mode.',
           breadcrumb: {
             '@type': 'BreadcrumbList',
             itemListElement: [
@@ -162,6 +173,68 @@ export default function StructuredData() {
             '@type': 'SpeakableSpecification',
             cssSelector: ['h1', 'h2', '.hero__title']
           }
+        },
+        {
+          '@type': 'VideoObject',
+          '@id': 'https://docs.daily.dev/#intro-video',
+          name: 'Introduction to daily.dev',
+          description: 'Learn how daily.dev helps developers discover tech news, engage with communities, and stay ahead in tech',
+          thumbnailUrl: 'https://i.ytimg.com/vi/igZCEr3HwCg/maxresdefault.jpg',
+          uploadDate: '2024-01-01T00:00:00Z',
+          contentUrl: 'https://www.youtube.com/watch?v=igZCEr3HwCg',
+          embedUrl: 'https://www.youtube.com/embed/igZCEr3HwCg',
+          duration: 'PT4M30S',
+          publisher: {
+            '@id': 'https://daily.dev/#organization'
+          },
+          inLanguage: 'en-US'
+        },
+        {
+          '@type': 'SoftwareApplication',
+          '@id': 'https://docs.daily.dev/#software-application',
+          name: 'daily.dev',
+          applicationCategory: 'DeveloperApplication',
+          applicationSubCategory: 'Developer Tools & News Aggregator',
+          operatingSystem: ['Chrome', 'Edge', 'Firefox', 'Safari', 'Android', 'iOS', 'Windows', 'macOS', 'Linux'],
+          offers: {
+            '@type': 'Offer',
+            price: '0',
+            priceCurrency: 'USD',
+            availability: 'https://schema.org/InStock'
+          },
+          aggregateRating: {
+            '@type': 'AggregateRating',
+            ratingValue: '4.8',
+            ratingCount: '50000',
+            bestRating: '5',
+            worstRating: '1'
+          },
+          downloadUrl: 'https://chrome.google.com/webstore/detail/dailydev-the-homepage-dev/jlmpjdjjbgclbocgajdjefcidcncaied',
+          installUrl: 'https://daily.dev',
+          softwareVersion: '1.0',
+          releaseNotes: 'Latest version with Career Mode - developer-first hiring platform',
+          featureList: [
+            'Personalized developer news feed from 1300+ sources',
+            'Squads - specialized developer communities',
+            'Career Mode - developer-first hiring platform',
+            'AI-powered content curation and recommendations',
+            'Bookmarks and custom feeds',
+            'Plus subscription with advanced features',
+            'Cross-platform synchronization',
+            'Dark mode and customizable themes'
+          ],
+          screenshot: 'https://docs.daily.dev/img/daily-cover-photo.png',
+          author: {
+            '@id': 'https://daily.dev/#organization'
+          },
+          publisher: {
+            '@id': 'https://daily.dev/#organization'
+          },
+          inLanguage: 'en-US',
+          copyrightHolder: {
+            '@id': 'https://daily.dev/#organization'
+          },
+          copyrightYear: new Date().getFullYear()
         }
       ]
     }),

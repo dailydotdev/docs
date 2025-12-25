@@ -72,6 +72,7 @@ Make daily.dev work exactly how you want:
 - **[Discussions](key-features/discussions)**: Engage in meaningful conversations
 - **[Polls](key-features/polls)**: Gather community opinions with interactive voting
 - **[Squads](squads/creating-your-squad)**: Join or create developer communities around shared interests - the heart of daily.dev's community experience with specialized groups for technologies like React, AI, DevOps, and more
+- **[Career Mode](career-mode/overview)**: Land your next dream job with our developer-first hiring experience - private, spam-free, and completely free
 - **[The Companion](key-features/the-companion)**: Quick access widget for seamless browsing
 
 ## Premium Features Available

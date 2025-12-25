@@ -80,6 +80,12 @@ export default function Home() {
           as="image"
           type="image/svg+xml"
         />
+        <link
+          rel="preload"
+          href="/img/icons/career-mode.svg"
+          as="image"
+          type="image/svg+xml"
+        />
 
         {/* Inline critical CSS for above-the-fold content */}
         <style>{`

@@ -27,12 +27,15 @@ The documentation covers:
 - Getting Started guides
 - Key Features explanation
 - Feed customization and setup
+- User profile management
 - Squads (community groups) functionality
 - Plus subscription features
+- Organizations (team subscriptions)
+- Career Mode (developer-first hiring)
 - Monetization for content creators
+- Customization options
 - Community guidelines
-- User profile management
-- Resources for OSS contributors
+- Resources for content creators and OSS contributors
 
 ### Development Commands
 - `npm start`: Development server (localhost:3000)
@@ -48,11 +51,35 @@ The documentation covers:
 - PWA capabilities with offline support
 - SEO optimized with structured data
 
+### Major Features Documentation
+
+**Career Mode** (`/docs/career-mode/`)
+A developer-first hiring experience that helps developers land their next job on their own terms. Key aspects:
+- Private by default - no recruiter spam
+- Double opt-in matching system between developers and employers
+- Curated high-quality job opportunities based on skills, interests, and preferences
+- Complete transparency with job opportunity briefs
+- Free forever for developers
+- Comprehensive coverage of job preferences, profile setup, matching algorithm, privacy model, and FAQ
+
+**Organizations** (`/docs/organizations/`)
+Team subscription management for companies to provide daily.dev Plus to their engineering teams.
+
+**Monetization** (`/docs/monetization/`)
+In-app currency (Cores), Awards, and Boost features for content creators and community engagement.
+
+**Squads** (`/docs/squads/`)
+Private and public developer communities for sharing content and discussions.
+
+**Plus Features** (`/docs/plus/`)
+Premium features including Presidential Briefing, Smart Prompts, Advanced Custom Feeds, Clickbait Shield, and more.
+
 ### Target Audience
 - daily.dev users seeking to maximize platform features
-- Developers new to daily.dev
+- Developers new to daily.dev or looking for career opportunities
 - Content creators looking to monetize
 - Open source contributors
 - Community managers and squad leaders
+- Engineering teams and organizations
 
 This documentation serves as the primary resource for understanding and effectively using the daily.dev platform.
