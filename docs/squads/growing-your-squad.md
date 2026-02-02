@@ -96,7 +96,7 @@ Amplify your Squad's best content:
 - **Cross-promotion**: Boosted Squad posts can attract users to join your community
 
 :::tip
-Combine both strategies: Use Squad Boost for member acquisition and Post Boost to showcase your best content. Members can also support your Squad by giving [Awards](/docs/monetization/cores#awards), which transfer cores directly to admins and moderators for future boosts.
+Combine both strategies: Use Squad Boost for member acquisition and Post Boost to showcase your best content. Members can also support your Squad by giving [Awards](/docs/monetization/awards), which transfer cores directly to admins and moderators for future boosts.
 :::
 
 **Ready to boost?** Visit your Squad page and click "Boost" or learn more in our [Boost documentation](/docs/monetization/boost).
