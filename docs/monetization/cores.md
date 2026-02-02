@@ -56,8 +56,3 @@ Whether you're here to contribute, support others, or both—Cores are your way 
 - **Cores never expire** – Use them now or later. They’ll stay in your wallet until you’re ready
 - **Not included with Plus** – Cores are sold separately and not bundled with [daily.dev Plus](../plus/plus-overview.md)
 - **Run out? No worries** – If you try to award or tip but don’t have enough Cores, you’ll be guided to top up instantly—no interruption to your flow
-- **Monetization is experimental** – In limited cases, eligible creators may be invited to cash out Cores. This feature is in beta, subject to approval, and may require ID verification. Learn more in the Creators Terms of Service
-
-## ⚠️ Play fair, stay rewarded
-
-Cores are designed to recognize authentic, valuable contributions. Any abuse—like fake accounts, self-gifting, or spammy behavior—may result in revoked Cores or account suspension. See our [Creators Terms](https://daily.dev/creators-terms) for more details.
