@@ -57,29 +57,31 @@ To ensure that only legitimate and relevant companies receive a verified company
 
 ## How to Get Your Verified Company Badge
 
-1. Go to your profile and [navigate to Account Details](https://app.daily.dev/account/profile#verified-company-badge).
-2. Scroll down to "Verified Company Badge" and enter your work email.
-3. Click the arrow button and check your email for the 6-digit verification code.
-4. Enter the 6-digit code on daily.dev. If your company is in our database, your badge will be activated automatically. Otherwise, your request will be reviewed and manually approved by our team.
+Getting verified starts with adding your work experience to your profile:
 
-![Screenshot from account settings showing where to enter the verification code](https://daily-now-res.cloudinary.com/image/upload/v1724771522/docs/SCR-20240827-pwqt.png)
+1. **Add your work experience**: Go to your [Profile Experience Settings](https://app.daily.dev/settings/profile/experience/work) and add your current workplace. You can auto-fill your work experience by uploading your CV for a quick shortcut.
+2. **Mark it as current**: Make sure your workplace is set as your current position (check "I currently work here").
+3. **Verify your employment**: Once your current workplace is added, you'll see an option to verify it. Click to start the verification process.
+4. **Enter your work email**: Provide your work email address associated with your company.
+5. **Complete verification**: Check your email for a 6-digit verification code and enter it on daily.dev. If your company is in our database, your badge will be activated automatically. Otherwise, your request will be reviewed and manually approved by our team.
 
 ## Troubleshooting
 
 If you encounter any issues while verifying your email or getting your badge, consider the following:
 
-- Ensure your work email is correct and check your spam/junk folder if you didn’t receive the verification code.
-- Double-check the verification code for accuracy. If it’s incorrect, request a new code.
-- If your company isn’t recognized, your request will be reviewed by our team. This process may take several days.
-- You can update or remove your work email anytime from the "Verified Company Badge" section in your Account Details.
+- **No verification option visible?** Make sure you've added your current workplace to your work experience and marked it as your current position.
+- **Didn't receive the verification code?** Ensure your work email is correct and check your spam/junk folder.
+- **Invalid code?** Double-check the verification code for accuracy. If it's incorrect, request a new code.
+- **Company not recognized?** If your company isn't in our database, your request will be reviewed by our team. This process may take several days.
+- **Need to update your verified workplace?** You can manage your work experience and verification status from your [Profile Experience Settings](https://app.daily.dev/settings/profile/experience/work).
 
 ## Frequently Asked Questions
 
 **Where will my Verified Company Badge be displayed?**  
 Your badge will be visible on your public profile and next to your name wherever you post or comment on daily.dev.
 
-**Can I change the email used for verification later?**  
-Yes, you can update your work email in the Account Details section and re-verify it to update your badge.
+**Can I change the email used for verification later?**
+Yes, you can update your work experience and re-verify it from your [Profile Experience Settings](https://app.daily.dev/settings/profile/experience/work).
 
 **What happens if my company isn’t in the database?**  
 If your company isn’t recognized, your request will go through a brief review process.
