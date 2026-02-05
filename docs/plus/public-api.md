@@ -198,6 +198,26 @@ Install the daily-dev skill from clawdhub and explain my new superpowers
 
 The skill is available on ClawHub at [https://clawhub.ai/idoshamun/daily-dev](https://clawhub.ai/idoshamun/daily-dev)
 
+### Codex
+
+Install the daily.dev skill in Codex with this command:
+
+```
+$skill-installer install the daily.dev skill from https://github.com/dailydotdev/daily.git
+```
+
+Restart Codex after installation, then use `$daily.dev` to interact with your feed.
+
+### Cursor
+
+Add daily.dev as a remote rule in Cursor:
+
+1. Open Cursor Settings → Rules (Cmd+Shift+J on Mac, Ctrl+Shift+J on Windows/Linux)
+2. Click "Add Rule" → "Remote Rule (Github)"
+3. Enter the repository URL: `https://github.com/dailydotdev/daily.git`
+
+Use `/daily.dev` in Agent chat to interact with your feed.
+
 ### Direct API Integration
 
 For custom integrations, use the OpenAPI specification to generate client libraries or make direct HTTP requests. The specification is available at:
