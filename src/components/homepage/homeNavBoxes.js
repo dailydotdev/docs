@@ -101,6 +101,7 @@ const FeatureList = [
       { url: 'docs/plus/clickbait-shield', text: 'Clickbait Shield' },
       { url: 'docs/plus/bookmark-folders', text: 'Bookmark Folders' },
       { url: 'docs/plus/keyword-filters', text: 'Keyword Filters' },
+      { url: 'docs/plus/public-api', text: 'Public API' },
     ],
   },
   {
