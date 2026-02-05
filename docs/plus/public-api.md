@@ -124,6 +124,18 @@ Access and update your daily.dev profile information programmatically.
 - Get your profile details
 - Update profile information
 
+### Experiences
+
+Manage your professional history including work experience, education, projects, certifications, volunteering, and open source contributions.
+
+- List your experiences (filterable by type)
+- Get details of a specific experience
+- Add new experiences to your profile
+- Update existing experiences
+- Remove experiences
+
+**Experience Types:** `work`, `education`, `project`, `certification`, `volunteering`, `opensource`
+
 ### Tech Stack
 
 Showcase the tools you use. Manage your technology stack that appears on your profile - add tools, update descriptions, reorder items, and search for tools to add.
