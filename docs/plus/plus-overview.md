@@ -93,6 +93,16 @@ Mute the buzzwords and topics you don’t care about. Customize your feed by aut
 
 👉 [Set up your keyword filters](plus/keyword-filters.md)
 
+### Public API - Build with daily.dev
+
+Access your daily.dev content programmatically. Integrate with AI coding assistants like Claude Code, build automation workflows, or create custom integrations with your personalized feed.
+
+- Connect AI agents to real-time developer content
+- Build custom workflows with your feeds and bookmarks
+- Integrate with Claude Code and OpenClaw out of the box
+
+👉 [Explore the Public API](plus/public-api.md)
+
 ### Auto-translate your feed (coming soon)
 
 Read in your preferred language with automatic translations for post titles and summaries, making it easier to access global knowledge.
