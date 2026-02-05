@@ -95,6 +95,7 @@ const FeatureList = [
     icon: 'img/icons/plus.svg',
     items: [
       { url: 'docs/plus/plus-overview', text: 'Overview' },
+      { url: 'docs/plus/public-api', text: 'Public API' },
       { url: 'docs/plus/presidential-briefing', text: 'Presidential Briefing' },
       { url: 'docs/plus/smart-prompts', text: 'Smart Prompts' },
       { url: 'docs/plus/custom-feeds', text: 'Advanced Custom Feeds' },

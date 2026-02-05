@@ -68,6 +68,7 @@ The documentation is organized into main categories:
 - Create `.md` files in appropriate `docs/` subdirectories
 - Use `_category_.json` files to configure category metadata
 - Sidebar is auto-generated from folder structure
+- **IMPORTANT**: When adding new feature documentation, also update the homepage navigation in `src/components/homepage/homeNavBoxes.js` to add a link to the new feature in the appropriate section (e.g., Plus, Key features, etc.)
 
 ### Component Development
 - Homepage components are in `src/components/homepage/`
