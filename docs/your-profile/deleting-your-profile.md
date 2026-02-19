@@ -24,8 +24,6 @@ Shortcut: [https://app.daily.dev/settings/security](https://app.daily.dev/settin
 If you have an active Apple subscription, the delete button is disabled. Cancel your subscription in
 Apple first, then return to this page and delete your account.
 
-![Profile deletion button in danger zone](https://github.com/user-attachments/assets/9c569cf9-ddfb-4932-a73e-5ba6b11fe27c)
-
 :::danger **Important:** Deleting your account is **unrecoverable and cannot be undone**. :::
 
 ## What Will Be Deleted?
