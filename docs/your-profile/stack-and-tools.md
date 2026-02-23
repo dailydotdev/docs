@@ -7,13 +7,13 @@ description: "Showcase your tech stack on daily.dev — the programming language
 
 {/* TODO: Add screenshot of Stack & Tools section on profile */}
 
-Your Stack & Tools section lets you showcase the technologies, frameworks, languages, and tools you work with. It's a quick way for other developers to understand your technical background and expertise.
+Your Stack & Tools section lets you showcase the technologies, frameworks, languages, and tools you work with. It's a quick way for other developers — and potential employers — to understand your technical background and expertise.
 
 ## Why Add Your Stack?
 
 - **Build your developer identity** — Show what technologies define your work
 - **Help others find you** — Developers with similar stacks can discover and connect with you
-- **Improve Career Mode matching** — Your stack helps us match you with relevant [job opportunities](../career-mode/overview.md)
+- **Stand out to recruiters** — When recruiters view your profile through [Career Mode](../career-mode/overview.md), your stack helps them quickly understand your technical expertise
 - **Share your journey** — Track when you started using each technology
 
 ## Adding Items to Your Stack
@@ -64,8 +64,10 @@ Your Stack & Tools section is visible on your public profile. Anyone visiting yo
 
 If you haven't added any items yet, the section won't appear to visitors — only you'll see the prompt to add your first item.
 
-## Stack and Career Mode
+## Squad Stacks
 
-Your stack plays a role in [Career Mode](../career-mode/overview.md) matching. When you enable Career Mode, the technologies in your stack help us understand your skills and match you with relevant opportunities.
+Squads can also showcase their central technologies using Stack & Tools. This helps potential members understand what technologies are core to the Squad's focus and discussions.
 
-[Learn more about how matching works →](../career-mode/how-matching-works.md)
+Squad admins can manage the Squad's stack from the Squad settings, using the same interface as personal stacks.
+
+[Learn more about Squads →](../squads/creating-your-squad.md)
