@@ -63,11 +63,3 @@ You can add up to **100 items** to your stack. This gives you plenty of room to 
 Your Stack & Tools section is visible on your public profile. Anyone visiting your profile can see the technologies you've added, organized by section.
 
 If you haven't added any items yet, the section won't appear to visitors — only you'll see the prompt to add your first item.
-
-## Squad Stacks
-
-Squads can also showcase their central technologies using Stack & Tools. This helps potential members understand what technologies are core to the Squad's focus and discussions.
-
-Squad admins can manage the Squad's stack from the Squad settings, using the same interface as personal stacks.
-
-[Learn more about Squads →](../squads/creating-your-squad.md)
