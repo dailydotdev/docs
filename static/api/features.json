@@ -1,0 +1,145 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "name": "daily.dev",
+  "description": "Professional network for developers with personalized content and community features",
+  "version": "2026.02",
+  "documentation": "https://docs.daily.dev",
+  "api": {
+    "base_url": "https://api.daily.dev/public/v1",
+    "openapi_spec": "https://api.daily.dev/public/v1/docs/json",
+    "requires": "Plus subscription",
+    "auth": "Bearer token"
+  },
+  "features": {
+    "feeds": {
+      "description": "Personalized developer content streams",
+      "docs": "/docs/key-features/feeds",
+      "types": ["my-feed", "popular", "most-upvoted", "best-discussions", "custom"],
+      "api_endpoint": "/feeds"
+    },
+    "squads": {
+      "description": "Developer communities for teams and interest groups",
+      "docs": "/docs/squads/creating-your-squad",
+      "capabilities": ["posts", "discussions", "moderation", "slack-integration", "stack-showcase"]
+    },
+    "bookmarks": {
+      "description": "Save and organize posts",
+      "docs": "/docs/key-features/bookmarks",
+      "api_endpoint": "/bookmarks",
+      "plus_feature": "folders"
+    },
+    "search": {
+      "description": "Find posts, tags, and sources",
+      "docs": "/docs/key-features/search",
+      "api_endpoint": "/search"
+    },
+    "posts": {
+      "description": "Developer content articles and discussions",
+      "docs": "/docs/key-features/discussions",
+      "api_endpoint": "/posts",
+      "capabilities": ["upvote", "downvote", "comment", "bookmark", "share"]
+    },
+    "smart_prompts": {
+      "description": "AI-powered interaction with posts",
+      "docs": "/docs/plus/smart-prompts",
+      "plus_only": true,
+      "prompts": ["simplify", "remove-fluff", "challenge", "practical-examples", "actionable-steps", "compare-alternatives", "custom"]
+    },
+    "clickbait_shield": {
+      "description": "AI-optimized post titles",
+      "docs": "/docs/plus/clickbait-shield",
+      "plus_only": true
+    },
+    "custom_feeds": {
+      "description": "Create filtered content streams",
+      "docs": "/docs/plus/custom-feeds",
+      "plus_only": true,
+      "api_endpoint": "/feeds"
+    },
+    "notifications": {
+      "description": "Activity and content notifications",
+      "api_endpoint": "/notifications"
+    },
+    "profile": {
+      "description": "User profile and settings",
+      "docs": "/docs/your-profile/account-details",
+      "api_endpoint": "/profile",
+      "features": ["stack-tools", "achievements", "devcard", "reading-streaks", "reputation"]
+    },
+    "stack_tools": {
+      "description": "Showcase technologies and tools on profile",
+      "docs": "/docs/your-profile/stack-and-tools",
+      "sections": ["Primary", "Hobby", "Learning", "Past", "Custom"],
+      "limit": 100
+    },
+    "achievements": {
+      "description": "Milestones and progress tracking",
+      "types": ["instant", "streak", "milestone", "multipart"]
+    },
+    "reading_streaks": {
+      "description": "Track daily reading habits",
+      "docs": "/docs/your-profile/weekly-goal",
+      "features": ["milestones", "weekend-freeze", "restore", "reminders"]
+    },
+    "cores": {
+      "description": "In-app currency for rewards",
+      "docs": "/docs/monetization/cores",
+      "uses": ["awards", "tip-creators", "streak-restore"]
+    },
+    "awards": {
+      "description": "Recognize content with stickers",
+      "docs": "/docs/monetization/awards"
+    },
+    "career_mode": {
+      "description": "Privacy-first job matching",
+      "docs": "/docs/career-mode/overview",
+      "features": ["job-preferences", "profile-matching", "double-opt-in"]
+    }
+  },
+  "integrations": {
+    "browser_extension": {
+      "description": "New tab replacement with daily.dev feed",
+      "docs": "/docs/getting-started/browser-extension-installation",
+      "platforms": ["chrome", "firefox", "edge"]
+    },
+    "pwa": {
+      "description": "Progressive Web App",
+      "docs": "/docs/getting-started/pwa",
+      "url": "https://app.daily.dev"
+    },
+    "slack": {
+      "description": "Squad notifications to Slack channels",
+      "docs": "/docs/squads/slack-integration"
+    },
+    "ai_agents": {
+      "claude_code": {
+        "install": "claude plugin marketplace add https://github.com/dailydotdev/daily.git"
+      },
+      "openclaw": {
+        "install": "Install the daily-dev skill from clawdhub"
+      },
+      "codex": {
+        "install": "$skill-installer install the daily.dev skill from https://github.com/dailydotdev/daily.git"
+      },
+      "cursor": {
+        "install": "Add remote rule from https://github.com/dailydotdev/daily.git"
+      }
+    }
+  },
+  "content_types": {
+    "article": "External blog post or article",
+    "video": "YouTube or video content",
+    "freeform": "User-created post",
+    "collection": "Curated post collection",
+    "welcome": "Squad welcome post"
+  },
+  "subscription_tiers": {
+    "free": {
+      "features": ["feeds", "bookmarks", "squads", "search", "discussions", "career-mode"]
+    },
+    "plus": {
+      "features": ["smart-prompts", "clickbait-shield", "custom-feeds", "bookmark-folders", "keyword-filters", "public-api", "ad-free"],
+      "pricing_url": "https://app.daily.dev/plus"
+    }
+  }
+}

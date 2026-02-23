@@ -1,0 +1,73 @@
+# daily.dev Documentation
+
+> daily.dev is a professional network for developers that aggregates tech content and provides community features.
+
+## Quick Links
+
+- Documentation: https://docs.daily.dev
+- Main App: https://app.daily.dev
+- API (Plus required): https://api.daily.dev/public/v1
+- OpenAPI Spec: https://api.daily.dev/public/v1/docs/json
+
+## Core Features
+
+- **Feeds**: Personalized developer content (My Feed, Popular, Most Upvoted, Best Discussions)
+- **Squads**: Developer communities for teams and interest groups
+- **Bookmarks**: Save and organize posts with folders (Plus)
+- **Search**: Find posts, tags, and sources
+- **Discussions**: Comment and engage on posts
+- **Reputation**: Earn points through community contributions
+
+## Premium Features (Plus)
+
+- **Smart Prompts**: AI-powered interaction with posts
+- **Clickbait Shield**: AI-cleaned titles
+- **Custom Feeds**: Create filtered content streams
+- **Public API**: Programmatic access to feeds and content
+- **Keyword Filters**: Block unwanted content
+
+## Monetization
+
+- **Cores**: In-app currency for rewards
+- **Awards**: Recognize great content with stickers
+- **Boost**: Promote posts and Squads
+
+## Profile Features
+
+- **Stack & Tools**: Showcase your tech stack
+- **Achievements**: Track milestones and progress
+- **DevCard**: Shareable developer stats card
+- **Reading Streaks**: Track daily reading habits
+
+## Career Mode
+
+- Privacy-first job matching for developers
+- No recruiter spam, double opt-in process
+- Free for developers
+
+## Getting Started
+
+- Browser Extension: https://daily.dev/download
+- PWA: https://app.daily.dev
+
+## Documentation Sections
+
+- /docs/getting-started - Installation guides
+- /docs/key-features - Core feature docs
+- /docs/squads - Community features
+- /docs/plus - Premium features
+- /docs/your-profile - Profile management
+- /docs/career-mode - Job matching
+- /docs/monetization - Cores and awards
+- /docs/for-content-creators - Creator guidelines
+
+## For AI Agents
+
+- Full docs: https://docs.daily.dev/llms-full.txt
+- Feature index: https://docs.daily.dev/api/features.json
+- OpenAPI spec: https://api.daily.dev/public/v1/docs/json
+
+## Contact
+
+- GitHub: https://github.com/dailydotdev
+- Support: support@daily.dev

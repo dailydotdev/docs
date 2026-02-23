@@ -1,9 +1,38 @@
+# robots.txt for docs.daily.dev
+
 User-agent: *
 Allow: /
 
 # Sitemap location
 Sitemap: https://docs.daily.dev/sitemap.xml
 
-# Block admin/build directories if they exist
+# LLM/AI agent resources
+# See https://docs.daily.dev/llms.txt for AI-friendly documentation overview
+# See https://docs.daily.dev/api/features.json for structured feature index
+
+# Explicitly allow AI crawlers
+User-agent: GPTBot
+Allow: /
+
+User-agent: ChatGPT-User
+Allow: /
+
+User-agent: Claude-Web
+Allow: /
+
+User-agent: Anthropic-AI
+Allow: /
+
+User-agent: CCBot
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: Bytespider
+Allow: /
+
+# Block admin/build directories
+User-agent: *
 Disallow: /admin/
 Disallow: /build/
