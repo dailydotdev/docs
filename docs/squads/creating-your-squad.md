@@ -52,4 +52,17 @@ When creating a Squad, select the desired visibility:
 
 Public Squads must select a category during setup. Categories like Web, Mobile, AI, and Fun help users discover Squads that align with their interests.
 
+## Squad Stack & Tools
+
+Squads can showcase the technologies, frameworks, and tools that are central to the community. This helps potential members quickly understand what technologies the Squad focuses on.
+
+Squad admins can manage the Squad's stack from the Squad settings:
+
+1. Go to your **Squad page**
+2. Open **Squad settings**
+3. Find the **Stack & Tools** section
+4. Add technologies relevant to your Squad's focus
+
+For example, a React Squad might add React, TypeScript, and Next.js to their stack, while a DevOps Squad might showcase Kubernetes, Terraform, and AWS.
+
 For additional guidance, see our Squad moderation documentation.

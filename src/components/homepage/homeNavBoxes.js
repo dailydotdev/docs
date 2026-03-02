@@ -61,6 +61,7 @@ const FeatureList = [
         text: 'Company verified badge',
       },
       { url: 'docs/your-profile/top-readers', text: 'Top readers' },
+      { url: 'docs/your-profile/stack-and-tools', text: 'Stack & Tools' },
       { url: 'docs/your-profile/devcard', text: 'DevCard' },
       { url: 'docs/your-profile/account-details', text: 'Account settings' },
       {
