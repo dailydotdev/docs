@@ -20,6 +20,10 @@ const FeatureList = [
     icon: 'img/icons/setting-up-feed.svg',
     items: [
       {
+        url: 'docs/setting-up-your-feed/following-and-blocking-users',
+        text: 'Following & Blocking Users',
+      },
+      {
         url: 'docs/setting-up-your-feed/filtering-content-feed',
         text: 'Filtering content',
       },
@@ -38,6 +42,7 @@ const FeatureList = [
     icon: 'img/icons/key-features.svg',
     items: [
       { url: 'docs/key-features/feeds', text: 'Feeds' },
+      { url: 'docs/key-features/following-feed', text: 'Following Feed' },
       { url: 'docs/key-features/upvotes', text: 'Upvotes & Downvotes' },
       { url: 'docs/key-features/discussions', text: 'Discussions' },
       { url: 'docs/key-features/polls', text: 'Polls' },
@@ -45,7 +50,10 @@ const FeatureList = [
       { url: 'docs/key-features/search', text: 'Search' },
       { url: 'docs/key-features/pause-new-tab', text: 'Pause New Tab (DND)' },
       { url: 'docs/key-features/the-companion', text: 'Companion Widget' },
-      { url: 'docs/key-features/community-picks', text: 'Community Picks (Sunset)' },
+      {
+        url: 'docs/key-features/community-picks',
+        text: 'Community Picks (Sunset)',
+      },
     ],
   },
   {
@@ -53,6 +61,19 @@ const FeatureList = [
     icon: 'img/icons/your-profile.svg',
     items: [
       { url: 'docs/your-profile/activity', text: 'Activity' },
+      { url: 'docs/your-profile/achievements', text: 'Achievements' },
+      {
+        url: 'docs/your-profile/profile-experiences',
+        text: 'Profile Experiences',
+      },
+      {
+        url: 'docs/your-profile/notification-settings-and-preferences',
+        text: 'Notification Settings',
+      },
+      {
+        url: 'docs/your-profile/post-and-squad-analytics',
+        text: 'Post & Squad Analytics',
+      },
       { url: 'docs/your-profile/reputation', text: 'Reputation' },
       { url: 'docs/your-profile/reading-history', text: 'Reading history' },
       { url: 'docs/your-profile/weekly-goal', text: 'Reading streak' },
@@ -110,11 +131,17 @@ const FeatureList = [
     icon: 'img/icons/organizations.svg',
     items: [
       { url: 'docs/organizations/overview', text: 'Overview' },
-      { url: 'docs/organizations/creating-organization', text: 'Creating an Organization' },
+      {
+        url: 'docs/organizations/creating-organization',
+        text: 'Creating an Organization',
+      },
       { url: 'docs/organizations/inviting-members', text: 'Inviting Members' },
       { url: 'docs/organizations/managing-members', text: 'Managing Members' },
       { url: 'docs/organizations/billing-management', text: 'Billing & Seats' },
-      { url: 'docs/organizations/managing-organization', text: 'Organization Settings' },
+      {
+        url: 'docs/organizations/managing-organization',
+        text: 'Organization Settings',
+      },
     ],
   },
   {
@@ -125,8 +152,14 @@ const FeatureList = [
       { url: 'docs/career-mode/getting-started', text: 'Getting Started' },
       { url: 'docs/career-mode/job-preferences', text: 'Job Preferences' },
       { url: 'docs/career-mode/profile-setup', text: 'Profile Setup' },
-      { url: 'docs/career-mode/how-matching-works', text: 'How Matching Works' },
-      { url: 'docs/career-mode/reviewing-opportunities', text: 'Reviewing Opportunities' },
+      {
+        url: 'docs/career-mode/how-matching-works',
+        text: 'How Matching Works',
+      },
+      {
+        url: 'docs/career-mode/reviewing-opportunities',
+        text: 'Reviewing Opportunities',
+      },
       { url: 'docs/career-mode/privacy-and-trust', text: 'Privacy & Trust' },
       { url: 'docs/career-mode/faq', text: 'FAQ' },
     ],
