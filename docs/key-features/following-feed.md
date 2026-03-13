@@ -8,7 +8,7 @@ description:
 # Following Feed
 
 The **Following** feed at `/following` gives you a dedicated stream of content from the users,
-sources, Squads, and collections you actively follow on daily.dev.
+sources, and Squads you actively follow on daily.dev.
 
 Unlike **For You**, which is recommendation-driven, Following is built from explicit choices you
 make across the product. It is useful when you want a feed that reflects the developers, publishers,
@@ -30,7 +30,6 @@ Your Following feed can include:
 - New posts from sources you follow
 - New posts from users you follow
 - New posts from Squads you joined or follow
-- Updates from followed collections
 
 The feed is personalized from your follow graph, so it becomes more useful as you follow more
 relevant people and sources.
@@ -51,7 +50,7 @@ For individual people controls, see
 ## How it differs from other feeds
 
 - **For You**: ranked recommendations based on your interests and activity
-- **Following**: content from people, sources, Squads, and collections you explicitly follow
+- **Following**: content from people, sources, and Squads you explicitly follow
 - **Explore**: broader discovery beyond your existing network
 
 If you want to compare all main feed types, see [Feeds](./feeds.md).
