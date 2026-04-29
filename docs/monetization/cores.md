@@ -24,7 +24,7 @@ They let you reward contributions that actually help you—whether it's a great 
 Cores enable creators to focus on producing valuable content while receiving direct community support.
 
 :::tip
-While today Cores are used mainly for rewarding content and creators, we’re actively building new features around them—including post boosts, premium interactions, exclusive content, and more. Holding Cores today means you’re ready for everything we launch next.
+Cores already power Awards, tips, post and Squad Boosts, and streak restores—and we’re building more Core-powered experiences like premium interactions and exclusive content. Holding Cores today means you’re ready for everything we launch next.
 :::
 
 ## How to get Cores
@@ -39,17 +39,19 @@ All purchases of Cores are final. No refunds are provided. Double-check your bun
 
 ## What you can do with Cores
 
-- **[Award great content](monetization/awards.md)** – Highlight standout posts and comments with stickers that show appreciation
-- **Tip creators directly** – Visit any user’s profile and send Cores to thank them for their impact
-- **[Buy more Cores](https://app.daily.dev/cores)** – Choose from flexible bundles whenever you want to top up
-- **[Track your activity](https://app.daily.dev/wallet)** – See your balance, rewards earned, tips sent, and full transaction history
-- **Unlock upcoming features** – Some features will be Core-powered in the future, including post boosts and premium interactions
+- **Reward content with [Awards](awards.md)** – Send free or premium stickers on posts and comments to recognize standout contributions
+- **Tip creators directly** – Visit any user’s profile and send Cores as a thank-you for their impact
+- **[Boost a post](boost.md#post-boost)** – Promote your published posts to more developers; your daily budget is set in Cores
+- **[Boost a Squad](boost.md#squad-boost)** – Admins and moderators can grow public Squads by spending Cores on targeted promotion
+- **[Restore your reading streak](../your-profile/weekly-goal.md#restore-streak)** – If you break your streak, use Cores to bring it back (your first restore is free)
+- **[Buy more Cores](https://app.daily.dev/cores)** – Top up instantly from flexible bundles whenever you need more
+- **[Track your activity](https://app.daily.dev/wallet)** – See your balance, rewards earned, tips sent, boosts spent, and full transaction history in your Wallet
 
 ![screenshot of the Cores wallet](https://daily-now-res.cloudinary.com/image/upload/v1745238986/docs/Screenshot_2025-04-21_at_15.32.14.png)
 
 *Note: A small payment processing fee may apply when buying Cores, and a 30% platform fee is applied when rewarding others. [Details](https://daily.dev/creators-terms)*
 
-Whether you're here to contribute, support others, or both—Cores are your way in.
+Whether you're here to contribute, support others, or both—Cores are your way in. More Core-powered features, like premium interactions and exclusive content, are on the way.
 
 ## Good to know
 
