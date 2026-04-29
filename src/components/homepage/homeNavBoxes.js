@@ -43,6 +43,7 @@ const FeatureList = [
     items: [
       { url: 'docs/key-features/feeds', text: 'Feeds' },
       { url: 'docs/key-features/following-feed', text: 'Following Feed' },
+      { url: 'docs/key-features/happening-now', text: 'Happening Now' },
       { url: 'docs/key-features/upvotes', text: 'Upvotes & Downvotes' },
       { url: 'docs/key-features/discussions', text: 'Discussions' },
       { url: 'docs/key-features/polls', text: 'Polls' },
@@ -62,6 +63,7 @@ const FeatureList = [
     items: [
       { url: 'docs/your-profile/activity', text: 'Activity' },
       { url: 'docs/your-profile/achievements', text: 'Achievements' },
+      { url: 'docs/your-profile/quests', text: 'Quests & Game Center' },
       {
         url: 'docs/your-profile/profile-experiences',
         text: 'Profile Experiences',

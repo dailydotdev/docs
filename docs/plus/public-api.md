@@ -186,11 +186,22 @@ All responses use JSON with a consistent structure.
 
 **Pagination:** Use cursor-based pagination by passing the `endCursor` value as the `cursor` parameter in subsequent requests.
 
-## AI Agent Integrations
+## Skills (AI Agent Integrations)
+
+The daily.dev plugin ships a set of **Skills** for your AI coding agent. Once you install the plugin in Claude Code, Cursor, Codex, or OpenClaw, the following skills are available:
+
+- **`/daily.dev`** – interact with your personalized feed, bookmarks, custom feeds, and profile through the Public API. Useful for pulling your reading list into your editor, saving links, or running your own custom feeds.
+- **`/daily-dev-ask`** – WebSearch for developers, grounded in daily.dev's community-curated articles. Ask a technical question and the agent searches the corpus of articles read and upvoted by the daily.dev community, then returns an answer with linked sources. Try it on the dedicated page at [https://app.daily.dev/agents/ask](https://app.daily.dev/agents/ask).
+
+Both skills require an active [Plus subscription](https://app.daily.dev/plus) and a Personal Access Token (see [Getting Started](#getting-started) above).
+
+:::info Why daily-dev-ask vs. generic web search?
+`daily-dev-ask` ranks results by developer upvotes (not SEO), restricts answers to community-vetted developer articles, and always grounds responses with links you can open. It's designed as a focused alternative to general web search when you want trustworthy, technical answers.
+:::
 
 ### Claude Code
 
-Add daily.dev to Claude Code as a plugin with these commands:
+Add the daily.dev plugin to Claude Code:
 
 ```bash
 claude plugin marketplace add https://github.com/dailydotdev/daily.git
@@ -198,27 +209,38 @@ claude plugin install daily.dev@daily.dev
 claude "/daily.dev setup"
 ```
 
-After installation, use the `/daily.dev` skill to interact with your daily.dev feed and other features.
+After installation you can invoke either skill from your prompt:
+
+- `/daily.dev` – interact with your feed, bookmarks, and custom feeds.
+- `/daily-dev-ask your question here` – search daily.dev's article corpus and get a sourced answer.
 
 ### OpenClaw
 
-Copy this instruction to your agent to get started:
+Copy one of these instructions to your agent to install the matching skill:
 
 ```
 Install the daily-dev skill from clawdhub and explain my new superpowers
 ```
 
-The skill is available on ClawHub at [https://clawhub.ai/idoshamun/daily-dev](https://clawhub.ai/idoshamun/daily-dev)
+```
+Install daily-dev-ask from clawhub and ask about my topic
+```
+
+The skills are available on ClawHub at [https://clawhub.ai/idoshamun/daily-dev](https://clawhub.ai/idoshamun/daily-dev).
 
 ### Codex
 
-Install the daily.dev skill in Codex with this command:
+Install the skills in Codex:
 
 ```
 $skill-installer install the daily.dev skill from https://github.com/dailydotdev/daily.git
 ```
 
-Restart Codex after installation, then use `$daily.dev` to interact with your feed.
+```
+$skill-installer install the daily-dev-ask skill from https://github.com/dailydotdev/daily.git
+```
+
+Restart Codex after installation, then use `$daily.dev` to interact with your feed or `$daily-dev-ask` to search daily.dev's article corpus.
 
 ### Cursor
 
@@ -228,7 +250,7 @@ Add daily.dev as a remote rule in Cursor:
 2. Click "Add Rule" → "Remote Rule (Github)"
 3. Enter the repository URL: `https://github.com/dailydotdev/daily.git`
 
-Use `/daily.dev` in Agent chat to interact with your feed.
+In Agent chat, use `/daily.dev` to interact with your feed or `/daily-dev-ask` to search daily.dev's article corpus.
 
 ### Direct API Integration
 
