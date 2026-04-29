@@ -86,6 +86,31 @@ To improve your chances of being featured in the directory:
 2. **Grow Membership**: Invite members to join and participate actively.
 3. **Post Consistently**: Regular high-quality posts boost engagement and visibility.
 
+## Squad analytics
+
+Every Public Squad page now includes an at-a-glance scoreboard so admins, moderators, and members can see how the community is performing without leaving the Squad.
+
+### Header stats
+
+The Squad header displays four headline metrics:
+
+- **Posts** – the total number of posts published in the Squad.
+- **Views** – how many times posts in the Squad have been viewed.
+- **Upvotes** – the total upvotes received across all posts.
+- **Awards** – the total awards given to the Squad. Click the count to open the full list of awards.
+
+These numbers update as your community engages with content, making it easy to track momentum over time.
+
+### Top members
+
+Just below the stats, the Squad header surfaces a **Top members** list of the Squad's most active contributors over the last 30 days. Click any avatar to view that member's profile, or open the full list to see everyone ranked.
+
+Top members are visible on Public Squads. If your Squad is private, the list is not shown.
+
+:::tip
+For a deeper view that includes impressions, upvote ratio, comments, bookmarks, shares, and clicks, open the dedicated [Squad analytics page](/docs/your-profile/post-and-squad-analytics) at `/squads/[handle]/analytics`. This view is available to admins and moderators with analytics access.
+:::
+
 ## Accelerate Growth with Boost
 
 Ready to fast-track your Squad's growth? **Boost** gives admins and moderators powerful tools to
