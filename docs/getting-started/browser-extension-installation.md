@@ -36,7 +36,7 @@ import HowToSchema from '@site/src/components/HowToSchema';
 
 # Browser Extension Installation Guide for daily.dev
 
-The daily.dev browser extension is a powerful tool to enhance your daily.dev experience. It allows daily.dev to show up in a new tab, helping you develop a daily reading habit. You can [pause the new tab behavior on daily.dev](/key-features/pause-new-tab.md) at any time. Additionally, the extension provides access to [the companion widget for daily.dev](/key-features/the-companion.md) for added convenience.
+The daily.dev browser extension is a powerful tool to enhance your daily.dev experience. It allows daily.dev to show up in a new tab, helping you develop a daily reading habit. You can [pause the new tab behavior on daily.dev](../key-features/pause-new-tab.md) at any time. Additionally, the extension provides access to [the companion widget for daily.dev](../key-features/the-companion.md) for added convenience.
 
 ## Supported Browsers for daily.dev
 
@@ -54,7 +54,7 @@ Install the extension and open a new tab to begin.
 
 ## Using Alternative Browsers?
 
-If you’re using **Safari, Firefox, Brave, Opera, Vivaldi, or another browser**, you can try out our [progressive web app for daily.dev](/getting-started/pwa.md), which has all the core functionality you need!
+If you’re using **Safari, Firefox, Brave, Opera, Vivaldi, or another browser**, you can try out our [progressive web app for daily.dev](pwa.md), which has all the core functionality you need!
 
 ## Troubleshooting Common Issues
 
